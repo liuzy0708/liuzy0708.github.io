@@ -29,4 +29,6 @@ I studied in the School of Computer and Information Science at Southwest Univers
 
 {% include_relative _includes/publications.md %}
 
+{% include_relative _includes/life.md %}
+
 {% include_relative _includes/contact.md %}

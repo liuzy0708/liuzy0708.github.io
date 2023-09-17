@@ -4,12 +4,10 @@ main:
     authors: <strong>Zeyi Liu</strong>, Xiao He* (*Corresponding author)
     conference_short: IEEE TNNLS
     conference: IEEE Transactions on Neural Networks and Learning Systems (In Press)
-    notes: In Press, IF = 10.4, CAA-A, CCF-B
+    notes: IF = 10.4, CAA-A, CCF-B
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10195233
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:CYNXg8zhtt8J:scholar.google.com/&output=citation&scisdr=ClEdj3QUEMLgnqb5m-Q:AFWwaeYAAAAAZQX_g-TTmN4I2IS-ZhrmCU8-zo0&scisig=AFWwaeYAAAAAZQX_g1ckzX2kUNvkOkR4mMQp7gQ&scisf=4&ct=citation&cd=-1&hl=zh-CN
-    image: ./assets/img/LiuZY10.png
-
-Z. IEEE Transactions on Neural Networks and Learning Systems, In Press, JCR Q1, IF: 10.4, CAA-A, CCF-B.
+    image: ./assets/img/pics/LiuZY10.png
 
 #  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
 #    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
