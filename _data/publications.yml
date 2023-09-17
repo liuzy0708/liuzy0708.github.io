@@ -3,128 +3,176 @@ main:
   - title: Dynamic submodular-based learning strategy in imbalanced drifting streams for real-time safety assessment in nonstationary environments
     authors: <strong>Zeyi Liu</strong>, Xiao He* (*Corresponding author)
     conference_short: IEEE TNNLS
-    conference: IEEE Transactions on Neural Networks and Learning Systems (In Press)
-    notes: IF = 10.4, CAA-A, CCF-B
+    conference: IEEE Transactions on Neural Networks and Learning Systems
+    notes: IF = 10.4 CAA-A CCF-B
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10195233
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:CYNXg8zhtt8J:scholar.google.com/&output=citation&scisdr=ClEdj3QUEMLgnqb5m-Q:AFWwaeYAAAAAZQX_g-TTmN4I2IS-ZhrmCU8-zo0&scisig=AFWwaeYAAAAAZQX_g1ckzX2kUNvkOkR4mMQp7gQ&scisf=4&ct=citation&cd=-1&hl=zh-CN
-    image: ./assets/img/pics/LiuZY10.png
+    image: ./assets/img/pics/LiuZY10-2.png
+    others: In Press, 2023
 
-#  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-#    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-#    conference_short: MICCAI
-#    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-#    pdf: https://arxiv.org/pdf/2306.00988.pdf
-#    code: https://github.com/MrGiovanni/ContinualLearning
-#    bibtex: https://bib.yliu.me/MICCAI23.txt
-#    image: https://img.yliu.me/teaser/miccai2023.png
-#    notes: Early Accept
-#
-#  - title: Continual Detection Transformer for Incremental Object Detection
-#    authors: <strong>Yaoyao Liu</strong>, Bernt Schiele, Andrea Vedaldi, Christian Rupprecht
-#    conference_short: CVPR
-#    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2023.
-#    pdf: https://www.robots.ox.ac.uk/~vgg/publications/2023/Liu23/liu23.pdf
-#    code: https://github.com/yaoyao-liu/CL-DETR
-#    page: https://lyy.mpi-inf.mpg.de/CL-DETR/
-#    bibtex: https://dblp.uni-trier.de/rec/conf/cvpr/0001SV023.html?view=bibtex
-#    image: https://img.yliu.me/teaser/cvpr23_1.png
-#
-#  - title: Class-Incremental Exemplar Compression for Class-Incremental Learning
-#    authors: Zilin Luo, <strong>Yaoyao Liu</strong>, Bernt Schiele, Qianru Sun
-#    conference_short: CVPR
-#    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2023.
-#    pdf: https://openaccess.thecvf.com/content/CVPR2023/papers/Luo_Class-Incremental_Exemplar_Compression_for_Class-Incremental_Learning_CVPR_2023_paper.pdf
-#    code: https://github.com/xfflzl/CIM-CIL
-#    page: https://class-il.mpi-inf.mpg.de/CIM/
-#    bibtex: https://dblp.uni-trier.de/rec/conf/cvpr/Luo0SS23.html?view=bibtex
-#    image: https://img.yliu.me/teaser/cvpr23_2.png
-#
-#  - title: Online Hyperparameter Optimization for Class-Incremental Learning
-#    authors: <strong>Yaoyao Liu</strong>, Yingying Li, Bernt Schiele, Qianru Sun
-#    conference_short: AAAI
-#    conference: AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2023.
-#    pdf: https://arxiv.org/pdf/2301.05032.pdf
-#    code: https://github.com/yaoyao-liu/online-hyperparameter-optimization/
-#    page: https://class-il.mpi-inf.mpg.de/online-hyperparameter-optimization/
-#    bibtex: https://dblp.uni-trier.de/rec/conf/aaai/0001LSS23.html?view=bibtex
-#    notes: Oral Presentation
-#    image: https://img.yliu.me/teaser/OnlineHyperparameters.png
-#
-#  - title: Meta-Transfer Learning through Hard Tasks
-#    authors: Qianru Sun*, <strong>Yaoyao Liu*</strong>, Zhaozheng Chen, Tat-Seng Chua, Bernt Schiele (*Equal contribution)
-#    conference_short: TPAMI
-#    conference: IEEE Transactions on Pattern Analysis and Machine Intelligence <strong>(TPAMI)</strong>, Volume 44, Number 3, 2022.
-#    pdf: https://lyy.mpi-inf.mpg.de/preprints/Meta_Transfer_Learning_through_Hard_Tasks.pdf
-#    code: https://github.com/yaoyao-liu/meta-transfer-learning
-#    page: https://lyy.mpi-inf.mpg.de/mtl/
-#    bibtex: https://dblp.uni-trier.de/rec/journals/pami/SunLCCS22.html?view=bibtex
-#    image: https://img.yliu.me/teaser/MTL_PAMI.png
-#
-#  - title: "RMM: Reinforced Memory Management for Class-Incremental Learning"
-#    authors: <strong>Yaoyao Liu</strong>, Bernt Schiele, Qianru Sun
-#    conference_short: NeurIPS
-#    conference: Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2021.
-#    pdf: https://arxiv.org/pdf/2301.05792.pdf
-#    code: https://gitlab.mpi-klsb.mpg.de/yaoyaoliu/rmm/
-#    page: https://class-il.mpi-inf.mpg.de/rmm/
-#    bibtex: https://dblp.uni-trier.de/rec/conf/nips/LiuSS21.html?view=bibtex
-#    image: https://img.yliu.me/teaser/RMM.png
-#
-#  - title: Adaptive Aggregation Networks for Class-Incremental Learning
-#    authors: <strong>Yaoyao Liu</strong>, Bernt Schiele, Qianru Sun
-#    conference_short: CVPR
-#    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2021.
-#    pdf: https://arxiv.org/pdf/2010.05063.pdf
-#    code: https://git.io/JYHyt
-#    page: https://class-il.mpi-inf.mpg.de/
-#    bibtex: https://dblp.uni-trier.de/rec/conf/cvpr/LiuSS21.html?view=bibtex
-#    image: https://img.yliu.me/teaser/AANets.png
-#    others: '<a href="https://github.com/yaoyao-liu/class-incremental-learning/tree/main/adaptive-aggregation-networks" target="_blank" rel="noopener"><strong> <i style="color:#e74d3c; font-weight:600" id="githubstars_manets"></i><i style="color:#e74d3c; font-weight:600"> GitHub Stars</i></strong></a><script>githubStars("yaoyao-liu/class-incremental-learning", function(stars) {var startext = document.getElementById("githubstars_manets"); startext.innerHTML=stars;});</script>'
-#
-#  - title: Learning to Teach and Learn for Semi-supervised Few-shot Image Classification
-#    authors: Xinzhe Li, Jianqiang Huang, <strong>Yaoyao Liu</strong>, Qin Zhou, Shibao Zheng, Bernt Schiele, Qianru Sun
-#    conference_short: CVIU
-#    conference: Computer Vision and Image Understanding <strong>(CVIU)</strong>, Volume 212, 2021.
-#    pdf: https://lyy.mpi-inf.mpg.de/preprints/Learning_to_Teach_and_Learn_for_Semi_Supervised_Few_Shot_Image_Classification.pdf
-#    code: https://github.com/xinzheli1217/learning-to-self-train
-#    bibtex: https://dblp.uni-trier.de/rec/journals/cviu/LiHLZZSS21.html?view=bibtex
-#    image: https://img.yliu.me/teaser/LTTL.png
-#
-#  - title: Generating Face Images with Attributes for Free
-#    authors: <strong>Yaoyao Liu</strong>, Qianru Sun, Xiangnan He, An-An Liu, Yuting Su, Tat-Seng Chua
-#    conference_short: TNNLS
-#    conference: IEEE Transactions on Neural Networks and Learning Systems <strong>(TNNLS)</strong>, Volume 32, Number 6, 2021.
-#    pdf: https://ieeexplore.ieee.org/abstract/document/9146375
-#    bibtex: https://dblp.uni-trier.de/rec/journals/tnn/LiuSHLSC21.html?view=bibtex
-#    image: https://img.yliu.me/teaser/tnnls.png
-#
-#  - title: An Ensemble of Epoch-wise Empirical Bayes for Few-shot Learning
-#    authors: <strong>Yaoyao Liu</strong>, Bernt Schiele, Qianru Sun
-#    conference_short: ECCV
-#    conference: European Conference on Computer Vision <strong>(ECCV)</strong>, 2020.
-#    pdf: https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123610392.pdf
-#    code: https://gitlab.mpi-klsb.mpg.de/yaoyaoliu/e3bm
-#    page: https://lyy.mpi-inf.mpg.de/e3bm/
-#    bibtex: https://dblp.uni-trier.de/rec/conf/eccv/LiuSS20.html?view=bibtex
-#    image: https://img.yliu.me/teaser/E3BM.png
-#
-#  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-#    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-#    conference_short: CVPR
-#    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-#    pdf: https://arxiv.org/pdf/2002.10211.pdf
-#    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-#    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-#    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-#    notes: Oral Presentation
-#    image: https://img.yliu.me/teaser/mnemonics.png
-#
-#  - title: Learning to Self-Train for Semi-Supervised Few-Shot Classification
-#    authors: Xinzhe Li, Qianru Sun, <strong>Yaoyao Liu</strong>, Shibao Zheng, Qin Zhou, Tat-Seng Chua, Bernt Schiele
-#    conference_short: NeurIPS
-#    conference: Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2019.
-#    pdf: https://papers.nips.cc/paper/2019/file/bf25356fd2a6e038f1a3a59c26687e80-Paper.pdf
-#    code: https://github.com/xinzheli1217/learning-to-self-trai
-#    page: https://lyy.mpi-inf.mpg.de/lst/
-#    bibtex: https://dblp.uni-trier.de/rec/conf/nips/LiSLZZCS19.html?view=bibtex
-#    image: https://img.yliu.me/teaser/LST.png
+  - title: "Real-time safety assessment of dynamic systems in non-stationary environments: A review of methods and techniques"
+    authors: <strong>Zeyi Liu</strong>, Songqiao Hu, Xiao He* (*Corresponding author)
+    conference_short: SAFEPROCESS 2023
+    conference: 2023 CAA Symposium on Fault Detection, Supervision, and Safety for Technical Processes
+    notes: CAA-A
+    pdf:
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:p2KIc4NhSDEJ:scholar.google.com/&output=citation&scisdr=ClGd7gItEMLgnqQCKHg:AFWwaeYAAAAAZQcEMHizlw9uCIdRktJJ6j5is7w&scisig=AFWwaeYAAAAAZQcEMEN8rJGQWlLu4oQEzhPpV0I&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    image: ./assets/img/pics/LiuZY-C-01.png
+    others:
+
+  - title: "Ivrr-PPG: an illumination variation robust remote-PPG algorithm for monitoring heart rate of drivers"
+    authors: Ming Xu, Guang Zeng, Yongjun Song, Yue Cao, <strong>Zeyi Liu</strong>, Xiao He* (*Corresponding author)
+    conference_short: IEEE TIM
+    conference: IEEE Transactions on Instrumentation and Measurement
+    notes: IF = 5.6 CAA-B
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10113355
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:IiYHJFGyAYIJ:scholar.google.com/&output=citation&scisdr=ClEdj3QUEMLgnqX9doQ:AFWwaeYAAAAAZQb7boTOK8bdc7lM7XGQ7X17PEU&scisig=AFWwaeYAAAAAZQb7bgfTCo-U0tFs2zYLK_n3zwI&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    image: ./assets/img/pics/XuM01-1.png
+    others: vol. 72, no. 3515510, pp. 1-10, 2023
+
+  - title: "An evidential real-time multi-mode fault diagnosis approach based on broad learning system"
+    authors: Chen Li, <strong>Zeyi Liu</strong>, Xiao He* (*Corresponding author)
+    conference_short: CPCC 2023
+    conference: The 34th Chinese Process Control Conference
+    notes: CAA-A
+    pdf:
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:W_Z8ektBnBIJ:scholar.google.com/&output=citation&scisdr=ClGd7gItEMLgnqQF0rI:AFWwaeYAAAAAZQcDyrIwUH3Zb1k5idjPwXbXh-Y&scisig=AFWwaeYAAAAAZQcDyuFqRYcwdSWa25t2gDGrwJo&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    image: ./assets/img/pics/LiC-C-01.png
+    others:
+
+  - title: "Confusion model for real-drift detection in chunk data streams"
+    authors: Songqiao Hu, <strong>Zeyi Liu</strong>, Xiao He* (*Corresponding author)
+    conference_short: S-CUBE 2023
+    conference: Proceedings of 13th EAI International Conference on Sensor Systems and Software
+    notes:
+    pdf: https://link.springer.com/chapter/10.1007/978-3-031-34899-0_13
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:rrktKAj3TSoJ:scholar.google.com/&output=citation&scisdr=ClGd7gItEMLgnqQCldU:AFWwaeYAAAAAZQcEjdVwEY6SFNrI-RJwDMttjCU&scisig=AFWwaeYAAAAAZQcEjSXW2WT57J-GMnh8i8KFVGw&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    image: ./assets/img/pics/HuS01.png
+
+  - title: "Real-time safety assessment for dynamic systems with limited memory and annotations"
+    authors: <strong>Zeyi Liu</strong>, Xiao He* (*Corresponding author)
+    conference_short: IEEE TITS
+    conference: IEEE Transactions on Intelligent Transportation Systems
+    notes: IF = 8.5 CAA-B CCF-B
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10105849
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:iak8c4J4RUIJ:scholar.google.com/&output=citation&scisdr=ClGd7gItEMLgnqX9oZA:AFWwaeYAAAAAZQb7uZDH0NhuO9tTWPZFJsKXI0M&scisig=AFWwaeYAAAAAZQb7uS5D53dfiKBnQXq9zrJoCH8&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    image: ./assets/img/pics/LiuZY05.png
+    others: vol. 24, no. 9, pp. 10076-10086, Sept. 2023
+
+  - title: "An online active broad learning approach for real-time safety assessment of dynamic systems in nonstationary environments"
+    authors: <strong>Zeyi Liu</strong>, Yi Zhang, Zhongjun Ding, Xiao He* (*Corresponding author)
+    conference_short: IEEE TNNLS
+    conference: IEEE Transactions on Neural Networks and Learning Systems
+    notes: IF = 10.4 CAA-A CCF-B
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9960812
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:l5vNjiseb9sJ:scholar.google.com/&output=citation&scisdr=ClGd7gItEMLgnqX6uTY:AFWwaeYAAAAAZQb8oTYXSnmTbXoZKR5slsEE23I&scisig=AFWwaeYAAAAAZQb8obR2JpC7rZDwBE1KRX2LNnQ&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    image: ./assets/img/pics/LiuZY03.png
+    others: In Press, 2023
+
+  - title: "Fault diagnosis of rotating machinery with limited expert interaction: A multicriteria active learning approach based on broad learning system"
+    authors: <strong>Zeyi Liu</strong>, Jingfei Zhang, Xiao He*, Qinghua Zhang, Guoxi Sun, Donghua Zhou (*Corresponding author)
+    conference_short: IEEE TCST
+    conference: IEEE Transactions on Control Systems Technology
+    notes: IF = 4.8 CAA-A
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9869794
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:MrFUV4Wr650J:scholar.google.com/&output=citation&scisdr=ClGd7gItEMLgnqX7PDM:AFWwaeYAAAAAZQb9JDMOy95c2SV9wYDkr7KyUJs&scisig=AFWwaeYAAAAAZQb9JOhbgRYOJsw8Y9xvkFqUOk0&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    image: ./assets/img/pics/LiuZY04.png
+    others: vol. 31, no. 2, pp. 953-960, 2023
+
+
+  - title: "A bearing fault diagnosis method based on active learning by feature interpolation"
+    authors: Mengfei Mao, <strong>Zeyi Liu</strong>, Xiao He* (*Corresponding author)
+    conference_short: CPCC 2022
+    conference: The 33th Chinese Process Control Conference
+    image: ./assets/img/pics/MaoMF01.png
+
+
+  - title: "Measure-based group decision making with principle-guided social interaction influence for incomplete information: a game theoretic perspective"
+    authors: <strong>Zeyi Liu</strong>, Yong Deng*, Ronald R. Yager (*Corresponding author)
+    conference_short: IEEE TFS
+    conference: IEEE Transactions on Fuzzy Systems
+    notes: IF = 11.9 CAA-A CCF-B
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9330576
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:k1v8nGffT9kJ:scholar.google.com/&output=citation&scisdr=ClGd7gItEMLgnqX4RJA:AFWwaeYAAAAAZQb-XJDZfTcKjytTMU8_6x4DAlE&scisig=AFWwaeYAAAAAZQb-XDJqw8nEVyBbUuUa9tNeP4s&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    image: ./assets/img/pics/LiuD02.png
+    others: vol. 30, no. 4, pp. 1149-1163, 2022
+
+  - title: "Safety assessment of dynamic systems: An evidential group interaction-based fusion design"
+    authors: <strong>Zeyi Liu</strong>, Yong Deng, Yi Zhang, Zhongjun Ding, Xiao He* (*Corresponding author)
+    conference_short: IEEE TIM
+    conference: IEEE Transactions on Instrumentation and Measurement
+    notes: IF = 5.6 CAA-B
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9330576
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:Y6vwElTiMC0J:scholar.google.com/&output=citation&scisdr=ClGd7gItEMLgnqX4-3M:AFWwaeYAAAAAZQb-43MNldblGAoNcFv8zQ519YQ&scisig=AFWwaeYAAAAAZQb-48kVL6N2fCs6QW2FP968RHc&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    image: ./assets/img/pics/LiuZY01.png
+    others: vol. 70, no. 3523014, pp. 1-14, 2021
+
+  - title: "A generalized golden rule representative value for multiple- criteria decision analysis"
+    authors: <strong>Zeyi Liu</strong>, Fuyuan Xiao*, Chin-Teng Lin, Byeong Ho Kang, Zehong Cao (*Corresponding author)
+    conference_short: IEEE TSMCA
+    conference: "IEEE Transactions on Systems, Man, and Cybernetics: Systems"
+    notes: IF = 8.7 CAA-A CCF-B
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8734878
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:ydXtqqrPWmYJ:scholar.google.com/&output=citation&scisdr=ClGd7gItEMLgnqQGLJE:AFWwaeYAAAAAZQcANJFXVwaDG0aNIhKfso7JTwY&scisig=AFWwaeYAAAAAZQcANBn0giqeR9Z1x08v467sdy0&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    image: ./assets/img/pics/LiuXiao05.png
+    others: vol. 70, no. 5, pp. 3193-3204, 2021
+
+  - title: "Network-based evidential three-way theoretic model for large-scale group decision analysis"
+    authors: <strong>Zeyi Liu</strong>, Xiao He, Yong Deng* (*Corresponding author)
+    conference_short: INS
+    conference: Information Sciences
+    notes: IF = 8.1 CAA-A+ CCF-B
+    pdf:
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:jNfh_kfm74QJ:scholar.google.com/&output=citation&scisdr=ClGd7gItEMLgnqQG5YM:AFWwaeYAAAAAZQcA_YP7HPPmJiIZ1Y6tqiftdy0&scisig=AFWwaeYAAAAAZQcA_d1DReor5J6fOuAdrEgnEKc&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    image: ./assets/img/pics/LiuD01.png
+    others: vol. 547, pp. 689-709, 2021
+
+  - title: "A dynamic group MCDM model with intuitionistic fuzzyset: perspective of alternative queuing method"
+    authors: Ran Tao, <strong>Zeyi Liu</strong>, Rui Cai*, Kanghao Cheong (*Corresponding author)
+    conference_short: INS
+    conference: Information Sciences
+    notes: IF = 8.1 CAA-A+ CCF-B
+    pdf:
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:TlWp1GCn0LoJ:scholar.google.com/&output=citation&scisdr=ClGd7gItEMLgnqQH3R4:AFWwaeYAAAAAZQcBxR6EfGXijV6y3TBiJ_dExXs&scisig=AFWwaeYAAAAAZQcBxcnl5VKBAjKsT_j2_aLAv_I&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    image: ./assets/img/pics/TaoR01.png
+    others: vol. 555, pp. 85-103, 2021
+
+  - title: "An intuitionistic linguistic MCDM model based on probabilistic exceedance method and evidence theory"
+    authors: <strong>Zeyi Liu</strong>, Fuyuan Xiao* (*Corresponding author)
+    conference_short: APIN
+    conference: Applied Intelligence
+    notes: IF = 5.3 CCF-C
+    pdf: https://link.springer.com/article/10.1007/s10489-020-01638-y
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:yTdNQAaJ_gEJ:scholar.google.com/&output=citation&scisdr=ClGd7gItEMLgnqQEMfo:AFWwaeYAAAAAZQcCKfr6WDoZLju-YdDmYeq8ww0&scisig=AFWwaeYAAAAAZQcCKQ_aAFZQ-FzSYNPCj_vzVBs&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    image: ./assets/img/pics/LiuXiao04.png
+    others: vol. 50, pp. 1979-1995, 2020
+
+  - title: "An interval-valued exceedance method in MCDM with uncertain satisfactions"
+    authors: <strong>Zeyi Liu</strong>, Fuyuan Xiao* (*Corresponding author)
+    conference_short: IJIS
+    conference: International Journal of Intelligent Systems
+    notes: IF = 7.0 CAA-A CCF-C
+    pdf: https://onlinelibrary.wiley.com/doi/epdf/10.1002/int.22171
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:maxi94TcnpAJ:scholar.google.com/&output=citation&scisdr=ClGd7gItEMLgnqQEibU:AFWwaeYAAAAAZQcCkbVLYfp9KeEwONFZ14bUWYE&scisig=AFWwaeYAAAAAZQcCkejd8-z0bf8ua9ds1UPMVk8&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    image: ./assets/img/pics/LiuXiao03.png
+    others: vol. 34, no. 10, pp. 2676-2691, 2019
+
+  - title: "An evidential aggregation method of intuitionistic fuzzy sets based on belief entropy"
+    authors: <strong>Zeyi Liu</strong>, Fuyuan Xiao* (*Corresponding author)
+    conference_short: IEEE Access
+    conference: IEEE Access
+    notes: IF = 3.9
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8721711
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:AvyLKfukfKAJ:scholar.google.com/&output=citation&scisdr=ClGd7gItEMLgnqQE7ag:AFWwaeYAAAAAZQcC9ah0Os6nfF4P6euXtgTSB8U&scisig=AFWwaeYAAAAAZQcC9b2ND0DsaOPohmQ959xuHzc&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    image: ./assets/img/pics/LiuXiao01.png
+    others: vol. 7, n pp. 68905-68916, 2019
+
+  - title: "An intuitionistic evidential method for weight determination in FMEA based on belief entropy"
+    authors: <strong>Zeyi Liu</strong>, Fuyuan Xiao* (*Corresponding author)
+    conference_short: ENT
+    conference: Entropy
+    notes: IF = 2.7
+    pdf: https://www.mdpi.com/1099-4300/21/2/211
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:h8CyKaadpJMJ:scholar.google.com/&output=citation&scisdr=ClGd7gItEMLgnqQPcZ0:AFWwaeYAAAAAZQcJaZ3QijgvzOXOFWmHlr5SvvY&scisig=AFWwaeYAAAAAZQcJaRBRcdtVxjS1j-nTwHt6Dz8&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    image: ./assets/img/pics/LiuXiao02.png
+    others: vol. 21, no. 211, pp. 1-16, 2019
