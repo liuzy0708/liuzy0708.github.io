@@ -8,11 +8,8 @@ email: liuzy21 (at) mails.tsinghua.edu.cn
 
 # Search Engine Optimization (SEO)
 keywords: Samlzy, Liu Zeyi
-canonical: 
+canonical: https://liuzy0708.com
 description: Zeyi Liu is currenetly a Ph.D. Candidate with the Department of Automation, Tsinghua University.
-
-# The option is used to enable the Johns Hopkins template.
-enable_hopkins_logo: false
 
 # The option is used to show the last update time.
 enable_last_update: true
@@ -36,7 +33,7 @@ footnote_link: mailto:liuzy21@mails.tsinghua.edu.cn
 # Analytics
 # Please remove the following lines about analytics services if you fork my project. 
 # Otherwise, the analytics information of your website will be recorded to my ClustrMaps accounts.
-#clustrmaps_id: l3lesztPwCz-uXlzFI1Lt9SB3Ctz-pBQuMdYqnD0Ul8
+# clustrmaps_id: l3lesztPwCz-uXlzFI1Lt9SB3Ctz-pBQuMdYqnD0Ul8
 
 # The following files will be removed from the generated website.
 exclude:

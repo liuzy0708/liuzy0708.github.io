@@ -24,6 +24,6 @@
 
 <h4 style="margin:0 10px 0;">STATS</h4>
 
-* Google Citation: 220
-* H-index: 9
-* i10-index: 9
+* **Google Citation**: 220
+* **H-index**: 9
+* **i10-index**: 9

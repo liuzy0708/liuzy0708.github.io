@@ -32,3 +32,6 @@ I studied in the School of Computer and Information Science at Southwest Univers
 {% include_relative _includes/life.md %}
 
 {% include_relative _includes/contact.md %}
+
+
+<a href="https://clustrmaps.com/site/1bwks"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=LGj6RE6LhpFSSVGleEqnCwQSYhx0OfZ_k_oaTnm3L_g&cl=ffffff" /></a>
