@@ -1,0 +1,26 @@
+main:
+
+  - title: "Contact"
+    url: ./#contact 
+    right: true 
+
+  - title: "Publications"
+    url: ./#publications
+
+  - title: "Services"
+    url: ./#services
+
+  - title: "Honors"
+    url: ./#honors
+
+  - title: "News"
+    url: ./#news
+
+  - title: "Research"
+    url: ./#research
+
+  - title: "Experience"
+    url: ./#education
+
+  - title: "Biography"
+    url: ./#about-me
