@@ -1,0 +1,48 @@
+# Basic Information 
+title: Zeyi Liu
+position: Ph.D. Candidate
+affiliation: Tsinghua University
+affiliation_link: https://www.au.tsinghua.edu.cn
+affiliation_logo: ./assets/img/logo.svg
+email: liuzy21 (at) mails.tsinghua.edu.cn
+
+# Search Engine Optimization (SEO)
+keywords: Samlzy, Liu Zeyi
+canonical: 
+description: Zeyi Liu is currenetly a Ph.D. Candidate with the Department of Automation, Tsinghua University.
+
+# The option is used to enable the Johns Hopkins template.
+enable_hopkins_logo: false
+
+# The option is used to show the last update time.
+enable_last_update: true
+
+# Links
+google_scholar: https://scholar.google.com/citations?user=sRkvMF8AAAAJ&hl=zh-CN
+#cv_link: ./assets/img/tsinghua_logo.svg
+github_link: https://github.com/liuzy0708
+linkedin: https://www.linkedin.com/
+twitter: https://twitter.com/
+
+# Images 
+avatar: ./assets/img/avatar.jpeg
+favicon: ./assets/img/logo_yuan.svg
+favicon_dark: ./assets/img/logo_yuan.svg
+
+# Footnotes
+footnote: Feel free to contact me.
+footnote_link: mailto:liuzy21@mails.tsinghua.edu.cn
+
+# Analytics
+# Please remove the following lines about analytics services if you fork my project. 
+# Otherwise, the analytics information of your website will be recorded to my ClustrMaps accounts.
+#clustrmaps_id: l3lesztPwCz-uXlzFI1Lt9SB3Ctz-pBQuMdYqnD0Ul8
+
+# The following files will be removed from the generated website.
+exclude:
+  - build.sh
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
+  - CNAME
