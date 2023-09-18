@@ -14,10 +14,9 @@
 
 * **Songqiao Hu**,  Tsinghua University
 * **Pengyu Han**, Beijing Institute of Technology
-* **Mengfei Mao**, Chongqing University
-* **Guokai Yan**, Tsinghua University
 * **Chen Li**, Tsinghua University
-
+* **Guokai Yan**, Tsinghua University
+* **Mengfei Mao**, Chongqing University
 
 
 <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
@@ -31,9 +30,10 @@
 
 <h4 style="margin:0 10px 0;">Conference Reviewers</h4>
 
-* **IEEE Congress on Evolutionary Computation** (IEEE CEC) 
-* **IEEE Conference on Fuzzy Systems** (FUZZ-IEEE) 
-* **International Joint Conference on Neural Network** (IJCNN) 
-* **Chinese Control Conference** (CCC)
-* **China Automation Congress** (CAC)
-* **Chinese Process Control Conference** (CPCC)
+* **IEEE Congress on Evolutionary Computation** (IEEE CEC) 2022, 2023
+* **IEEE Conference on Fuzzy Systems** (FUZZ-IEEE)  2022, 2023
+* **International Joint Conference on Neural Network** (IJCNN) 2022
+* **Chinese Control Conference** (CCC) 2022 2023
+* **China Automation Congress** (CAC) 2022 2023
+* **Chinese Process Control Conference** (CPCC) 2023
+* ** CAA Symposium on Fault Detection, Supervision, and Safety for Technical Processes (CAA SAFEPROCESS)** 2023
