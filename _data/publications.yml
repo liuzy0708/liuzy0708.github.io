@@ -8,7 +8,7 @@ main:
     pdf:
     bibtex:
     image: ./assets/img/pics/Liu-Xiao02.png
-    others: In Press, 2023
+    others: Accepted, 2023
 
 
   - title: Dynamic submodular-based learning strategy in imbalanced drifting streams for real-time safety assessment in nonstationary environments
