@@ -9,11 +9,11 @@
 <li><strong>[Jul. 2023]</strong>  A paper has been accepted by the <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385">IEEE TNNLS</a>.</li>
 <li><strong>[Jun. 2023]</strong>  A paper has been accepted by the <a href="https://fdd2023.aconf.org"> CAA SAFEPROCESS 2023 </a>.</li>
 <li><strong>[May 2023]</strong>  A paper has been accepted by the <a href="http://2023.cn-tcpc.org/home/"> CPCC 2023</a>.</li>
-<li><strong>[Apr. 2023]</strong> A paper entitled has been accepted by the <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?reload=true&punumber=19">IEEE TIM</a>.</li>
-<li><strong>[Apr. 2023]</strong> A paper entitled has been accepted by the <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979">IEEE TITS</a>.</li>
-<li><strong>[Dec. 2022]</strong> A paper entitled has been accepted by the <a href="https://s-cubeconference.eai-conferences.org/2022/">S-CUBE 2022</a>.</li>
-<li><strong>[Nov. 2022]</strong> A paper entitled has been accepted by the <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385">IEEE TNNLS</a>.</li>
-<li><strong>[Oct. 2022]</strong>  I was fortunate to be awarded The National Scholarship of P. R. China for Graduates.</li>
+<li><strong>[Apr. 2023]</strong> A paper has been accepted by the <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?reload=true&punumber=19">IEEE TIM</a>.</li>
+<li><strong>[Apr. 2023]</strong> A paper has been accepted by the <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979">IEEE TITS</a>.</li>
+<li><strong>[Dec. 2022]</strong> A paper has been accepted by the <a href="https://s-cubeconference.eai-conferences.org/2022/">S-CUBE 2022</a>.</li>
+<li><strong>[Nov. 2022]</strong> A paper has been accepted by the <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385">IEEE TNNLS</a>.</li>
+<li><strong>[Oct. 2022]</strong>  I am grateful to have been awarded the the National Scholarship of P. R. China for Graduates.</li>
 
 <li> <a href="javascript:toggle_vis('newsmore')">Show more</a> </li>
 <div id="newsmore" style="display:none"> 

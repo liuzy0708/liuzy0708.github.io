@@ -11,7 +11,7 @@ main:
     others: Accepted, 2023
 
 
-  - title: Dynamic submodular-based learning strategy in imbalanced drifting streams for real-time safety assessment in nonstationary environments
+  - title: Dynamic Submodular-Based Learning Strategy in Imbalanced Drifting Streams for Real-Time Safety Assessment in Nonstationary Environments
     authors: <strong>Zeyi Liu</strong>, Xiao He* (*Corresponding author)
     conference_short: IEEE TNNLS
     conference: IEEE Transactions on Neural Networks and Learning Systems
@@ -21,7 +21,7 @@ main:
     image: ./assets/img/pics/LiuZY10-2.png
     others: In Press, 2023
 
-  - title: "Real-time safety assessment of dynamic systems in non-stationary environments: A review of methods and techniques"
+  - title: "Real-Time Safety Assessment of Dynamic Systems in Non-Stationary Environments: A Review of Methods and Techniques"
     authors: <strong>Zeyi Liu</strong>, Songqiao Hu, Xiao He* (*Corresponding author)
     conference_short: SAFEPROCESS 2023
     conference: 2023 CAA Symposium on Fault Detection, Supervision, and Safety for Technical Processes
@@ -31,7 +31,7 @@ main:
     image: ./assets/img/pics/LiuZY-C-01.png
     others:
 
-  - title: "Ivrr-PPG: an illumination variation robust remote-PPG algorithm for monitoring heart rate of drivers"
+  - title: "Ivrr-PPG: An Illumination Variation Robust Remote-PPG Algorithm for Monitoring Heart Rate of Drivers"
     authors: Ming Xu, Guang Zeng, Yongjun Song, Yue Cao, <strong>Zeyi Liu</strong>, Xiao He* (*Corresponding author)
     conference_short: IEEE TIM
     conference: IEEE Transactions on Instrumentation and Measurement
@@ -41,7 +41,7 @@ main:
     image: ./assets/img/pics/XuM01-1.png
     others: vol. 72, no. 3515510, pp. 1-10, 2023
 
-  - title: "An evidential real-time multi-mode fault diagnosis approach based on broad learning system"
+  - title: "An Evidential Real-Time Multi-Mode Fault Diagnosis Approach Based on Broad Learning System"
     authors: Chen Li, <strong>Zeyi Liu</strong>, Xiao He* (*Corresponding author)
     conference_short: CPCC 2023
     conference: The 34th Chinese Process Control Conference
@@ -51,7 +51,7 @@ main:
     image: ./assets/img/pics/LiC-C-01.png
     others:
 
-  - title: "Confusion model for real-drift detection in chunk data streams"
+  - title: "Confusion Model for Real-Drift Detection in Chunk Data Streams"
     authors: Songqiao Hu, <strong>Zeyi Liu</strong>, Xiao He* (*Corresponding author)
     conference_short: S-CUBE 2023
     conference: Proceedings of 13th EAI International Conference on Sensor Systems and Software
@@ -60,7 +60,7 @@ main:
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:rrktKAj3TSoJ:scholar.google.com/&output=citation&scisdr=ClGd7gItEMLgnqQCldU:AFWwaeYAAAAAZQcEjdVwEY6SFNrI-RJwDMttjCU&scisig=AFWwaeYAAAAAZQcEjSXW2WT57J-GMnh8i8KFVGw&scisf=4&ct=citation&cd=-1&hl=zh-CN
     image: ./assets/img/pics/HuS01.png
 
-  - title: "Real-time safety assessment for dynamic systems with limited memory and annotations"
+  - title: "Real-Time Safety Assessment for Dynamic Systems with Limited Memory and Annotations"
     authors: <strong>Zeyi Liu</strong>, Xiao He* (*Corresponding author)
     conference_short: IEEE TITS
     conference: IEEE Transactions on Intelligent Transportation Systems
@@ -70,7 +70,7 @@ main:
     image: ./assets/img/pics/LiuZY05.png
     others: vol. 24, no. 9, pp. 10076-10086, Sept. 2023
 
-  - title: "An online active broad learning approach for real-time safety assessment of dynamic systems in nonstationary environments"
+  - title: "An Online Active Broad Learning Approach for Real-Time Safety Assessment of Dynamic Systems in Nonstationary Environments"
     authors: <strong>Zeyi Liu</strong>, Yi Zhang, Zhongjun Ding, Xiao He* (*Corresponding author)
     conference_short: IEEE TNNLS
     conference: IEEE Transactions on Neural Networks and Learning Systems
@@ -80,7 +80,7 @@ main:
     image: ./assets/img/pics/LiuZY03.png
     others: In Press, 2023
 
-  - title: "Fault diagnosis of rotating machinery with limited expert interaction: A multicriteria active learning approach based on broad learning system"
+  - title: "Fault Diagnosis of Rotating Machinery with Limited Expert Interaction: A Multicriteria Active Learning Approach Based on Broad Learning System"
     authors: <strong>Zeyi Liu</strong>, Jingfei Zhang, Xiao He*, Qinghua Zhang, Guoxi Sun, Donghua Zhou (*Corresponding author)
     conference_short: IEEE TCST
     conference: IEEE Transactions on Control Systems Technology
@@ -91,14 +91,14 @@ main:
     others: vol. 31, no. 2, pp. 953-960, 2023
 
 
-  - title: "A bearing fault diagnosis method based on active learning by feature interpolation"
+  - title: "A Bearing Fault Diagnosis Method Based on Active Learning by Feature Interpolation"
     authors: Mengfei Mao, <strong>Zeyi Liu</strong>, Xiao He* (*Corresponding author)
     conference_short: CPCC 2022
     conference: The 33th Chinese Process Control Conference
     image: ./assets/img/pics/MaoMF01.png
 
 
-  - title: "Measure-based group decision making with principle-guided social interaction influence for incomplete information: a game theoretic perspective"
+  - title: "Measure-Based Group Decision Making with Principle-Guided Social Interaction Influence for Incomplete Information: A Game Theoretic Perspective"
     authors: <strong>Zeyi Liu</strong>, Yong Deng*, Ronald R. Yager (*Corresponding author)
     conference_short: IEEE TFS
     conference: IEEE Transactions on Fuzzy Systems
@@ -108,7 +108,7 @@ main:
     image: ./assets/img/pics/LiuD02.png
     others: vol. 30, no. 4, pp. 1149-1163, 2022
 
-  - title: "Safety assessment of dynamic systems: An evidential group interaction-based fusion design"
+  - title: "Safety Assessment of Dynamic Systems: An Evidential Group Interaction-Based Fusion Design"
     authors: <strong>Zeyi Liu</strong>, Yong Deng, Yi Zhang, Zhongjun Ding, Xiao He* (*Corresponding author)
     conference_short: IEEE TIM
     conference: IEEE Transactions on Instrumentation and Measurement
@@ -118,7 +118,7 @@ main:
     image: ./assets/img/pics/LiuZY01.png
     others: vol. 70, no. 3523014, pp. 1-14, 2021
 
-  - title: "A generalized golden rule representative value for multiple- criteria decision analysis"
+  - title: "A Generalized Golden Rule Representative Value for Multiple-Criteria Decision Analysis"
     authors: <strong>Zeyi Liu</strong>, Fuyuan Xiao*, Chin-Teng Lin, Byeong Ho Kang, Zehong Cao (*Corresponding author)
     conference_short: IEEE TSMCA
     conference: "IEEE Transactions on Systems, Man, and Cybernetics: Systems"
@@ -128,7 +128,7 @@ main:
     image: ./assets/img/pics/LiuXiao05.png
     others: vol. 70, no. 5, pp. 3193-3204, 2021
 
-  - title: "Network-based evidential three-way theoretic model for large-scale group decision analysis"
+  - title: "Network-Based Evidential Three-Way Theoretic Model for Large-Scale Group Decision Analysis"
     authors: <strong>Zeyi Liu</strong>, Xiao He, Yong Deng* (*Corresponding author)
     conference_short: INS
     conference: Information Sciences
@@ -138,7 +138,7 @@ main:
     image: ./assets/img/pics/LiuD01.png
     others: vol. 547, pp. 689-709, 2021
 
-  - title: "A dynamic group MCDM model with intuitionistic fuzzyset: perspective of alternative queuing method"
+  - title: "A Dynamic Group MCDM Model with Intuitionistic Fuzzy Set: Perspective of Alternative Queuing Method"
     authors: Ran Tao, <strong>Zeyi Liu</strong>, Rui Cai*, Kanghao Cheong (*Corresponding author)
     conference_short: INS
     conference: Information Sciences
@@ -148,7 +148,7 @@ main:
     image: ./assets/img/pics/TaoR01.png
     others: vol. 555, pp. 85-103, 2021
 
-  - title: "An intuitionistic linguistic MCDM model based on probabilistic exceedance method and evidence theory"
+  - title: "An Intuitionistic Linguistic MCDM Model Based on Probabilistic Exceedance Method and Evidence Theory"
     authors: <strong>Zeyi Liu</strong>, Fuyuan Xiao* (*Corresponding author)
     conference_short: APIN
     conference: Applied Intelligence
@@ -158,7 +158,7 @@ main:
     image: ./assets/img/pics/LiuXiao04.png
     others: vol. 50, pp. 1979-1995, 2020
 
-  - title: "An interval-valued exceedance method in MCDM with uncertain satisfactions"
+  - title: "An Interval-Valued Exceedance Method in MCDM with Uncertain Satisfactions"
     authors: <strong>Zeyi Liu</strong>, Fuyuan Xiao* (*Corresponding author)
     conference_short: IJIS
     conference: International Journal of Intelligent Systems
@@ -168,7 +168,7 @@ main:
     image: ./assets/img/pics/LiuXiao03.png
     others: vol. 34, no. 10, pp. 2676-2691, 2019
 
-  - title: "An evidential aggregation method of intuitionistic fuzzy sets based on belief entropy"
+  - title: "An Evidential Aggregation Method of Intuitionistic Fuzzy Sets Based on Belief Entropy"
     authors: <strong>Zeyi Liu</strong>, Fuyuan Xiao* (*Corresponding author)
     conference_short: IEEE Access
     conference: IEEE Access
@@ -178,7 +178,7 @@ main:
     image: ./assets/img/pics/LiuXiao01.png
     others: vol. 7, n pp. 68905-68916, 2019
 
-  - title: "An intuitionistic evidential method for weight determination in FMEA based on belief entropy"
+  - title: "An Intuitionistic Evidential Method for Weight Determination in FMEA Based on Belief Entropy"
     authors: <strong>Zeyi Liu</strong>, Fuyuan Xiao* (*Corresponding author)
     conference_short: ENT
     conference: Entropy
