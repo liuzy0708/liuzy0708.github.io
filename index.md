@@ -27,7 +27,7 @@ I obtained my B.E. degree with the School of Computer and Information Science at
 {% include_relative _includes/contact.md %}
 
 
-<a href="https://clustrmaps.com/site/1bwks"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=LGj6RE6LhpFSSVGleEqnCwQSYhx0OfZ_k_oaTnm3L_g&cl=ffffff" /></a>
+<a href='https://clustrmaps.com/site/1bwks'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=300&t=m&d=LGj6RE6LhpFSSVGleEqnCwQSYhx0OfZ_k_oaTnm3L_g&co=56b0f0&ct=ffffff'/></a>
 
 [1]:	https://scholar.google.com/citations?user=Zuhod6sAAAAJ&hl=zh-CN&oi=ao
 [2]:	http://www.cse.cqu.edu.cn/info/2095/5902.htm
