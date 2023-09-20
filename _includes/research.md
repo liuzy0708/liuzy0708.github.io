@@ -19,7 +19,7 @@
 
 * **National Natural Science Foundation of China** under Grant 61573290, 61503237, 61733009, 61973332 (Participant) 
 * **National Key Research and Development Program of China** under Grant 2017YFA0700300 (Participant)
-* **Key Project from Natural Sciences Foundation of Guangdong Province** under Grant 2018B030311054 (Participant) 
+* **Key Project from Natural Science Foundation of Guangdong Province** under Grant 2018B030311054 (Participant) 
 * **Innovative Entrepreneurial Training Plan Program of College Students** in Chongqing (Hoster)
 
 <h4 style="margin:0 10px 0;">STATS</h4>

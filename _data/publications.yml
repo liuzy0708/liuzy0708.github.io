@@ -10,7 +10,6 @@ main:
     image: ./assets/img/pics/Liu-Xiao02.png
     others: Accepted, 2023
 
-
   - title: Dynamic Submodular-Based Learning Strategy in Imbalanced Drifting Streams for Real-Time Safety Assessment in Nonstationary Environments
     authors: <strong>Zeyi Liu</strong>, Xiao He* (*Corresponding author)
     conference_short: IEEE TNNLS
@@ -153,7 +152,7 @@ main:
     conference_short: APIN
     conference: Applied Intelligence
     notes: IF = 5.3 CCF-C
-    pdf: https://link.springer.com/article/10.1007/s10489-020-01638-y
+    pdf:
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:yTdNQAaJ_gEJ:scholar.google.com/&output=citation&scisdr=ClGd7gItEMLgnqQEMfo:AFWwaeYAAAAAZQcCKfr6WDoZLju-YdDmYeq8ww0&scisig=AFWwaeYAAAAAZQcCKQ_aAFZQ-FzSYNPCj_vzVBs&scisf=4&ct=citation&cd=-1&hl=zh-CN
     image: ./assets/img/pics/LiuXiao04.png
     others: vol. 50, pp. 1979-1995, 2020
@@ -163,7 +162,7 @@ main:
     conference_short: IJIS
     conference: International Journal of Intelligent Systems
     notes: IF = 7.0 CAA-A CCF-C
-    pdf: https://onlinelibrary.wiley.com/doi/epdf/10.1002/int.22171
+    pdf:
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:maxi94TcnpAJ:scholar.google.com/&output=citation&scisdr=ClGd7gItEMLgnqQEibU:AFWwaeYAAAAAZQcCkbVLYfp9KeEwONFZ14bUWYE&scisig=AFWwaeYAAAAAZQcCkejd8-z0bf8ua9ds1UPMVk8&scisf=4&ct=citation&cd=-1&hl=zh-CN
     image: ./assets/img/pics/LiuXiao03.png
     others: vol. 34, no. 10, pp. 2676-2691, 2019
@@ -173,7 +172,7 @@ main:
     conference_short: IEEE Access
     conference: IEEE Access
     notes: IF = 3.9
-    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8721711
+    pdf:
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:AvyLKfukfKAJ:scholar.google.com/&output=citation&scisdr=ClGd7gItEMLgnqQE7ag:AFWwaeYAAAAAZQcC9ah0Os6nfF4P6euXtgTSB8U&scisig=AFWwaeYAAAAAZQcC9b2ND0DsaOPohmQ959xuHzc&scisf=4&ct=citation&cd=-1&hl=zh-CN
     image: ./assets/img/pics/LiuXiao01.png
     others: vol. 7, n pp. 68905-68916, 2019
@@ -183,7 +182,7 @@ main:
     conference_short: ENT
     conference: Entropy
     notes: IF = 2.7
-    pdf: https://www.mdpi.com/1099-4300/21/2/211
+    pdf:
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:h8CyKaadpJMJ:scholar.google.com/&output=citation&scisdr=ClGd7gItEMLgnqQPcZ0:AFWwaeYAAAAAZQcJaZ3QijgvzOXOFWmHlr5SvvY&scisig=AFWwaeYAAAAAZQcJaRBRcdtVxjS1j-nTwHt6Dz8&scisf=4&ct=citation&cd=-1&hl=zh-CN
     image: ./assets/img/pics/LiuXiao02.png
     others: vol. 21, no. 211, pp. 1-16, 2019
