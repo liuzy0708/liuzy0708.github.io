@@ -5,7 +5,7 @@
 <ul>
 <li><strong>[Sep. 2023]</strong> A paper has been accepted by the <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221021"> IEEE TSMCA</a>. </li>
 <li><strong>[Sep. 2023]</strong>  I was fortunate to receive the <strong> Social Practice Scholarship of Tsinghua University</strong>.</li>
-<li><strong>[Sep. 2023]</strong>  I have completed my Social Practice Scholarship defense <a href="https://www.sohu.com/a/710990497_120972834">. Unforgettable experience </a>for this summer : )</li>
+<li><strong>[Sep. 2023]</strong>  I have completed my Social Practice Scholarship defense. <a href="https://www.sohu.com/a/710990497_120972834"> Unforgettable experience </a>for this summer : )</li>
 <li><strong>[Jul. 2023]</strong>  The personal Google Scholar citations has reached 200.</li>
 <li><strong>[Jul. 2023]</strong>  A paper has been accepted by the <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385">IEEE TNNLS</a>.</li>
 <li><strong>[Jun. 2023]</strong>  A paper has been accepted by the <a href="https://fdd2023.aconf.org"> CAA SAFEPROCESS 2023 </a>.</li>
