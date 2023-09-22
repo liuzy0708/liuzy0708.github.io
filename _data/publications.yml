@@ -116,7 +116,6 @@ main:
     image: ./assets/img/pics/LiuZY04.png
     others: vol. 31, no. 2, pp. 953-960, 2023
 
-
   - title: "A Bearing Fault Diagnosis Method Based on Active Learning by Feature Interpolation"
     authors: Mengfei Mao, <strong>Zeyi Liu</strong>, Xiao He* (*Corresponding author)
     conference_short: CPCC 2022
@@ -182,42 +181,44 @@ main:
     image: ./assets/img/pics/TaoR01.png
     others: vol. 555, pp. 85-103, 2021
 
-  - title: "An Intuitionistic Linguistic MCDM Model Based on Probabilistic Exceedance Method and Evidence Theory"
-    authors: <strong>Zeyi Liu</strong>, Fuyuan Xiao* (*Corresponding author)
-    conference_short: APIN
-    conference: Applied Intelligence
-    notes: IF = 5.3 CCF-C
-    pdf:
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:yTdNQAaJ_gEJ:scholar.google.com/&output=citation&scisdr=ClGd7gItEMLgnqQEMfo:AFWwaeYAAAAAZQcCKfr6WDoZLju-YdDmYeq8ww0&scisig=AFWwaeYAAAAAZQcCKQ_aAFZQ-FzSYNPCj_vzVBs&scisf=4&ct=citation&cd=-1&hl=zh-CN
-    image: ./assets/img/pics/LiuXiao04.png
-    others: vol. 50, pp. 1979-1995, 2020
+ # - title: "An Intuitionistic Linguistic MCDM Model Based on Probabilistic Exceedance Method and Evidence Theory"
+ #   authors: <strong>Zeyi Liu</strong>, Fuyuan Xiao* (*Corresponding author)
+ #   conference_short: APIN
+ #   conference: Applied Intelligence
+ #   notes: IF = 5.3 CCF-C
+ #   pdf:
+ #   bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:yTdNQAaJ_gEJ:scholar.google.com/&output=citation&scisdr=ClGd7gItEMLgnqQEMfo:AFWwaeYAAAAAZQcCKfr6WDoZLju-YdDmYeq8ww0&scisig=AFWwaeYAAAAAZQcCKQ_aAFZQ-FzSYNPCj_vzVBs&scisf=4&ct=citation&cd=-1&hl=zh-CN
+ #   image: ./assets/img/pics/LiuXiao04.png
+ #   others: vol. 50, pp. 1979-1995, 2020
 
-  - title: "An Interval-Valued Exceedance Method in MCDM with Uncertain Satisfactions"
-    authors: <strong>Zeyi Liu</strong>, Fuyuan Xiao* (*Corresponding author)
-    conference_short: IJIS
-    conference: International Journal of Intelligent Systems
-    notes: IF = 7.0 CAA-A CCF-C
-    pdf:
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:maxi94TcnpAJ:scholar.google.com/&output=citation&scisdr=ClGd7gItEMLgnqQEibU:AFWwaeYAAAAAZQcCkbVLYfp9KeEwONFZ14bUWYE&scisig=AFWwaeYAAAAAZQcCkejd8-z0bf8ua9ds1UPMVk8&scisf=4&ct=citation&cd=-1&hl=zh-CN
-    image: ./assets/img/pics/LiuXiao03.png
-    others: vol. 34, no. 10, pp. 2676-2691, 2019
+ # - title: "An Interval-Valued Exceedance Method in MCDM with Uncertain Satisfactions"
+ #   authors: <strong>Zeyi Liu</strong>, Fuyuan Xiao* (*Corresponding author)
+ #   conference_short: IJIS
+ #   conference: International Journal of Intelligent Systems
+ #   notes: IF = 7.0 CAA-A CCF-C
+ #   pdf:
+ #   bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:maxi94TcnpAJ:scholar.google.com/&output=citation&scisdr=ClGd7gItEMLgnqQEibU:AFWwaeYAAAAAZQcCkbVLYfp9KeEwONFZ14bUWYE&scisig=AFWwaeYAAAAAZQcCkejd8-z0bf8ua9ds1UPMVk8&scisf=4&ct=citation&cd=-1&hl=zh-CN
+ #   image: ./assets/img/pics/LiuXiao03.png
+#    others: vol. 34, no. 10, pp. 2676-2691, 2019
 
-  - title: "An Evidential Aggregation Method of Intuitionistic Fuzzy Sets Based on Belief Entropy"
-    authors: <strong>Zeyi Liu</strong>, Fuyuan Xiao* (*Corresponding author)
-    conference_short: IEEE Access
-    conference: IEEE Access
-    notes: IF = 3.9
-    pdf:
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:AvyLKfukfKAJ:scholar.google.com/&output=citation&scisdr=ClGd7gItEMLgnqQE7ag:AFWwaeYAAAAAZQcC9ah0Os6nfF4P6euXtgTSB8U&scisig=AFWwaeYAAAAAZQcC9b2ND0DsaOPohmQ959xuHzc&scisf=4&ct=citation&cd=-1&hl=zh-CN
-    image: ./assets/img/pics/LiuXiao01.png
-    others: vol. 7, n pp. 68905-68916, 2019
+ # - title: "An Evidential Aggregation Method of Intuitionistic Fuzzy Sets Based on Belief Entropy"
+ #   authors: <strong>Zeyi Liu</strong>, Fuyuan Xiao* (*Corresponding author)
+ #   conference_short: IEEE Access
+ #   conference: IEEE Access
+ #   notes: IF = 3.9
+ #   pdf:
+ #   bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:AvyLKfukfKAJ:scholar.google.com/&output=citation&scisdr=ClGd7gItEMLgnqQE7ag:AFWwaeYAAAAAZQcC9ah0Os6nfF4P6euXtgTSB8U&scisig=AFWwaeYAAAAAZQcC9b2ND0DsaOPohmQ959xuHzc&scisf=4&ct=citation&cd=-1&hl=zh-CN
+ #   image: ./assets/img/pics/LiuXiao01.png
+ #   others: vol. 7, n pp. 68905-68916, 2019
 
-  - title: "An Intuitionistic Evidential Method for Weight Determination in FMEA Based on Belief Entropy"
-    authors: <strong>Zeyi Liu</strong>, Fuyuan Xiao* (*Corresponding author)
-    conference_short: ENT
-    conference: Entropy
-    notes: IF = 2.7
-    pdf:
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:h8CyKaadpJMJ:scholar.google.com/&output=citation&scisdr=ClGd7gItEMLgnqQPcZ0:AFWwaeYAAAAAZQcJaZ3QijgvzOXOFWmHlr5SvvY&scisig=AFWwaeYAAAAAZQcJaRBRcdtVxjS1j-nTwHt6Dz8&scisf=4&ct=citation&cd=-1&hl=zh-CN
-    image: ./assets/img/pics/LiuXiao02.png
-    others: vol. 21, no. 211, pp. 1-16, 2019
+
+ # - title: "An Intuitionistic Evidential Method for Weight Determination in FMEA Based on Belief Entropy"
+ #   authors: <strong>Zeyi Liu</strong>, Fuyuan Xiao* (*Corresponding author)
+ #   conference_short: ENT
+ #   conference: Entropy
+ #   notes: IF = 2.7
+ #   pdf:
+ #   bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:h8CyKaadpJMJ:scholar.google.com/&output=citation&scisdr=ClGd7gItEMLgnqQPcZ0:AFWwaeYAAAAAZQcJaZ3QijgvzOXOFWmHlr5SvvY&scisig=AFWwaeYAAAAAZQcJaRBRcdtVxjS1j-nTwHt6Dz8&scisf=4&ct=citation&cd=-1&hl=zh-CN
+ #   image: ./assets/img/pics/LiuXiao02.png
+ #   others: vol. 21, no. 211, pp. 1-16, 2019
+

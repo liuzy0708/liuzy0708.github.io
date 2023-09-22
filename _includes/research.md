@@ -13,7 +13,7 @@
 2. <strong> Real-time Multi-mode Fault Diagnosis of Dynamic Systems under Variable Operating Conditions</strong> 
 * Online semi-supervised learning methods and its optimization
 * Imbalance problem in the framework of online learning
-* eXplainable artificial intelligence (XAI) technology
+* eXplainable artificial intelligence technology
 
 <h4 style="margin:0 10px 0;">Project</h4>
 
@@ -24,6 +24,6 @@
 
 <h4 style="margin:0 10px 0;">STATS</h4>
 
-* **Google Citation**: 220
+* **Google Citation**: 221
 * **H-index**: 9
 * **i10-index**: 9

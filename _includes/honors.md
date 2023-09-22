@@ -2,7 +2,8 @@
 
 <h2 style="margin: 60px 0px 10px;">Honors & Awards</h2>
 
-<h4 style="margin:0 10px 0;">Scholarships</h4>
+<h4 style="margin:0 10px 0;">Selected Scholarships</h4>
+* **Social Practice Scholarship** of Tsinghua University (2023)
 * **National Scholarship** of P. R. China for Graduates (2022) (￥20000)
 * **National Scholarship** of P. R. China for Undergraduate Students (2020) (￥8000)
 * **Special Prize** Scholarship of Southwest Univeristy (2020) (￥10000)
