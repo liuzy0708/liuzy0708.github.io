@@ -3,6 +3,7 @@
 <h2 style="margin: 60px 0px 10px;">News</h2>
 
 <ul>
+<li><strong>[Oct. 2023]</strong> A paper has been accepted by the <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=24"> IEEE TR</a>. </li>
 <li><strong>[Sep. 2023]</strong> A paper has been accepted by the <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221021"> IEEE TSMCA</a>. </li>
 <li><strong>[Sep. 2023]</strong>  I was fortunate to receive the <strong> Social Practice Scholarship of Tsinghua University</strong>.</li>
 <li><strong>[Sep. 2023]</strong>  I have completed my Social Practice Scholarship defense. <a href="https://www.sohu.com/a/710990497_120972834"> Unforgettable experience </a>for this summer : )</li>

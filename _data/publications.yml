@@ -1,5 +1,15 @@
 main:
 
+  - title: A Real-time Adaptive Fault Diagnosis Scheme for Dynamic System with Performance Degradation
+    authors: Chen Li, <strong>Zeyi Liu</strong>, Xiao He* (*Corresponding author)
+    conference_short: IEEE TR
+    conference: "IEEE Transactions on Reliability"
+    notes: IF = 5.9 CAA-A, CCF-C
+    pdf:
+    bibtex:
+    image: ./assets/img/pics/LiC02.png
+    others: Accepted, 2023
+
   - title: A Robust Evidential Multi-source Data Fusion Approach Based on Cooperative Game Theory and Its Application in EEG
     authors: <strong>Zeyi Liu</strong>, Fuyuan Xiao*, Chin-Teng Lin, Zehong Cao (*Corresponding author)
     conference_short: IEEE TSMCA
@@ -12,7 +22,7 @@ main:
 
   - title: Deep-Sea Manned Submersible Datasets
     authors: THU-FDD Research Group
-    conference_short: Dataset
+    conference_short: DATASETS
     conference: Open-source Dataset
     notes:
     code: https://github.com/THUFDD/JiaolongDSMS_datasets
@@ -61,7 +71,7 @@ main:
 
   - title: Multi-mode Fault Diagnosis Datasets with Tennessee Eastman Process
     authors: THU-FDD Research Group
-    conference_short: Dataset
+    conference_short: DATASETS
     conference: Open-source Dataset
     notes:
     code: https://github.com/THUFDD/Multi-mode-Fault-Diagnosis-Datasets-with-TE-process
@@ -79,7 +89,7 @@ main:
 
   - title: Concept Drift Benckmark Datasets
     authors: THU-FDD Research Group
-    conference_short: Dataset
+    conference_short: DATASETS
     conference: Open-source Dataset
     notes:
     code: https://github.com/THUFDD/THU-Concept-Drift-Datasets
@@ -124,7 +134,7 @@ main:
 
   - title: Compound Fault Diagnosis Datasets of Rotating Machinery
     authors: THU-FDD Research Group
-    conference_short: Dataset
+    conference_short: DATASETS
     conference: Open-source Dataset
     notes:
     code: https://github.com/THUFDD/CFD_datasets
