@@ -1,7 +1,7 @@
 main:
 
   - title: A Real-time Adaptive Fault Diagnosis Scheme for Dynamic System with Performance Degradation
-    authors: Chen Li, <strong>Zeyi Liu</strong>, Xiao He* (*Corresponding author)
+    authors: Xiao He*, Chen Li, <strong>Zeyi Liu</strong> (*Corresponding author)
     conference_short: IEEE TR
     conference: "IEEE Transactions on Reliability"
     notes: IF = 5.9 CAA-A, CCF-C
