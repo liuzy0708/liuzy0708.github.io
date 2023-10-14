@@ -2,7 +2,7 @@ main:
 
   - title: A Discrimination-Guided Active Learning Method Based on Marginal Representations for Industrial Compound Fault Diagnosis
     authors: <strong>Zeyi Liu</strong>, Jingfei Zhang, Xiao He* (*Corresponding author)
-    conference_short: IEEE TR
+    conference_short: IEEE TASE
     conference: "IEEE Transactions on Automation Science and Engineering"
     notes: IF = 5.6 CAA-A+, CCF-B
     pdf:
