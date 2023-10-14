@@ -1,5 +1,15 @@
 main:
 
+  - title: A Discrimination-Guided Active Learning Method Based on Marginal Representations for Industrial Compound Fault Diagnosis
+    authors: <strong>Zeyi Liu</strong>, Jingfei Zhang, Xiao He* (*Corresponding author)
+    conference_short: IEEE TR
+    conference: "IEEE Transactions on Automation Science and Engineering"
+    notes: IF = 5.6 CAA-A+, CCF-B
+    pdf:
+    bibtex:
+    image: ./assets/img/pics/LiuZY06.png
+    others: Accepted, 2023
+
   - title: A Real-time Adaptive Fault Diagnosis Scheme for Dynamic System with Performance Degradation
     authors: Xiao He*, Chen Li, <strong>Zeyi Liu</strong> (*Corresponding author)
     conference_short: IEEE TR
@@ -15,10 +25,10 @@ main:
     conference_short: IEEE TSMCA
     conference: "IEEE Transactions on Systems, Man, and Cybernetics: Systems"
     notes: IF = 8.7 CAA-A CCF-B
-    pdf:
+    pdf: https://ieeexplore.ieee.org/document/10281376
     bibtex:
     image: ./assets/img/pics/Liu-Xiao02.png
-    others: Accepted, 2023
+    others: In Press, 2023
 
   - title: Deep-Sea Manned Submersible Datasets
     authors: THU-FDD Research Group
