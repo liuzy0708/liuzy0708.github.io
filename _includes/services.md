@@ -27,6 +27,7 @@
 * **Journal of Computational and Cognitive Engineering** (JCCE)
 * **Systems Science and Control Engineering** (SSCE)
 * **Journal of Engineering** (JoE)
+* **Journal of Harbin Engineering University**
 
 <h4 style="margin:0 10px 0;">Conference Reviewers</h4>
 
@@ -36,4 +37,4 @@
 * **Chinese Control Conference** (CCC) 2022 2023
 * **China Automation Congress** (CAC) 2022 2023
 * **Chinese Process Control Conference** (CPCC) 2023
-* ** CAA Symposium on Fault Detection, Supervision, and Safety for Technical Processes (CAA SAFEPROCESS)** 2023
+* **CAA Symposium on Fault Detection, Supervision, and Safety for Technical Processes (CAA SAFEPROCESS)** 2023

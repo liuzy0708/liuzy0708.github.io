@@ -5,12 +5,12 @@
 
 <h4 style="margin:0 10px 0;">Fields</h4>
 
-1.  <strong>Real-time Safety Assessment Approaches of Dynamic Systems in Non-stationary Environment</strong>
+<strong>Real-time Safety Assessment Approaches of Dynamic Systems in Non-stationary Environment</strong>
 * Online active learning methods and its optimization
 * Detection and adaptation methods of concept drift
 * Incremental learning and continual learning technology
 
-2. <strong> Real-time Multi-mode Fault Diagnosis of Dynamic Systems under Variable Operating Conditions</strong> 
+<strong> Real-time Multi-mode Fault Diagnosis of Dynamic Systems under Variable Operating Conditions</strong> 
 * Online semi-supervised learning methods and its optimization
 * Imbalance problem in the framework of online learning
 * eXplainable artificial intelligence technology
