@@ -30,34 +30,15 @@ main:
     image: ./assets/img/pics/Liu-Xiao02.png
     others: In Press, 2023
 
-  - title: Deep-Sea Manned Submersible Datasets
-    authors: THU-FDD Research Group
-    conference_short: DATASETS
-    conference: Open-source Dataset
-    notes:
-    code: https://github.com/THUFDD/JiaolongDSMS_datasets
-    image: ./assets/img/pics/jiaolong.png
-    others: Github, 2023
-
   - title: Dynamic Submodular-Based Learning Strategy in Imbalanced Drifting Streams for Real-Time Safety Assessment in Nonstationary Environments
     authors: <strong>Zeyi Liu</strong>, Xiao He* (*Corresponding author)
     conference_short: IEEE TNNLS
-    conference: IEEE Transactions on Neural Networks and Learning Systems
+    conference: "IEEE Transactions on Neural Networks and Learning Systems"
     notes: IF = 10.4 CAA-A CCF-B
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10195233
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:CYNXg8zhtt8J:scholar.google.com/&output=citation&scisdr=ClEdj3QUEMLgnqb5m-Q:AFWwaeYAAAAAZQX_g-TTmN4I2IS-ZhrmCU8-zo0&scisig=AFWwaeYAAAAAZQX_g1ckzX2kUNvkOkR4mMQp7gQ&scisf=4&ct=citation&cd=-1&hl=zh-CN
     image: ./assets/img/pics/LiuZY10-2.png
     others: In Press, 2023
-
-  - title: "Real-Time Safety Assessment of Dynamic Systems in Non-Stationary Environments: A Review of Methods and Techniques"
-    authors: <strong>Zeyi Liu</strong>, Songqiao Hu, Xiao He* (*Corresponding author)
-    conference_short: SAFEPROCESS 2023
-    conference: 2023 CAA Symposium on Fault Detection, Supervision, and Safety for Technical Processes
-    notes: CAA-A
-    pdf:
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:p2KIc4NhSDEJ:scholar.google.com/&output=citation&scisdr=ClGd7gItEMLgnqQCKHg:AFWwaeYAAAAAZQcEMHizlw9uCIdRktJJ6j5is7w&scisig=AFWwaeYAAAAAZQcEMEN8rJGQWlLu4oQEzhPpV0I&scisf=4&ct=citation&cd=-1&hl=zh-CN
-    image: ./assets/img/pics/LiuZY-C-01.png
-    others:
 
   - title: "Ivrr-PPG: An Illumination Variation Robust Remote-PPG Algorithm for Monitoring Heart Rate of Drivers"
     authors: Ming Xu, Guang Zeng, Yongjun Song, Yue Cao, <strong>Zeyi Liu</strong>, Xiao He* (*Corresponding author)
@@ -68,43 +49,6 @@ main:
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:IiYHJFGyAYIJ:scholar.google.com/&output=citation&scisdr=ClEdj3QUEMLgnqX9doQ:AFWwaeYAAAAAZQb7boTOK8bdc7lM7XGQ7X17PEU&scisig=AFWwaeYAAAAAZQb7bgfTCo-U0tFs2zYLK_n3zwI&scisf=4&ct=citation&cd=-1&hl=zh-CN
     image: ./assets/img/pics/XuM01-2.png
     others: vol. 72, no. 3515510, pp. 1-10, 2023
-
-  - title: "An Evidential Real-Time Multi-Mode Fault Diagnosis Approach Based on Broad Learning System"
-    authors: Chen Li, <strong>Zeyi Liu</strong>, Xiao He* (*Corresponding author)
-    conference_short: CPCC 2023
-    conference: The 34th Chinese Process Control Conference
-    notes: CAA-A
-    pdf:
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:W_Z8ektBnBIJ:scholar.google.com/&output=citation&scisdr=ClGd7gItEMLgnqQF0rI:AFWwaeYAAAAAZQcDyrIwUH3Zb1k5idjPwXbXh-Y&scisig=AFWwaeYAAAAAZQcDyuFqRYcwdSWa25t2gDGrwJo&scisf=4&ct=citation&cd=-1&hl=zh-CN
-    image: ./assets/img/pics/LiC-C-01.png
-    others:
-
-  - title: Multi-mode Fault Diagnosis Datasets with Tennessee Eastman Process
-    authors: THU-FDD Research Group
-    conference_short: DATASETS
-    conference: Open-source Dataset
-    notes:
-    code: https://github.com/THUFDD/Multi-mode-Fault-Diagnosis-Datasets-with-TE-process
-    image: ./assets/img/pics/image-20230112105115641.jpeg
-    others: Github, 2023
-
-  - title: "Confusion Model for Real-Drift Detection in Chunk Data Streams"
-    authors: Songqiao Hu, <strong>Zeyi Liu</strong>, Xiao He* (*Corresponding author)
-    conference_short: S-CUBE 2023
-    conference: Proceedings of 13th EAI International Conference on Sensor Systems and Software
-    notes:
-    pdf: https://link.springer.com/chapter/10.1007/978-3-031-34899-0_13
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:rrktKAj3TSoJ:scholar.google.com/&output=citation&scisdr=ClGd7gItEMLgnqQCldU:AFWwaeYAAAAAZQcEjdVwEY6SFNrI-RJwDMttjCU&scisig=AFWwaeYAAAAAZQcEjSXW2WT57J-GMnh8i8KFVGw&scisf=4&ct=citation&cd=-1&hl=zh-CN
-    image: ./assets/img/pics/HuS01.png
-
-  - title: Concept Drift Benckmark Datasets
-    authors: THU-FDD Research Group
-    conference_short: DATASETS
-    conference: Open-source Dataset
-    notes:
-    code: https://github.com/THUFDD/THU-Concept-Drift-Datasets
-    image: ./assets/img/pics/figure_nonlinear_gradual_rollingtorus_noise_and_redunce.gif
-    others: Github, 2023
 
   - title: "Real-Time Safety Assessment for Dynamic Systems with Limited Memory and Annotations"
     authors: <strong>Zeyi Liu</strong>, Xiao He* (*Corresponding author)
@@ -135,21 +79,6 @@ main:
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:MrFUV4Wr650J:scholar.google.com/&output=citation&scisdr=ClGd7gItEMLgnqX7PDM:AFWwaeYAAAAAZQb9JDMOy95c2SV9wYDkr7KyUJs&scisig=AFWwaeYAAAAAZQb9JOhbgRYOJsw8Y9xvkFqUOk0&scisf=4&ct=citation&cd=-1&hl=zh-CN
     image: ./assets/img/pics/LiuZY04.png
     others: vol. 31, no. 2, pp. 953-960, 2023
-
-  - title: "A Bearing Fault Diagnosis Method Based on Active Learning by Feature Interpolation"
-    authors: Mengfei Mao, <strong>Zeyi Liu</strong>, Xiao He* (*Corresponding author)
-    conference_short: CPCC 2022
-    conference: The 33th Chinese Process Control Conference
-    image: ./assets/img/pics/MaoMF01.png
-
-  - title: Compound Fault Diagnosis Datasets of Rotating Machinery
-    authors: THU-FDD Research Group
-    conference_short: DATASETS
-    conference: Open-source Dataset
-    notes:
-    code: https://github.com/THUFDD/CFD_datasets
-    image: ./assets/img/pics/CFD_2.png
-    others: Github, 2022
 
   - title: "Measure-Based Group Decision Making with Principle-Guided Social Interaction Influence for Incomplete Information: A Game Theoretic Perspective"
     authors: <strong>Zeyi Liu</strong>, Yong Deng*, Ronald R. Yager (*Corresponding author)
@@ -201,25 +130,102 @@ main:
     image: ./assets/img/pics/TaoR01.png
     others: vol. 555, pp. 85-103, 2021
 
- # - title: "An Intuitionistic Linguistic MCDM Model Based on Probabilistic Exceedance Method and Evidence Theory"
- #   authors: <strong>Zeyi Liu</strong>, Fuyuan Xiao* (*Corresponding author)
- #   conference_short: APIN
- #   conference: Applied Intelligence
- #   notes: IF = 5.3 CCF-C
- #   pdf:
- #   bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:yTdNQAaJ_gEJ:scholar.google.com/&output=citation&scisdr=ClGd7gItEMLgnqQEMfo:AFWwaeYAAAAAZQcCKfr6WDoZLju-YdDmYeq8ww0&scisig=AFWwaeYAAAAAZQcCKQ_aAFZQ-FzSYNPCj_vzVBs&scisf=4&ct=citation&cd=-1&hl=zh-CN
- #   image: ./assets/img/pics/LiuXiao04.png
- #   others: vol. 50, pp. 1979-1995, 2020
+  - title: "An Interval-Valued Exceedance Method in MCDM with Uncertain Satisfactions"
+    authors: <strong>Zeyi Liu</strong>, Fuyuan Xiao* (*Corresponding author)
+    conference_short: IJIS
+    conference: International Journal of Intelligent Systems
+    notes: IF = 7.0 CAA-A CCF-C
+    pdf:
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:maxi94TcnpAJ:scholar.google.com/&output=citation&scisdr=ClGd7gItEMLgnqQEibU:AFWwaeYAAAAAZQcCkbVLYfp9KeEwONFZ14bUWYE&scisig=AFWwaeYAAAAAZQcCkejd8-z0bf8ua9ds1UPMVk8&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    image: ./assets/img/pics/LiuXiao03.png
+    others: vol. 34, no. 10, pp. 2676-2691, 2019
 
- # - title: "An Interval-Valued Exceedance Method in MCDM with Uncertain Satisfactions"
- #   authors: <strong>Zeyi Liu</strong>, Fuyuan Xiao* (*Corresponding author)
- #   conference_short: IJIS
- #   conference: International Journal of Intelligent Systems
- #   notes: IF = 7.0 CAA-A CCF-C
- #   pdf:
- #   bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:maxi94TcnpAJ:scholar.google.com/&output=citation&scisdr=ClGd7gItEMLgnqQEibU:AFWwaeYAAAAAZQcCkbVLYfp9KeEwONFZ14bUWYE&scisig=AFWwaeYAAAAAZQcCkejd8-z0bf8ua9ds1UPMVk8&scisf=4&ct=citation&cd=-1&hl=zh-CN
- #   image: ./assets/img/pics/LiuXiao03.png
-#    others: vol. 34, no. 10, pp. 2676-2691, 2019
+Conference:
+
+  - title: "Real-Time Safety Assessment of Dynamic Systems in Non-Stationary Environments: A Review of Methods and Techniques"
+    authors: <strong>Zeyi Liu</strong>, Songqiao Hu, Xiao He* (*Corresponding author)
+    conference_short: SAFEPROCESS 2023
+    conference: 2023 CAA Symposium on Fault Detection, Supervision, and Safety for Technical Processes
+    notes: CAA-A
+    pdf:
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:p2KIc4NhSDEJ:scholar.google.com/&output=citation&scisdr=ClGd7gItEMLgnqQCKHg:AFWwaeYAAAAAZQcEMHizlw9uCIdRktJJ6j5is7w&scisig=AFWwaeYAAAAAZQcEMEN8rJGQWlLu4oQEzhPpV0I&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    image: ./assets/img/pics/LiuZY-C-01.png
+    others:
+
+  - title: "An Evidential Real-Time Multi-Mode Fault Diagnosis Approach Based on Broad Learning System"
+    authors: Chen Li, <strong>Zeyi Liu</strong>, Xiao He* (*Corresponding author)
+    conference_short: CPCC 2023
+    conference: The 34th Chinese Process Control Conference
+    notes: CAA-A
+    pdf:
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:W_Z8ektBnBIJ:scholar.google.com/&output=citation&scisdr=ClGd7gItEMLgnqQF0rI:AFWwaeYAAAAAZQcDyrIwUH3Zb1k5idjPwXbXh-Y&scisig=AFWwaeYAAAAAZQcDyuFqRYcwdSWa25t2gDGrwJo&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    image: ./assets/img/pics/LiC-C-01.png
+    others:
+
+  - title: "A Bearing Fault Diagnosis Method Based on Active Learning by Feature Interpolation"
+    authors: Mengfei Mao, <strong>Zeyi Liu</strong>, Xiao He* (*Corresponding author)
+    conference_short: CPCC 2022
+    conference: The 33th Chinese Process Control Conference
+    image: ./assets/img/pics/MaoMF01.png
+    
+  - title: "Confusion Model for Real-Drift Detection in Chunk Data Streams"
+    authors: Songqiao Hu, <strong>Zeyi Liu</strong>, Xiao He* (*Corresponding author)
+    conference_short: S-CUBE 2023
+    conference: Proceedings of 13th EAI International Conference on Sensor Systems and Software
+    notes:
+    pdf: https://link.springer.com/chapter/10.1007/978-3-031-34899-0_13
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:rrktKAj3TSoJ:scholar.google.com/&output=citation&scisdr=ClGd7gItEMLgnqQCldU:AFWwaeYAAAAAZQcEjdVwEY6SFNrI-RJwDMttjCU&scisig=AFWwaeYAAAAAZQcEjSXW2WT57J-GMnh8i8KFVGw&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    image: ./assets/img/pics/HuS01.png
+
+Resources:
+
+  - title: Deep-Sea Manned Submersible Datasets
+    authors: THU-FDD Research Group
+    conference_short: DATASETS
+    conference: Open-source Dataset
+    notes:
+    code: https://github.com/THUFDD/JiaolongDSMS_datasets
+    image: ./assets/img/pics/jiaolong.png
+    others: Github, 2023
+
+
+  - title: Concept Drift Benckmark Datasets
+    authors: THU-FDD Research Group
+    conference_short: DATASETS
+    conference: Open-source Dataset
+    notes:
+    code: https://github.com/THUFDD/THU-Concept-Drift-Datasets
+    image: ./assets/img/pics/figure_nonlinear_gradual_rollingtorus_noise_and_redunce.gif
+    others: Github, 2023
+
+  - title: Multi-mode Fault Diagnosis Datasets with Tennessee Eastman Process
+    authors: THU-FDD Research Group
+    conference_short: DATASETS
+    conference: Open-source Dataset
+    notes:
+    code: https://github.com/THUFDD/Multi-mode-Fault-Diagnosis-Datasets-with-TE-process
+    image: ./assets/img/pics/image-20230112105115641.jpeg
+    others: Github, 2023
+
+  - title: Compound Fault Diagnosis Datasets of Rotating Machinery
+    authors: THU-FDD Research Group
+    conference_short: DATASETS
+    conference: Open-source Dataset
+    notes:
+    code: https://github.com/THUFDD/CFD_datasets
+    image: ./assets/img/pics/CFD_2.png
+    others: Github, 2022
+
+
+  # - title: "An Intuitionistic Linguistic MCDM Model Based on Probabilistic Exceedance Method and Evidence Theory"
+  #   authors: <strong>Zeyi Liu</strong>, Fuyuan Xiao* (*Corresponding author)
+  #   conference_short: APIN
+  #   conference: Applied Intelligence
+  #   notes: IF = 5.3 CCF-C
+  #   pdf:
+  #   bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:yTdNQAaJ_gEJ:scholar.google.com/&output=citation&scisdr=ClGd7gItEMLgnqQEMfo:AFWwaeYAAAAAZQcCKfr6WDoZLju-YdDmYeq8ww0&scisig=AFWwaeYAAAAAZQcCKQ_aAFZQ-FzSYNPCj_vzVBs&scisf=4&ct=citation&cd=-1&hl=zh-CN
+  #   image: ./assets/img/pics/LiuXiao04.png
+  #   others: vol. 50, pp. 1979-1995, 2020
 
  # - title: "An Evidential Aggregation Method of Intuitionistic Fuzzy Sets Based on Belief Entropy"
  #   authors: <strong>Zeyi Liu</strong>, Fuyuan Xiao* (*Corresponding author)
