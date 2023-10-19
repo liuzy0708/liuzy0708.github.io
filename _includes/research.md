@@ -24,6 +24,6 @@
 
 <h3 style="margin: 60px 0px 10px;">Research STATS</h3>
 
-* **Google Citation**: 221
+* **Google Citation**: 226
 * **H-index**: 9
 * **i10-index**: 9

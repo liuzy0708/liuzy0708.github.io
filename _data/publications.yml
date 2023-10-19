@@ -166,6 +166,7 @@ Conference:
     authors: Mengfei Mao, <strong>Zeyi Liu</strong>, Xiao He* (*Corresponding author)
     conference_short: CPCC 2022
     conference: The 33th Chinese Process Control Conference
+    notes: CAA-A
     image: ./assets/img/pics/MaoMF01.png
     
   - title: "Confusion Model for Real-Drift Detection in Chunk Data Streams"
