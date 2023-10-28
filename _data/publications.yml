@@ -5,7 +5,7 @@ main:
     conference_short: IEEE TASE
     conference: "IEEE Transactions on Automation Science and Engineering"
     notes: IF = 5.6 CAA-A+, CCF-B
-    pdf:
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10292791
     bibtex:
     image: ./assets/img/pics/LiuZY06.png
     others: Accepted, 2023
@@ -15,7 +15,7 @@ main:
     conference_short: IEEE TR
     conference: "IEEE Transactions on Reliability"
     notes: IF = 5.9 CAA-A, CCF-C
-    pdf:
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10297982
     bibtex:
     image: ./assets/img/pics/LiC02.png
     others: Accepted, 2023
@@ -26,7 +26,7 @@ main:
     conference: "IEEE Transactions on Systems, Man, and Cybernetics: Systems"
     notes: IF = 8.7 CAA-A CCF-B
     pdf: https://ieeexplore.ieee.org/document/10281376
-    bibtex:
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:4uxSVxOjOIQJ:scholar.google.com/&output=citation&scisdr=ClHstp_fEMLgnp-LO5I:AFWwaeYAAAAAZTyNI5L5sRfiGs4n0hRADKBePSI&scisig=AFWwaeYAAAAAZTyNI1uYHWnHPfqeLTcS-7-Xb2k&scisf=4&ct=citation&cd=-1&hl=zh-CN
     image: ./assets/img/pics/Liu-Xiao02.png
     others: In Press, 2023
 
