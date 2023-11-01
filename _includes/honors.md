@@ -1,6 +1,6 @@
 <h1 id="honors"></h1>
 
-<h2 style="margin: 60px 0px 10px;">Honors & Awards</h2>
+<h2 style="margin: 60px 0px 10px;">Honors</h2>
 
 <h4 style="margin:0 10px 0;">Selected Scholarships</h4>
 * **National Scholarship** of P. R. China for Graduates (2023) (￥20000)
