@@ -60,7 +60,7 @@
     
     <div class="topnav">
 
-      <a href="{{ site.affiliation_link }}"><img width="190" src="{{ site.affiliation_logo }}"></a>
+      <a href="{{ site.affiliation_link }}"><img width="150" src="{{ site.affiliation_logo }}"></a>
 
       <div id="myLinks">
       {% include navigation.md %}
@@ -71,7 +71,6 @@
       </a>
       
     </div>
-    
 
     <script src="./assets/js/vanilla-back-to-top.min.js"></script>
     <script>addBackToTop({
@@ -84,8 +83,8 @@
         #back-to-top {
           border: 1px solid #ccc;
           border-radius: 0;
-          font-size: 15px;
-          width: 100px;
+          font-size: 18px;
+          width: 120px;
           text-align: center;
           line-height: 30px;
           height: 30px;
@@ -159,24 +158,26 @@
 
       <br>
 
+              {% if site.footnote %}
+      <div style="font: 15px/1.2 Crimson Pro, serif">
+        <br>
+        <a href="{{ site.footnote_link }}" rel="noopener">{{ site.footnote }}</a>
+      </div>
+      {% endif %}
+
+
       {% if site.enable_last_update %}
       <small>Last Update:
             <script>
-              const monthNames = ["January", "Februray", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"
+              const monthNames = ["Jan.", "Feb.", "Mar.", "Apr.", "May.", "Jun.", "Jul.", "Aug.", "Sep.", "Oct.", "Nov.", "Dec."
               ];
               var modiDate = new Date(document.lastModified);
-              var showAs = modiDate.getDate() + ". " + monthNames[modiDate.getMonth()] + " " + modiDate.getFullYear();
+              var showAs = monthNames[modiDate.getMonth()] + " " + modiDate.getFullYear();
               document.write(showAs);
             </script>
       </small> 
       {% endif %}
 
-      {% if site.footnote %}
-      <div style="font: 12px/1.2 Crimson Pro, serif">
-        <br>
-        <a href="{{ site.footnote_link }}" rel="noopener">{{ site.footnote }}</a>
-      </div>
-      {% endif %}
 
       <br>
       {% if site.clustrmaps_id %}

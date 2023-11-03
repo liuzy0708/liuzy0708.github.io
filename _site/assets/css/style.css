@@ -58,9 +58,9 @@ papertitle { font-weight: 600; font-size: 100%; }
 
 .image.avatar img { border-radius: 25%; width: 50%; padding: 20px; }
 
-#header .image.avatar { margin: 0 0 1em 0; width: 8.00em; }
+#header .image.avatar { margin: 0 0 1em 0; width: 6.00em; }
 
-h3, h4, h5, h6 { font-weight: 400; color: #50225F; margin: 0 0 20px; }
+h3, h4, h5, h6 { font-weight: 600; color: #50225F; margin: 0 0 20px; font-size: 100%; }
 
 h1 { font-weight: 600; color: #50225F; margin: 0 0 20px; }
 
@@ -80,7 +80,7 @@ a small { font-size: 11px; color: #777; margin-top: -0.3em; display: block; }
 
 a:hover small { color: #777; }
 
-.wrapper { width: 960px; margin: 0 auto; }
+.wrapper { width: 95%; max-width: 1000px; margin-left: 20px; margin: 0 auto; padding: 50px; }
 
 blockquote { border-left: 1px solid #e5e5e5; margin: 0; padding: 0 0 0 20px; font-style: italic; }
 
@@ -98,7 +98,7 @@ th { color: #444; }
 
 img { max-width: 100%; }
 
-header { width: 232px; float: left; position: fixed; -webkit-font-smoothing: subpixel-antialiased; padding-top: 5.5em; text-align: center; }
+header { width: 200px; float: left; position: fixed; -webkit-font-smoothing: subpixel-antialiased; padding-top: 5.5em; text-align: center; }
 
 header ul { list-style: none; height: 40px; padding: 0; background: #f4f4f4; border-radius: 5px; border: 1px solid #e0e0e0; width: 270px; }
 
@@ -120,7 +120,7 @@ header ul li + li + li { border-right: none; width: 89px; }
 
 header ul a strong { font-size: 14px; display: block; color: #222; }
 
-section { width: 650px; float: right; padding-top: 1.2em; padding-bottom: 50px; }
+section { width: 75%; float: right; padding-top: 2.5em; padding-bottom: 50px; }
 
 small { font-size: 11px; }
 

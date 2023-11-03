@@ -1,6 +1,6 @@
 <h1 id="news"></h1>
 
-<h2 style="margin: 60px 0px 10px;">News</h2>
+<h2 style="margin: 60px 0px 10px;">📰 News</h2>
 
 <ul>
 <!-- <li><strong>[Nov. 2023]</strong> One paper has been accepted by the <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036">IEEE TCYB</a>.</li> -->

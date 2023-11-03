@@ -18,18 +18,19 @@
 
   .topnav img {
     margin-bottom:-0.0pt;
-    margin-top:-0.0pt;
-    margin-left:30%;
+    margin-top:5.0pt;
+    margin-left:0%;
   }
-  
+
+
   /* Style the links inside the navigation bar */
   .topnav a.normal {
     float: right;
     color: #50225F;
     text-align: justify;
-    padding: 10px 9px;
+    padding: 15px 6px;
     text-decoration: none;
-    font-size: 19px;
+    font-size: 18px;
   }
   
   /* Change the color of links on hover */
@@ -43,7 +44,7 @@
     margin-right:30%;
   }
 
-  @media print, screen and (max-width: 1000px) { 
+  @media print, screen and (max-width: 1000px) {
 
     .topnav img {
         margin-left:3%;
@@ -62,10 +63,10 @@
    @media print, screen and (max-width: 1200px) and (min-width: 1001px) { 
 
     .topnav img {
-        margin-left:6%;
+        margin-left:3%;
       }
     .topnav a.right {
-        margin-right:6%;
+        margin-right:3%;
       }
 
    }
@@ -130,7 +131,7 @@
       .topnav a.normal {
         color: white;
         float: none;
-        padding: 14px 16px;
+        padding: 3 3px;
         text-decoration: none;
         font-size: 17px;
         display: block;
@@ -139,24 +140,26 @@
       .topnav a.icon {
         color: white;
         display: block;
-        padding: 10px 16px;
+        padding: 5px 3px;
         font-size: 17px;
         position: absolute;
         float: right;
         right: 0;
         top: 0;
-        margin-right:5%;
+        margin-right:3%;
       }
 
       .topnav a.right {
         color: white;
         float: none;
-        padding: 14px 16px;
+        padding: 3px 3px;
         text-decoration: none;
         font-size: 17px;
         display: block;
         margin-right:0;
       }
+
    }
+
    
 

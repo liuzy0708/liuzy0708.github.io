@@ -2,14 +2,10 @@
 layout: homepage
 ---
 
-<h1 id="about-me"></h1>
+<span style="font-size: 20px;">Welcome to my personal homepage! I am currently a Ph.D. candidate in the Department of Automation, Tsinghua University. My research interests include *online active learning*, *online semi-supervised learning*, *explainable artificial intelligence*, *information fusion techniques*, and their applications in *multi-mode fault diagnosis* and *real-time safety assessment* of dynamic systems. Currently, I focus on applying stream learning techniques under constrained annotations to the complex dynamic systems in industrial processes.</span>
 
-<h2 style="margin: 60px 0px 10px;">Biography</h2>
-
-I am currently a Ph.D. candidate in the Department of Automation, Tsinghua University. My research interests include *online active learning*, *online semi-supervised learning*, *explainable artificial intelligence*, *information fusion techniques*, and their applications in *multi-mode fault diagnosis* and *real-time safety assessment* of dynamic systems. Currently, I focus on applying stream learning techniques under constrained annotations to the complex dynamic systems in industrial processes.
-
-I obtained my B.E. degree with the School of Computer and Information Science at Southwest University. My major was *computer science and technology*. During my undergraduate studies, I served as a research assistant in the research groups of Prof. Y. Deng and Prof. F. Xiao, respectively, and carried out research work related to intelligent decision science. I was then recommended for pursuing the Ph.D. degree in the Department of Automation at Tsinghua University directly, majoring in *control science and control engineering*. I am currently advised by Prof. [X. He][3] and Prof. [D.-H. Zhou][4] from [Department of Automation][5], Tsinghua University.
-
+<span style="font-size: 20px;">I obtained my B.E. degree with the School of Computer and Information Science at Southwest University. My major was *computer science and technology*. During my undergraduate studies, I served as a research assistant in the research groups of Prof. Y. Deng and Prof. F. Xiao, respectively, and carried out research work related to intelligent decision science. I was then recommended for pursuing the Ph.D. degree in the Department of Automation at Tsinghua University directly, majoring in *control science and control engineering*. I am currently advised by Prof. [X. He][3] and Prof. [D.-H. Zhou][4] from [Department of Automation][5], Tsinghua University.
+</span>
 
 {% include_relative _includes/education.md %}
 
@@ -22,6 +18,8 @@ I obtained my B.E. degree with the School of Computer and Information Science at
 {% include_relative _includes/services.md %}
 
 {% include_relative _includes/publications.md %}
+
+{% include_relative _includes/resources.md %}
 
 {% include_relative _includes/life.md %}
 

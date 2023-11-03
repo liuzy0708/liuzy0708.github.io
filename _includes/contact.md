@@ -1,6 +1,6 @@
 <h1 id="contact"></h1>
 
-<h2 style="margin: 60px 0px 10px;">Contact</h2>
+<h2 style="margin: 60px 0px 10px;">💬 Contact</h2>
 
 <p><strong>Address:</strong> <a href="https://www.earthol.com/fun-1-school-tsinghua.html">Haidian District, Qinghuayuan Neighborhood, China </a>
 <br />

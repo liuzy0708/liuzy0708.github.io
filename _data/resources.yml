@@ -1,0 +1,38 @@
+main:
+
+  - title: Deep-Sea Manned Submersible Datasets
+    authors: THU-FDD Research Group
+    conference_short: DATASETS
+    conference: Open-source Dataset
+    notes:
+    code: https://github.com/THUFDD/JiaolongDSMS_datasets
+    image: ./assets/img/pics/jiaolong.png
+    others: Github, 2023
+
+
+  - title: Concept Drift Benckmark Datasets
+    authors: THU-FDD Research Group
+    conference_short: DATASETS
+    conference: Open-source Dataset
+    notes:
+    code: https://github.com/THUFDD/THU-Concept-Drift-Datasets
+    image: ./assets/img/pics/figure_nonlinear_gradual_rollingtorus_noise_and_redunce.gif
+    others: Github, 2023
+
+  - title: Multi-mode Fault Diagnosis Datasets with Tennessee Eastman Process
+    authors: THU-FDD Research Group
+    conference_short: DATASETS
+    conference: Open-source Dataset
+    notes:
+    code: https://github.com/THUFDD/Multi-mode-Fault-Diagnosis-Datasets-with-TE-process
+    image: ./assets/img/pics/image-20230112105115641.jpeg
+    others: Github, 2023
+
+  - title: Compound Fault Diagnosis Datasets of Rotating Machinery
+    authors: THU-FDD Research Group
+    conference_short: DATASETS
+    conference: Open-source Dataset
+    notes:
+    code: https://github.com/THUFDD/CFD_datasets
+    image: ./assets/img/pics/CFD_2.png
+    others: Github, 2022
