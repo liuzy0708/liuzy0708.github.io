@@ -1,6 +1,6 @@
 main:
 
-  - title: Evidential Ensemble Preference-guided Learning Approach for Real-time Multi-mode Fault Diagnosis
+  - title: "Evidential Ensemble Preference-guided Learning Approach for Real-time Multi-mode Fault Diagnosis"
     authors: <strong>Zeyi Liu</strong>, Chen Li, Xiao He* (*Corresponding author)
     conference_short: IEEE TII
     conference: "IEEE Transactions on Industrial Informatics"
@@ -10,7 +10,7 @@ main:
     image: ./assets/img/pics/LiuZY09.png
     others: Accepted, 2023
 
-  - title: A Discrimination-Guided Active Learning Method Based on Marginal Representations for Industrial Compound Fault Diagnosis
+  - title: "A Discrimination-Guided Active Learning Method Based on Marginal Representations for Industrial Compound Fault Diagnosis"
     authors: <strong>Zeyi Liu</strong>, Jingfei Zhang, Xiao He* (*Corresponding author)
     conference_short: IEEE TASE
     conference: "IEEE Transactions on Automation Science and Engineering"
@@ -20,7 +20,7 @@ main:
     image: ./assets/img/pics/LiuZY06.png
     others: Accepted, 2023
 
-  - title: A Real-time Adaptive Fault Diagnosis Scheme for Dynamic System with Performance Degradation
+  - title: "A Real-time Adaptive Fault Diagnosis Scheme for Dynamic System with Performance Degradation"
     authors: Xiao He*, Chen Li, <strong>Zeyi Liu</strong> (*Corresponding author)
     conference_short: IEEE TR
     conference: "IEEE Transactions on Reliability"
@@ -30,7 +30,7 @@ main:
     image: ./assets/img/pics/LiC02.png
     others: Accepted, 2023
 
-  - title: A Robust Evidential Multi-source Data Fusion Approach Based on Cooperative Game Theory and Its Application in EEG
+  - title: "A Robust Evidential Multi-source Data Fusion Approach Based on Cooperative Game Theory and Its Application in EEG"
     authors: <strong>Zeyi Liu</strong>, Fuyuan Xiao*, Chin-Teng Lin, Zehong Cao (*Corresponding author)
     conference_short: IEEE TSMCA
     conference: "IEEE Transactions on Systems, Man, and Cybernetics: Systems"
@@ -40,7 +40,7 @@ main:
     image: ./assets/img/pics/Liu-Xiao02.png
     others: In Press, 2023
 
-  - title: Dynamic Submodular-Based Learning Strategy in Imbalanced Drifting Streams for Real-Time Safety Assessment in Nonstationary Environments
+  - title: "Dynamic Submodular-Based Learning Strategy in Imbalanced Drifting Streams for Real-Time Safety Assessment in Nonstationary Environments"
     authors: <strong>Zeyi Liu</strong>, Xiao He* (*Corresponding author)
     conference_short: IEEE TNNLS
     conference: "IEEE Transactions on Neural Networks and Learning Systems"
@@ -157,7 +157,7 @@ Conference:
     conference_short: SAFEPROCESS 2023
     conference: 2023 CAA Symposium on Fault Detection, Supervision, and Safety for Technical Processes
     notes: CAA-A
-    pdf:
+    pdf: https://ieeexplore.ieee.org/abstract/document/10295743
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:p2KIc4NhSDEJ:scholar.google.com/&output=citation&scisdr=ClGd7gItEMLgnqQCKHg:AFWwaeYAAAAAZQcEMHizlw9uCIdRktJJ6j5is7w&scisig=AFWwaeYAAAAAZQcEMEN8rJGQWlLu4oQEzhPpV0I&scisf=4&ct=citation&cd=-1&hl=zh-CN
     image: ./assets/img/pics/LiuZY-C-01.png
     others:
@@ -167,7 +167,7 @@ Conference:
     conference_short: CPCC 2023
     conference: The 34th Chinese Process Control Conference
     notes: CAA-A
-    pdf:
+    pdf: https://arxiv.org/abs/2305.00169
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:W_Z8ektBnBIJ:scholar.google.com/&output=citation&scisdr=ClGd7gItEMLgnqQF0rI:AFWwaeYAAAAAZQcDyrIwUH3Zb1k5idjPwXbXh-Y&scisig=AFWwaeYAAAAAZQcDyuFqRYcwdSWa25t2gDGrwJo&scisf=4&ct=citation&cd=-1&hl=zh-CN
     image: ./assets/img/pics/LiC-C-01.png
     others:
