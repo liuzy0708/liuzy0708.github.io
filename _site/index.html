@@ -201,7 +201,8 @@
 
 <p><span style="font-size: 20px;">I am currently a Ph.D. candidate in the Department of Automation, Tsinghua University. My research interests include <em>online active learning</em>, <em>online semi-supervised learning</em>, <em>explainable artificial intelligence</em>, <em>information fusion techniques</em>, and their applications in <em>multi-mode fault diagnosis</em> and <em>real-time safety assessment</em> of dynamic systems. Currently, I focus on applying stream learning techniques under constrained annotations to the complex dynamic systems in industrial processes.</span></p>
 
-<p><span style="font-size: 20px;">I obtained my B.E. degree with the School of Computer and Information Science at Southwest University. My major was <em>computer science and technology</em>. During my undergraduate studies, I served as a research assistant in the research groups of Prof. Y. Deng and Prof. F. Xiao, respectively, and carried out research work related to intelligent decision science. I was then recommended for pursuing the Ph.D. degree in the Department of Automation at Tsinghua University directly, majoring in <em>control science and control engineering</em>. I am currently advised by Prof. [X. He][3] and Prof. [D.-H. Zhou][4] from [Department of Automation][5], Tsinghua University.
+<p><span style="font-size: 20px;">
+    I obtained my B.E. degree with the School of Computer and Information Science at Southwest University. My major was computer science and technology. During my undergraduate studies, I served as a research assistant in the research groups of Prof. Y. Deng and Prof. F. Xiao, respectively, and carried out research work related to intelligent decision science. I was then recommended to pursue a Ph.D. degree in the Department of Automation at Tsinghua University directly, majoring in control science and control engineering. I am currently supervised by Prof. <a href="https://scholar.google.com/citations?user=Zuhod6sAAAAJ&amp;hl=zh-CN&amp;oi=ao">X. He</a> and Prof. <a href="https://www.au.tsinghua.edu.cn/info/1110/1582.htm">D.-H. Zhou</a> from <a href="https://www.au.tsinghua.edu.cn/index.htm">Department of Automation</a>, Tsinghua University.
 </span></p>
 
 <h1 id="education"></h1>
@@ -245,9 +246,51 @@
 <h4 style="margin: 0px 10px 0;">Research Statistics</h4>
 
 <ul>
-  <li><strong>Google Citation</strong>: 229</li>
-  <li><strong>H-index</strong>: 9</li>
-  <li><strong>i10-index</strong>: 9</li>
+  <li><strong>Google Citation</strong>: 
+<strong>
+  <a style="color:#e74d3c; font-weight:600" href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=sRkvMF8AAAAJ&amp;citation_for_view=sRkvMF8AAAAJ:zYLM7Y9cAGgC">
+      <i id="total_citation_mtl">800+</i>
+      <i style="color:#e74d3c; font-weight:600"></i>
+  </a>
+</strong>
+<script>
+  $(document).ready(function () {
+      $.getJSON("https://raw.githubusercontent.com/liuzy0708/liuzy0708.github.io/main/google_scholar_crawler/results/gs_data.json", function (data) {
+          var totalCitation = data['citedby'];
+          document.getElementById('total_citation_mtl').textContent = totalCitation + " Citations";
+      });
+  });
+</script></li>
+  <li><strong>H-index</strong>:
+<strong>
+  <a style="color:#e74d3c; font-weight:600" href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=sRkvMF8AAAAJ&amp;citation_for_view=sRkvMF8AAAAJ:zYLM7Y9cAGgC">
+      <i id="totalHindex_mtl"></i>
+      <i style="color:#e74d3c; font-weight:600"></i>
+  </a>
+</strong>
+<script>
+  $(document).ready(function () {
+      $.getJSON("https://raw.githubusercontent.com/liuzy0708/liuzy0708.github.io/main/google_scholar_crawler/results/gs_data.json", function (data) {
+          var totalHindex = data['hindex'];
+          document.getElementById('totalHindex_mtl').textContent = totalHindex;
+      });
+  });
+</script></li>
+  <li><strong>i10-index</strong>: 
+<strong>
+  <a style="color:#e74d3c; font-weight:600" href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=sRkvMF8AAAAJ&amp;citation_for_view=sRkvMF8AAAAJ:zYLM7Y9cAGgC">
+      <i id="i10index_mtl"></i>
+      <i style="color:#e74d3c; font-weight:600"></i>
+  </a>
+</strong>
+<script>
+  $(document).ready(function () {
+      $.getJSON("https://raw.githubusercontent.com/liuzy0708/liuzy0708.github.io/main/google_scholar_crawler/results/gs_data.json", function (data) {
+          var totali10index = data['i10index'];
+          document.getElementById('i10index_mtl').textContent = totali10index;
+      });
+  });
+</script></li>
 </ul>
 
 <h1 id="news"></h1>
@@ -1049,25 +1092,6 @@
 
 
 
-<strong> <a style="color:#e74d3c; font-weight:600" href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=sRkvMF8AAAAJ&amp;citation_for_view=sRkvMF8AAAAJ:zYLM7Y9cAGgC"><i id="total_citation_mtl">800+</i><i style="color:#e74d3c; font-weight:600"> Citations</i>
-  <script>
-      $(document).ready(function () {
-          
-          var gsDataBaseUrl = 'https://github.com/liuzy0708/liuzy0708.github.io'
-          
-          $.getJSON(gsDataBaseUrl + "google_scholar_crawler/results/gs_data.json", function (data) {
-              var totalCitation = data['publications']['sRkvMF8AAAAJ:zYLM7Y9cAGgC']['num_citations']
-              document.getElementById('total_citation_mtl').innerHTML = totalCitation;
-              var citationEles = document.getElementsByClassName('show_paper_citations')
-              Array.prototype.forEach.call(citationEles, element => {
-                  var paperId = element.getAttribute('data')
-                  var numCitations = data['publications'][paperId]['num_citations']
-                  element.innerHTML = '| Citations: ' + numCitations;
-              });
-          });
-      })
- </script>
-
 
 <h1 id="resources"></h1>
 
@@ -1285,13 +1309,7 @@
 <strong>Phone:</strong> (+86) 153-2163-8693</p>
 
 <a href="https://clustrmaps.com/site/1bwks" title="Visit tracker"><img src="//clustrmaps.com/map_v2.png?cl=ffffff&amp;w=300&amp;t=m&amp;d=LGj6RE6LhpFSSVGleEqnCwQSYhx0OfZ_k_oaTnm3L_g&amp;co=56b0f0&amp;ct=ffffff" /></a>
-
-[1]:	https://scholar.google.com/citations?user=Zuhod6sAAAAJ&amp;hl=zh-CN&amp;oi=ao
-[2]:	http://www.cse.cqu.edu.cn/info/2095/5902.htm
-[3]:	https://www.au.tsinghua.edu.cn/info/1092/1527.htm
-[4]:	https://www.au.tsinghua.edu.cn/info/1110/1582.htm
-[5]:	https://www.au.tsinghua.edu.cn/index.htm
-</a></strong></ol></div>
+</ol></div>
 
 
       <br>

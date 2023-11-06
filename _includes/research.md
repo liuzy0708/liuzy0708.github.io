@@ -21,6 +21,48 @@
 
 <h4 style="margin: 0px 10px 0;">Research Statistics</h4>
 
-* **Google Citation**: 229
-* **H-index**: 9
-* **i10-index**: 9
+* **Google Citation**: 
+<strong>
+    <a style="color:#e74d3c; font-weight:600" href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sRkvMF8AAAAJ&citation_for_view=sRkvMF8AAAAJ:zYLM7Y9cAGgC">
+        <i id="total_citation_mtl">800+</i>
+        <i style="color:#e74d3c; font-weight:600"></i>
+    </a>
+</strong>
+<script>
+    $(document).ready(function () {
+        $.getJSON("https://raw.githubusercontent.com/liuzy0708/liuzy0708.github.io/main/google_scholar_crawler/results/gs_data.json", function (data) {
+            var totalCitation = data['citedby'];
+            document.getElementById('total_citation_mtl').textContent = totalCitation + " Citations";
+        });
+    });
+</script>
+* **H-index**:
+<strong>
+    <a style="color:#e74d3c; font-weight:600" href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sRkvMF8AAAAJ&citation_for_view=sRkvMF8AAAAJ:zYLM7Y9cAGgC">
+        <i id="totalHindex_mtl"></i>
+        <i style="color:#e74d3c; font-weight:600"></i>
+    </a>
+</strong>
+<script>
+    $(document).ready(function () {
+        $.getJSON("https://raw.githubusercontent.com/liuzy0708/liuzy0708.github.io/main/google_scholar_crawler/results/gs_data.json", function (data) {
+            var totalHindex = data['hindex'];
+            document.getElementById('totalHindex_mtl').textContent = totalHindex;
+        });
+    });
+</script>
+* **i10-index**: 
+<strong>
+    <a style="color:#e74d3c; font-weight:600" href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sRkvMF8AAAAJ&citation_for_view=sRkvMF8AAAAJ:zYLM7Y9cAGgC">
+        <i id="i10index_mtl"></i>
+        <i style="color:#e74d3c; font-weight:600"></i>
+    </a>
+</strong>
+<script>
+    $(document).ready(function () {
+        $.getJSON("https://raw.githubusercontent.com/liuzy0708/liuzy0708.github.io/main/google_scholar_crawler/results/gs_data.json", function (data) {
+            var totali10index = data['i10index'];
+            document.getElementById('i10index_mtl').textContent = totali10index;
+        });
+    });
+</script>
