@@ -1055,7 +1055,7 @@
           
           var gsDataBaseUrl = 'https://github.com/liuzy0708/liuzy0708.github.io'
           
-          $.getJSON(gsDataBaseUrl + "google-scholar-stats/gs_data.json", function (data) {
+          $.getJSON(gsDataBaseUrl + "google_scholar_crawler/results/gs_data.json", function (data) {
               var totalCitation = data['publications']['sRkvMF8AAAAJ:zYLM7Y9cAGgC']['num_citations']
               document.getElementById('total_citation_mtl').innerHTML = totalCitation;
               var citationEles = document.getElementsByClassName('show_paper_citations')
