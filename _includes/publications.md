@@ -98,7 +98,21 @@
 
 {% endfor %}
 
-</ol>
-</div>
-
-
+<strong> <a style="color:#e74d3c; font-weight:600" href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sRkvMF8AAAAJ&citation_for_view=sRkvMF8AAAAJ:zYLM7Y9cAGgC"><i id="total_citation_mtl">800+</i><i style="color:#e74d3c; font-weight:600"> Citations</i>
+  <script>
+      $(document).ready(function () {
+          
+          var gsDataBaseUrl = 'https://github.com/liuzy0708/liuzy0708.github.io'
+          
+          $.getJSON(gsDataBaseUrl + "google-scholar-stats/gs_data.json", function (data) {
+              var totalCitation = data['publications']['sRkvMF8AAAAJ:zYLM7Y9cAGgC']['num_citations']
+              document.getElementById('total_citation_mtl').innerHTML = totalCitation;
+              var citationEles = document.getElementsByClassName('show_paper_citations')
+              Array.prototype.forEach.call(citationEles, element => {
+                  var paperId = element.getAttribute('data')
+                  var numCitations = data['publications'][paperId]['num_citations']
+                  element.innerHTML = '| Citations: ' + numCitations;
+              });
+          });
+      })
+ </script>

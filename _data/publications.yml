@@ -4,7 +4,7 @@ main:
     authors: <strong>Zeyi Liu</strong>, Chen Li, Xiao He* (*Corresponding author)
     conference_short: IEEE TII
     conference: "IEEE Transactions on Industrial Informatics"
-    notes: IF = 12.3 CAA-A+, CCF-C
+    notes: IF = 12.3 • CAA-A+ • CCF-C
     pdf: 
     bibtex:
     image: ./assets/img/pics/LiuZY09.png
@@ -14,7 +14,7 @@ main:
     authors: <strong>Zeyi Liu</strong>, Jingfei Zhang, Xiao He* (*Corresponding author)
     conference_short: IEEE TASE
     conference: "IEEE Transactions on Automation Science and Engineering"
-    notes: IF = 5.6 CAA-A+, CCF-B
+    notes: IF = 5.6 • CAA-A+ • CCF-B
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10292791
     bibtex:
     image: ./assets/img/pics/LiuZY06.png
@@ -24,7 +24,7 @@ main:
     authors: Xiao He*, Chen Li, <strong>Zeyi Liu</strong> (*Corresponding author)
     conference_short: IEEE TR
     conference: "IEEE Transactions on Reliability"
-    notes: IF = 5.9 CAA-A, CCF-C
+    notes: IF = 5.9 • CAA-A • CCF-C
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10297982
     bibtex:
     image: ./assets/img/pics/LiC02.png
@@ -34,7 +34,7 @@ main:
     authors: <strong>Zeyi Liu</strong>, Fuyuan Xiao*, Chin-Teng Lin, Zehong Cao (*Corresponding author)
     conference_short: IEEE TSMCA
     conference: "IEEE Transactions on Systems, Man, and Cybernetics: Systems"
-    notes: IF = 8.7 CAA-A CCF-B
+    notes: IF = 8.7 • CAA-A • CCF-B
     pdf: https://ieeexplore.ieee.org/document/10281376
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:4uxSVxOjOIQJ:scholar.google.com/&output=citation&scisdr=ClHstp_fEMLgnp-LO5I:AFWwaeYAAAAAZTyNI5L5sRfiGs4n0hRADKBePSI&scisig=AFWwaeYAAAAAZTyNI1uYHWnHPfqeLTcS-7-Xb2k&scisf=4&ct=citation&cd=-1&hl=zh-CN
     image: ./assets/img/pics/Liu-Xiao02.png
@@ -44,7 +44,7 @@ main:
     authors: <strong>Zeyi Liu</strong>, Xiao He* (*Corresponding author)
     conference_short: IEEE TNNLS
     conference: "IEEE Transactions on Neural Networks and Learning Systems"
-    notes: IF = 10.4 CAA-A CCF-B
+    notes: IF = 10.4 • CAA-A • CCF-B
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10195233
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:CYNXg8zhtt8J:scholar.google.com/&output=citation&scisdr=ClEdj3QUEMLgnqb5m-Q:AFWwaeYAAAAAZQX_g-TTmN4I2IS-ZhrmCU8-zo0&scisig=AFWwaeYAAAAAZQX_g1ckzX2kUNvkOkR4mMQp7gQ&scisf=4&ct=citation&cd=-1&hl=zh-CN
     image: ./assets/img/pics/LiuZY10-2.png
@@ -54,7 +54,7 @@ main:
     authors: Ming Xu, Guang Zeng, Yongjun Song, Yue Cao, <strong>Zeyi Liu</strong>, Xiao He* (*Corresponding author)
     conference_short: IEEE TIM
     conference: IEEE Transactions on Instrumentation and Measurement
-    notes: IF = 5.6 CAA-B
+    notes: IF = 5.6 • CAA-B
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10113355
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:IiYHJFGyAYIJ:scholar.google.com/&output=citation&scisdr=ClEdj3QUEMLgnqX9doQ:AFWwaeYAAAAAZQb7boTOK8bdc7lM7XGQ7X17PEU&scisig=AFWwaeYAAAAAZQb7bgfTCo-U0tFs2zYLK_n3zwI&scisf=4&ct=citation&cd=-1&hl=zh-CN
     image: ./assets/img/pics/XuM01-2.png
@@ -64,7 +64,7 @@ main:
     authors: <strong>Zeyi Liu</strong>, Xiao He* (*Corresponding author)
     conference_short: IEEE TITS
     conference: IEEE Transactions on Intelligent Transportation Systems
-    notes: IF = 8.5 CAA-A CCF-B
+    notes: IF = 8.5 • CAA-A • CCF-B
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10105849
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:iak8c4J4RUIJ:scholar.google.com/&output=citation&scisdr=ClGd7gItEMLgnqX9oZA:AFWwaeYAAAAAZQb7uZDH0NhuO9tTWPZFJsKXI0M&scisig=AFWwaeYAAAAAZQb7uS5D53dfiKBnQXq9zrJoCH8&scisf=4&ct=citation&cd=-1&hl=zh-CN
     image: ./assets/img/pics/LiuZY05.png
@@ -74,7 +74,7 @@ main:
     authors: <strong>Zeyi Liu</strong>, Yi Zhang, Zhongjun Ding, Xiao He* (*Corresponding author)
     conference_short: IEEE TNNLS
     conference: IEEE Transactions on Neural Networks and Learning Systems
-    notes: IF = 10.4 CAA-A CCF-B
+    notes: IF = 10.4 • CAA-A • CCF-B
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9960812
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:l5vNjiseb9sJ:scholar.google.com/&output=citation&scisdr=ClGd7gItEMLgnqX6uTY:AFWwaeYAAAAAZQb8oTYXSnmTbXoZKR5slsEE23I&scisig=AFWwaeYAAAAAZQb8obR2JpC7rZDwBE1KRX2LNnQ&scisf=4&ct=citation&cd=-1&hl=zh-CN
     image: ./assets/img/pics/LiuZY03.png
@@ -84,7 +84,7 @@ main:
     authors: <strong>Zeyi Liu</strong>, Jingfei Zhang, Xiao He*, Qinghua Zhang, Guoxi Sun, Donghua Zhou (*Corresponding author)
     conference_short: IEEE TCST
     conference: IEEE Transactions on Control Systems Technology
-    notes: IF = 4.8 CAA-A
+    notes: IF = 4.8 • CAA-A
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9869794
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:MrFUV4Wr650J:scholar.google.com/&output=citation&scisdr=ClGd7gItEMLgnqX7PDM:AFWwaeYAAAAAZQb9JDMOy95c2SV9wYDkr7KyUJs&scisig=AFWwaeYAAAAAZQb9JOhbgRYOJsw8Y9xvkFqUOk0&scisf=4&ct=citation&cd=-1&hl=zh-CN
     image: ./assets/img/pics/LiuZY04.png
@@ -94,7 +94,7 @@ main:
     authors: <strong>Zeyi Liu</strong>, Yong Deng*, Ronald R. Yager (*Corresponding author)
     conference_short: IEEE TFS
     conference: IEEE Transactions on Fuzzy Systems
-    notes: IF = 11.9 CAA-A CCF-B
+    notes: IF = 11.9 • CAA-A • CCF-B
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9330576
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:k1v8nGffT9kJ:scholar.google.com/&output=citation&scisdr=ClGd7gItEMLgnqX4RJA:AFWwaeYAAAAAZQb-XJDZfTcKjytTMU8_6x4DAlE&scisig=AFWwaeYAAAAAZQb-XDJqw8nEVyBbUuUa9tNeP4s&scisf=4&ct=citation&cd=-1&hl=zh-CN
     image: ./assets/img/pics/LiuD02-2.png
@@ -104,7 +104,7 @@ main:
     authors: <strong>Zeyi Liu</strong>, Yong Deng, Yi Zhang, Zhongjun Ding, Xiao He* (*Corresponding author)
     conference_short: IEEE TIM
     conference: IEEE Transactions on Instrumentation and Measurement
-    notes: IF = 5.6 CAA-B
+    notes: IF = 5.6 • CAA-B
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9330576
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:Y6vwElTiMC0J:scholar.google.com/&output=citation&scisdr=ClGd7gItEMLgnqX4-3M:AFWwaeYAAAAAZQb-43MNldblGAoNcFv8zQ519YQ&scisig=AFWwaeYAAAAAZQb-48kVL6N2fCs6QW2FP968RHc&scisf=4&ct=citation&cd=-1&hl=zh-CN
     image: ./assets/img/pics/LiuZY01.png
@@ -114,7 +114,7 @@ main:
     authors: <strong>Zeyi Liu</strong>, Fuyuan Xiao*, Chin-Teng Lin, Byeong Ho Kang, Zehong Cao (*Corresponding author)
     conference_short: IEEE TSMCA
     conference: "IEEE Transactions on Systems, Man, and Cybernetics: Systems"
-    notes: IF = 8.7 CAA-A CCF-B
+    notes: IF = 8.7 • CAA-A • CCF-B
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8734878
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:ydXtqqrPWmYJ:scholar.google.com/&output=citation&scisdr=ClGd7gItEMLgnqQGLJE:AFWwaeYAAAAAZQcANJFXVwaDG0aNIhKfso7JTwY&scisig=AFWwaeYAAAAAZQcANBn0giqeR9Z1x08v467sdy0&scisf=4&ct=citation&cd=-1&hl=zh-CN
     image: ./assets/img/pics/LiuXiao05.png
@@ -124,7 +124,7 @@ main:
     authors: <strong>Zeyi Liu</strong>, Xiao He, Yong Deng* (*Corresponding author)
     conference_short: INS
     conference: Information Sciences
-    notes: IF = 8.1 CAA-A+ CCF-B
+    notes: IF = 8.1 • CAA-A+ • CCF-B
     pdf:
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:jNfh_kfm74QJ:scholar.google.com/&output=citation&scisdr=ClGd7gItEMLgnqQG5YM:AFWwaeYAAAAAZQcA_YP7HPPmJiIZ1Y6tqiftdy0&scisig=AFWwaeYAAAAAZQcA_d1DReor5J6fOuAdrEgnEKc&scisf=4&ct=citation&cd=-1&hl=zh-CN
     image: ./assets/img/pics/LiuD01.png
@@ -134,7 +134,7 @@ main:
     authors: Ran Tao, <strong>Zeyi Liu</strong>, Rui Cai*, Kanghao Cheong (*Corresponding author)
     conference_short: INS
     conference: Information Sciences
-    notes: IF = 8.1 CAA-A+ CCF-B
+    notes: IF = 8.1 • CAA-A+ • CCF-B
     pdf:
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:TlWp1GCn0LoJ:scholar.google.com/&output=citation&scisdr=ClGd7gItEMLgnqQH3R4:AFWwaeYAAAAAZQcBxR6EfGXijV6y3TBiJ_dExXs&scisig=AFWwaeYAAAAAZQcBxcnl5VKBAjKsT_j2_aLAv_I&scisf=4&ct=citation&cd=-1&hl=zh-CN
     image: ./assets/img/pics/TaoR01.png
@@ -144,7 +144,7 @@ main:
     authors: <strong>Zeyi Liu</strong>, Fuyuan Xiao* (*Corresponding author)
     conference_short: IJIS
     conference: International Journal of Intelligent Systems
-    notes: IF = 7.0 CAA-A CCF-C
+    notes: IF = 7.0 • CAA-A • CCF-C
     pdf:
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:maxi94TcnpAJ:scholar.google.com/&output=citation&scisdr=ClGd7gItEMLgnqQEibU:AFWwaeYAAAAAZQcCkbVLYfp9KeEwONFZ14bUWYE&scisig=AFWwaeYAAAAAZQcCkejd8-z0bf8ua9ds1UPMVk8&scisf=4&ct=citation&cd=-1&hl=zh-CN
     image: ./assets/img/pics/LiuXiao03.png
