@@ -1,5 +1,15 @@
 main:
 
+  - title: "Dynamic model interpretation-guided online active learning scheme for real-time safety assessment"
+    authors: Xiao He, <strong>Zeyi Liu</strong>* (*Corresponding author)
+    conference_short: IEEE TCYB
+    conference: "IEEE Transactions on Cybernetics"
+    notes: IF = 11.8 • CAA-A • CCF-B
+    pdf:
+    bibtex:
+    image: ./assets/img/pics/LiuZY08.png
+    others: Accepted, 2023
+
   - title: "Evidential Ensemble Preference-guided Learning Approach for Real-time Multi-mode Fault Diagnosis"
     authors: <strong>Zeyi Liu</strong>, Chen Li, Xiao He* (*Corresponding author)
     conference_short: IEEE TII

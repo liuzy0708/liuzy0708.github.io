@@ -32,7 +32,7 @@
     $(document).ready(function () {
         $.getJSON("https://raw.githubusercontent.com/liuzy0708/liuzy0708.github.io/main/google_scholar_crawler/results/gs_data.json", function (data) {
             var totalCitation = data['citedby'];
-            document.getElementById('total_citation_mtl').textContent = totalCitation + " Citations";
+            document.getElementById('total_citation_mtl').textContent = totalCitation;
         });
     });
 </script>
