@@ -5,7 +5,7 @@ main:
     conference_short: IEEE TCYB
     conference: "IEEE Transactions on Cybernetics"
     notes: IF = 11.8 • CAA-A • CCF-B
-    pdf:
+    pdf: 
     bibtex:
     image: ./assets/img/pics/LiuZY08.png
     others: Accepted, 2023
@@ -15,7 +15,7 @@ main:
     conference_short: IEEE TII
     conference: "IEEE Transactions on Industrial Informatics"
     notes: IF = 12.3 • CAA-A+ • CCF-C
-    pdf: 
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10342662
     bibtex:
     image: ./assets/img/pics/LiuZY09.png
     others: Accepted, 2023
