@@ -16,9 +16,9 @@ main:
     conference: "IEEE Transactions on Industrial Informatics"
     notes: IF = 12.3 • CAA-A+ • CCF-C
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10342662
-    bibtex:
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:A858-kw3Py8J:scholar.google.com/&output=citation&scisdr=ClGW_-5JEOeX6CMeGBk:AFWwaeYAAAAAZYMYABj2I3PK4GFdmOasDTZ-8Es&scisig=AFWwaeYAAAAAZYMYAJWgH01qSuwhYaPGEGQHf20&scisf=4&ct=citation&cd=-1&hl=zh-CN
     image: ./assets/img/pics/LiuZY09.png
-    others: Accepted, 2023
+    others: In Press, 2023
 
   - title: "A Discrimination-Guided Active Learning Method Based on Marginal Representations for Industrial Compound Fault Diagnosis"
     authors: <strong>Zeyi Liu</strong>, Jingfei Zhang, Xiao He* (*Corresponding author)
@@ -26,9 +26,9 @@ main:
     conference: "IEEE Transactions on Automation Science and Engineering"
     notes: IF = 5.6 • CAA-A+ • CCF-B
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10292791
-    bibtex:
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:TmT0x9wGiq4J:scholar.google.com/&output=citation&scisdr=ClGW_-5JEOeX6CMRxFU:AFWwaeYAAAAAZYMX3FTjCYIoOKdbz4P6es3J3uQ&scisig=AFWwaeYAAAAAZYMX3L_ldFatA5OfWJ5B55zuboA&scisf=4&ct=citation&cd=-1&hl=zh-CN
     image: ./assets/img/pics/LiuZY06.png
-    others: Accepted, 2023
+    others: In Press, 2023
 
   - title: "A Real-time Adaptive Fault Diagnosis Scheme for Dynamic System with Performance Degradation"
     authors: Xiao He*, Chen Li, <strong>Zeyi Liu</strong> (*Corresponding author)
@@ -36,9 +36,9 @@ main:
     conference: "IEEE Transactions on Reliability"
     notes: IF = 5.9 • CAA-A • CCF-C
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10297982
-    bibtex:
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:9m8BujBkfDcJ:scholar.google.com/&output=citation&scisdr=ClGW_-5JEOeX6CMRt_8:AFWwaeYAAAAAZYMXr_7nCOuukEw28In3Ej3d3NM&scisig=AFWwaeYAAAAAZYMXr8hV1KCG1D-uQRd_rkWT0XY&scisf=4&ct=citation&cd=-1&hl=en
     image: ./assets/img/pics/LiC02.png
-    others: Accepted, 2023
+    others: In Press, 2023
 
   - title: "A Robust Evidential Multi-source Data Fusion Approach Based on Cooperative Game Theory and Its Application in EEG"
     authors: <strong>Zeyi Liu</strong>, Fuyuan Xiao*, Chin-Teng Lin, Zehong Cao (*Corresponding author)
