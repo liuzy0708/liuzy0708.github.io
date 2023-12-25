@@ -52,11 +52,11 @@ papertitle { font-weight: 600; font-size: 100%; }
 
 .image:before { -moz-transition: opacity 0.2s ease-in-out; -webkit-transition: opacity 0.2s ease-in-out; -ms-transition: opacity 0.2s ease-in-out; transition: opacity 0.2s ease-in-out; border-radius: 0.35em; content: ''; display: block; height: 100%; left: 0; opacity: 0.5; position: absolute; top: 0; width: 100%; }
 
-.image.avatar { border-radius: 20%; }
+.image.avatar { border-radius: 30%; }
 
 .image.avatar:before { display: none; }
 
-.image.avatar img { border-radius: 25%; width: 50%; padding: 10px; }
+.image.avatar img { border-radius: 25%; width: 80%; padding: 10px; }
 
 #header .image.avatar { margin: 0 0 1em 0; width: 6.00em; }
 
