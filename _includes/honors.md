@@ -14,6 +14,7 @@
 * **Pinsheng Scholarship** (2019, 2020) (￥5000\*2)
 
 <h4 style="margin:0 10px 0;">Main Awards</h4>
+* **Outstanding Doctoral Candidate** of Beijing Association of Automation (2023)
 * **Outstanding Graduates** of Colleges and Universities in Chongqing (2021)
 * **Outstanding Graduates** of Southwest University (2021)
 * 2019-2020 Academic Year **Outstanding Student Model** of Southwest University (2020)

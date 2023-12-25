@@ -3,6 +3,7 @@
 <h2 style="margin: 60px 0px 10px;">📰 News</h2>
 
 <ul>
+<li><strong>[Dec. 2023]</strong> I was fortunate to receive the <strong> Outstanding Doctoral Candidate of Beijing Association of Automation</strong>.</li>
 <li><strong>[Nov. 2023]</strong> One paper has been accepted by the <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036">IEEE TCYB</a>.</li>
 <li><strong>[Nov. 2023]</strong> One paper has been accepted by the <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9424">IEEE TII</a>.</li>
 <li><strong>[Oct. 2023]</strong> One paper has been accepted by the <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8856">IEEE TASE</a>.</li>

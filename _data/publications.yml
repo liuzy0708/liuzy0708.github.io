@@ -88,7 +88,7 @@ main:
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9960812
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:l5vNjiseb9sJ:scholar.google.com/&output=citation&scisdr=ClGd7gItEMLgnqX6uTY:AFWwaeYAAAAAZQb8oTYXSnmTbXoZKR5slsEE23I&scisig=AFWwaeYAAAAAZQb8obR2JpC7rZDwBE1KRX2LNnQ&scisf=4&ct=citation&cd=-1&hl=zh-CN
     image: ./assets/img/pics/LiuZY03.png
-    others: In Press, 2023
+    others: vol. 34, no. 10, pp. 6714-6724, 2023
 
   - title: "Fault Diagnosis of Rotating Machinery with Limited Expert Interaction: A Multicriteria Active Learning Approach Based on Broad Learning System"
     authors: <strong>Zeyi Liu</strong>, Jingfei Zhang, Xiao He*, Qinghua Zhang, Guoxi Sun, Donghua Zhou (*Corresponding author)
