@@ -38,3 +38,7 @@
 * **China Automation Congress** (CAC) 2022 2023
 * **Chinese Process Control Conference** (CPCC) 2023
 * **CAA Symposium on Fault Detection, Supervision, and Safety for Technical Processes (CAA SAFEPROCESS)** 2023
+
+<h4 style="margin:0 10px 0;">Social Services</h4>
+
+* ** Invited Session Organizer for ICAIS & ISAS**  2024
