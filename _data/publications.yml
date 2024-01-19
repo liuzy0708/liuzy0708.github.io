@@ -48,7 +48,7 @@ main:
     pdf: https://ieeexplore.ieee.org/document/10281376
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:4uxSVxOjOIQJ:scholar.google.com/&output=citation&scisdr=ClHstp_fEMLgnp-LO5I:AFWwaeYAAAAAZTyNI5L5sRfiGs4n0hRADKBePSI&scisig=AFWwaeYAAAAAZTyNI1uYHWnHPfqeLTcS-7-Xb2k&scisf=4&ct=citation&cd=-1&hl=zh-CN
     image: ./assets/img/pics/Liu-Xiao02.png
-    others: In Press, 2023
+    others: vol. 54, no. 2, pp. 729-740, 2024
 
   - title: "Dynamic Submodular-Based Learning Strategy in Imbalanced Drifting Streams for Real-Time Safety Assessment in Nonstationary Environments"
     authors: <strong>Zeyi Liu</strong>, Xiao He* (*Corresponding author)
