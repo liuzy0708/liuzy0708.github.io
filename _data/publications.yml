@@ -1,5 +1,15 @@
 main:
 
+  - title: "Game-theoretic expert importance evaluation model guided by cooperation effects for social network group decision making"
+    authors: <strong>Zeyi Liu</strong>, Tao Wen, Yong Deng*, and Hamido Fujita (*Corresponding author)
+    conference_short: IEEE TCYB
+    conference: "IEEE Transactions on Emerging Topics in Computational Intelligence"
+    notes: IF = 5.3
+    pdf: 
+    bibtex:
+    image: ./assets/img/pics/LiuD03.png
+    others: Accepted, 2024
+
   - title: "Dynamic model interpretation-guided online active learning scheme for real-time safety assessment"
     authors: Xiao He, <strong>Zeyi Liu</strong>* (*Corresponding author)
     conference_short: IEEE TCYB
