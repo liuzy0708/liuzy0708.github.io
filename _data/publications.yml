@@ -2,7 +2,7 @@ main:
 
   - title: "Game-theoretic expert importance evaluation model guided by cooperation effects for social network group decision making"
     authors: <strong>Zeyi Liu</strong>, Tao Wen, Yong Deng*, and Hamido Fujita (*Corresponding author)
-    conference_short: IEEE TCYB
+    conference_short: IEEE TETCI
     conference: "IEEE Transactions on Emerging Topics in Computational Intelligence"
     notes: IF = 5.3
     pdf: 
