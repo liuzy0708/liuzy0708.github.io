@@ -43,3 +43,15 @@
 <h4 style="margin:0 10px 0;">Social Services</h4>
 
 * ** Invited Session Organizer for ICAIS & ISAS**  2024
+
+<h4 style="margin:0 10px 0;">Talks and Presentations</h4>
+
+* *Real-time Safety Assessment of Dynamic Systems in Non-stationary Environments: A Review of Methods and Techniques*,  ** CAA SAFEPROCESS 2023**, in Sept., Yibin, Sichuan, China
+
+
+
+
+
+
+
+
