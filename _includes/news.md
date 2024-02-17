@@ -3,6 +3,7 @@
 <h2 style="margin: 60px 0px 10px;">📰 News</h2>
 
 <ul>
+<li><strong>[Feb. 2024]</strong> One paper has been accepted by the <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385">IEEE TNNLS</a>.</li>
 <li><strong>[Jan. 2024]</strong> One paper has been accepted by the <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7433297">IEEE TETCI</a>.</li>
 <li><strong>[Dec. 2023]</strong> I was fortunate to receive the <strong> Outstanding Doctoral Candidate of Beijing Association of Automation</strong>.</li>
 <li><strong>[Nov. 2023]</strong> One paper has been accepted by the <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036">IEEE TCYB</a>.</li>
