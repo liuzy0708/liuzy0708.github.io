@@ -5,10 +5,11 @@ main:
     conference_short: IEEE TNNLS
     conference: "IEEE Transactions on Neural Networks and Learning Systems"
     notes: IF = 10.4 • CAA-A • CCF-B
-    pdf: 
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10458267
     bibtex:
+    code: https://github.com/THUFDD/CADM-plus
     image: ./assets/img/pics/HuSQ01.png
-    others: Accepted, 2024
+    others: In Press, 2024
 
   - title: "Game-theoretic expert importance evaluation model guided by cooperation effects for social network group decision making"
     authors: <strong>Zeyi Liu</strong>, Tao Wen, Yong Deng*, and Hamido Fujita (*Corresponding author)
@@ -28,7 +29,7 @@ main:
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10375819
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:rHvhuErZgP0J:scholar.google.com/&output=citation&scisdr=ClGW_-5_EMLgnnPmNLI:AFWwaeYAAAAAZdDgLLK0sZInmgNg54q6F9m7mZQ&scisig=AFWwaeYAAAAAZdDgLHhYXqX3l0z-Nd1l2Dg_dWg&scisf=4&ct=citation&cd=-1&hl=zh-CN
     image: ./assets/img/pics/LiuZY08.png
-    others: Accepted, 2024
+    others: In Press, 2024
 
   - title: "Evidential Ensemble Preference-guided Learning Approach for Real-time Multi-mode Fault Diagnosis"
     authors: <strong>Zeyi Liu</strong>, Chen Li, Xiao He* (*Corresponding author)
