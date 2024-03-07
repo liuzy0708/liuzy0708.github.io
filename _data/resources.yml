@@ -1,5 +1,15 @@
 main:
 
+  - title: Multi-mode fault diagnosis datasets of gearbox under variable working conditions
+    authors: THU-FDD Research Group, MCC5 Group Shanghai Co. LTD 
+    conference_short: DATASETS
+    conference: Open-source Dataset
+    notes:
+    code: https://dx.doi.org/10.21227/p8da-cr78
+    image: ./assets/img/pics/MCC5-Tsinghua-Gearbox.png
+    others: IEEE Dataport, 2024
+
+
   - title: Deep-Sea Manned Submersible Datasets
     authors: THU-FDD Research Group
     conference_short: DATASETS

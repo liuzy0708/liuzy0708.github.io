@@ -9,15 +9,15 @@
     <!-- 在这里继续添加更多图片 -->
 </div>
 
-<p style="color: #6C3082; font-size: 22px; font-weight: bold; padding: 5px">Aranya & Yulin & Disney</p>
+<!-- <p style="color: #6C3082; font-size: 22px; font-weight: bold; padding: 5px">Aranya & Yulin & Disney</p>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
     <img src="./assets/img/pics/photo_wall_2.jpeg" alt="Aranya" style="width: 30%;">
     <img src="./assets/img/pics/Yulin03.jpeg" alt="Yulin" style="width: 30%;">
     <img src="./assets/img/pics/Disney.jpeg" alt="Disney" style="width: 30%;">
     <!-- 在这里继续添加更多图片 -->
-</div>
-
+<!-- </div> -->
+ <!-- --> 
 
 
 <!-- 这是一个注释，不会在最终渲染中显示

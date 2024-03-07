@@ -24,7 +24,7 @@
 * **Google Citation**: 
 <strong>
     <a style="color:#e74d3c; font-weight:600" href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sRkvMF8AAAAJ&citation_for_view=sRkvMF8AAAAJ:zYLM7Y9cAGgC">
-        <i id="total_citation_mtl">800+</i>
+        <i id="total_citation_mtl">200+</i>
         <i style="color:#e74d3c; font-weight:600"></i>
     </a>
 </strong>

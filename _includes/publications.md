@@ -6,7 +6,7 @@
 <div class="publications">
 <ol class="bibliography">
 
-<p style="color: #6C3082; font-size: 25px; font-weight: bold; marginal-left: 200px">Journal</p>
+<p style="color: #6C3082; font-size: 25px; font-weight: bold; marginal-left: 200px">Journals</p>
 
 
 {% for link in site.data.publications.main %}
@@ -52,7 +52,7 @@
 
 {% endfor %}
 
-<p style="color: #6C3082; font-size: 25px; font-weight: bold; marginal-left: 200px">Conference</p>
+<p style="color: #6C3082; font-size: 25px; font-weight: bold; marginal-left: 200px">Conferences</p>
 
 
 {% for link in site.data.publications.Conference %}
