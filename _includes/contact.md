@@ -8,4 +8,7 @@
 <br />
 <strong>Email:</strong> <email>liuzy21 (at) mails.tsinghua.edu.cn</email>
 <br />
+<strong>Wechat:</strong> 130-6830-0186
+<br />
 <strong>Phone:</strong> (+86) 153-2163-8693</p>
+<br />
