@@ -6,7 +6,7 @@ main:
     conference: "IEEE Transactions on Neural Networks and Learning Systems"
     notes: IF = 10.4 • CAA-A • CCF-B
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10458267
-    bibtex:
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:O96PHTjXRh8J:scholar.google.com/&output=citation&scisdr=ClGW_-5_EMLgnljem7I:AFWwaeYAAAAAZfvYg7I6fOnTN7NKdzpVKSWMcgg&scisig=AFWwaeYAAAAAZfvYg2PcIFmOndkVWrROkzxNfAo&scisf=4&ct=citation&cd=-1&hl=zh-CN
     code: https://github.com/THUFDD/CADM-plus
     image: ./assets/img/pics/HuSQ01.png
     others: In Press, 2024
@@ -16,10 +16,10 @@ main:
     conference_short: IEEE TETCI
     conference: "IEEE Transactions on Emerging Topics in Computational Intelligence"
     notes: IF = 5.3
-    pdf: 
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10473174
     bibtex:
     image: ./assets/img/pics/LiuD03.png
-    others: Accepted, 2024
+    others: In Press, 2024
 
   - title: "Dynamic model interpretation-guided online active learning scheme for real-time safety assessment"
     authors: Xiao He, <strong>Zeyi Liu</strong>* (*Corresponding author)
