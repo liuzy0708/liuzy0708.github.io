@@ -1,5 +1,18 @@
 main:
 
+
+  - title: Multi-mode fault diagnosis datasets of gearbox under variable working conditions
+    authors: Shijin Chen, <strong>Zeyi Liu</strong>, Xiao He*, Dongliang Zou, Donghua Zhou (*Corresponding author)
+    conference_short: arXiv
+    conference: "arXiv"
+    notes: Preprint
+    pdf: https://arxiv.org/pdf/2403.12521.pdf
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:slUYKvyA8DQJ:scholar.google.com/&output=citation&scisdr=ClGW_-5JEOeX66ZApzk:AFWwaeYAAAAAZgZGvzgCAWApJ0ZpvbXRzjyRwLY&scisig=AFWwaeYAAAAAZgZGv6hgtbNS13R-z_btZZr3JDY&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    code: https://ieee-dataport.org/documents/multi-mode-fault-diagnosis-datasets-gearbox-under-variable-working-conditions
+    image: ./assets/img/pics/MCC5-Tsinghua-Gearbox.png
+    others: In Press, 2024
+
+
   - title: "CADM+: confusion-based learning framework with drift detection and adaptation for chunk-level real-time safety assessment"
     authors: Songqiao Hu, <strong>Zeyi Liu</strong>, Minyue Li, Xiao He* (*Corresponding author)
     conference_short: IEEE TNNLS
