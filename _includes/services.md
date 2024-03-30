@@ -31,6 +31,8 @@
 * **Journal of Harbin Engineering University**
  
 <h4 style="margin:0 10px 0;">Conference Reviewers</h4>
+
+* **ACM SIGKDD** 2024
 * **IEEE International Conference on Control \& Automation** (ICCA) 2024
 * **IEEE Conference on Artificial Intelligence** (IEEE CAI) 2024
 * **IEEE Congress on Evolutionary Computation** (IEEE CEC) 2022, 2023
