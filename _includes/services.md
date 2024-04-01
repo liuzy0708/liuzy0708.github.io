@@ -9,14 +9,13 @@
   <li><autocolor><strong>Member</strong> of Chinese Association for Artificial Intelligence (CAAI)</autocolor></li>  
 </ul>
 
-<h4 style="margin:0 10px 0;">Student Mentoring</h4>
+<h4 style="margin:0 10px 0;">Student Mentoring Assistance</h4>
 
-
-* **Songqiao Hu**,  Tsinghua University
-* **Pengyu Han**, Beijing Institute of Technology
-* **Chen Li**, Tsinghua University
-* **Guokai Yan**, Tsinghua University
-* **Mengfei Mao**, Chongqing University
+* **Songqiao Hu**,  Tsinghua University (Graduate Student, 2022.7-Now)
+* **Pengyu Han**, Beijing Institute of Technology (Undergraduate Student, 2022.9-Now)
+* **Chen Li**, Tsinghua University (Graduate Student, 2022.5-2023.7)
+* **Guokai Yan**, Tsinghua University (Undergraduate Student, 2022.5-2022.7)
+* **Mengfei Mao**, Chongqing University (Undergraduate Student, 2022.4-2022.6)
 
 
 <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
@@ -33,7 +32,7 @@
 <h4 style="margin:0 10px 0;">Conference Reviewers</h4>
 
 * **ACM SIGKDD** 2024
-* **IEEE International Conference on Control \& Automation** (ICCA) 2024
+* **IEEE International Conference on Control & Automation** (ICCA) 2024
 * **IEEE Conference on Artificial Intelligence** (IEEE CAI) 2024
 * **IEEE Congress on Evolutionary Computation** (IEEE CEC) 2022, 2023
 * **IEEE Conference on Fuzzy Systems** (FUZZ-IEEE)  2022, 2023
