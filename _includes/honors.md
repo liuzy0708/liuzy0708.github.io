@@ -9,7 +9,6 @@
 * **National Scholarship** of P. R. China for Undergraduate Students (2020) (￥8000)
 * **Special Prize** Scholarship of Southwest Univeristy (2020) (￥10000)
 * **First Prize** Scholarship of Southwest Univeristy (2019) (￥5000)
-* **Second Prize** Scholarship of Southwest Univeristy (2018) (￥3000)
 * **TangLiXin Scholarship** (2019) (￥10000)
 * **Pinsheng Scholarship** (2019, 2020) (￥5000\*2)
 
