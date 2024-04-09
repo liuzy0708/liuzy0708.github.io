@@ -1,14 +1,14 @@
 main:
 
 
-  - title: Multi-mode fault diagnosis datasets of gearbox under variable working conditions
+  - title: "Multi-mode fault diagnosis datasets of gearbox under variable working conditions"
     authors: Shijin Chen, <strong>Zeyi Liu</strong>, Xiao He*, Dongliang Zou, Donghua Zhou (*Corresponding author)
     conference_short: arXiv
     conference: "arXiv"
     notes: Preprint
     pdf: https://arxiv.org/pdf/2403.12521.pdf
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:slUYKvyA8DQJ:scholar.google.com/&output=citation&scisdr=ClGW_-5JEOeX66ZApzk:AFWwaeYAAAAAZgZGvzgCAWApJ0ZpvbXRzjyRwLY&scisig=AFWwaeYAAAAAZgZGv6hgtbNS13R-z_btZZr3JDY&scisf=4&ct=citation&cd=-1&hl=zh-CN
-    code: https://ieee-dataport.org/documents/multi-mode-fault-diagnosis-datasets-gearbox-under-variable-working-conditions
+    code: https://data.mendeley.com/datasets/p92gj2732w/2
     image: ./assets/img/pics/MCC5-Tsinghua-Gearbox.png
     others: In Press, 2024
 
@@ -20,7 +20,7 @@ main:
     notes: IF = 10.4 • CAA-A • CCF-B
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10458267
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:O96PHTjXRh8J:scholar.google.com/&output=citation&scisdr=ClGW_-5_EMLgnljem7I:AFWwaeYAAAAAZfvYg7I6fOnTN7NKdzpVKSWMcgg&scisig=AFWwaeYAAAAAZfvYg2PcIFmOndkVWrROkzxNfAo&scisf=4&ct=citation&cd=-1&hl=zh-CN
-    code: https://github.com/THUFDD/CADM-plus
+    code: https://github.com/songqiaohu/CADM-plus
     image: ./assets/img/pics/HuSQ01.png
     others: In Press, 2024
 
@@ -41,6 +41,7 @@ main:
     notes: IF = 11.8 • CAA-A • CCF-B
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10375819
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:rHvhuErZgP0J:scholar.google.com/&output=citation&scisdr=ClGW_-5_EMLgnnPmNLI:AFWwaeYAAAAAZdDgLLK0sZInmgNg54q6F9m7mZQ&scisig=AFWwaeYAAAAAZdDgLHhYXqX3l0z-Nd1l2Dg_dWg&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    code: https://github.com/liuzy0708/DMI-LS-Demo
     image: ./assets/img/pics/LiuZY08.png
     others: In Press, 2024
 
@@ -91,6 +92,7 @@ main:
     notes: IF = 10.4 • CAA-A • CCF-B
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10195233
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:CYNXg8zhtt8J:scholar.google.com/&output=citation&scisdr=ClEdj3QUEMLgnqb5m-Q:AFWwaeYAAAAAZQX_g-TTmN4I2IS-ZhrmCU8-zo0&scisig=AFWwaeYAAAAAZQX_g1ckzX2kUNvkOkR4mMQp7gQ&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    code: https://github.com/liuzy0708/DSLS-Demo
     image: ./assets/img/pics/LiuZY10-2.png
     others: vol. 35, no. 3, pp. 3038-3051, 2024
 
@@ -111,6 +113,7 @@ main:
     notes: IF = 8.5 • CAA-A • CCF-B
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10105849
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:iak8c4J4RUIJ:scholar.google.com/&output=citation&scisdr=ClGd7gItEMLgnqX9oZA:AFWwaeYAAAAAZQb7uZDH0NhuO9tTWPZFJsKXI0M&scisig=AFWwaeYAAAAAZQb7uS5D53dfiKBnQXq9zrJoCH8&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    code: https://github.com/liuzy0708/Awesome_OL
     image: ./assets/img/pics/LiuZY05.png
     others: vol. 24, no. 9, pp. 10076-10086, Sept. 2023
 

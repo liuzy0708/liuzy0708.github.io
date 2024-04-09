@@ -1,14 +1,23 @@
 main:
 
-  - title: Multi-mode fault diagnosis datasets of gearbox under variable working conditions
+  - title: "Awesome_OL: A General Toolkit for Online Learning Approaches"
+    authors: THU-FDD Research Group
+    conference_short: Toolkit
+    conference: Open-source Codes
+    notes: Ongoing updates
+    code: https://github.com/liuzy0708/Awesome_OL
+    image: ./assets/img/pics/Awesome_OL.png
+    others: GitHub, 2024
+
+
+  - title: Multi-mode Fault Diagnosis Datasets of Gearbox Under Variable Working Conditions
     authors: THU-FDD Research Group, MCC5 Group Shanghai Co. LTD 
     conference_short: DATASETS
     conference: Open-source Dataset
-    notes:
+    notes: Part I of our collaboration
     code: https://dx.doi.org/10.21227/p8da-cr78
     image: ./assets/img/pics/MCC5-Tsinghua-Gearbox.png
     others: IEEE Dataport, 2024
-
 
   - title: Deep-Sea Manned Submersible Datasets
     authors: THU-FDD Research Group
@@ -19,13 +28,12 @@ main:
     image: ./assets/img/pics/jiaolong.png
     others: Github, 2023
 
-
   - title: Concept Drift Benckmark Datasets
     authors: THU-FDD Research Group
     conference_short: DATASETS
     conference: Open-source Dataset
     notes:
-    code: https://github.com/THUFDD/THU-Concept-Drift-Datasets
+    code: https://github.com/songqiaohu/THU-Concept-Drift-Datasets-v1.0
     image: ./assets/img/pics/figure_nonlinear_gradual_rollingtorus_noise_and_redunce.gif
     others: Github, 2023
 
@@ -34,7 +42,7 @@ main:
     conference_short: DATASETS
     conference: Open-source Dataset
     notes:
-    code: https://github.com/THUFDD/Multi-mode-Fault-Diagnosis-Datasets-with-TE-process
+    code: https://github.com/Lichen0102/Multi-mode-Fault-Diagnosis-Datasets-with-TE-process
     image: ./assets/img/pics/image-20230112105115641.jpeg
     others: Github, 2023
 
@@ -43,6 +51,6 @@ main:
     conference_short: DATASETS
     conference: Open-source Dataset
     notes:
-    code: https://github.com/THUFDD/CFD_datasets
+    code: https://github.com/liuzy0708/Compound-Fault-Diagnosis-Datasets
     image: ./assets/img/pics/CFD_2.png
     others: Github, 2022
