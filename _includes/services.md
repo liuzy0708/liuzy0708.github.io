@@ -28,21 +28,23 @@
 * **Systems Science and Control Engineering** (SSCE)
 * **Journal of Engineering** (JoE)
 * **Journal of Harbin Engineering University**
+* **Digital Chemical Engineering**
  
 <h4 style="margin:0 10px 0;">Conference Reviewers</h4>
 
 * **ACM SIGKDD** 2024
-* **IEEE International Conference on Control & Automation** (ICCA) 2024
-* **IEEE Conference on Artificial Intelligence** (IEEE CAI) 2024
-* **IEEE Congress on Evolutionary Computation** (IEEE CEC) 2022, 2023
-* **IEEE Conference on Fuzzy Systems** (FUZZ-IEEE)  2022, 2023
-* **International Joint Conference on Neural Network** (IJCNN) 2022
-* **Chinese Control Conference** (CCC) 2022 2023
-* **China Automation Congress** (CAC) 2022 2023
-* **Chinese Process Control Conference** (CPCC) 2023
-* **CAA Symposium on Fault Detection, Supervision, and Safety for Technical Processes (CAA SAFEPROCESS)** 2023
-* **Conference on Fully Actuated System Theory and Applications (FASTA)** 2024
+* **ICCA** 2024
+* **IEEE CAI** 2024
+* **IEEE CEC** 2022, 2023
+* **FUZZ-IEEE** 2022, 2023
+* **IJCNN** 2022
+* **CCC** 2022 2023
+* **CAC** 2022 2023
+* **CPCC** 2023
+* **CAA SAFEPROCESS** 2023
+* **FASTA** 2024
 * **ICAIS & ISAS** 2024
+* **ASCC** 2024
 
 <h4 style="margin:0 10px 0;">Social Services</h4>
 
