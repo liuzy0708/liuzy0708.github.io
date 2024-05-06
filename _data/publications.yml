@@ -1,5 +1,15 @@
 main:
 
+  - title: "Contrastive preference-guided active learning approach based on ranking correlation for chunk-level real-time safety assessment"
+    authors: <strong>Zeyi Liu</strong>, Xiao He* (*Corresponding author)
+    conference_short: IEEE TASE
+    conference: "IEEE Transactions on Automation Science and Engineering"
+    notes: IF = 5.6 • CAA-A+ • CCF-B
+    pdf: 
+    bibtex:
+    code: 
+    image: ./assets/img/pics/LiuZY02_1.png
+    others: In Press, 2024
 
   - title: "Multi-mode fault diagnosis datasets of gearbox under variable working conditions"
     authors: Shijin Chen, <strong>Zeyi Liu</strong>, Xiao He*, Dongliang Zou, Donghua Zhou (*Corresponding author)
