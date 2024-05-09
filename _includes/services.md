@@ -58,6 +58,7 @@
 <h4 style="margin:0 10px 0;">Talks and Presentations</h4>
 
 * Real-time Safety Assessment of Dynamic Systems in Non-stationary Environments: A Review of Methods and Techniques,  *CAA SAFEPROCESS 2023*, in Sept., Yibin, Sichuan, China
+* Real-time Safety Assessment of Dynamic Systems: Research Paradigms, Analysis, and Challenges, *ICAIS&ISAS 2024*, in May, Chongqing, China
 
 
 
