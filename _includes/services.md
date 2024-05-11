@@ -52,7 +52,7 @@
 
 <h4 style="margin:0 10px 0;">PC Member</h4>
 
-* Co-Chair of *Learning-based Real-time Fault Diagnosis and Safety Control Ⅰ* Session in ICAIS & ISAS  2024
+* Co-Chair of *Learning-based Real-time Fault Diagnosis and Safety Control* Session in ICAIS & ISAS  2024
 
 <h4 style="margin:0 10px 0;">Talks and Presentations</h4>
 
