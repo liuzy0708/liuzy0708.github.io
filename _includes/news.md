@@ -3,6 +3,7 @@
 <h2 style="margin: 60px 0px 10px;">📰 News</h2>
 
 <ul>
+<li><strong>[May 2024]</strong> One paper has been accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?reload=true&punumber=19">IEEE TIM</a>.</li>
 <li><strong>[May 2024]</strong> One paper has been accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8856">IEEE TASE</a>.</li>
 <li><strong>[Apr. 2024]</strong> The personal Google Scholar citations has reached 300.</li>
 <li><strong>[Feb. 2024]</strong> One paper has been accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385">IEEE TNNLS</a>.</li>
@@ -29,7 +30,7 @@
 <li><strong>[Oct. 2022]</strong> Fortunate to recieve <strong> National Scholarship of P. R. China for Graduates. </strong></li>
 <li><strong>[Oct. 2022]</strong> I have completed my National Scholarship defense : )</li>
 <li><strong>[Aug. 2022]</strong> One paper has been accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=87">IEEE TCST</a>.</li>
-<!--<li> <a href="javascript:toggle_vis('newsmore')">Show more</a> </li>-->
+<li> <a href="javascript:toggle_vis('newsmore')">Show more</a> </li>
  <div id="newsmore" style="display:none"> 
 <li><strong>[Jun. 2022]</strong> One paper has been accepted by <a href="http://2022.cn-tcpc.org/home/"> CPCC 2022</a>.</li>
   <li><strong>[Aug. 2021]</strong> One paper has been accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?reload=true&punumber=19">IEEE TIM</a>.</li>

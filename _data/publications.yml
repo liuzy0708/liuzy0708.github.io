@@ -1,5 +1,16 @@
 main:
 
+  - title: "Imbalanced real-time fault diagnosis based on minority-prioritized online semi-supervised random vector functional link network"
+    authors: Pengyu Han, Shijin Chen, <strong>Zeyi Liu</strong>, Xiao He* (*Corresponding author)
+    conference_short: IEEE TIM
+    conference: "IEEE Transactions on Instrumentation and Measurement"
+    notes: IF = 5.6 • CAA-B
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10530529
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:tVjeOob1zycJ:scholar.google.com/&output=citation&scisdr=ClHstp_fEMLgnemp6cg:AFWwaeYAAAAAZkqv8cg-oFKp39kfsFK8_Kx2d_A&scisig=AFWwaeYAAAAAZkqv8QS3OLMCQRPpIJwH5sGFprw&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    code: https://github.com/THUFDD/MPOS-RVFL
+    image: ./assets/img/pics/HanPY01.png
+    others: In Press, 2024
+
   - title: "Contrastive preference-guided active learning approach based on ranking correlation for chunk-level real-time safety assessment"
     authors: <strong>Zeyi Liu</strong>, Xiao He* (*Corresponding author)
     conference_short: IEEE TASE
@@ -7,7 +18,6 @@ main:
     notes: IF = 5.6 • CAA-A+ • CCF-B
     pdf: 
     bibtex:
-    code: 
     image: ./assets/img/pics/LiuZY02_1.png
     others: In Press, 2024
 
