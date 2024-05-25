@@ -3,6 +3,7 @@
 <h2 style="margin: 60px 0px 10px;">📰 News</h2>
 
 <ul>
+<li><strong>[May 2024]</strong> One paper has been accepted by <a href="http://2024.cn-tcpc.org/home/"> CPCC 2024</a>.</li>
 <li><strong>[May 2024]</strong> One paper has been accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?reload=true&punumber=19">IEEE TIM</a>.</li>
 <li><strong>[May 2024]</strong> One paper has been accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8856">IEEE TASE</a>.</li>
 <li><strong>[Apr. 2024]</strong> The personal Google Scholar citations has reached 300.</li>
