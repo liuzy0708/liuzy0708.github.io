@@ -24,6 +24,7 @@
 * **IEEE Transactions on Neural Networks and Learning Systems** (IEEE TNNLS) 
 * **IEEE Transactions on Cybernetics** (IEEE TCYB)
 * **Scientific Reports**
+* **Energy**
 * **Journal of Computational and Cognitive Engineering** (JCCE)
 * **Systems Science and Control Engineering** (SSCE)
 * **Journal of Engineering** (JoE)
