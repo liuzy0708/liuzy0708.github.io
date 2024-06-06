@@ -11,41 +11,42 @@
 
 <h4 style="margin:0 10px 0;">Student Mentoring Assistance</h4>
 
-* **Songqiao Hu**,  Tsinghua University (Graduate Student, 2022.7-Now)
-* **Pengyu Han**, Beijing Institute of Technology (Undergraduate Student, 2022.9-Now)
+* **Songqiao Hu**,  Tsinghua University (Graduate Student, 2022.7-Present)
+* **Pengyu Han**, Beijing Institute of Technology (Undergraduate Student, 2022.9-Present)
 * **Chen Li**, Tsinghua University (Graduate Student, 2022.5-2023.7)
 * **Guokai Yan**, Tsinghua University (Undergraduate Student, 2022.5-2022.7)
 * **Mengfei Mao**, Chongqing University (Undergraduate Student, 2022.4-2022.6)
 
 
 <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
-
-* **IEEE Transactions on on Pattern Analysis and Machine Intelligence** (IEEE TPAMI) 
-* **IEEE Transactions on Neural Networks and Learning Systems** (IEEE TNNLS) 
-* **IEEE Transactions on Cybernetics** (IEEE TCYB)
-* **Scientific Reports**
-* **Energy**
-* **Journal of Computational and Cognitive Engineering** (JCCE)
-* **Systems Science and Control Engineering** (SSCE)
-* **Journal of Engineering** (JoE)
-* **Journal of Harbin Engineering University**
-* **Digital Chemical Engineering**
- 
+<ul style="list-style-type:disc; margin-left:20px;">
+    <li>IEEE Transactions on Pattern Analysis and Machine Intelligence</li>
+    <li>IEEE Transactions on Neural Networks and Learning Systems</li>
+    <li>IEEE Transactions on Cybernetics</li>
+    <li>Scientific Reports</li>
+    <li>Energy</li>
+    <li>Journal of Computational and Cognitive Engineering </li>
+    <li>Systems Science and Control Engineering</li>
+    <li>Journal of Engineering</li>
+    <li>Journal of Harbin Engineering University</li>
+    <li>Digital Chemical Engineering</li>
+</ul>
 <h4 style="margin:0 10px 0;">Conference Reviewers</h4>
-
-* **ACM SIGKDD** 2024
-* **ICCA** 2024
-* **IEEE CAI** 2024
-* **IEEE CEC** 2022, 2023
-* **FUZZ-IEEE** 2022, 2023
-* **IJCNN** 2022
-* **CCC** 2022 2023
-* **CAC** 2022 2023
-* **CPCC** 2023
-* **CAA SAFEPROCESS** 2023
-* **FASTA** 2024
-* **ICAIS & ISAS** 2024
-* **ASCC** 2024
+<ul style="list-style-type:disc; margin-left:20px;">
+    <li>ACM SIGKDD 2024</li>
+    <li>ICCA 2024</li>
+    <li>IEEE CAI 2024</li>
+    <li>IEEE CEC 2022, 2023</li>
+    <li>FUZZ-IEEE 2022, 2023</li>
+    <li>IJCNN 2022</li>
+    <li>CCC 2022, 2023</li>
+    <li>CAC 2022, 2023</li>
+    <li>CPCC 2023</li>
+    <li>CAA SAFEPROCESS 2023</li>
+    <li>FASTA 2024</li>
+    <li>ICAIS & ISAS 2024</li>
+    <li>ASCC 2024</li>
+</ul>
 
 <h4 style="margin:0 10px 0;">Social Services</h4>
 

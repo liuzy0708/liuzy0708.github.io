@@ -9,10 +9,11 @@ layout: homepage
 
 <span style="font-size: 23px;">Welcome to my personal homepage👋</span>
 
-<span style="font-size: 20px;">I am currently a Ph.D. candidate in the Department of Automation, Tsinghua University. My research interests include *online learning*, *explainable artificial intelligence*, *information fusion techniques*, and their applications in *multi-mode fault diagnosis* and *real-time safety assessment* of dynamic systems. Currently, I focus on applying stream learning techniques under constrained annotations to the complex dynamic systems in industrial processes.</span>
+<span style="font-size: 20px;">I am currently a Ph.D. candidate in the Department of Automation at Tsinghua University, with Prof. <a href="https://www.au.tsinghua.edu.cn/info/1092/1527.htm">Xiao He</a> and Prof. <a href="https://www.au.tsinghua.edu.cn/info/1110/1582.htm">Donghua Zhou</a> at the Research Center of Safety Control Technology. Prior to that, I received my B.E. degree from Southwest University, majoring in computer science and technology. During that time, I served as a research assistant in the Laboratory of Information Fusion and Intelligent Science, led by Prof. <a href="https://scholar.google.com/citations?user=Zuhod6sAAAAJ&hl=zh-CN&oi=ao">Yong Deng</a>.
+</span>
 
 <span style="font-size: 20px;">
-    I obtained my B.E. degree with the School of Computer and Information Science at Southwest University. My major was computer science and technology. During my undergraduate studies, I served as a research assistant in the research groups of Prof. <a href="https://scholar.google.com/citations?user=Zuhod6sAAAAJ&hl=zh-CN&oi=ao">Y. Deng</a> and Prof. F. Xiao, respectively, and carried out research work related to intelligent decision science. I was then recommended to pursue a Ph.D. degree in the Department of Automation at Tsinghua University directly, majoring in control science and control engineering. I am currently supervised by Prof. <a href="https://www.au.tsinghua.edu.cn/info/1092/1527.htm">X. He</a> and Prof. <a href="https://www.au.tsinghua.edu.cn/info/1110/1582.htm">D.-H. Zhou</a> from <a href="https://www.au.tsinghua.edu.cn/index.htm">Department of Automation</a>, Tsinghua University.
+    My research interests include *online learning* and its applications in *multi-mode fault diagnosis* and *real-time safety assessment* of dynamic systems. Currently, I focus on applying stream learning techniques under constrained annotations to the complex dynamic systems in industrial processes.
 </span>
 
 

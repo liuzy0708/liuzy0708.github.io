@@ -1,6 +1,6 @@
 main:
 
-  - title: "Imbalanced real-time fault diagnosis based on minority-prioritized online semi-supervised random vector functional link network"
+  - title: "Imbalanced Real-Time Fault Diagnosis Based on Minority-Prioritized Online Semi-Supervised Random Vector Functional Link Network"
     authors: Pengyu Han, Shijin Chen, <strong>Zeyi Liu</strong>, Xiao He* (*Corresponding author)
     conference_short: IEEE TIM
     conference: "IEEE Transactions on Instrumentation and Measurement"
@@ -9,19 +9,19 @@ main:
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:tVjeOob1zycJ:scholar.google.com/&output=citation&scisdr=ClHstp_fEMLgnemp6cg:AFWwaeYAAAAAZkqv8cg-oFKp39kfsFK8_Kx2d_A&scisig=AFWwaeYAAAAAZkqv8QS3OLMCQRPpIJwH5sGFprw&scisf=4&ct=citation&cd=-1&hl=zh-CN
     code: https://github.com/THUFDD/MPOS-RVFL
     image: ./assets/img/pics/HanPY01.png
-    others: In Press, 2024
+    others: vol. 73, pp. 1-10, 2024
 
-  - title: "Contrastive preference-guided active learning approach based on ranking correlation for chunk-level real-time safety assessment"
+  - title: "Contrastive Preference-Guided Active Learning Approach Based on Ranking Correlation for Chunk-Level Real-Time Safety Assessment"
     authors: <strong>Zeyi Liu</strong>, Xiao He* (*Corresponding author)
     conference_short: IEEE TASE
     conference: "IEEE Transactions on Automation Science and Engineering"
     notes: IF = 5.6 • CAA-A+ • CCF-B
-    pdf: 
-    bibtex:
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10538239
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:P-kFMG9eV0EJ:scholar.google.com/&output=citation&scisdr=ClHstp_fEMLgncEH2U8:AFWwaeYAAAAAZmIBwU8ifHxmA404yFEFjz2AnYc&scisig=AFWwaeYAAAAAZmIBwSe-0hZM_1qiBjqYSZcnYYs&scisf=4&ct=citation&cd=-1&hl=zh-CN
     image: ./assets/img/pics/LiuZY02_1.png
     others: In Press, 2024
 
-  - title: "Multi-mode fault diagnosis datasets of gearbox under variable working conditions"
+  - title: "Multi-Mode Fault Diagnosis Datasets of Gearbox Under Variable Working Conditions"
     authors: Shijin Chen, <strong>Zeyi Liu</strong>, Xiao He*, Dongliang Zou, Donghua Zhou (*Corresponding author)
     conference_short: DIB
     conference: "Data in Brief"
@@ -30,10 +30,9 @@ main:
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:slUYKvyA8DQJ:scholar.google.com/&output=citation&scisdr=ClGW_-5JEOeX66ZApzk:AFWwaeYAAAAAZgZGvzgCAWApJ0ZpvbXRzjyRwLY&scisig=AFWwaeYAAAAAZgZGv6hgtbNS13R-z_btZZr3JDY&scisf=4&ct=citation&cd=-1&hl=zh-CN
     code: https://data.mendeley.com/datasets/p92gj2732w/2
     image: ./assets/img/pics/MCC5-Tsinghua-Gearbox.png
-    others: In Press, 2024
+    others: vol. 54, no. 110453, 2024
 
-
-  - title: "CADM+: confusion-based learning framework with drift detection and adaptation for chunk-level real-time safety assessment"
+  - title: "CADM+: Confusion-Based Learning Framework with Drift Detection and Adaptation for Chunk-Level Real-Time Safety Assessment"
     authors: Songqiao Hu, <strong>Zeyi Liu</strong>, Minyue Li, Xiao He* (*Corresponding author)
     conference_short: IEEE TNNLS
     conference: "IEEE Transactions on Neural Networks and Learning Systems"
@@ -44,17 +43,17 @@ main:
     image: ./assets/img/pics/HuSQ01.png
     others: In Press, 2024
 
-  - title: "Game-theoretic expert importance evaluation model guided by cooperation effects for social network group decision making"
+  - title: "Game-Theoretic Expert Importance Evaluation Model Guided by Cooperation Effects for Social Network Group Decision Making"
     authors: <strong>Zeyi Liu</strong>, Tao Wen, Yong Deng*, and Hamido Fujita (*Corresponding author)
     conference_short: IEEE TETCI
     conference: "IEEE Transactions on Emerging Topics in Computational Intelligence"
     notes: IF = 5.3
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10473174
-    bibtex:
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:Z2t2kFPAFEgJ:scholar.google.com/&output=citation&scisdr=ClHstp_fEMLgncEHT3Q:AFWwaeYAAAAAZmIBV3Ra89LgfggXpLuWGKWyOlU&scisig=AFWwaeYAAAAAZmIBV0YmWVrhJGF_3sxEAygafT4&scisf=4&ct=citation&cd=-1&hl=zh-CN
     image: ./assets/img/pics/LiuD03.png
     others: In Press, 2024
 
-  - title: "Dynamic model interpretation-guided online active learning scheme for real-time safety assessment"
+  - title: "Dynamic Model Interpretation-Guided Online Active Learning Scheme for Real-Time Safety Assessment"
     authors: Xiao He, <strong>Zeyi Liu</strong>* (*Corresponding author)
     conference_short: IEEE TCYB
     conference: "IEEE Transactions on Cybernetics"
@@ -63,7 +62,7 @@ main:
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:rHvhuErZgP0J:scholar.google.com/&output=citation&scisdr=ClGW_-5_EMLgnnPmNLI:AFWwaeYAAAAAZdDgLLK0sZInmgNg54q6F9m7mZQ&scisig=AFWwaeYAAAAAZdDgLHhYXqX3l0z-Nd1l2Dg_dWg&scisf=4&ct=citation&cd=-1&hl=zh-CN
     code: https://github.com/liuzy0708/DMI-LS-Demo
     image: ./assets/img/pics/LiuZY08.png
-    others: In Press, 2024
+    others: vol. 54, no. 5, pp. 2734-2745, 2024
 
   - title: "Evidential Ensemble Preference-guided Learning Approach for Real-time Multi-mode Fault Diagnosis"
     authors: <strong>Zeyi Liu</strong>, Chen Li, Xiao He* (*Corresponding author)
@@ -73,7 +72,7 @@ main:
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10342662
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:A858-kw3Py8J:scholar.google.com/&output=citation&scisdr=ClGW_-5JEOeX6CMeGBk:AFWwaeYAAAAAZYMYABj2I3PK4GFdmOasDTZ-8Es&scisig=AFWwaeYAAAAAZYMYAJWgH01qSuwhYaPGEGQHf20&scisf=4&ct=citation&cd=-1&hl=zh-CN
     image: ./assets/img/pics/LiuZY09.png
-    others: In Press, 2023
+    others: vol. 20, no. 4, pp. 5495-5504, 2024
 
   - title: "A Discrimination-Guided Active Learning Method Based on Marginal Representations for Industrial Compound Fault Diagnosis"
     authors: <strong>Zeyi Liu</strong>, Jingfei Zhang, Xiao He* (*Corresponding author)
@@ -93,7 +92,7 @@ main:
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10297982
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:9m8BujBkfDcJ:scholar.google.com/&output=citation&scisdr=ClGW_-5JEOeX6CMRt_8:AFWwaeYAAAAAZYMXr_7nCOuukEw28In3Ej3d3NM&scisig=AFWwaeYAAAAAZYMXr8hV1KCG1D-uQRd_rkWT0XY&scisf=4&ct=citation&cd=-1&hl=en
     image: ./assets/img/pics/LiC02.png
-    others: In Press, 2023
+    others: vol. 73, no. 2, pp. 1231-1244, 2024
 
   - title: "A Robust Evidential Multi-source Data Fusion Approach Based on Cooperative Game Theory and Its Application in EEG"
     authors: <strong>Zeyi Liu</strong>, Fuyuan Xiao*, Chin-Teng Lin, Zehong Cao (*Corresponding author)
