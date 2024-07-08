@@ -22,8 +22,10 @@
 <ul style="list-style-type:disc; margin-left:20px;">
     <li>IEEE Transactions on Pattern Analysis and Machine Intelligence</li>
     <li>IEEE Transactions on Neural Networks and Learning Systems</li>
+    <li>IEEE Transactions on Industrial Informatics</li>
     <li>IEEE Transactions on Cybernetics</li>
     <li>Scientific Reports</li>
+    <li>Engineering Applications of Artificial Intelligence</li>
     <li>Energy</li>
     <li>Journal of Computational and Cognitive Engineering </li>
     <li>Systems Science and Control Engineering</li>
