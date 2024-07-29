@@ -5,14 +5,12 @@
 <div class="publications">
 <ol class="bibliography">
 
-<p style="color: #6C3082; font-size: 25px; font-weight: bold; marginal-left: 200px">Datasets </p>
-
 {% for link in site.data.resources.main %}
 
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 5px;padding-left: 0px;">
-    <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width: 250px; height: 120px;">
+    <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width: 260px; height: 140px;">
             <abbr class="badge">{{ link.conference_short }}</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">

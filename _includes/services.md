@@ -52,16 +52,15 @@
 
 <h4 style="margin:0 10px 0;">Social Services</h4>
 
-* ** Invited Session Organizer for ICAIS & ISAS**  2024
-
-<h4 style="margin:0 10px 0;">PC Member</h4>
-
+* Invited Session Organizer for ICAIS & ISAS  2024
 * Co-Chair of *Learning-based Real-time Fault Diagnosis and Safety Control* Session in ICAIS & ISAS  2024
 
 <h4 style="margin:0 10px 0;">Talks and Presentations</h4>
 
 * Real-time Safety Assessment of Dynamic Systems in Non-stationary Environments: A Review of Methods and Techniques,  CAA SAFEPROCESS 2023, in Sept., Yibin, Sichuan, China
-* Real-time Safety Assessment of Dynamic Systems: Research Paradigms, Analysis, and Challenges, ICAIS&ISAS 2024, in May, Chongqing, China
+* Real-time Safety Assessment of Dynamic Systems: Research Paradigms, Analysis, and Challenges, ICAIS & ISAS 2024, in May, Chongqing, China
+* Online Dynamic Semi-supervised Broad Learning System for Real-time Fault Diagnosis with Variable Working Conditions, CPCC 2024, in Jul., Sanya, Hainan, China
+
 
 
 

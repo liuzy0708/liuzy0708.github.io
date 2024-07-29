@@ -1,6 +1,6 @@
 main:
 
-  - title: "Imbalanced Real-Time Fault Diagnosis Based on Minority-Prioritized Online Semi-Supervised Random Vector Functional Link Network"
+  - title: "Imbalanced Real-Time Fault Diagnosis Based on Minority-Prioritized Online Semi-Supervised RVFL Network"
     authors: Pengyu Han, Shijin Chen, <strong>Zeyi Liu</strong>, Xiao He* (*Corresponding author)
     conference_short: IEEE TIM
     conference: "IEEE Transactions on Instrumentation and Measurement"
@@ -11,7 +11,7 @@ main:
     image: ./assets/img/pics/HanPY01.png
     others: vol. 73, pp. 1-10, 2024
 
-  - title: "Contrastive Preference-Guided Active Learning Approach Based on Ranking Correlation for Chunk-Level Real-Time Safety Assessment"
+  - title: "Contrastive Preference-Guided Active Learning Approach Based on Ranking Correlation for Chunk-Level RTSA"
     authors: <strong>Zeyi Liu</strong>, Xiao He* (*Corresponding author)
     conference_short: IEEE TASE
     conference: "IEEE Transactions on Automation Science and Engineering"
@@ -32,7 +32,7 @@ main:
     image: ./assets/img/pics/MCC5-Tsinghua-Gearbox.png
     others: vol. 54, no. 110453, 2024
 
-  - title: "CADM+: Confusion-Based Learning Framework with Drift Detection and Adaptation for Chunk-Level Real-Time Safety Assessment"
+  - title: "CADM+: Confusion-Based Learning Framework with Drift Detection and Adaptation for Chunk-Level RTSA"
     authors: Songqiao Hu, <strong>Zeyi Liu</strong>, Minyue Li, Xiao He* (*Corresponding author)
     conference_short: IEEE TNNLS
     conference: "IEEE Transactions on Neural Networks and Learning Systems"
@@ -43,7 +43,7 @@ main:
     image: ./assets/img/pics/HuSQ01.png
     others: In Press, 2024
 
-  - title: "Game-Theoretic Expert Importance Evaluation Model Guided by Cooperation Effects for Social Network Group Decision Making"
+  - title: "Game-Theoretic Expert Importance Evaluation Model Guided by Cooperation Effects for SNGDM"
     authors: <strong>Zeyi Liu</strong>, Tao Wen, Yong Deng*, and Hamido Fujita (*Corresponding author)
     conference_short: IEEE TETCI
     conference: "IEEE Transactions on Emerging Topics in Computational Intelligence"
@@ -68,13 +68,13 @@ main:
     authors: <strong>Zeyi Liu</strong>, Chen Li, Xiao He* (*Corresponding author)
     conference_short: IEEE TII
     conference: "IEEE Transactions on Industrial Informatics"
-    notes: IF = 12.3 • CAA-A+ • CCF-C
+    notes: IF = 12.3 • CAA-A+
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10342662
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:A858-kw3Py8J:scholar.google.com/&output=citation&scisdr=ClGW_-5JEOeX6CMeGBk:AFWwaeYAAAAAZYMYABj2I3PK4GFdmOasDTZ-8Es&scisig=AFWwaeYAAAAAZYMYAJWgH01qSuwhYaPGEGQHf20&scisf=4&ct=citation&cd=-1&hl=zh-CN
     image: ./assets/img/pics/LiuZY09.png
     others: vol. 20, no. 4, pp. 5495-5504, 2024
 
-  - title: "A Discrimination-Guided Active Learning Method Based on Marginal Representations for Industrial Compound Fault Diagnosis"
+  - title: "A Discrimination-Guided Active Learning Method Based on Marginal Representations for Industrial CFD"
     authors: <strong>Zeyi Liu</strong>, Jingfei Zhang, Xiao He* (*Corresponding author)
     conference_short: IEEE TASE
     conference: "IEEE Transactions on Automation Science and Engineering"
@@ -94,7 +94,7 @@ main:
     image: ./assets/img/pics/LiC02.png
     others: vol. 73, no. 2, pp. 1231-1244, 2024
 
-  - title: "A Robust Evidential Multi-source Data Fusion Approach Based on Cooperative Game Theory and Its Application in EEG"
+  - title: "A Robust Evidential Multi-source Data Fusion Approach Based on CGT and Its Application in EEG"
     authors: <strong>Zeyi Liu</strong>, Fuyuan Xiao*, Chin-Teng Lin, Zehong Cao (*Corresponding author)
     conference_short: IEEE TSMCA
     conference: "IEEE Transactions on Systems, Man, and Cybernetics: Systems"
@@ -104,7 +104,7 @@ main:
     image: ./assets/img/pics/Liu-Xiao02.png
     others: vol. 54, no. 2, pp. 729-740, 2024
 
-  - title: "Dynamic Submodular-Based Learning Strategy in Imbalanced Drifting Streams for Real-Time Safety Assessment in Nonstationary Environments"
+  - title: "Dynamic Submodular-Based Learning Strategy in Imbalanced Drifting Streams for RTSA in Nonstationary Environments"
     authors: <strong>Zeyi Liu</strong>, Xiao He* (*Corresponding author)
     conference_short: IEEE TNNLS
     conference: "IEEE Transactions on Neural Networks and Learning Systems"
@@ -136,7 +136,7 @@ main:
     image: ./assets/img/pics/LiuZY05.png
     others: vol. 24, no. 9, pp. 10076-10086, Sept. 2023
 
-  - title: "An Online Active Broad Learning Approach for Real-Time Safety Assessment of Dynamic Systems in Nonstationary Environments"
+  - title: "An Online Active Broad Learning Approach for RTSA of Dynamic Systems in Nonstationary Environments"
     authors: <strong>Zeyi Liu</strong>, Yi Zhang, Zhongjun Ding, Xiao He* (*Corresponding author)
     conference_short: IEEE TNNLS
     conference: IEEE Transactions on Neural Networks and Learning Systems
@@ -146,7 +146,7 @@ main:
     image: ./assets/img/pics/LiuZY03.png
     others: vol. 34, no. 10, pp. 6714-6724, 2023
 
-  - title: "Fault Diagnosis of Rotating Machinery with Limited Expert Interaction: A Multicriteria Active Learning Approach Based on Broad Learning System"
+  - title: "RMFD with Limited Expert Interaction: A Multicriteria Active Learning Approach Based on BLS"
     authors: <strong>Zeyi Liu</strong>, Jingfei Zhang, Xiao He*, Qinghua Zhang, Guoxi Sun, Donghua Zhou (*Corresponding author)
     conference_short: IEEE TCST
     conference: IEEE Transactions on Control Systems Technology
@@ -156,7 +156,7 @@ main:
     image: ./assets/img/pics/LiuZY04.png
     others: vol. 31, no. 2, pp. 953-960, 2023
 
-  - title: "Measure-Based Group Decision Making with Principle-Guided Social Interaction Influence for Incomplete Information: A Game Theoretic Perspective"
+  - title: "Measure-Based GDM with Principle-Guided Social Interaction Influence for Incomplete Information: A Game Theoretic Perspective"
     authors: <strong>Zeyi Liu</strong>, Yong Deng*, Ronald R. Yager (*Corresponding author)
     conference_short: IEEE TFS
     conference: IEEE Transactions on Fuzzy Systems
@@ -218,7 +218,7 @@ main:
 
 Conference:
 
-  - title: "Online Dynamic Semi-supervised Broad Learning System for Real-time Fault Diagnosis with Variable Working Conditions"
+  - title: "Online Dynamic Semi-supervised Broad Learning System for RTFD with Variable Working Conditions"
     authors: <strong>Zeyi Liu</strong>, Pengyu Han, Wei Li, Shijin Chen, Xiao He* (*Corresponding author)
     conference_short: CPCC 2024
     conference: The 34th Chinese Process Control Conference
@@ -228,7 +228,7 @@ Conference:
     image: ./assets/img/pics/CPCC2024.png
     others:
 
-  - title: "Real-Time Safety Assessment of Dynamic Systems in Non-Stationary Environments: A Review of Methods and Techniques"
+  - title: "RTSA of Dynamic Systems in Non-Stationary Environments: A Review of Methods and Techniques"
     authors: <strong>Zeyi Liu</strong>, Songqiao Hu, Xiao He* (*Corresponding author)
     conference_short: SAFEPROCESS 2023
     conference: 2023 CAA Symposium on Fault Detection, Supervision, and Safety for Technical Processes
