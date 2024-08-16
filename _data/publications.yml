@@ -1,5 +1,16 @@
 main:
 
+  - title: "Real-time Safety Assessment Techniques of Dynamic Systems (in Chinese)"
+    authors: Xiao He*, <strong>Zeyi Liu</strong>, Songqiao Hu, Chang Liu, Donghua Zhou (*Corresponding author)
+    conference_short: AAS
+    conference: "Acta Automatica Sinica"
+    notes: CAA-A, CCF-A
+    pdf: 
+    bibtex:
+    code: 
+    image: ./assets/img/pics/LiuZY11.png
+    others: In Press, 2024
+
   - title: "Imbalanced Real-Time Fault Diagnosis Based on Minority-Prioritized Online Semi-Supervised RVFL Network"
     authors: Pengyu Han, Shijin Chen, <strong>Zeyi Liu</strong>, Xiao He* (*Corresponding author)
     conference_short: IEEE TIM
