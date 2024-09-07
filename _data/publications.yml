@@ -5,8 +5,8 @@ main:
     conference_short: AAS
     conference: "Acta Automatica Sinica"
     notes: CAA-A, CCF-A
-    pdf: 
-    bibtex:
+    pdf: http://www.aas.net.cn/cn/article/doi/10.16383/j.aas.c240096
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:5VYV-WceDQsJ:scholar.google.com/&output=citation&scisdr=ClFlswKLEMLgnX93EcQ:AFWwaeYAAAAAZtxxCcS5hBpTG2EHwb2YtDUH5P4&scisig=AFWwaeYAAAAAZtxxCerDYW_QMaAU4D65-8B717U&scisf=4&ct=citation&cd=-1&hl=zh-CN
     code: 
     image: ./assets/img/pics/LiuZY11.png
     others: In Press, 2024
