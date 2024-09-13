@@ -22,3 +22,7 @@ This project uses the source code from the following repositories:
 * [pages-themes/minimal](https://github.com/pages-themes/minimal)
 
 * [AcadHomepage](https://github.com/RayeRen/acad-homepage.github.io)
+
+## Views
+![](http://profile-counter.glitch.me/liuzy0708-github-io/count.svg)
+
