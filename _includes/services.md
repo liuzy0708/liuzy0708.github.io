@@ -23,6 +23,7 @@
     <li>IEEE Transactions on Pattern Analysis and Machine Intelligence</li>
     <li>IEEE Transactions on Neural Networks and Learning Systems</li>
     <li>IEEE Transactions on Industrial Informatics</li>
+    <li>IEEE Transactions on Instrumentation & Measurement</li>
     <li>IEEE Transactions on Cybernetics</li>
     <li>Scientific Reports</li>
     <li>Engineering Applications of Artificial Intelligence</li>
