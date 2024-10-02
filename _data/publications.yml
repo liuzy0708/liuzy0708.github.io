@@ -1,5 +1,27 @@
 main:
 
+  - title: "Online Dynamic Hybrid Broad Learning System for Real-time Safety Assessment of Dynamic Systems"
+    authors: <strong>Zeyi Liu</strong>, Xiao He* (*Corresponding author)
+    conference_short: IEEE TKDE
+    conference: "IEEE Transactions on Knowledge and Data Engineering"
+    notes: CAA-A, CCF-A
+    pdf: 
+    bibtex: 
+    code: 
+    image: ./assets/img/pics/LiuZY10.png
+    others: In Press, 2024
+
+  - title: "A Review on Incremental Learning-based Fault Diagnosis of Dynamic Systems"
+    authors: <strong>Zeyi Liu</strong>, Xiao He*, Biao Huang, Donghua Zhou (*Corresponding author)
+    conference_short: TechRxiv
+    conference: " IEEE TechRxiv"
+    notes: Preprint
+    pdf: 
+    bibtex: 
+    code: 
+    image: ./assets/img/pics/LiuZY13.png
+    others: In Press, 2024
+
   - title: "Real-time Safety Assessment Techniques of Dynamic Systems (in Chinese)"
     authors: Xiao He*, <strong>Zeyi Liu</strong>, Songqiao Hu, Chang Liu, Donghua Zhou (*Corresponding author)
     conference_short: AAS
