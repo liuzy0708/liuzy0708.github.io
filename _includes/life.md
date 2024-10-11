@@ -1,4 +1,4 @@
-<!--
+
 <h1 id="life"></h1>
 
 <h2 style="margin: 60px 0px 10px;">🖼️ Photo Wall</h2>
@@ -8,7 +8,7 @@
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
     <img src="./assets/img/pics/photo_wall_4.jpeg" alt="Graduate" style="width: 100%;">
     <!-- 在这里继续添加更多图片 -->
-<!-- </div>
+ </div>
 
 <!-- <p style="color: #6C3082; font-size: 22px; font-weight: bold; padding: 5px">Aranya & Yulin & Disney</p>
 
