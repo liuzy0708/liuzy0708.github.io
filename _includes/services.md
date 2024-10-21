@@ -6,7 +6,8 @@
 
 <ul style="margin:0 0 5px;">
   <li><autocolor><strong>Member</strong> of Chinese Association of Automation (CAA)</autocolor></li>
-  <li><autocolor><strong>Member</strong> of Chinese Association for Artificial Intelligence (CAAI)</autocolor></li>  
+  <li><autocolor><strong>Member</strong> of Chinese Association for Artificial Intelligence (CAAI)</autocolor></li> 
+    <li><autocolor><strong>Member</strong> of China Computer Federation (CCF)</autocolor></li>  
 </ul>
 
 <h4 style="margin:0 10px 0;">Student Mentoring Assistance</h4>
