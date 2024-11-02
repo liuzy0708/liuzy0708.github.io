@@ -34,6 +34,8 @@
     <li>Journal of Engineering</li>
     <li>Journal of Harbin Engineering University</li>
     <li>Digital Chemical Engineering</li>
+    <li>Heliyon</li>
+
 </ul>
 <h4 style="margin:0 10px 0;">Conference Reviewers</h4>
 <ul style="list-style-type:disc; margin-left:20px;">
