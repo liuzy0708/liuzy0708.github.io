@@ -22,6 +22,7 @@
 <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
 <ul style="list-style-type:disc; margin-left:20px;">
     <li>IEEE Transactions on Pattern Analysis and Machine Intelligence</li>
+    <li>IEEE Transactions on Knowledge and Data Engineering</li>
     <li>IEEE Transactions on Neural Networks and Learning Systems</li>
     <li>IEEE Transactions on Industrial Informatics</li>
     <li>IEEE Transactions on Instrumentation & Measurement</li>
