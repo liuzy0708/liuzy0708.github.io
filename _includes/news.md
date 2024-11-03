@@ -3,7 +3,7 @@
 <h2 style="margin: 60px 0px 10px;">📰 News</h2>
 
 <ul>
-<li><strong>[Apr. 2024]</strong> The personal Google Scholar citations has reached 400.</li>
+<li><strong>[Oct. 2024]</strong> The personal Google Scholar citations has reached 400.</li>
 <li><strong>[Oct. 2024]</strong> One paper has been accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69"> IEEE TKDE</a>.</li>
 <li><strong>[Jul. 2024]</strong> One survey paper has been accepted by <a href="http://www.aas.net.cn"> Acta Automatica Sinica</a>.</li>
 <li><strong>[Jul. 2024]</strong> One paper has been accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9984155"> IEEE TICPS</a>.</li>
