@@ -5,22 +5,22 @@ main:
     conference_short: IEEE TKDE
     conference: "IEEE Transactions on Knowledge and Data Engineering"
     notes: CAA-A, CCF-A
-    pdf: 
-    bibtex: 
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10750900
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:Vx3HiP_GZl0J:scholar.google.com/&output=citation&scisdr=ClHi8GEvEMLgnOKDXmk:AFWwaeYAAAAAZ0GFRmkZq9P2P8FVu1oz5tDFSz8&scisig=AFWwaeYAAAAAZ0GFRs0tMYHN9Xj5gA1UR8adHTQ&scisf=4&ct=citation&cd=-1&hl=zh-CN
     code: 
     image: ./assets/img/pics/LiuZY10.png
-    others: In Press, 2024
+    others: vol. 36, no. 12, pp. 8928-8938, 2024
 
   - title: "A Review on Incremental Learning-based Fault Diagnosis of Dynamic Systems"
     authors: <strong>Zeyi Liu</strong>, Xiao He*, Biao Huang, Donghua Zhou (*Corresponding author)
     conference_short: TechRxiv
     conference: " IEEE TechRxiv"
     notes: Preprint
-    pdf: 
-    bibtex: 
-    code: 
+    pdf: https://www.techrxiv.org/users/832360/articles/1225658-a-review-on-incremental-learning-based-fault-diagnosis-of-dynamic-systems
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:UG8O_Xtfc7YJ:scholar.google.com/&output=citation&scisdr=ClHi8GEvEMLgnOKDpDk:AFWwaeYAAAAAZ0GFvDkIe2ye9hLoD7tPK64JmMY&scisig=AFWwaeYAAAAAZ0GFvB5o1zrEoM7F6rQ6SDdl4vo&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    code: https://github.com/liuzy0708/ILFD_Survey
     image: ./assets/img/pics/LiuZY13.png
-    others: In Press, 2024
+    others: 2024
 
   - title: "Real-time Safety Assessment Techniques of Dynamic Systems (in Chinese)"
     authors: Xiao He*, <strong>Zeyi Liu</strong>, Songqiao Hu, Chang Liu, Donghua Zhou (*Corresponding author)
@@ -84,7 +84,7 @@ main:
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10473174
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:Z2t2kFPAFEgJ:scholar.google.com/&output=citation&scisdr=ClHstp_fEMLgncEHT3Q:AFWwaeYAAAAAZmIBV3Ra89LgfggXpLuWGKWyOlU&scisig=AFWwaeYAAAAAZmIBV0YmWVrhJGF_3sxEAygafT4&scisf=4&ct=citation&cd=-1&hl=zh-CN
     image: ./assets/img/pics/LiuD03.png
-    others: In Press, 2024
+    others: vol. 8, no. 4, pp. 2749-2761, 2024
 
   - title: "Dynamic Model Interpretation-Guided Online Active Learning Scheme for Real-Time Safety Assessment"
     authors: Xiao He, <strong>Zeyi Liu</strong>* (*Corresponding author)
@@ -115,7 +115,7 @@ main:
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10292791
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:TmT0x9wGiq4J:scholar.google.com/&output=citation&scisdr=ClGW_-5JEOeX6CMRxFU:AFWwaeYAAAAAZYMX3FTjCYIoOKdbz4P6es3J3uQ&scisig=AFWwaeYAAAAAZYMX3L_ldFatA5OfWJ5B55zuboA&scisf=4&ct=citation&cd=-1&hl=zh-CN
     image: ./assets/img/pics/LiuZY06.png
-    others: In Press, 2023
+    others: vol. 21, no. 4, pp. 6411-6422, 2024
 
   - title: "A Real-time Adaptive Fault Diagnosis Scheme for Dynamic System with Performance Degradation"
     authors: Xiao He*, Chen Li, <strong>Zeyi Liu</strong> (*Corresponding author)
