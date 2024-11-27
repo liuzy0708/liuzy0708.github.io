@@ -4,9 +4,6 @@ main:
     url: ./#contact 
     right: true 
 
-  - title: "Life"
-    url: ./#life
-
   - title: "Resources"
     url: ./#resources
 
