@@ -3,14 +3,15 @@
 <h2 style="margin: 60px 0px 10px;">🎖 Honors</h2>
 
 <h4 style="margin:0 10px 0;">Selected Scholarships</h4>
-* **National Scholarship** of P. R. China for Graduates (2023) (￥20000)
-* **Social Practice Scholarship** of Tsinghua University (2023) (￥3000)
-* **National Scholarship** of P. R. China for Graduates (2022) (￥20000)
-* **National Scholarship** of P. R. China for Undergraduate Students (2020) (￥8000)
-* **Special Prize** Scholarship of Southwest Univeristy (2020) (￥10000)
-* **First Prize** Scholarship of Southwest Univeristy (2019) (￥5000)
-* **TangLiXin Scholarship** (2019) (￥10000)
-* **Pinsheng Scholarship** (2019, 2020) (￥5000\*2)
+* **First-Prize Scholarship** of Tsinghua University (2024)
+* **National Scholarship** of P. R. China for Graduates (2023)
+* **Social Practice Scholarship** of Tsinghua University (2023)
+* **National Scholarship** of P. R. China for Graduates (2022)
+* **National Scholarship** of P. R. China for Undergraduate Students (2020)
+* **Special Prize** Scholarship of Southwest Univeristy (2020)
+* **First Prize** Scholarship of Southwest Univeristy (2019)
+* **TangLiXin Scholarship** (2019)
+* **Pinsheng Scholarship** (2019, 2020)
 
 <h4 style="margin:0 10px 0;">Main Awards</h4>
 * **Outstanding Doctoral Candidate** of Beijing Association of Automation (2023)
