@@ -13,7 +13,7 @@ layout: homepage
 </span>
 
 <span style="font-size: 20px;">
-    My research interests include *online learning* and its applications in *multi-mode fault diagnosis* and *real-time safety assessment* of dynamic systems. Currently, I focus on applying stream learning techniques under constrained annotations to the complex dynamic systems in industrial processes.
+    My research interests include *online learning* and its applications in *fault diagnosis*, and *safety assessment*, and *safety control* of dynamic systems. Currently, I focus on applying stream learning techniques under constrained annotations to the complex dynamic systems in industrial processes.
 </span>
 
 
