@@ -31,6 +31,9 @@ layout: homepage
 
 {% include_relative _includes/resources.md %}
 
+{% include_relative _includes/life.md %}
+
+
 {% include_relative _includes/contact.md %}
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=227&t=tt&d=LGj6RE6LhpFSSVGleEqnCwQSYhx0OfZ_k_oaTnm3L_g&cmn=cc3a5d&cmo=8a53ff'></script>
