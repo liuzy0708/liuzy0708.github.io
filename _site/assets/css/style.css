@@ -60,7 +60,7 @@ papertitle { font-weight: 600; font-size: 100%; }
 
 #header .image.avatar { margin: 0 0 1em 0; width: 6.00em; }
 
-h3, h4, h5, h6 { font-weight: 600; color: #50225F; margin: 0 0 20px; font-size: 100%; }
+h3, h4, h5, h6 { font-weight: 600; color: #50225F; margin: 0 0 23px; font-size: 100%; }
 
 h1 { font-weight: 600; color: #50225F; margin: 0 0 20px; }
 
@@ -76,7 +76,7 @@ a { color: #39c; text-decoration: none; }
 
 a:hover { color: #069; }
 
-a small { font-size: 11px; color: #777; margin-top: -0.3em; display: block; }
+a small { font-size: 22px; color: #777; margin-top: -0.3em; display: block; }
 
 a:hover small { color: #777; }
 
