@@ -1,5 +1,27 @@
 main:
 
+  - title: "Multi-Condition Fault Diagnosis of Dynamic Systems: A Survey, Insights, and Prospects"
+    authors: Pengyu Han, <strong>Zeyi Liu</strong>, Xiao He*, Steven X Ding, Donghua Zhou (*Corresponding author)
+    conference_short: arXiv
+    conference: "arXiv"
+    notes: Preprint
+    pdf: https://arxiv.org/pdf/2412.19497
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:fSapO6fXkm0J:scholar.google.com/&output=citation&scisdr=ClHi8GEvENPOhMSSKS8:AFWwaeYAAAAAZ3-UMS8hkWU0C04ynUpcZ9XAoGQ&scisig=AFWwaeYAAAAAZ3-UMZCXwegFvH8ZwCuqm7aDr3A&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    code: https://github.com/Jay0804/Multi-Condition-Fault-Diagnosis
+    image: ./assets/img/pics/HanPY02.png
+    others: 2024
+
+  - title: "A Hierarchical Cross-modal Spatial Fusion Network for Multimodal Emotion Recognition"
+    authors: Ming Xu, Tuo Shi, Hao Zhang, <strong>Zeyi Liu</strong>, Xiao He* (*Corresponding author)
+    conference_short: IEEE TAI
+    conference: "IEEE Transactions on Artificial Intelligence"
+    notes: 
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10820048
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:Tm8nAYJcWLoJ:scholar.google.com/&output=citation&scisdr=ClHi8GEvENPOhMSVZPk:AFWwaeYAAAAAZ3-TfPmw3ZPLeDvE00yz1IzQhUg&scisig=AFWwaeYAAAAAZ3-TfAayV4HLU637uDenrgJgFrI&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    code: 
+    image: ./assets/img/pics/XuM02.png
+    others: In Press, 2024
+
   - title: "Online Dynamic Hybrid Broad Learning System for Real-time Safety Assessment of Dynamic Systems"
     authors: <strong>Zeyi Liu</strong>, Xiao He* (*Corresponding author)
     conference_short: IEEE TKDE
@@ -145,7 +167,7 @@ main:
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10195233
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:CYNXg8zhtt8J:scholar.google.com/&output=citation&scisdr=ClEdj3QUEMLgnqb5m-Q:AFWwaeYAAAAAZQX_g-TTmN4I2IS-ZhrmCU8-zo0&scisig=AFWwaeYAAAAAZQX_g1ckzX2kUNvkOkR4mMQp7gQ&scisf=4&ct=citation&cd=-1&hl=zh-CN
     code: https://github.com/liuzy0708/DSLS-Demo
-    image: ./assets/img/pics/LiuZY10-2.png
+    image: ./assets/img/pics/LiuZY07.png
     others: vol. 35, no. 3, pp. 3038-3051, 2024
 
   - title: "Ivrr-PPG: An Illumination Variation Robust Remote-PPG Algorithm for Monitoring Heart Rate of Drivers"
