@@ -27,6 +27,7 @@
     <li>IEEE Transactions on Industrial Informatics</li>
     <li>IEEE Transactions on Automation Science and Engineering</li>
     <li>IEEE Transactions on Instrumentation & Measurement</li>
+    <li>IEEE Transactions on Reliability
     <li>IEEE Transactions on Cybernetics</li>
     <li>Scientific Reports</li>
     <li>Engineering Applications of Artificial Intelligence</li>
