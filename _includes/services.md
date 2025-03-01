@@ -13,7 +13,7 @@
 <h4 style="margin:0 10px 0;">Student Mentoring Assistance</h4>
 
 * **Songqiao Hu**,  Tsinghua University (Graduate Student, 2022.7-Present)
-* **Pengyu Han**, Beijing Institute of Technology (Undergraduate Student, 2022.9-Present)
+* **Pengyu Han**, Tsinghua University  (Graduate Student, 2022.9-Present)
 * **Chen Li**, Tsinghua University (Graduate Student, 2022.5-2023.7)
 * **Guokai Yan**, Tsinghua University (Undergraduate Student, 2022.5-2022.7)
 * **Mengfei Mao**, Chongqing University (Undergraduate Student, 2022.4-2022.6)
@@ -27,7 +27,7 @@
     <li>IEEE Transactions on Industrial Informatics</li>
     <li>IEEE Transactions on Automation Science and Engineering</li>
     <li>IEEE Transactions on Instrumentation & Measurement</li>
-    <li>IEEE Transactions on Reliability
+    <li>IEEE Transactions on Reliability</li>
     <li>IEEE Transactions on Cybernetics</li>
     <li>Scientific Reports</li>
     <li>Engineering Applications of Artificial Intelligence</li>
@@ -38,8 +38,8 @@
     <li>Journal of Harbin Engineering University</li>
     <li>Digital Chemical Engineering</li>
     <li>Heliyon</li>
-
 </ul>
+
 <h4 style="margin:0 10px 0;">Conference Reviewers</h4>
 <ul style="list-style-type:disc; margin-left:20px;">
     <li>ACM SIGKDD 2024</li>

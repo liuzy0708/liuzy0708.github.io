@@ -1,10 +1,21 @@
 main:
 
+  - title: "Formulating Opinion Dynamics From Belief Formation, Diffusion and Updating in Social Network Group Decision-making: Towards Developing a Holistic Framework"
+    authors: Tao Wen, Rui Zheng, Ting Wu, Zeyi Liu<strong>Zeyi Liu</strong>, Mi Zhou, Tahir Abbas Syed, Darminder Ghataoura, Yu-wang Chen*(*Corresponding author)
+    conference_short: EJOR
+    conference: "European Journal of Operational Research"
+    notes: Survey, CAA-B
+    pdf: https://pdf.sciencedirectassets.com/271700/AIP/1-s2.0-S0377221724009573/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGIaCXVzLWVhc3QtMSJGMEQCIEoNJTSsEITQegwCFzBa%2BsCTbgf4YJxGMy867cCNLfPxAiBXS8%2B3GIcqjJGl37j0%2BU9PB%2Bnlz1yFn5Zy12oqfd%2BwvSq8BQib%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAUaDDA1OTAwMzU0Njg2NSIMp%2FhrKaABezjFP777KpAF95Rj2OBGV7a7qyxcWzGtHqVW2jm8PuF3PDH%2FTWBewgensnGn9DQHmSkhDxYgZmGQPe%2FWl%2FtlULuY2zCg5upPb2%2FOJ12puUFWCj7nKaYo8nhGu7eQ7lQv2kwF6ckBBOVxBkH%2B7mdZRSrIQZhWmQLbmhGzBy3ShZ8Vb7xpdnK0AUmk0DiaogiJaCyFavDkMpP%2FaQMrO%2FFqoBIiual1bRYZyNcjc8X8icqupW1Aw%2BGugDXS1LvA1rpL0smjbv0OYdg%2FX044RqE0JaJofe99i22anQJwHthw9ppMMYfLkbqus7DOGG0xb8iBCuL27KZA1P42hAqBNAFhgnkdlm%2BSiSmTO4to0rRmNyReCM1%2B8itC29iquRayM%2BLP9TxKdPiYCaYNXKQFQUjuFjMyDKXnECkzIClNRIBHA%2BBWIlJ3lkGh2s61ayxruHYG6UkSdpOokGzjZkdn9TgLBCHMZCDyMqi%2FBLzlJ6yNmC7bl4clthj%2FrC5tvU39DDoHIOEijPVuXAUQD82qqOlqiPcc1QoQ951mhwxYXG%2BTdiIwHo1DLY78r1P%2F0y8PC7cGSFvShog36Ouz%2BOnxMCJzZehpseSyAGjLalctxeKSPTRuj27AYK2xngVAs5ha5Zkp%2F9t0gr%2BkvDSUgMwi%2FC4aWY6Sq8wImRsH1e6pZa9mXd7CRgFkM0Ax21ZeVaAcf2KsHrV%2FWHXXdDyAmZiQWiwvZ0CcJUeVup5nVlknOtpOfwOPFwT2Z9I1U1gZDPgHiKS8B%2BewggvIg8Ejjubgd8PfvjL9XF4ZhZPJwssovbJo%2Bwfydl0xEPi%2FbydyS%2BZ%2FbTOu%2FX0Ga7nk00vwjrWGpL2CvgVzJ5ZhPrJ7r8EwLCx5UfsJiczWfcYqD0ow%2BMuJvgY6sgFZQiIj4%2F22oItf6P%2F%2Fj1UmXyjT3Z%2BRS3u3ou5XuP1b9qUhxpf7zyxtBwFra1YjO5FRKLZStOStDFDaWhb4%2BoztW3mOfSHVpdYAVcwTI2CgFVJJ8IBXUv3GdVDegY953luM0FLY94tl5SI7GUsNL8EODzstCZBEWardoc2WLZ4WQ195uMm%2FU119vDVyqAXkQl3LGbUrobTvYpejY%2F1%2B2d4Y4LKLxF7KHfKKMjMkXwFKJ6hW&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20250301T021831Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYRROCO2RB%2F20250301%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=4b07161e373f3ed34cf77efbf3d83e6154fa74064a6b49d4834d92de19060791&hash=057b3abe1796ce1e684be70283725317476985ba3310e931f5110012ee3cebe4&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0377221724009573&tid=spdf-ea161012-f22f-4d62-987f-2884f8696761&sid=22076f5147e41949973be1d-65b2cfbbb212gxrqa&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&rh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=190856535e51550f520f06&rr=91952a0add8addc6&cc=cn&kca=eyJrZXkiOiJqc252WERMQlRWT053akJLTlNQQ3dRWk5Uby93a2VlV0lSMkp4WTVSUlZialdpQUVqMzYzMzNWM1FRRVM4MVZuUWhxQ0xBUWpOZUc1enlRUndoaVNjOHd4U1MvYk1IQVpPV3lMQ3h0THFmemc4cFoyUnRidTZVenFDbGhVN01xQTh5Q2FUU3cvOEErTVNKUWZxSjRpTFVKVnlIZmtHdE8veUgrMTNNRWxYMVhlOHB6RTV3PT0iLCJpdiI6ImRlMWM5MTNiMDgwMWNmYmEzYWE2NGM5NTViMzcwZDMzIn0=_1740795774763
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:swbEA29AgGQJ:scholar.google.com/&output=citation&scisdr=ClFgP8YbEIK6wX9371c:AFWwaeYAAAAAZ8Jx91fHYMyGc0DPAuGwhCAEIks&scisig=AFWwaeYAAAAAZ8Jx94BGDELp0VurlqOCC4JQBc0&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    code: 
+    image: ./assets/img/pics/WenT01.png
+    others: 2024
+
   - title: "Multi-Condition Fault Diagnosis of Dynamic Systems: A Survey, Insights, and Prospects"
     authors: Pengyu Han, <strong>Zeyi Liu</strong>, Xiao He*, Steven X Ding, Donghua Zhou (*Corresponding author)
     conference_short: arXiv
     conference: "arXiv"
-    notes: Preprint
+    notes: Survey, Preprint
     pdf: https://arxiv.org/pdf/2412.19497
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:fSapO6fXkm0J:scholar.google.com/&output=citation&scisdr=ClHi8GEvENPOhMSSKS8:AFWwaeYAAAAAZ3-UMS8hkWU0C04ynUpcZ9XAoGQ&scisig=AFWwaeYAAAAAZ3-UMZCXwegFvH8ZwCuqm7aDr3A&scisf=4&ct=citation&cd=-1&hl=zh-CN
     code: https://github.com/Jay0804/Multi-Condition-Fault-Diagnosis
@@ -37,7 +48,7 @@ main:
     authors: <strong>Zeyi Liu</strong>, Xiao He*, Biao Huang, Donghua Zhou (*Corresponding author)
     conference_short: TechRxiv
     conference: " IEEE TechRxiv"
-    notes: Preprint
+    notes: Survey, Preprint
     pdf: https://www.techrxiv.org/users/832360/articles/1225658-a-review-on-incremental-learning-based-fault-diagnosis-of-dynamic-systems
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:UG8O_Xtfc7YJ:scholar.google.com/&output=citation&scisdr=ClHi8GEvEMLgnOKDpDk:AFWwaeYAAAAAZ0GFvDkIe2ye9hLoD7tPK64JmMY&scisig=AFWwaeYAAAAAZ0GFvB5o1zrEoM7F6rQ6SDdl4vo&scisf=4&ct=citation&cd=-1&hl=zh-CN
     code: https://github.com/liuzy0708/ILFD_Survey
@@ -48,7 +59,7 @@ main:
     authors: Xiao He*, <strong>Zeyi Liu</strong>, Songqiao Hu, Chang Liu, Donghua Zhou (*Corresponding author)
     conference_short: AAS
     conference: "Acta Automatica Sinica"
-    notes: CAA-A, CCF-A
+    notes: Survey, CAA-A, CCF-A
     pdf: http://www.aas.net.cn/cn/article/doi/10.16383/j.aas.c240096
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:5VYV-WceDQsJ:scholar.google.com/&output=citation&scisdr=ClFlswKLEMLgnX93EcQ:AFWwaeYAAAAAZtxxCcS5hBpTG2EHwb2YtDUH5P4&scisig=AFWwaeYAAAAAZtxxCerDYW_QMaAU4D65-8B717U&scisf=4&ct=citation&cd=-1&hl=zh-CN
     code: 
@@ -96,7 +107,7 @@ main:
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:O96PHTjXRh8J:scholar.google.com/&output=citation&scisdr=ClGW_-5_EMLgnljem7I:AFWwaeYAAAAAZfvYg7I6fOnTN7NKdzpVKSWMcgg&scisig=AFWwaeYAAAAAZfvYg2PcIFmOndkVWrROkzxNfAo&scisf=4&ct=citation&cd=-1&hl=zh-CN
     code: https://github.com/songqiaohu/CADM-plus
     image: ./assets/img/pics/HuSQ01.png
-    others: In Press, 2024
+    others: vol. 36, no. 3, pp. 5126-5139, 2025
 
   - title: "Game-Theoretic Expert Importance Evaluation Model Guided by Cooperation Effects for SNGDM"
     authors: <strong>Zeyi Liu</strong>, Tao Wen, Yong Deng*, and Hamido Fujita (*Corresponding author)
@@ -287,7 +298,7 @@ Conference:
     authors: <strong>Zeyi Liu</strong>, Songqiao Hu, Xiao He* (*Corresponding author)
     conference_short: SAFEPROCESS 2023
     conference: 2023 CAA Symposium on Fault Detection, Supervision, and Safety for Technical Processes
-    notes: CAA-A
+    notes: Survey, CAA-A
     pdf: https://ieeexplore.ieee.org/abstract/document/10295743
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:p2KIc4NhSDEJ:scholar.google.com/&output=citation&scisdr=ClGd7gItEMLgnqQCKHg:AFWwaeYAAAAAZQcEMHizlw9uCIdRktJJ6j5is7w&scisig=AFWwaeYAAAAAZQcEMEN8rJGQWlLu4oQEzhPpV0I&scisf=4&ct=citation&cd=-1&hl=zh-CN
     image: ./assets/img/pics/LiuZY-C-01.png
