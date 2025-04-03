@@ -32,6 +32,7 @@
     <li>Scientific Reports</li>
     <li>Engineering Applications of Artificial Intelligence</li>
     <li>Energy</li>
+    <li>Measurement</li>
     <li>Journal of Computational and Cognitive Engineering </li>
     <li>Systems Science and Control Engineering</li>
     <li>Journal of Engineering</li>
