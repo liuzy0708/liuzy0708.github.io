@@ -3,6 +3,8 @@
 <h2 style="margin: 60px 0px 10px;">📰 News</h2>
 
 <ul>
+<li><strong>[Mar. 2024]</strong> The personal Google Scholar citations has reached 500.</li>
+<li><strong>[Mar. 2025]</strong> One paper has been accepted by <a href="https://www.sciencedirect.com/journal/neurocomputing">Neurocomputing</a>.</li>
 <li><strong>[Dec. 2024]</strong> One paper has been accepted by <a href="https://xplorestaging.ieee.org/xpl/RecentIssue.jsp?punumber=9078688"> IEEE TAI</a>.</li>
 <li><strong>[Dec. 2024]</strong> One survey paper has been accepted by <a href="https://www.sciencedirect.com/journal/european-journal-of-operational-research"> EJOR</a>.</li>
 <li><strong>[Dec. 2024]</strong> Fortunate to be funded by National Natural Science Foundation of China.</li>
