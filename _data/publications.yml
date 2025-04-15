@@ -1,7 +1,18 @@
 main:
 
+  - title: "A Dynamic Anchor-Based Oline Semi-Supervised Learning Approach for Fault Diagnosis Under Variable Operating Condition"
+    authors: Wei Li, <strong>Zeyi Liu</strong>, Pengyu Han, Xiao He*, Limin Wang, Tao Zhang(*Corresponding author)
+    conference_short: NeuroC
+    conference: "Neurocomputing"
+    notes: CAA-B, CCF-C
+    pdf: https://www.sciencedirect.com/science/article/abs/pii/S0925231225008094
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:6OEo12Ti0koJ:scholar.google.com/&output=citation&scisdr=ClHi8GEvEIK6wUGPSSE:AFWwaeYAAAAAZ_yJUSFUvu3GQtLf17AZWmv_-XU&scisig=AFWwaeYAAAAAZ_yJUW24ea8dkZZQkdYmtNJXy5w&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    code: 
+    image: ./assets/img/pics/LiW02.png
+    others: 2025
+
   - title: "Formulating Opinion Dynamics From Belief Formation, Diffusion and Updating in Social Network Group Decision-making: Towards Developing a Holistic Framework"
-    authors: Tao Wen, Rui Zheng, Ting Wu, Zeyi Liu<strong>Zeyi Liu</strong>, Mi Zhou, Tahir Abbas Syed, Darminder Ghataoura, Yu-wang Chen*(*Corresponding author)
+    authors: Tao Wen, Rui Zheng, Ting Wu, <strong>Zeyi Liu</strong>, Mi Zhou, Tahir Abbas Syed, Darminder Ghataoura, Yu-wang Chen*(*Corresponding author)
     conference_short: EJOR
     conference: "European Journal of Operational Research"
     notes: Survey, CAA-B
