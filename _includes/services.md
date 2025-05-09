@@ -29,6 +29,7 @@
     <li>IEEE Transactions on Instrumentation & Measurement</li>
     <li>IEEE Transactions on Reliability</li>
     <li>IEEE Transactions on Cybernetics</li>
+    <li>ACM Transactions on Knowledge Discovery from Data</li>
     <li>Scientific Reports</li>
     <li>Engineering Applications of Artificial Intelligence</li>
     <li>Energy</li>
