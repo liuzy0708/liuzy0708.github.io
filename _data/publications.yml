@@ -1,7 +1,7 @@
 main:
 
   - title: "Multi-Condition Fault Diagnosis of Dynamic Systems: A Survey, Insights, and Prospects"
-    authors: Pengyu Han, <strong>Zeyi Liu</strong>, Xiao He*, Steven X Ding, Donghua Zhou (*Corresponding author)
+    authors: Pengyu Han, <strong>Zeyi Liu</strong>, Xiao He, Steven X Ding, Donghua Zhou 
     conference_short: IEEE TASE
     conference: "IEEE Transactions on Automation Science and Engineering"
     notes: Survey, CAA-A+
@@ -12,7 +12,7 @@ main:
     others: 2024
 
   - title: "A Dynamic Anchor-Based Oline Semi-Supervised Learning Approach for Fault Diagnosis Under Variable Operating Condition"
-    authors: Wei Li, <strong>Zeyi Liu</strong>, Pengyu Han, Xiao He*, Limin Wang, Tao Zhang(*Corresponding author)
+    authors: Wei Li, <strong>Zeyi Liu</strong>, Pengyu Han, Xiao He, Limin Wang, Tao Zhang
     conference_short: NeuroC
     conference: "Neurocomputing"
     notes: CAA-B, CCF-C
@@ -23,7 +23,7 @@ main:
     others: 2025
 
   - title: "Formulating Opinion Dynamics From Belief Formation, Diffusion and Updating in Social Network Group Decision-making: Towards Developing a Holistic Framework"
-    authors: Tao Wen, Rui Zheng, Ting Wu, <strong>Zeyi Liu</strong>, Mi Zhou, Tahir Abbas Syed, Darminder Ghataoura, Yu-wang Chen*(*Corresponding author)
+    authors: Tao Wen, Rui Zheng, Ting Wu, <strong>Zeyi Liu</strong>, Mi Zhou, Tahir Abbas Syed, Darminder Ghataoura, Yu-wang Chen
     conference_short: EJOR
     conference: "European Journal of Operational Research"
     notes: Survey, CAA-B
@@ -34,7 +34,7 @@ main:
     others: 2024
 
   - title: "A Hierarchical Cross-modal Spatial Fusion Network for Multimodal Emotion Recognition"
-    authors: Ming Xu, Tuo Shi, Hao Zhang, <strong>Zeyi Liu</strong>, Xiao He* (*Corresponding author)
+    authors: Ming Xu, Tuo Shi, Hao Zhang, <strong>Zeyi Liu</strong>, Xiao He 
     conference_short: IEEE TAI
     conference: "IEEE Transactions on Artificial Intelligence"
     notes: 
@@ -45,7 +45,7 @@ main:
     others: In Press, 2024
 
   - title: "Online Dynamic Hybrid Broad Learning System for Real-time Safety Assessment of Dynamic Systems"
-    authors: <strong>Zeyi Liu</strong>, Xiao He* (*Corresponding author)
+    authors: <strong>Zeyi Liu</strong>, Xiao He 
     conference_short: IEEE TKDE
     conference: "IEEE Transactions on Knowledge and Data Engineering"
     notes: CAA-A, CCF-A
@@ -56,7 +56,7 @@ main:
     others: vol. 36, no. 12, pp. 8928-8938, 2024
 
   - title: "A Review on Incremental Learning-based Fault Diagnosis of Dynamic Systems"
-    authors: <strong>Zeyi Liu</strong>, Xiao He*, Biao Huang, Donghua Zhou (*Corresponding author)
+    authors: <strong>Zeyi Liu</strong>, Xiao He, Biao Huang, Donghua Zhou 
     conference_short: TechRxiv
     conference: " IEEE TechRxiv"
     notes: Survey, Preprint
@@ -67,7 +67,7 @@ main:
     others: 2024
 
   - title: "Real-time Safety Assessment Techniques of Dynamic Systems (in Chinese)"
-    authors: Xiao He*, <strong>Zeyi Liu</strong>, Songqiao Hu, Chang Liu, Donghua Zhou (*Corresponding author)
+    authors: Xiao He, <strong>Zeyi Liu</strong>, Songqiao Hu, Chang Liu, Donghua Zhou 
     conference_short: AAS
     conference: "Acta Automatica Sinica"
     notes: Survey, CAA-A, CCF-A
@@ -78,7 +78,7 @@ main:
     others: In Press, 2024
 
   - title: "Imbalanced Real-Time Fault Diagnosis Based on Minority-Prioritized Online Semi-Supervised RVFL Network"
-    authors: Pengyu Han, Shijin Chen, <strong>Zeyi Liu</strong>, Xiao He* (*Corresponding author)
+    authors: Pengyu Han, Shijin Chen, <strong>Zeyi Liu</strong>, Xiao He 
     conference_short: IEEE TIM
     conference: "IEEE Transactions on Instrumentation and Measurement"
     notes: CAA-B
@@ -89,17 +89,17 @@ main:
     others: vol. 73, pp. 1-10, 2024
 
   - title: "Contrastive Preference-Guided Active Learning Approach Based on Ranking Correlation for Chunk-Level RTSA"
-    authors: <strong>Zeyi Liu</strong>, Xiao He* (*Corresponding author)
+    authors: <strong>Zeyi Liu</strong>, Xiao He 
     conference_short: IEEE TASE
     conference: "IEEE Transactions on Automation Science and Engineering"
-    notes:  CAA-A+ • CCF-B
+    notes:  CAA-A+, CCF-B
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10538239
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:P-kFMG9eV0EJ:scholar.google.com/&output=citation&scisdr=ClHstp_fEMLgncEH2U8:AFWwaeYAAAAAZmIBwU8ifHxmA404yFEFjz2AnYc&scisig=AFWwaeYAAAAAZmIBwSe-0hZM_1qiBjqYSZcnYYs&scisf=4&ct=citation&cd=-1&hl=zh-CN
     image: ./assets/img/pics/LiuZY02_1.png
     others: In Press, 2024
 
   - title: "Multi-Mode Fault Diagnosis Datasets of Gearbox Under Variable Working Conditions"
-    authors: Shijin Chen, <strong>Zeyi Liu</strong>, Xiao He*, Dongliang Zou, Donghua Zhou (*Corresponding author)
+    authors: Shijin Chen#, <strong>Zeyi Liu</strong>#, Xiao He, Dongliang Zou, Donghua Zhou 
     conference_short: DIB
     conference: "Data in Brief"
     notes: Data Article
@@ -110,10 +110,10 @@ main:
     others: vol. 54, no. 110453, 2024
 
   - title: "CADM+: Confusion-Based Learning Framework with Drift Detection and Adaptation for Chunk-Level RTSA"
-    authors: Songqiao Hu, <strong>Zeyi Liu</strong>, Minyue Li, Xiao He* (*Corresponding author)
+    authors: Songqiao Hu, <strong>Zeyi Liu</strong>, Minyue Li, Xiao He 
     conference_short: IEEE TNNLS
     conference: "IEEE Transactions on Neural Networks and Learning Systems"
-    notes: CAA-A • CCF-B
+    notes: CAA-A, CCF-B
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10458267
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:O96PHTjXRh8J:scholar.google.com/&output=citation&scisdr=ClGW_-5_EMLgnljem7I:AFWwaeYAAAAAZfvYg7I6fOnTN7NKdzpVKSWMcgg&scisig=AFWwaeYAAAAAZfvYg2PcIFmOndkVWrROkzxNfAo&scisf=4&ct=citation&cd=-1&hl=zh-CN
     code: https://github.com/songqiaohu/CADM-plus
@@ -121,7 +121,7 @@ main:
     others: vol. 36, no. 3, pp. 5126-5139, 2025
 
   - title: "Game-Theoretic Expert Importance Evaluation Model Guided by Cooperation Effects for SNGDM"
-    authors: <strong>Zeyi Liu</strong>, Tao Wen, Yong Deng*, and Hamido Fujita (*Corresponding author)
+    authors: <strong>Zeyi Liu</strong>#, Tao Wen#, Yong Deng, and Hamido Fujita 
     conference_short: IEEE TETCI
     conference: "IEEE Transactions on Emerging Topics in Computational Intelligence"
     notes: 
@@ -131,10 +131,10 @@ main:
     others: vol. 8, no. 4, pp. 2749-2761, 2024
 
   - title: "Dynamic Model Interpretation-Guided Online Active Learning Scheme for Real-Time Safety Assessment"
-    authors: Xiao He, <strong>Zeyi Liu</strong>* (*Corresponding author)
+    authors: Xiao He, <strong>Zeyi Liu</strong> 
     conference_short: IEEE TCYB
     conference: "IEEE Transactions on Cybernetics"
-    notes: CAA-A • CCF-B
+    notes: CAA-A, CCF-B
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10375819
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:rHvhuErZgP0J:scholar.google.com/&output=citation&scisdr=ClGW_-5_EMLgnnPmNLI:AFWwaeYAAAAAZdDgLLK0sZInmgNg54q6F9m7mZQ&scisig=AFWwaeYAAAAAZdDgLHhYXqX3l0z-Nd1l2Dg_dWg&scisf=4&ct=citation&cd=-1&hl=zh-CN
     code: https://github.com/liuzy0708/DMI-LS-Demo
@@ -142,7 +142,7 @@ main:
     others: vol. 54, no. 5, pp. 2734-2745, 2024
 
   - title: "Evidential Ensemble Preference-guided Learning Approach for Real-time Multi-mode Fault Diagnosis"
-    authors: <strong>Zeyi Liu</strong>, Chen Li, Xiao He* (*Corresponding author)
+    authors: <strong>Zeyi Liu</strong>, Chen Li, Xiao He 
     conference_short: IEEE TII
     conference: "IEEE Transactions on Industrial Informatics"
     notes: CAA-A+
@@ -152,40 +152,40 @@ main:
     others: vol. 20, no. 4, pp. 5495-5504, 2024
 
   - title: "A Discrimination-Guided Active Learning Method Based on Marginal Representations for Industrial CFD"
-    authors: <strong>Zeyi Liu</strong>, Jingfei Zhang, Xiao He* (*Corresponding author)
+    authors: <strong>Zeyi Liu</strong>, Jingfei Zhang, Xiao He 
     conference_short: IEEE TASE
     conference: "IEEE Transactions on Automation Science and Engineering"
-    notes: CAA-A+ • CCF-B
+    notes: CAA-A+, CCF-B
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10292791
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:TmT0x9wGiq4J:scholar.google.com/&output=citation&scisdr=ClGW_-5JEOeX6CMRxFU:AFWwaeYAAAAAZYMX3FTjCYIoOKdbz4P6es3J3uQ&scisig=AFWwaeYAAAAAZYMX3L_ldFatA5OfWJ5B55zuboA&scisf=4&ct=citation&cd=-1&hl=zh-CN
     image: ./assets/img/pics/LiuZY06.png
     others: vol. 21, no. 4, pp. 6411-6422, 2024
 
   - title: "A Real-time Adaptive Fault Diagnosis Scheme for Dynamic System with Performance Degradation"
-    authors: Xiao He*, Chen Li, <strong>Zeyi Liu</strong> (*Corresponding author)
+    authors: Xiao He, Chen Li, <strong>Zeyi Liu</strong> 
     conference_short: IEEE TR
     conference: "IEEE Transactions on Reliability"
-    notes: CAA-A • CCF-C
+    notes: CAA-A, CCF-C
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10297982
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:9m8BujBkfDcJ:scholar.google.com/&output=citation&scisdr=ClGW_-5JEOeX6CMRt_8:AFWwaeYAAAAAZYMXr_7nCOuukEw28In3Ej3d3NM&scisig=AFWwaeYAAAAAZYMXr8hV1KCG1D-uQRd_rkWT0XY&scisf=4&ct=citation&cd=-1&hl=en
     image: ./assets/img/pics/LiC02.png
     others: vol. 73, no. 2, pp. 1231-1244, 2024
 
   - title: "A Robust Evidential Multi-source Data Fusion Approach Based on CGT and Its Application in EEG"
-    authors: <strong>Zeyi Liu</strong>, Fuyuan Xiao*, Chin-Teng Lin, Zehong Cao (*Corresponding author)
+    authors: <strong>Zeyi Liu</strong>, Fuyuan Xiao, Chin-Teng Lin, Zehong Cao 
     conference_short: IEEE TSMCA
     conference: "IEEE Transactions on Systems, Man, and Cybernetics: Systems"
-    notes: CAA-A • CCF-B
+    notes: CAA-A, CCF-B
     pdf: https://ieeexplore.ieee.org/document/10281376
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:4uxSVxOjOIQJ:scholar.google.com/&output=citation&scisdr=ClHstp_fEMLgnp-LO5I:AFWwaeYAAAAAZTyNI5L5sRfiGs4n0hRADKBePSI&scisig=AFWwaeYAAAAAZTyNI1uYHWnHPfqeLTcS-7-Xb2k&scisf=4&ct=citation&cd=-1&hl=zh-CN
     image: ./assets/img/pics/Liu-Xiao02.png
     others: vol. 54, no. 2, pp. 729-740, 2024
 
   - title: "Dynamic Submodular-Based Learning Strategy in Imbalanced Drifting Streams for RTSA in Nonstationary Environments"
-    authors: <strong>Zeyi Liu</strong>, Xiao He* (*Corresponding author)
+    authors: <strong>Zeyi Liu</strong>, Xiao He 
     conference_short: IEEE TNNLS
     conference: "IEEE Transactions on Neural Networks and Learning Systems"
-    notes: CAA-A • CCF-B
+    notes: CAA-A, CCF-B
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10195233
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:CYNXg8zhtt8J:scholar.google.com/&output=citation&scisdr=ClEdj3QUEMLgnqb5m-Q:AFWwaeYAAAAAZQX_g-TTmN4I2IS-ZhrmCU8-zo0&scisig=AFWwaeYAAAAAZQX_g1ckzX2kUNvkOkR4mMQp7gQ&scisf=4&ct=citation&cd=-1&hl=zh-CN
     code: https://github.com/liuzy0708/DSLS-Demo
@@ -193,7 +193,7 @@ main:
     others: vol. 35, no. 3, pp. 3038-3051, 2024
 
   - title: "Ivrr-PPG: An Illumination Variation Robust Remote-PPG Algorithm for Monitoring Heart Rate of Drivers"
-    authors: Ming Xu, Guang Zeng, Yongjun Song, Yue Cao, <strong>Zeyi Liu</strong>, Xiao He* (*Corresponding author)
+    authors: Ming Xu, Guang Zeng, Yongjun Song, Yue Cao, <strong>Zeyi Liu</strong>, Xiao He 
     conference_short: IEEE TIM
     conference: IEEE Transactions on Instrumentation and Measurement
     notes: CAA-B
@@ -203,10 +203,10 @@ main:
     others: vol. 72, no. 3515510, pp. 1-10, 2023
 
   - title: "Real-Time Safety Assessment for Dynamic Systems with Limited Memory and Annotations"
-    authors: <strong>Zeyi Liu</strong>, Xiao He* (*Corresponding author)
+    authors: <strong>Zeyi Liu</strong>, Xiao He 
     conference_short: IEEE TITS
     conference: IEEE Transactions on Intelligent Transportation Systems
-    notes: CAA-A • CCF-B
+    notes: CAA-A, CCF-B
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10105849
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:iak8c4J4RUIJ:scholar.google.com/&output=citation&scisdr=ClGd7gItEMLgnqX9oZA:AFWwaeYAAAAAZQb7uZDH0NhuO9tTWPZFJsKXI0M&scisig=AFWwaeYAAAAAZQb7uS5D53dfiKBnQXq9zrJoCH8&scisf=4&ct=citation&cd=-1&hl=zh-CN
     code: https://github.com/liuzy0708/Awesome_OL
@@ -214,17 +214,17 @@ main:
     others: vol. 24, no. 9, pp. 10076-10086, Sept. 2023
 
   - title: "An Online Active Broad Learning Approach for RTSA of Dynamic Systems in Nonstationary Environments"
-    authors: <strong>Zeyi Liu</strong>, Yi Zhang, Zhongjun Ding, Xiao He* (*Corresponding author)
+    authors: <strong>Zeyi Liu</strong>, Yi Zhang, Zhongjun Ding, Xiao He 
     conference_short: IEEE TNNLS
     conference: IEEE Transactions on Neural Networks and Learning Systems
-    notes: CAA-A • CCF-B
+    notes: CAA-A, CCF-B
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9960812
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:l5vNjiseb9sJ:scholar.google.com/&output=citation&scisdr=ClGd7gItEMLgnqX6uTY:AFWwaeYAAAAAZQb8oTYXSnmTbXoZKR5slsEE23I&scisig=AFWwaeYAAAAAZQb8obR2JpC7rZDwBE1KRX2LNnQ&scisf=4&ct=citation&cd=-1&hl=zh-CN
     image: ./assets/img/pics/LiuZY03.png
     others: vol. 34, no. 10, pp. 6714-6724, 2023
 
   - title: "RMFD with Limited Expert Interaction: A Multicriteria Active Learning Approach Based on BLS"
-    authors: <strong>Zeyi Liu</strong>, Jingfei Zhang, Xiao He*, Qinghua Zhang, Guoxi Sun, Donghua Zhou (*Corresponding author)
+    authors: <strong>Zeyi Liu</strong>, Jingfei Zhang, Xiao He, Qinghua Zhang, Guoxi Sun, Donghua Zhou 
     conference_short: IEEE TCST
     conference: IEEE Transactions on Control Systems Technology
     notes: CAA-A
@@ -234,17 +234,17 @@ main:
     others: vol. 31, no. 2, pp. 953-960, 2023
 
   - title: "Measure-Based GDM with Principle-Guided Social Interaction Influence for Incomplete Information: A Game Theoretic Perspective"
-    authors: <strong>Zeyi Liu</strong>, Yong Deng*, Ronald R. Yager (*Corresponding author)
+    authors: <strong>Zeyi Liu</strong>, Yong Deng, Ronald R. Yager 
     conference_short: IEEE TFS
     conference: IEEE Transactions on Fuzzy Systems
-    notes: CAA-A • CCF-B
+    notes: CAA-A, CCF-B
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9330576
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:k1v8nGffT9kJ:scholar.google.com/&output=citation&scisdr=ClGd7gItEMLgnqX4RJA:AFWwaeYAAAAAZQb-XJDZfTcKjytTMU8_6x4DAlE&scisig=AFWwaeYAAAAAZQb-XDJqw8nEVyBbUuUa9tNeP4s&scisf=4&ct=citation&cd=-1&hl=zh-CN
     image: ./assets/img/pics/LiuD02-2.png
     others: vol. 30, no. 4, pp. 1149-1163, 2022
 
   - title: "Safety Assessment of Dynamic Systems: An Evidential Group Interaction-Based Fusion Design"
-    authors: <strong>Zeyi Liu</strong>, Yong Deng, Yi Zhang, Zhongjun Ding, Xiao He* (*Corresponding author)
+    authors: <strong>Zeyi Liu</strong>, Yong Deng, Yi Zhang, Zhongjun Ding, Xiao He 
     conference_short: IEEE TIM
     conference: IEEE Transactions on Instrumentation and Measurement
     notes: CAA-B
@@ -254,40 +254,40 @@ main:
     others: vol. 70, no. 3523014, pp. 1-14, 2021
 
   - title: "A Generalized Golden Rule Representative Value for Multiple-Criteria Decision Analysis"
-    authors: <strong>Zeyi Liu</strong>, Fuyuan Xiao*, Chin-Teng Lin, Byeong Ho Kang, Zehong Cao (*Corresponding author)
+    authors: <strong>Zeyi Liu</strong>, Fuyuan Xiao, Chin-Teng Lin, Byeong Ho Kang, Zehong Cao 
     conference_short: IEEE TSMCA
     conference: "IEEE Transactions on Systems, Man, and Cybernetics: Systems"
-    notes: CAA-A • CCF-B
+    notes: CAA-A, CCF-B
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8734878
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:ydXtqqrPWmYJ:scholar.google.com/&output=citation&scisdr=ClGd7gItEMLgnqQGLJE:AFWwaeYAAAAAZQcANJFXVwaDG0aNIhKfso7JTwY&scisig=AFWwaeYAAAAAZQcANBn0giqeR9Z1x08v467sdy0&scisf=4&ct=citation&cd=-1&hl=zh-CN
     image: ./assets/img/pics/LiuXiao05.png
     others: vol. 70, no. 5, pp. 3193-3204, 2021
 
   - title: "Network-Based Evidential Three-Way Theoretic Model for Large-Scale Group Decision Analysis"
-    authors: <strong>Zeyi Liu</strong>, Xiao He, Yong Deng* (*Corresponding author)
+    authors: <strong>Zeyi Liu</strong>, Xiao He, Yong Deng 
     conference_short: INS
     conference: Information Sciences
-    notes: CAA-A+ • CCF-B
+    notes: CAA-A+, CCF-B
     pdf:
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:jNfh_kfm74QJ:scholar.google.com/&output=citation&scisdr=ClGd7gItEMLgnqQG5YM:AFWwaeYAAAAAZQcA_YP7HPPmJiIZ1Y6tqiftdy0&scisig=AFWwaeYAAAAAZQcA_d1DReor5J6fOuAdrEgnEKc&scisf=4&ct=citation&cd=-1&hl=zh-CN
     image: ./assets/img/pics/LiuD01.png
     others: vol. 547, pp. 689-709, 2021
 
   - title: "A Dynamic Group MCDM Model with Intuitionistic Fuzzy Set: Perspective of Alternative Queuing Method"
-    authors: Ran Tao, <strong>Zeyi Liu</strong>, Rui Cai*, Kanghao Cheong (*Corresponding author)
+    authors: Ran Tao, <strong>Zeyi Liu</strong>, Rui Cai, Kanghao Cheong 
     conference_short: INS
     conference: Information Sciences
-    notes: CAA-A+ • CCF-B
+    notes: CAA-A+, CCF-B
     pdf:
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:TlWp1GCn0LoJ:scholar.google.com/&output=citation&scisdr=ClGd7gItEMLgnqQH3R4:AFWwaeYAAAAAZQcBxR6EfGXijV6y3TBiJ_dExXs&scisig=AFWwaeYAAAAAZQcBxcnl5VKBAjKsT_j2_aLAv_I&scisf=4&ct=citation&cd=-1&hl=zh-CN
     image: ./assets/img/pics/TaoR01.png
     others: vol. 555, pp. 85-103, 2021
 
   - title: "An Interval-Valued Exceedance Method in MCDM with Uncertain Satisfactions"
-    authors: <strong>Zeyi Liu</strong>, Fuyuan Xiao* (*Corresponding author)
+    authors: <strong>Zeyi Liu</strong>, Fuyuan Xiao 
     conference_short: IJIS
     conference: International Journal of Intelligent Systems
-    notes: CAA-A • CCF-C
+    notes: CAA-A, CCF-C
     pdf:
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:maxi94TcnpAJ:scholar.google.com/&output=citation&scisdr=ClGd7gItEMLgnqQEibU:AFWwaeYAAAAAZQcCkbVLYfp9KeEwONFZ14bUWYE&scisig=AFWwaeYAAAAAZQcCkejd8-z0bf8ua9ds1UPMVk8&scisf=4&ct=citation&cd=-1&hl=zh-CN
     image: ./assets/img/pics/LiuXiao03.png
@@ -296,7 +296,7 @@ main:
 Conference:
 
   - title: "Online Dynamic Semi-supervised Broad Learning System for RTFD with Variable Working Conditions"
-    authors: <strong>Zeyi Liu</strong>, Pengyu Han, Wei Li, Shijin Chen, Xiao He* (*Corresponding author)
+    authors: <strong>Zeyi Liu</strong>, Pengyu Han, Wei Li, Shijin Chen, Xiao He 
     conference_short: CPCC 2024
     conference: The 34th Chinese Process Control Conference
     notes: CAA-A
@@ -306,7 +306,7 @@ Conference:
     others:
 
   - title: "RTSA of Dynamic Systems in Non-Stationary Environments: A Review of Methods and Techniques"
-    authors: <strong>Zeyi Liu</strong>, Songqiao Hu, Xiao He* (*Corresponding author)
+    authors: <strong>Zeyi Liu</strong>, Songqiao Hu, Xiao He 
     conference_short: SAFEPROCESS 2023
     conference: 2023 CAA Symposium on Fault Detection, Supervision, and Safety for Technical Processes
     notes: Survey, CAA-A
@@ -316,7 +316,7 @@ Conference:
     others:
 
   - title: "An Evidential Real-Time Multi-Mode Fault Diagnosis Approach Based on Broad Learning System"
-    authors: Chen Li, <strong>Zeyi Liu</strong>, Xiao He* (*Corresponding author)
+    authors: Chen Li, <strong>Zeyi Liu</strong>, Xiao He 
     conference_short: CPCC 2023
     conference: The 34th Chinese Process Control Conference
     notes: CAA-A
@@ -326,14 +326,14 @@ Conference:
     others:
 
   - title: "A Bearing Fault Diagnosis Method Based on Active Learning by Feature Interpolation"
-    authors: Mengfei Mao, <strong>Zeyi Liu</strong>, Xiao He* (*Corresponding author)
+    authors: Mengfei Mao, <strong>Zeyi Liu</strong>, Xiao He 
     conference_short: CPCC 2022
     conference: The 33th Chinese Process Control Conference
     notes: CAA-A
     image: ./assets/img/pics/MaoMF01.png
     
   - title: "Confusion Model for Real-Drift Detection in Chunk Data Streams"
-    authors: Songqiao Hu, <strong>Zeyi Liu</strong>, Xiao He* (*Corresponding author)
+    authors: Songqiao Hu, <strong>Zeyi Liu</strong>, Xiao He 
     conference_short: S-CUBE 2023
     conference: Proceedings of 13th EAI International Conference on Sensor Systems and Software
     notes:
