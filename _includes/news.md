@@ -3,6 +3,7 @@
 <h2 style="margin: 60px 0px 10px;">📰 News</h2>
 
 <ul>
+<li><strong>[May. 2024]</strong> One survey paper has been accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8856">IEEE TASE</a>.</li>
 <li><strong>[Apr. 2024]</strong> One paper has been accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385">IEEE TNNLS</a>.</li>
 <li><strong>[Mar. 2024]</strong> The personal Google Scholar citations has reached 500.</li>
 <li><strong>[Mar. 2025]</strong> One paper has been accepted by <a href="https://www.sciencedirect.com/journal/neurocomputing">Neurocomputing</a>.</li>

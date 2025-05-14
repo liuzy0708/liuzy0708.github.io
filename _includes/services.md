@@ -11,9 +11,9 @@
 </ul>
 
 <h4 style="margin:0 10px 0;">Student Mentoring Assistance</h4>
-
-* **Songqiao Hu**,  Tsinghua University (Graduate Student, 2022.7-Present)
-* **Pengyu Han**, Tsinghua University  (Graduate Student, 2022.9-Present)
+* **Jixin Xiao**,  Tsinghua University (Undergraduate Student, 2025.5-Present)
+* **Songqiao Hu**,  Tsinghua University (Undergraduate Student & Ph.D Candidate, 2022.7-Present)
+* **Pengyu Han**, Tsinghua University  (Undergraduate Student & Ph.D Candidate, 2022.9-Present)
 * **Chen Li**, Tsinghua University (Graduate Student, 2022.5-2023.7)
 * **Guokai Yan**, Tsinghua University (Undergraduate Student, 2022.5-2022.7)
 * **Mengfei Mao**, Chongqing University (Undergraduate Student, 2022.4-2022.6)
