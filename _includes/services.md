@@ -32,6 +32,7 @@
     <li>ACM Transactions on Knowledge Discovery from Data</li>
     <li>Scientific Reports</li>
     <li>Engineering Applications of Artificial Intelligence</li>
+    <li>Knowledge-Based Systems</li>
     <li>Energy</li>
     <li>Measurement</li>
     <li>Journal of Computational and Cognitive Engineering </li>

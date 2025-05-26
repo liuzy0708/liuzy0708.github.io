@@ -1,5 +1,16 @@
 main:
 
+  - title: "Factorization-Based Broad Learning System With Time-Dependent Structure"
+    authors: Chen Li, <strong>Zeyi Liu</strong>, Xiao He, Pengyu Han
+    conference_short: IEEE TNNLS
+    conference: "IEEE Transactions on Neural Networks and Learning Systems"
+    notes: CAA-A, CCF-B
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11008714
+    bibtex: 
+    code: https://github.com/Lichen0102/QRBLS
+    image: ./assets/img/pics/LiC03.png
+    others: In Press, 2025
+
   - title: "Multi-Condition Fault Diagnosis of Dynamic Systems: A Survey, Insights, and Prospects"
     authors: Pengyu Han, <strong>Zeyi Liu</strong>, Xiao He, Steven X Ding, Donghua Zhou 
     conference_short: IEEE TASE
@@ -9,7 +20,7 @@ main:
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:fSapO6fXkm0J:scholar.google.com/&output=citation&scisdr=ClHi8GEvENPOhMSSKS8:AFWwaeYAAAAAZ3-UMS8hkWU0C04ynUpcZ9XAoGQ&scisig=AFWwaeYAAAAAZ3-UMZCXwegFvH8ZwCuqm7aDr3A&scisf=4&ct=citation&cd=-1&hl=zh-CN
     code: https://github.com/Jay0804/Multi-Condition-Fault-Diagnosis
     image: ./assets/img/pics/HanPY02.png
-    others: 2024
+    others: In Press, 2025
 
   - title: "A Dynamic Anchor-Based Oline Semi-Supervised Learning Approach for Fault Diagnosis Under Variable Operating Condition"
     authors: Wei Li, <strong>Zeyi Liu</strong>, Pengyu Han, Xiao He, Limin Wang, Tao Zhang
@@ -20,7 +31,7 @@ main:
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:6OEo12Ti0koJ:scholar.google.com/&output=citation&scisdr=ClHi8GEvEIK6wUGPSSE:AFWwaeYAAAAAZ_yJUSFUvu3GQtLf17AZWmv_-XU&scisig=AFWwaeYAAAAAZ_yJUW24ea8dkZZQkdYmtNJXy5w&scisf=4&ct=citation&cd=-1&hl=zh-CN
     code: 
     image: ./assets/img/pics/LiW02.png
-    others: 2025
+    others: vol. 638, no. 130137, 2025
 
   - title: "Formulating Opinion Dynamics From Belief Formation, Diffusion and Updating in Social Network Group Decision-making: Towards Developing a Holistic Framework"
     authors: Tao Wen, Rui Zheng, Ting Wu, <strong>Zeyi Liu</strong>, Mi Zhou, Tahir Abbas Syed, Darminder Ghataoura, Yu-wang Chen
@@ -31,7 +42,7 @@ main:
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:swbEA29AgGQJ:scholar.google.com/&output=citation&scisdr=ClFgP8YbEIK6wX9371c:AFWwaeYAAAAAZ8Jx91fHYMyGc0DPAuGwhCAEIks&scisig=AFWwaeYAAAAAZ8Jx94BGDELp0VurlqOCC4JQBc0&scisf=4&ct=citation&cd=-1&hl=zh-CN
     code: 
     image: ./assets/img/pics/WenT01.png
-    others: 2024
+    others: vol. 325, no. 3, pp. 381-399, 2025
 
   - title: "A Hierarchical Cross-modal Spatial Fusion Network for Multimodal Emotion Recognition"
     authors: Ming Xu, Tuo Shi, Hao Zhang, <strong>Zeyi Liu</strong>, Xiao He 
@@ -42,7 +53,7 @@ main:
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:Tm8nAYJcWLoJ:scholar.google.com/&output=citation&scisdr=ClHi8GEvENPOhMSVZPk:AFWwaeYAAAAAZ3-TfPmw3ZPLeDvE00yz1IzQhUg&scisig=AFWwaeYAAAAAZ3-TfAayV4HLU637uDenrgJgFrI&scisf=4&ct=citation&cd=-1&hl=zh-CN
     code: 
     image: ./assets/img/pics/XuM02.png
-    others: In Press, 2024
+    others: vol. 6, no. 5, pp. 1429-1438, 2025
 
   - title: "Online Dynamic Hybrid Broad Learning System for Real-time Safety Assessment of Dynamic Systems"
     authors: <strong>Zeyi Liu</strong>, Xiao He 
@@ -75,7 +86,7 @@ main:
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:5VYV-WceDQsJ:scholar.google.com/&output=citation&scisdr=ClFlswKLEMLgnX93EcQ:AFWwaeYAAAAAZtxxCcS5hBpTG2EHwb2YtDUH5P4&scisig=AFWwaeYAAAAAZtxxCerDYW_QMaAU4D65-8B717U&scisf=4&ct=citation&cd=-1&hl=zh-CN
     code: 
     image: ./assets/img/pics/LiuZY11.png
-    others: In Press, 2024
+    others: vol. 51, no. 2, pp. 249-270, 2025
 
   - title: "Imbalanced Real-Time Fault Diagnosis Based on Minority-Prioritized Online Semi-Supervised RVFL Network"
     authors: Pengyu Han, Shijin Chen, <strong>Zeyi Liu</strong>, Xiao He 
