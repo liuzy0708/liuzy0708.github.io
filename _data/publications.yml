@@ -16,7 +16,7 @@ main:
     conference_short: IEEE TASE
     conference: "IEEE Transactions on Automation Science and Engineering"
     notes: Survey, CAA-A+
-    pdf: https://arxiv.org/pdf/2412.19497
+    pdf: https://ieeexplore.ieee.org/abstract/document/11007216
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:fSapO6fXkm0J:scholar.google.com/&output=citation&scisdr=ClHi8GEvENPOhMSSKS8:AFWwaeYAAAAAZ3-UMS8hkWU0C04ynUpcZ9XAoGQ&scisig=AFWwaeYAAAAAZ3-UMZCXwegFvH8ZwCuqm7aDr3A&scisf=4&ct=citation&cd=-1&hl=zh-CN
     code: https://github.com/Jay0804/Multi-Condition-Fault-Diagnosis
     image: ./assets/img/pics/HanPY02.png
