@@ -35,6 +35,7 @@
     <li>Knowledge-Based Systems</li>
     <li>Energy</li>
     <li>Measurement</li>
+    <li>Biomedical Signal Processing and Control</li>
     <li>Journal of Computational and Cognitive Engineering </li>
     <li>Systems Science and Control Engineering</li>
     <li>Journal of Engineering</li>
@@ -43,9 +44,10 @@
     <li>Heliyon</li>
 </ul>
 
-<h4 style="margin:0 10px 0;">Conference Reviewers</h4>
+<h4 style="margin:0 10px 0;">Conference Reviewers/PC Member</h4>
 <ul style="list-style-type:disc; margin-left:20px;">
     <li>ACM SIGKDD 2024</li>
+    <li>MIND 2025</li>
     <li>ICCA 2024</li>
     <li>IEEE CAI 2024</li>
     <li>IEEE CEC 2022, 2023</li>
