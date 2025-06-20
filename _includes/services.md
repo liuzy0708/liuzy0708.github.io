@@ -35,12 +35,14 @@
     <li>Knowledge-Based Systems</li>
     <li>Energy</li>
     <li>Measurement</li>
+    <li>ISA Transactions</li>
     <li>Biomedical Signal Processing and Control</li>
     <li>Journal of Computational and Cognitive Engineering </li>
     <li>Systems Science and Control Engineering</li>
     <li>Journal of Engineering</li>
     <li>Journal of Harbin Engineering University</li>
     <li>Digital Chemical Engineering</li>
+    <li>Information Processing and Management</li>
     <li>Heliyon</li>
 </ul>
 
