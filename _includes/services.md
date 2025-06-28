@@ -24,25 +24,26 @@
     <li>IEEE Transactions on Pattern Analysis and Machine Intelligence</li>
     <li>IEEE Transactions on Knowledge and Data Engineering</li>
     <li>IEEE Transactions on Neural Networks and Learning Systems</li>
-    <li>IEEE Transactions on Industrial Informatics</li>
     <li>IEEE Transactions on Automation Science and Engineering</li>
     <li>IEEE Transactions on Instrumentation & Measurement</li>
+    <li>IEEE Transactions on Industrial Informatics</li>
     <li>IEEE Transactions on Reliability</li>
     <li>IEEE Transactions on Cybernetics</li>
     <li>ACM Transactions on Knowledge Discovery from Data</li>
-    <li>Scientific Reports</li>
     <li>Engineering Applications of Artificial Intelligence</li>
-    <li>Knowledge-Based Systems</li>
-    <li>Energy</li>
-    <li>Measurement</li>
-    <li>ISA Transactions</li>
-    <li>Biomedical Signal Processing and Control</li>
-    <li>Journal of Computational and Cognitive Engineering </li>
-    <li>Systems Science and Control Engineering</li>
-    <li>Journal of Engineering</li>
-    <li>Journal of Harbin Engineering University</li>
-    <li>Digital Chemical Engineering</li>
     <li>Information Processing and Management</li>
+    <li>Expert Systems With Applications/li>
+    <li>Knowledge-Based Systems</li>
+    <li>Scientific Reports</li>
+    <li>ISA Transactions</li>
+    <li>Measurement</li>
+    <li>Energy</li>
+    <li>Journal of Computational and Cognitive Engineering </li>
+    <li>Journal of Harbin Engineering University</li>
+    <li>Biomedical Signal Processing and Control</li>
+    <li>Systems Science and Control Engineering</li>
+    <li>Digital Chemical Engineering</li>
+    <li>Journal of Engineering</li>
     <li>Heliyon</li>
 </ul>
 
