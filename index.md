@@ -9,11 +9,11 @@ layout: homepage
 
 <span style="font-size: 23px;">Welcome to my personal homepage👋</span>
 
-<span style="font-size: 22px;">I am currently a Ph.D. candidate in the Department of Automation at Tsinghua University, with Prof. <a href="https://www.au.tsinghua.edu.cn/info/1092/1527.htm">Xiao He</a> and Prof. <a href="https://www.au.tsinghua.edu.cn/info/1110/1582.htm">Donghua Zhou</a> at the Research Center of Safety Control Technology. Prior to that, I received my B.E. degree from Southwest University, majoring in computer science and technology. During that time, I served as a research assistant in the Laboratory of Information Fusion and Intelligent Science, led by Prof. <a href="https://scholar.google.com/citations?user=Zuhod6sAAAAJ&hl=zh-CN&oi=ao">Yong Deng</a>.
+<span style="font-size: 22px;">I am currently a Ph.D. candidate in the Department of Automation at Tsinghua University, working under the supervision of Prof. <a href="https://www.au.tsinghua.edu.cn/info/1092/1527.htm">Xiao He</a> and Prof. <a href="https://www.au.tsinghua.edu.cn/info/1110/1582.htm">Donghua Zhou</a> at the Research Center of Safety Control Technology. Prior to this, I received my B.E. degree in Computer Science and Technology from Southwest University. During my undergraduate studies, I worked as a research assistant in the Laboratory of Information Fusion and Intelligent Science at the University of Electronic Science and Technology of China with Prof. <a href="https://scholar.google.com/citations?user=Zuhod6sAAAAJ&hl=zh-CN&oi=ao">Yong Deng</a>, and also at Chongqing University with Prof. Fuyuan Xiao.
 </span>
 
 <span style="font-size: 22px;">
-    My research interests include *online learning* and its applications in *real-time safety assessment*, *safety control*, and *fault diagnosis* of dynamic systems. Currently, I focus on applying stream learning techniques under constrained annotations to the complex dynamic systems in industrial processes. In addition, I am also interested in applying the advanced technologies studied to address issues in environmental engineering fields such as hydrology and atmospheric science.
+    My research interests include *online learning* and its applications in *real-time safety assessment*, *safety-guaranteed control*, and *fault diagnosis* of dynamic systems, such as robotic swarms, industrial automation systems, and safety-critical cyber-physical systems. In addition, I am interested in applying the advanced process monitoring technologies developed in this context to tackle critical challenges in environmental engineering, particularly in domains such as hydrology and atmospheric science.
 </span>
 
 

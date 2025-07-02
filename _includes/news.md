@@ -9,7 +9,7 @@
 <li><strong>[Mar. 2025]</strong> One paper has been accepted by <a href="https://www.sciencedirect.com/journal/neurocomputing">Neurocomputing</a>.</li>
 <li><strong>[Dec. 2024]</strong> One paper has been accepted by <a href="https://xplorestaging.ieee.org/xpl/RecentIssue.jsp?punumber=9078688"> IEEE TAI</a>.</li>
 <li><strong>[Dec. 2024]</strong> One survey paper has been accepted by <a href="https://www.sciencedirect.com/journal/european-journal-of-operational-research"> EJOR</a>.</li>
-<li><strong>[Dec. 2024]</strong> Fortunate to be funded by National Natural Science Foundation of China.</li>
+<li><strong>[Dec. 2024]</strong> Fortunate to be funded by National Natural Science Foundation of China (for Ph.D. Candidate).</li>
 <li><strong>[Dec. 2024]</strong> Fortunate to receive the <strong> First-Prize Scholarship of Tsinghua University</strong>.</li>
 <li><strong>[Oct. 2024]</strong> The personal Google Scholar citations has reached 400.</li>
 <li><strong>[Oct. 2024]</strong> One paper has been accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69"> IEEE TKDE</a>.</li>

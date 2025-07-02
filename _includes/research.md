@@ -18,7 +18,7 @@
 
 
 <h4 style="margin: 0px 10px 0;">Research Project</h4>
-* **National Natural Science Foundation of China** under Grant 624B2087 (Hoster) 
+* **National Natural Science Foundation of China (for Ph.D. Candidate)** under Grant 624B2087 (Hoster) 
 * **National Natural Science Foundation of China** under Grant 61573290, 61503237, 61733009, 61973332 (Participant) 
 * **National Key Research and Development Program of China** under Grant 2017YFA0700300 (Participant)
 * **Key Project from Natural Science Foundation of Guangdong Province** under Grant 2018B030311054 (Participant) 

@@ -32,7 +32,7 @@
     <li>ACM Transactions on Knowledge Discovery from Data</li>
     <li>Engineering Applications of Artificial Intelligence</li>
     <li>Information Processing and Management</li>
-    <li>Expert Systems With Applications/li>
+    <li>Expert Systems With Applications</li>
     <li>Knowledge-Based Systems</li>
     <li>Scientific Reports</li>
     <li>ISA Transactions</li>
