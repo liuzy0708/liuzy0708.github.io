@@ -3,10 +3,10 @@
 
 <h2 style="margin: 60px 0px 10px;">🖼️ Photo Wall</h2>
 
-<p style="color: #6C3082; font-size: 22px; font-weight: bold; padding: 5px">Graduate</p>
+<p style="color: #6C3082; font-size: 22px; font-weight: bold; padding: 5px; text-align: center;">Graduate in Chongqing</p>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-    <img src="./assets/img/pics/photo_wall_4.jpeg" alt="Graduate" style="width: 100%;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+    <img src="./assets/img/pics/photo_wall_4.jpeg" alt="Graduate in Chongqing" style="width: 50%;">
     <!-- 在这里继续添加更多图片 -->
  </div>
 

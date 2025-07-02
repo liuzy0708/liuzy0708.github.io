@@ -25,6 +25,8 @@ body { background-color: #fff; padding: 0px; font: 21.0px/1.5 Crimson Pro, Times
 
 .github span { background-color: #000; }
 
+.orcid span { background-color: #0077B5; }
+
 email { font-size: 14px; font-family: "Ubuntu Mono"; }
 
 .icon-button i { background: none; color: white; height: 3.6rem; left: 0; line-height: 3.6rem; position: absolute; top: 0; -webkit-transition: all 0.3s; -moz-transition: all 0.3s; -o-transition: all 0.3s; transition: all 0.3s; width: 3.6rem; z-index: 10; }
@@ -35,9 +37,13 @@ email { font-size: 14px; font-family: "Ubuntu Mono"; }
 
 .icon-button .icon-github { color: #000; }
 
+.icon-button .icon-orcid { color: #000; }
+
 .icon-button .icon-linkedin { color: #0077B5; }
 
-.icon-button:hover .icon-twitter, .icon-button:hover .icon-facebook, .icon-button:hover .icon-github, .icon-button:hover .icon-linkedin { color: white; }
+.icon-button .icon-dblp { color: #000; }
+
+.icon-button:hover .icon-twitter, .icon-button:hover .icon-facebook, .icon-button:hover .icon-github, .icon-button:hover .icon-linkedin, .icon-button:hover .icon-orcid, .icon-button:hover .icon-dblp { color: white; }
 
 autocolor { color: #595959; }
 
@@ -81,7 +87,7 @@ a small { font-size: 22px; color: #777; margin-top: -0.3em; display: block; }
 
 a:hover small { color: #777; }
 
-.wrapper { width: 90%; max-width: clamp(800px, 90%, 1400px); /* 根据视口动态调节宽度 */ margin: 0 auto; padding: 40px; }
+.wrapper { width: 100%; max-width: clamp(800px, 90%, 1400px); /* 根据视口动态调节宽度 */ margin: 0 auto; padding: 40px; margin-top: 220px; /* 与header高度一致，避免内容被遮挡 */ }
 
 blockquote { border-left: 1px solid #e5e5e5; margin: 0; padding: 0 0 0 20px; font-style: italic; }
 

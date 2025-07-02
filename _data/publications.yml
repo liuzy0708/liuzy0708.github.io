@@ -1,6 +1,6 @@
 main:
 
- - title: "Multi-Condition Fault Diagnosis of Dynamic Systems: A Survey, Insights, and Prospects"
+  - title: "Multi-Condition Fault Diagnosis of Dynamic Systems: A Survey, Insights, and Prospects"
     authors: Pengyu Han, <strong>Zeyi Liu</strong>, Xiao He, Steven X Ding, Donghua Zhou 
     conference_short: IEEE TASE
     conference: "IEEE Transactions on Automation Science and Engineering"
@@ -309,6 +309,38 @@ main:
 
 Conference:
 
+  - title: "Towards Next-Generation Intelligent Maintenance: Collaborative Fusion of Large and Small Models"
+    authors: Xiaoyi Yuan, Qiming Huang, Mingqing Guo, Huiming Ma, Ming Xu, <strong>Zeyi Liu</strong>, Xiao He
+    conference_short: CAA SAFEPROCESS 2025
+    conference: 2025 CAA Symposium on Fault Detection, Supervision, and Safety for Technical Processes
+    notes: CAA-A
+    pdf: https://arxiv.org/pdf/2506.05854
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:OEJcrr_cd50J:scholar.google.com/&output=citation&scisdr=CgIXbDgvEJft0KS_--M:AAZF9b8AAAAAaGS54-P0GTcF4vhwAV29glgpsF8&scisig=AAZF9b8AAAAAaGS542Sg2UWJpJi7MJ8ntY2vKK0&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    image: ./assets/img/pics/YuanXYC01.png
+    others:
+
+  - title: "Lite-RVFL: A Lightweight Random Vector Functional-Link Neural Network for Learning Under Concept Drift"
+    authors: Songqiao Hu, <strong>Zeyi Liu</strong>, Xiao He 
+    conference_short: CAA SAFEPROCESS 2025
+    conference: 2025 CAA Symposium on Fault Detection, Supervision, and Safety for Technical Processes
+    notes: CAA-A
+    pdf: https://arxiv.org/pdf/2506.08063
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:HZd7_qhKmhkJ:scholar.google.com/&output=citation&scisdr=CgIXbDgvEJft0KS_KG4:AAZF9b8AAAAAaGS5MG6zRl4Kf-JIYdL3vPm3sVI&scisig=AAZF9b8AAAAAaGS5MEejvrgV15ZAxmfjUWXTE-E&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    image: ./assets/img/pics/HuSQC02.png
+    code: https://github.com/songqiaohu/Lite-RVFL
+    others:
+
+  - title: "Rethinking the Role of Operating Conditions for Learning-based Multi-condition Fault Diagnosis"
+    authors: Pengyu Han, <strong>Zeyi Liu</strong>, Shijin Chen, Dongliang Zou, Xiao He
+    conference_short: CAA SAFEPROCESS 2025
+    conference: 2025 CAA Symposium on Fault Detection, Supervision, and Safety for Technical Processes
+    notes: CAA-A
+    pdf: https://arxiv.org/pdf/2506.17740
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:cJUYYZ6K1MAJ:scholar.google.com/&output=citation&scisdr=CgIXbDgvEJft0KS8Jc4:AAZF9b8AAAAAaGS6Pc4yBdkFbRMwp88l_zasX0Y&scisig=AAZF9b8AAAAAaGS6PduzkEAc2KuwUSjC8ZHIwck&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    image: ./assets/img/pics/HanPYC02.png
+    others:
+
+
   - title: "Online Dynamic Semi-supervised Broad Learning System for RTFD with Variable Working Conditions"
     authors: <strong>Zeyi Liu</strong>, Pengyu Han, Wei Li, Shijin Chen, Xiao He 
     conference_short: CPCC 2024
@@ -321,7 +353,7 @@ Conference:
 
   - title: "RTSA of Dynamic Systems in Non-Stationary Environments: A Review of Methods and Techniques"
     authors: <strong>Zeyi Liu</strong>, Songqiao Hu, Xiao He 
-    conference_short: SAFEPROCESS 2023
+    conference_short: CAA SAFEPROCESS 2023
     conference: 2023 CAA Symposium on Fault Detection, Supervision, and Safety for Technical Processes
     notes: Survey, CAA-A
     pdf: https://ieeexplore.ieee.org/abstract/document/10295743

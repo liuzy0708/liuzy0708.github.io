@@ -137,6 +137,12 @@
         </a>
         {% endif %}
 
+        {% if site.orcid %}
+        <a style="margin: 0 5px 0 0" href="{{ site.orcid }}">
+          <i class="fab fa-orcid" style="font-size:1.2rem"></i>
+        </a>
+        {% endif %}
+
         {% if site.linkedin %}
         <a style="margin: 0 5px 0 0" href="{{ site.linkedin }}">
           <i class="fab fa-linkedin"></i>
@@ -146,6 +152,12 @@
         {% if site.twitter %}
         <a style="margin: 0 0 0 0" href="{{ site.twitter }}">
           <i class="fab fa-x-twitter"></i>
+        </a>
+        {% endif %}
+
+        {% if site.dblp %}
+        <a style="margin: 0 5px 0 0" href="{{ site.dblp }}">
+          <i class="ai ai-dblp" style="font-size:1.2rem"></i>
         </a>
         {% endif %}
         </div>

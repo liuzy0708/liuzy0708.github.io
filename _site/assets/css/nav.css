@@ -1,3 +1,9 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+
 /* Add a black background color to the top navigation */
 .topnav {
     background-color: #fff;
@@ -30,7 +36,7 @@
     text-align: justify;
     padding: 15px 6px;
     text-decoration: none;
-    font-size: 18px;
+    font-size: 19px;
   }
   
   /* Change the color of links on hover */
@@ -108,7 +114,7 @@
    @media print, screen and (max-width: 2000px) and (min-width: 1801px) { 
 
     .topnav img {
-        margin-left:22%;
+        margin-left:18%;
       }
     .topnav a.right {
         margin-right:22%;

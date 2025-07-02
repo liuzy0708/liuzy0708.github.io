@@ -6,7 +6,7 @@
 <br />
 <strong>Office Location:</strong> Central Main Building #415
 <br />
-<strong>Email:</strong> <email>liuzy21 (at) mails.tsinghua.edu.cn</email>
+<strong>Email:</strong> <email>liuzy21@mails.tsinghua.edu.cn</email>
 <br />
 <strong>Phone:</strong> (+86) 153-2163-8693</p>
 <br />
