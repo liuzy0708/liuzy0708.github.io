@@ -4,7 +4,7 @@ main:
     url: ./#contact 
     right: true 
 
-  - title: "Photo Wall"
+  - title: "Life"
     url: ./#life
 
   - title: "Resources"

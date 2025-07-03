@@ -88,15 +88,15 @@ a:hover small { color: #777; }
 
 // .wrapper { width: 960px; margin: 0; margin-left: 220px; margin-right: 20px;}
 
-// .wrapper { width: 95%; max-width: 1300px; margin-left: 20px; margin: 0 auto; padding: 50px;}
+.wrapper { width: 91%; max-width: 1300px; margin-left: 20px; margin: 0 auto; padding: 50px;}
 
-.wrapper {
-    width: 100%;
-    max-width: clamp(800px, 90%, 1400px); /* 根据视口动态调节宽度 */
-    margin: 0 auto;
-    padding: 40px;
-    margin-top: 220px; /* 与header高度一致，避免内容被遮挡 */
-  }
+// .wrapper {
+//     width: 100%;
+//     max-width: clamp(800px, 100%, 1400px); /* 根据视口动态调节宽度 */
+//     margin: 0 auto;
+//     padding: 0px;
+//     margin-left: 150px; /* 为固定的导航栏留出空间 */
+//   }
 
 blockquote { border-left: 1px solid #e5e5e5; margin: 0; padding: 0 0 0 20px; font-style: italic; }
 
