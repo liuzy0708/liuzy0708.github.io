@@ -44,7 +44,7 @@
     <li>Systems Science and Control Engineering</li>
     <li>Digital Chemical Engineering</li>
     <li>Journal of Engineering</li>
-    <li>Data in Brief/li>
+    <li>Data in Brief</li>
     <li>Heliyon</li>
 </ul>
 
