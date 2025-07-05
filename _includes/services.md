@@ -44,11 +44,13 @@
     <li>Systems Science and Control Engineering</li>
     <li>Digital Chemical Engineering</li>
     <li>Journal of Engineering</li>
+    <li>Data in Brief/li>
     <li>Heliyon</li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Conference Reviewers/PC Member</h4>
 <ul style="list-style-type:disc; margin-left:20px;">
+    <li>IROS 2025</li>
     <li>ACM SIGKDD 2024</li>
     <li>MIND 2025</li>
     <li>ICCA 2024</li>
