@@ -11,6 +11,7 @@
 </ul>
 
 <h4 style="margin:0 10px 0;">Student Mentoring Assistance</h4>
+* **Jiaming Liu**, Beihang University (Undergraduate Student, 2025.7-Present)
 * **Jixin Xiao**,  Tsinghua University (Undergraduate Student, 2025.5-Present)
 * **Songqiao Hu**,  Tsinghua University (Undergraduate Student & Ph.D Candidate, 2022.7-Present)
 * **Pengyu Han**, Tsinghua University  (Undergraduate Student & Ph.D Candidate, 2022.9-Present)
