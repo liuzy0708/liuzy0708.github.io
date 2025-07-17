@@ -34,8 +34,8 @@
     <li>Engineering Applications of Artificial Intelligence</li>
     <li>Information Processing and Management</li>
     <li>Expert Systems With Applications</li>
+    <li>Journal of the Franklin Institute</li>
     <li>Knowledge-Based Systems</li>
-    <li>Scientific Reports</li>
     <li>ISA Transactions</li>
     <li>Neural Networks</li>
     <li>Measurement</li>
@@ -46,6 +46,7 @@
     <li>Systems Science and Control Engineering</li>
     <li>Digital Chemical Engineering</li>
     <li>Journal of Engineering</li>
+    <li>Scientific Reports</li>
     <li>Data in Brief</li>
     <li>Heliyon</li>
 </ul>
