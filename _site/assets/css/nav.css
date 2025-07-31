@@ -53,26 +53,26 @@ html, body {
   @media print, screen and (max-width: 1000px) {
 
     .topnav img {
-        margin-left:0%;
+        margin-left:3%;
       }
 
     .topnav a.right {
-        margin-right:0%;
+        margin-right:3%;
       }
 
-    /* .topnav a.normal {
+    .topnav a.normal {
         padding: 10px 5px;
-    } */
+    }
 
    }
 
    @media print, screen and (max-width: 1200px) and (min-width: 1001px) { 
 
     .topnav img {
-        margin-left:2%;
+        margin-left:3%;
       }
     .topnav a.right {
-        margin-right:1%;
+        margin-right:3%;
       }
 
    }
@@ -80,10 +80,10 @@ html, body {
    @media print, screen and (max-width: 1400px) and (min-width: 1201px) { 
 
     .topnav img {
-        margin-left:4%;
+        margin-left:12%;
       }
     .topnav a.right {
-        margin-right:1%;
+        margin-right:12%;
       }
 
       }
@@ -92,10 +92,10 @@ html, body {
    @media print, screen and (max-width: 1600px) and (min-width: 1401px) { 
 
     .topnav img {
-        margin-left:6%;
+        margin-left:16%;
       }
     .topnav a.right {
-        margin-right:6%;
+        margin-right:16%;
       }
 
    }
@@ -103,10 +103,10 @@ html, body {
    @media print, screen and (max-width: 1800px) and (min-width: 1601px) { 
 
     .topnav img {
-        margin-left:10%;
+        margin-left:19%;
       }
     .topnav a.right {
-        margin-right:10%;
+        margin-right:19%;
       }
 
    }
@@ -114,10 +114,10 @@ html, body {
    @media print, screen and (max-width: 2000px) and (min-width: 1801px) { 
 
     .topnav img {
-        margin-left:12%;
+        margin-left:18%;
       }
     .topnav a.right {
-        margin-right:12%;
+        margin-right:22%;
       }
 
    }

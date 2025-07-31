@@ -1,5 +1,17 @@
 main:
 
+
+  - title: "Incremental Learning-Enabled Fault Diagnosis of Dynamic Systems: A Comprehensive Review"
+    authors: <strong>Zeyi Liu</strong>, Xiao He, Biao Huang, Donghua Zhou 
+    conference_short: IEEE TCYB
+    conference: " IEEE Transactions on Cybernetics"
+    notes: Survey, CAA-A, CCF-B
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11104131
+    bibtex: 
+    code: https://github.com/liuzy0708/ILFD_Survey
+    image: ./assets/img/pics/LiuZY13.png
+    others: In Press, 2025
+
   - title: "Multi-Condition Fault Diagnosis of Dynamic Systems: A Survey, Insights, and Prospects"
     authors: Pengyu Han, <strong>Zeyi Liu</strong>, Xiao He, Steven X Ding, Donghua Zhou 
     conference_short: IEEE TASE
@@ -43,18 +55,6 @@ main:
     code: 
     image: ./assets/img/pics/LiuZY10.png
     others: vol. 36, no. 12, pp. 8928-8938, 2024
-
-
-  # - title: "A Review on Incremental Learning-based Fault Diagnosis of Dynamic Systems"
-  #   authors: <strong>Zeyi Liu</strong>, Xiao He, Biao Huang, Donghua Zhou 
-  #   conference_short: TechRxiv
-  #   conference: " IEEE TechRxiv"
-  #   notes: Survey, Preprint
-  #   pdf: https://www.techrxiv.org/users/832360/articles/1225658-a-review-on-incremental-learning-based-fault-diagnosis-of-dynamic-systems
-  #   bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:UG8O_Xtfc7YJ:scholar.google.com/&output=citation&scisdr=ClHi8GEvEMLgnOKDpDk:AFWwaeYAAAAAZ0GFvDkIe2ye9hLoD7tPK64JmMY&scisig=AFWwaeYAAAAAZ0GFvB5o1zrEoM7F6rQ6SDdl4vo&scisf=4&ct=citation&cd=-1&hl=zh-CN
-  #   code: https://github.com/liuzy0708/ILFD_Survey
-  #   image: ./assets/img/pics/LiuZY13.png
-  #   others: 2024
 
   - title: "Real-time Safety Assessment Techniques of Dynamic Systems (in Chinese)"
     authors: Xiao He, <strong>Zeyi Liu</strong>, Songqiao Hu, Chang Liu, Donghua Zhou 
