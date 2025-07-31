@@ -1,13 +1,15 @@
 main:
 
-  - title: "Awesome_OL: A General Toolkit for Online Learning Approaches"
+  - title: "Awesome-OL: An Extensible Toolkit for Online Learning"
     authors: THU-FDD Research Group
     conference_short: Toolkit
     conference: Open-source Codes
     notes: Ongoing updates
-    code: https://github.com/liuzy0708/Awesome_OL
+    pdf: https://arxiv.org/pdf/2507.20144
+    bibtex: 
+    code: https://github.com/liuzy0708/Awesome-OL
     image: ./assets/img/pics/Awesome_OL.png
-    others: GitHub, 2024
+    others: GitHub, 2025
 
 
   - title: Multi-mode Fault Diagnosis Datasets of Gearbox Under Variable Working Conditions
