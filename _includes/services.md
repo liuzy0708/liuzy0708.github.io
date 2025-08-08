@@ -38,6 +38,7 @@
     <li>Knowledge-Based Systems</li>
     <li>ISA Transactions</li>
     <li>Neural Networks</li>
+    <li>Neurocomputing</li>
     <li>Measurement</li>
     <li>Energy</li>
     <li>Journal of Computational and Cognitive Engineering </li>
