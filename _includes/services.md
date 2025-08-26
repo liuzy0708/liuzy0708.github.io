@@ -37,6 +37,7 @@
     <li>Journal of the Franklin Institute</li>
     <li>Knowledge-Based Systems</li>
     <li>ISA Transactions</li>
+    <li>Renewable Energy</li>
     <li>Neural Networks</li>
     <li>Neurocomputing</li>
     <li>Measurement</li>
