@@ -9,7 +9,7 @@ layout: homepage
 
 <span style="font-size: 23px;">Welcome to my personal homepage👋</span>
 
-<span style="font-size: 22px;">I am currently a Ph.D. candidate in the Department of Automation at Tsinghua University, working under the supervision of Prof. <a href="https://www.au.tsinghua.edu.cn/info/1092/1527.htm">Xiao He</a> and Prof. <a href="https://www.au.tsinghua.edu.cn/info/1110/1582.htm">Donghua Zhou</a> at the Research Center of Safety Control Technology. Prior to this, I received my B.E. degree in Computer Science and Technology from Southwest University. During my undergraduate studies, I worked as a research assistant in the Laboratory of Information Fusion and Intelligent Science at the University of Electronic Science and Technology of China with Prof. <a href="https://scholar.google.com/citations?user=Zuhod6sAAAAJ&hl=zh-CN&oi=ao">Yong Deng</a>, and also at Chongqing University with Prof. Fuyuan Xiao.
+<span style="font-size: 22px;">I am currently a Ph.D. candidate in the Department of Automation at Tsinghua University, working under the supervision of Prof. <a href="https://www.au.tsinghua.edu.cn/info/1092/1527.htm">Xiao He</a> and Prof. <a href="https://www.au.tsinghua.edu.cn/info/1110/1582.htm">Donghua Zhou</a> at the Research Center of Safety Control Technology. Prior to this, I received my B.E. degree in Computer Science and Technology from Southwest University. During my undergraduate studies, I worked as a research assistant in the Laboratory of Information Fusion and Intelligent Science at the University of Electronic Science and Technology of China with Prof. Yong Deng, and also at Chongqing University with Prof. Fuyuan Xiao.
 </span>
 
 <span style="font-size: 22px;">
