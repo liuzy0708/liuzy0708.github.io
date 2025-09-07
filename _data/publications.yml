@@ -29,10 +29,10 @@ main:
     conference: "IEEE Transactions on Neural Networks and Learning Systems"
     notes: CAA-A, CCF-B
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11008714
-    bibtex: 
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:Ab6580rEgV0J:scholar.google.com/&output=citation&scisdr=CgKVo58bEJft0HzpnA4:AAZF9b8AAAAAaLzvhA6OPLVgi_YM6r7kZH3bBTA&scisig=AAZF9b8AAAAAaLzvhNpWi-nIwEJFROQUWCnFBcA&scisf=4&ct=citation&cd=-1&hl=zh-CN
     code: https://github.com/Lichen0102/QRBLS
     image: ./assets/img/pics/LiC03.png
-    others: In Press, 2025
+    others: vol. 36, no. 9, pp. 17227-17238, 2025
 
   - title: "A Hierarchical Cross-modal Spatial Fusion Network for Multimodal Emotion Recognition"
     authors: Ming Xu, Tuo Shi, Hao Zhang, <strong>Zeyi Liu</strong>, Xiao He 
