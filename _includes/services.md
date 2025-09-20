@@ -32,6 +32,7 @@
     <li>IEEE Transactions on Cybernetics</li>
     <li>ACM Transactions on Knowledge Discovery from Data</li>
     <li>Engineering Applications of Artificial Intelligence</li>
+    <li>International Journal of Disaster Risk Science</li>
     <li>Information Processing and Management</li>
     <li>Expert Systems With Applications</li>
     <li>Journal of the Franklin Institute</li>
