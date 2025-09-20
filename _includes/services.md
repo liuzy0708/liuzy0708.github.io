@@ -36,6 +36,7 @@
     <li>Information Processing and Management</li>
     <li>Expert Systems With Applications</li>
     <li>Journal of the Franklin Institute</li>
+    <li>Aerospace Science and Technology</li>
     <li>Knowledge-Based Systems</li>
     <li>ISA Transactions</li>
     <li>Renewable Energy</li>
