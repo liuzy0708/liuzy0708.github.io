@@ -3,6 +3,9 @@
 <h2 style="margin: 60px 0px 10px;">📰 News</h2>
 
 <ul>
+<li><strong>[Oct. 2025]</strong> Fortunate to recieve <strong> National Scholarship of P. R. China for Graduates. </strong></li>
+<li><strong>[Oct. 2025]</strong> I have completed my National Scholarship defense : )</li>
+<li><strong>[Sep. 2024]</strong> Three papers have been accepted by <a href="https://fdd2025.aconf.org"> CAA SAFEPROCESS 2025</a>.</li>
 <li><strong>[Aug. 2025]</strong> The personal Google Scholar citations has reached 600.</li>
 <li><strong>[Jul. 2025]</strong> One paper has been accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036">IEEE TCYB</a>.</li>
 <li><strong>[May. 2025]</strong> One survey paper has been accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8856">IEEE TASE</a>.</li>

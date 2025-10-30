@@ -13,7 +13,7 @@ layout: homepage
 </span>
 
 <span style="font-size: 22px;">
-    My research interests include *online learning* and its applications in *real-time safety assessment*, *safety-guaranteed control*, and *fault diagnosis* of dynamic systems, such as robotic swarms, industrial automation systems, and safety-critical cyber-physical systems. In addition, I am interested in applying the advanced process monitoring technologies developed in this context to tackle critical challenges in environmental engineering, particularly in domains such as hydrology and atmospheric science.
+    My research interests include *online learning* and its applications in *real-time safety assessment*, *safety-guaranteed control*, and *multi-condition fault diagnosis* of dynamic systems, such as robotic swarms, industrial automation systems, and safety-critical cyber-physical systems. In addition, I am interested in applying the advanced process monitoring technologies developed in this context to tackle critical challenges in environmental engineering, particularly in domains such as hydrology and atmospheric science.
 </span>
 
 
