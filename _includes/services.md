@@ -26,6 +26,7 @@
     <li>IEEE Transactions on Knowledge and Data Engineering</li>
     <li>IEEE Transactions on Neural Networks and Learning Systems</li>
     <li>IEEE Transactions on Automation Science and Engineering</li>
+    <li>IEEE/ASME Transactions on Mechatronics</li>
     <li>IEEE Transactions on Instrumentation & Measurement</li>
     <li>IEEE Transactions on Industrial Informatics</li>
     <li>IEEE Transactions on Reliability</li>
