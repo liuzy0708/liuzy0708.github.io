@@ -38,6 +38,7 @@
     <li>Expert Systems With Applications</li>
     <li>Journal of the Franklin Institute</li>
     <li>Aerospace Science and Technology</li>
+    <li>Control Engineering Practice</li>
     <li>Knowledge-Based Systems</li>
     <li>ISA Transactions</li>
     <li>Renewable Energy</li>
