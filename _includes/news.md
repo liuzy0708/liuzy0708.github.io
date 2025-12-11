@@ -3,6 +3,7 @@
 <h2 style="margin: 60px 0px 10px;">📰 News</h2>
 
 <ul>
+<li><strong>[Dec. 2025]</strong> Fortunate to recieve <strong> Jiang Nanxiang Scholarship of Tsinghua University. </strong></li>
 <li><strong>[Oct. 2025]</strong> Fortunate to recieve <strong> National Scholarship of P. R. China for Graduates. </strong></li>
 <li><strong>[Oct. 2025]</strong> I have completed my National Scholarship defense : )</li>
 <li><strong>[Sep. 2024]</strong> Three papers have been accepted by <a href="https://fdd2025.aconf.org"> CAA SAFEPROCESS 2025</a>.</li>
