@@ -40,8 +40,6 @@
     <li>Aerospace Science and Technology</li>
     <li>Control Engineering Practice</li>
     <li>Knowledge-Based Systems</li>
-    <li>IEEE Sensors Journal</li>
-    <li>Information Sciences</li>
     <li>ISA Transactions</li>
     <li>Renewable Energy</li>
     <li>Neural Networks</li>
@@ -49,7 +47,6 @@
     <li>Measurement</li>
     <li>Energy</li>
     <li>Journal of Computational and Cognitive Engineering </li>
-    <li>Journal of Central South University</li>
     <li>Journal of Harbin Engineering University</li>
     <li>Biomedical Signal Processing and Control</li>
     <li>Systems Science and Control Engineering</li>
