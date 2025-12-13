@@ -3,6 +3,7 @@
 <h2 style="margin: 60px 0px 10px;">🎖 Honors</h2>
 
 <h4 style="margin:0 10px 0;">Selected Scholarships</h4>
+* **Jiang Nanxiang Scholarship** of Tsinghua University (2025)
 * **National Scholarship** of P. R. China for Graduates (2025)
 * **First-Prize Scholarship** of Tsinghua University (2024)
 * **National Scholarship** of P. R. China for Graduates (2023)
@@ -15,6 +16,8 @@
 * **Pisen Scholarship** (2019, 2020)
 
 <h4 style="margin:0 10px 0;">Main Awards</h4>
+
+* Finalist of **Fang Chong-Zhi Best Paper Award** (CAA SAFEPROCESS 2025)
 * **Outstanding Doctoral Candidate** of Beijing Association of Automation (2023)
 * **Outstanding Graduates** of Colleges and Universities in Chongqing (2021)
 * **Outstanding Graduates** of Southwest University (2021)
