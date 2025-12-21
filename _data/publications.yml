@@ -1,5 +1,20 @@
 main:
 
+Preprint:
+
+  - title: "VLSA: Vision-Language-Action Models with Plug-and-Play Safety Constraint Layer"
+    authors: Songqiao Hu<sup>#</sup>, <strong>Zeyi Liu</strong><sup>#</sup>, Shuang Liu, Jun Cen, Zihan Meng, Xiao He 
+    conference_short: arXiv 
+    conference: "arXiv"
+    notes: Version 1
+    pdf: https://arxiv.org/abs/2512.11891
+    page: https://vlsa-aegis.github.io
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:sGR7blSqglMJ:scholar.google.com/&output=citation&scisdr=Cry0XUQbEJft0Yd7KWc:ALhkC2QAAAAAaUd9MWcNYRTXJzTe2gmWVgyJEy4&scisig=ALhkC2QAAAAAaUd9MVH_jL6ix0wIzrc1CqCn9wI&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    code: https://github.com/THU-RCSCT/vlsa-aegis
+    image: ./assets/img/pics/AEGIS.png
+    others: Preprint,2025
+
+Journal:
 
   - title: "Incremental Learning-Enabled Fault Diagnosis of Dynamic Systems: A Comprehensive Review"
     authors: <strong>Zeyi Liu</strong>, Xiao He, Biao Huang, Donghua Zhou 
@@ -7,10 +22,10 @@ main:
     conference: " IEEE Transactions on Cybernetics"
     notes: Survey, CAA-A, CCF-B
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11104131
-    bibtex: 
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:1CaYjHGLCwMJ:scholar.google.com/&output=citation&scisdr=Cry0XUQbEJft0Yd_5XA:ALhkC2QAAAAAaUd5_XDY7FAPhVzfBki85c0fw7c&scisig=ALhkC2QAAAAAaUd5_T-nLa5Kk7dCWP2fFnXzlh8&scisf=4&ct=citation&cd=-1&hl=zh-CN
     code: https://github.com/liuzy0708/ILFD_Survey
     image: ./assets/img/pics/LiuZY13.png
-    others: In Press, 2025
+    others: vol. 55, no. 12, pp. 5633-5649, 2025.
 
   - title: "Multi-Condition Fault Diagnosis of Dynamic Systems: A Survey, Insights, and Prospects"
     authors: Pengyu Han, <strong>Zeyi Liu</strong>, Xiao He, Steven X Ding, Donghua Zhou 
@@ -30,7 +45,7 @@ main:
     notes: CAA-A, CCF-B
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11008714
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:Ab6580rEgV0J:scholar.google.com/&output=citation&scisdr=CgKVo58bEJft0HzpnA4:AAZF9b8AAAAAaLzvhA6OPLVgi_YM6r7kZH3bBTA&scisig=AAZF9b8AAAAAaLzvhNpWi-nIwEJFROQUWCnFBcA&scisf=4&ct=citation&cd=-1&hl=zh-CN
-    code: https://github.com/Lichen0102/QRBLS
+    code: https://github.com/liuzy0708/Awesome_OL
     image: ./assets/img/pics/LiC03.png
     others: vol. 36, no. 9, pp. 17227-17238, 2025
 
@@ -52,7 +67,7 @@ main:
     notes: CAA-A, CCF-A
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10750900
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:Vx3HiP_GZl0J:scholar.google.com/&output=citation&scisdr=ClHi8GEvEMLgnOKDXmk:AFWwaeYAAAAAZ0GFRmkZq9P2P8FVu1oz5tDFSz8&scisig=AFWwaeYAAAAAZ0GFRs0tMYHN9Xj5gA1UR8adHTQ&scisf=4&ct=citation&cd=-1&hl=zh-CN
-    code: 
+    code: https://github.com/liuzy0708/Awesome_OL
     image: ./assets/img/pics/LiuZY10.png
     others: vol. 36, no. 12, pp. 8928-8938, 2024
 
@@ -78,15 +93,15 @@ main:
     image: ./assets/img/pics/HanPY01.png
     others: vol. 73, pp. 1-10, 2024
 
-  # - title: "Contrastive Preference-Guided Active Learning Approach Based on Ranking Correlation for Chunk-Level RTSA"
-  #   authors: <strong>Zeyi Liu</strong>, Xiao He 
-  #   conference_short: IEEE TASE
-  #   conference: "IEEE Transactions on Automation Science and Engineering"
-  #   notes:  CAA-A+, CCF-B
-  #   pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10538239
-  #   bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:P-kFMG9eV0EJ:scholar.google.com/&output=citation&scisdr=ClHstp_fEMLgncEH2U8:AFWwaeYAAAAAZmIBwU8ifHxmA404yFEFjz2AnYc&scisig=AFWwaeYAAAAAZmIBwSe-0hZM_1qiBjqYSZcnYYs&scisf=4&ct=citation&cd=-1&hl=zh-CN
-  #   image: ./assets/img/pics/LiuZY02_1.png
-  #   others: In Press, 2024
+  - title: "Contrastive Preference-Guided Active Learning Approach Based on Ranking Correlation for Chunk-Level RTSA"
+    authors: <strong>Zeyi Liu</strong>, Xiao He 
+    conference_short: IEEE TASE
+    conference: "IEEE Transactions on Automation Science and Engineering"
+    notes:  CAA-A+, CCF-B
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10538239
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:P-kFMG9eV0EJ:scholar.google.com/&output=citation&scisdr=ClHstp_fEMLgncEH2U8:AFWwaeYAAAAAZmIBwU8ifHxmA404yFEFjz2AnYc&scisig=AFWwaeYAAAAAZmIBwSe-0hZM_1qiBjqYSZcnYYs&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    image: ./assets/img/pics/LiuZY02_1.png
+    others: In Press, 2024
 
 
   - title: "CADM+: Confusion-Based Learning Framework with Drift Detection and Adaptation for Chunk-Level RTSA"
@@ -297,15 +312,15 @@ main:
     image: ./assets/img/pics/TaoR01.png
     others: vol. 555, pp. 85-103, 2021
 
-  - title: "An Interval-Valued Exceedance Method in MCDM with Uncertain Satisfactions"
-    authors: <strong>Zeyi Liu</strong>, Fuyuan Xiao 
-    conference_short: IJIS
-    conference: International Journal of Intelligent Systems
-    notes: CAA-A, CCF-C
-    pdf:
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:maxi94TcnpAJ:scholar.google.com/&output=citation&scisdr=ClGd7gItEMLgnqQEibU:AFWwaeYAAAAAZQcCkbVLYfp9KeEwONFZ14bUWYE&scisig=AFWwaeYAAAAAZQcCkejd8-z0bf8ua9ds1UPMVk8&scisf=4&ct=citation&cd=-1&hl=zh-CN
-    image: ./assets/img/pics/LiuXiao03.png
-    others: vol. 34, no. 10, pp. 2676-2691, 2019
+  # - title: "An Interval-Valued Exceedance Method in MCDM with Uncertain Satisfactions"
+  #   authors: <strong>Zeyi Liu</strong>, Fuyuan Xiao 
+  #   conference_short: IJIS
+  #   conference: International Journal of Intelligent Systems
+  #   notes: CAA-A, CCF-C
+  #   pdf:
+  #   bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:maxi94TcnpAJ:scholar.google.com/&output=citation&scisdr=ClGd7gItEMLgnqQEibU:AFWwaeYAAAAAZQcCkbVLYfp9KeEwONFZ14bUWYE&scisig=AFWwaeYAAAAAZQcCkejd8-z0bf8ua9ds1UPMVk8&scisf=4&ct=citation&cd=-1&hl=zh-CN
+  #   image: ./assets/img/pics/LiuXiao03.png
+  #   others: vol. 34, no. 10, pp. 2676-2691, 2019
 
 Conference:
 
@@ -314,7 +329,7 @@ Conference:
     conference_short: CAA SAFEPROCESS 2025
     conference: 2025 CAA Symposium on Fault Detection, Supervision, and Safety for Technical Processes
     notes: CAA-A
-    pdf: https://arxiv.org/pdf/2506.05854
+    pdf: https://ieeexplore.ieee.org/document/11268134
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:OEJcrr_cd50J:scholar.google.com/&output=citation&scisdr=CgIXbDgvEJft0KS_--M:AAZF9b8AAAAAaGS54-P0GTcF4vhwAV29glgpsF8&scisig=AAZF9b8AAAAAaGS542Sg2UWJpJi7MJ8ntY2vKK0&scisf=4&ct=citation&cd=-1&hl=zh-CN
     image: ./assets/img/pics/YuanXYC01.png
     others:
@@ -323,33 +338,33 @@ Conference:
     authors: Songqiao Hu, <strong>Zeyi Liu</strong>, Xiao He 
     conference_short: CAA SAFEPROCESS 2025
     conference: 2025 CAA Symposium on Fault Detection, Supervision, and Safety for Technical Processes
-    notes: CAA-A
-    pdf: https://arxiv.org/pdf/2506.08063
+    notes: CAA-A, Finalist of Fang Chong-Zhi Best Paper Award
+    pdf: https://ieeexplore.ieee.org/document/11268084
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:HZd7_qhKmhkJ:scholar.google.com/&output=citation&scisdr=CgIXbDgvEJft0KS_KG4:AAZF9b8AAAAAaGS5MG6zRl4Kf-JIYdL3vPm3sVI&scisig=AAZF9b8AAAAAaGS5MEejvrgV15ZAxmfjUWXTE-E&scisf=4&ct=citation&cd=-1&hl=zh-CN
     image: ./assets/img/pics/HuSQC02.png
     code: https://github.com/songqiaohu/Lite-RVFL
-    others:
+    others:  
 
   - title: "Rethinking the Role of Operating Conditions for Learning-based Multi-condition Fault Diagnosis"
     authors: Pengyu Han, <strong>Zeyi Liu</strong>, Shijin Chen, Dongliang Zou, Xiao He
     conference_short: CAA SAFEPROCESS 2025
     conference: 2025 CAA Symposium on Fault Detection, Supervision, and Safety for Technical Processes
-    notes: CAA-A
-    pdf: https://arxiv.org/pdf/2506.17740
+    notes: CAA-A, Finalist of Fang Chong-Zhi Best Paper Award
+    pdf: https://ieeexplore.ieee.org/document/11268179
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:cJUYYZ6K1MAJ:scholar.google.com/&output=citation&scisdr=CgIXbDgvEJft0KS8Jc4:AAZF9b8AAAAAaGS6Pc4yBdkFbRMwp88l_zasX0Y&scisig=AAZF9b8AAAAAaGS6PduzkEAc2KuwUSjC8ZHIwck&scisf=4&ct=citation&cd=-1&hl=zh-CN
     image: ./assets/img/pics/HanPYC02.png
-    others:
+    others: 
 
 
   - title: "Online Dynamic Semi-supervised Broad Learning System for RTFD with Variable Working Conditions"
     authors: <strong>Zeyi Liu</strong>, Pengyu Han, Wei Li, Shijin Chen, Xiao He 
     conference_short: CPCC 2024
     conference: The 34th Chinese Process Control Conference
-    notes: CAA-A
+    notes: CAA-A, Nomination of Zhang Zhongjun Best Paper Award
     pdf: 
     bibtex: 
     image: ./assets/img/pics/CPCC2024.png
-    others:
+    others: 
 
   - title: "RTSA of Dynamic Systems in Non-Stationary Environments: A Review of Methods and Techniques"
     authors: <strong>Zeyi Liu</strong>, Songqiao Hu, Xiao He 

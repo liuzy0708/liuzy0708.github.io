@@ -1,6 +1,6 @@
 <h1 id="resources"></h1>
 
-<h2 style="margin: 60px 0px -15px;"> Resources </h2>
+<h2 style="margin: 60px 0px -15px;">🔧 Resources</h2>
 
 <div class="publications">
 <ol class="bibliography">
@@ -8,12 +8,12 @@
 {% for link in site.data.resources.main %}
 
 <li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 5px;padding-left: 0px;">
-    <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width: 260px; height: 140px;">
+<div class="pub-row" style="display: flex; align-items: center;">
+  <div class="col-sm-4 abbr" style="position: relative;padding-right: 15px;padding-left: 0px;">
+    <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width: 300px; height: 160px;">
             <abbr class="badge">{{ link.conference_short }}</abbr>
   </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+  <div class="col-sm-8" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
       <div class="author">{{ link.authors }}</div>
       <div class="periodical"><em>{{ link.conference }}</em>

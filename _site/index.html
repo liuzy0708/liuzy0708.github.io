@@ -14,11 +14,11 @@
     <meta property="og:site_name" content="Zeyi Liu | Tsinghua University">
     <meta property="og:description" content="Zeyi Liu is currenetly a Ph.D. Candidate with the Department of Automation, Tsinghua University.">
     <meta property="og:locale" content="default">
-    <meta property="og:image" content="./assets/img/avatar2.jpg">
+    <meta property="og:image" content="./assets/img/avatar2.png">
     <meta name="twitter:card" content="summary">
     <meta name="twitter:title" content="Zeyi Liu | Tsinghua University">
     <meta name="twitter:description" content="Zeyi Liu is currenetly a Ph.D. Candidate with the Department of Automation, Tsinghua University.">
-    <meta name="twitter:image" content="./assets/img/avatar2.jpg">
+    <meta name="twitter:image" content="./assets/img/avatar2.png">
 
     <link rel="canonical" href="https://liuzy0708.com"/>
     <link rel="icon" media="(prefers-color-scheme:dark)" href="./assets/img/logo_yuan.svg" type="image/png" />
@@ -137,7 +137,7 @@
       <header>
         
         
-        <a class="image avatar"><img src="./assets/img/avatar2.jpg" alt="avatar" /></a>
+        <a class="image avatar"><img src="./assets/img/avatar2.png" alt="avatar" /></a>
         
 
         <h1>Zeyi Liu</h1>
@@ -201,290 +201,660 @@
 
 <link rel="manifest" href="/site.webmanifest" />
 
-<p><span style="font-size: 23px;">Welcome to my personal homepage👋</span></p>
+<div style="background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%); padding: 25px; border-radius: 12px; margin-bottom: 30px; box-shadow: 0 4px 15px rgba(0,0,0,0.08);">
+  <p style="font-size: 28px; font-weight: 600; color: #2c3e50; margin: 0 0 15px 0;">
+    👋 Welcome to My Personal Homepage
+  </p>
+  <p style="font-size: 20px; line-height: 1.8; color: #34495e; margin: 0;">
+    I am currently a Ph.D. candidate in the <strong>Department of Automation</strong> at <strong>Tsinghua University</strong>, working under the supervision of Prof. <a href="https://www.au.tsinghua.edu.cn/info/1092/1527.htm" style="color: #667eea; text-decoration: none; border-bottom: 2px solid #667eea;">Xiao He</a> and Prof. <a href="https://www.au.tsinghua.edu.cn/info/1110/1582.htm" style="color: #667eea; text-decoration: none; border-bottom: 2px solid #667eea;">Donghua Zhou</a> at the Research Center of Safety Control Technology. 
+  </p>
+  <p style="font-size: 20px; line-height: 1.8; color: #34495e; margin: 15px 0 0 0;">
+    Prior to this, I received my B.E. degree in Computer Science and Technology from Southwest University. During my undergraduate studies, I worked as a research assistant in the Laboratory of Information Fusion and Intelligent Science at the University of Electronic Science and Technology of China with Prof. Yong Deng, and also at Chongqing University with Prof. Fuyuan Xiao.
+  </p>
+</div>
 
-<p><span style="font-size: 22px;">I am currently a Ph.D. candidate in the Department of Automation at Tsinghua University, working under the supervision of Prof. <a href="https://www.au.tsinghua.edu.cn/info/1092/1527.htm">Xiao He</a> and Prof. <a href="https://www.au.tsinghua.edu.cn/info/1110/1582.htm">Donghua Zhou</a> at the Research Center of Safety Control Technology. Prior to this, I received my B.E. degree in Computer Science and Technology from Southwest University. During my undergraduate studies, I worked as a research assistant in the Laboratory of Information Fusion and Intelligent Science at the University of Electronic Science and Technology of China with Prof. Yong Deng, and also at Chongqing University with Prof. Fuyuan Xiao.
-</span></p>
-
-<p><span style="font-size: 22px;">
-    My research interests include <em>online learning</em> and its applications in <em>real-time safety assessment</em>, <em>safety-guaranteed control</em>, and <em>multi-condition fault diagnosis</em> of dynamic systems, such as robotic swarms, industrial automation systems, and safety-critical cyber-physical systems. In addition, I am interested in applying the advanced process monitoring technologies developed in this context to tackle critical challenges in environmental engineering, particularly in domains such as hydrology and atmospheric science.
-</span></p>
+<div style="background: #f8f9fa; padding: 20px; border-left: 4px solid #667eea; border-radius: 8px; margin-bottom: 30px;">
+  <p style="font-size: 20px; line-height: 1.8; color: #2c3e50; margin: 0;">
+    My research focuses on <em>online learning</em> and its applications in <em>real-time safety assessment</em>, <em>safety-guaranteed control</em>, and <em>multi-condition fault diagnosis</em> of dynamic systems, such as robotic swarms, industrial automation systems, and safety-critical cyber-physical systems. In addition, I am interested in applying the advanced process monitoring technologies developed in this context to tackle critical challenges in environmental engineering, particularly in domains such as hydrology and atmospheric science.
+  </p>
+</div>
 
 <h1 id="education"></h1>
 
 <h2 style="margin: 60px 0px 10px;">📖 Experience</h2>
 
-<ul>
-  <li><strong>Ph.D.</strong> in Department of Automation, <em>Tsinghua University</em>, Beijing, China, 2021.9 ~ 2027.1 (<em>expected</em>)</li>
-  <li><strong>B.E.</strong> in School of Computer and Information Science, <em>Southwest University</em>, Chongqing, China, 2017.9 ~ 2021.6</li>
-  <li><strong>Research Assistant</strong> in Institute of Fundamental and Frontier Sciences, <em>University of Electronic Science and Technology of China</em>, Chengdu, Sichuan, China, 2019.7 ~ 2019.9</li>
-  <li><strong>Research Assistant</strong> in Department of Automation, <em>Tsinghua University</em>, Beijing, China, 2020.1 ~ 2021.8</li>
-  <li><strong>Research Assistant</strong> in School of Big Data and Software Engineering, <em>Chongqing University</em>, Chongqing, China, 2021.6 ~ 2021.8</li>
-</ul>
+<style>
+.timeline {
+  position: relative;
+  padding: 20px 0;
+  margin-left: 30px;
+}
+
+.timeline::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  width: 3px;
+  background: linear-gradient(180deg, #667eea 0%, #764ba2 100%);
+}
+
+.timeline-item {
+  position: relative;
+  padding-left: 40px;
+  padding-bottom: 30px;
+}
+
+.timeline-item::before {
+  content: '';
+  position: absolute;
+  left: -7px;
+  top: 5px;
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  background: #667eea;
+  border: 3px solid #fff;
+  box-shadow: 0 0 0 3px #667eea40;
+}
+
+.timeline-item:hover::before {
+  background: #764ba2;
+  box-shadow: 0 0 0 3px #764ba240, 0 0 10px rgba(118, 75, 162, 0.5);
+  transform: scale(1.2);
+  transition: all 0.3s ease;
+}
+
+.timeline-content {
+  background: #fff;
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  padding: 15px 20px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+  transition: all 0.3s ease;
+}
+
+.timeline-content:hover {
+  box-shadow: 0 4px 15px rgba(102, 126, 234, 0.15);
+  transform: translateX(5px);
+}
+
+.timeline-degree {
+  font-size: 20px;
+  font-weight: 600;
+  color: #667eea;
+  margin: 0 0 8px 0;
+}
+
+.timeline-institution {
+  font-size: 20px;
+  color: #2c3e50;
+  margin: 0 0 5px 0;
+  font-style: italic;
+}
+
+.timeline-location {
+  font-size: 20px;
+  color: #666;
+  margin: 0 0 8px 0;
+}
+
+.timeline-date {
+  font-size: 20px;
+  color: #999;
+  background: #f5f7fa;
+  padding: 3px 10px;
+  border-radius: 12px;
+  display: inline-block;
+}
+</style>
+
+<div class="timeline">
+  <div class="timeline-item">
+    <div class="timeline-content">
+      <p class="timeline-degree">🎓 Ph.D. Candiate</p>
+      <p class="timeline-institution">Department of Automation, Tsinghua University</p>
+      <p class="timeline-location">📍 Beijing, China</p>
+      <span class="timeline-date">⏰ 2021.9 ~ 2027.1 (expected)</span>
+    </div>
+  </div>
+
+  <div class="timeline-item">
+    <div class="timeline-content">
+      <p class="timeline-degree">🎓 B.E. Degree</p>
+      <p class="timeline-institution">School of Computer and Information Science, Southwest University</p>
+      <p class="timeline-location">📍 Chongqing, China</p>
+      <span class="timeline-date">⏰ 2017.9 ~ 2021.6</span>
+    </div>
+  </div>
+
+  <div class="timeline-item">
+    <div class="timeline-content">
+      <p class="timeline-degree">🔬 Research Assistant</p>
+      <p class="timeline-institution">Institute of Fundamental and Frontier Sciences, University of Electronic Science and Technology of China</p>
+      <p class="timeline-location">📍 Chengdu, Sichuan, China</p>
+      <span class="timeline-date">⏰ 2019.7 ~ 2019.9</span>
+    </div>
+  </div>
+
+  <div class="timeline-item">
+    <div class="timeline-content">
+      <p class="timeline-degree">🔬 Research Assistant</p>
+      <p class="timeline-institution">Department of Automation, Tsinghua University</p>
+      <p class="timeline-location">📍 Beijing, China</p>
+      <span class="timeline-date">⏰ 2020.1 ~ 2021.8</span>
+    </div>
+  </div>
+
+  <div class="timeline-item">
+    <div class="timeline-content">
+      <p class="timeline-degree">🔬 Research Assistant</p>
+      <p class="timeline-institution">School of Big Data and Software Engineering, Chongqing University</p>
+      <p class="timeline-location">📍 Chongqing, China</p>
+      <span class="timeline-date">⏰ 2021.6 ~ 2021.8</span>
+    </div>
+  </div>
+</div>
 
 <h1 id="research"></h1>
 
 <h2 style="margin: 60px 0px 10px;">📚 Research</h2>
 
-<h4 style="margin: 0px 10px 0;">Research Fields</h4>
-<h4 style="margin: 0px 10px 0;">Safety-guaranteed Control of Dynamic Systems in Non-stationary Environment</h4>
-<ul>
-  <li>Learning for Control</li>
-</ul>
+<div style="background: #f8f9fa; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
+  <h3 style="color: #667eea; margin-top: 0; border-bottom: 2px solid #667eea; padding-bottom: 10px; font-size: 24px;">
+    🔬 Research Fields
+  </h3>
+  
+  <div style="margin-bottom: 25px;">
+    <h4 style="color: #2c3e50; margin: 15px 0 10px 0; font-size: 20px;">
+      Safety-guaranteed Control of Dynamic Systems in Non-stationary Environment
+    </h4>
+    <ul style="line-height: 1.8; color: #555; font-size: 20px;">
+      <li>Learning for UAV attitude control</li>
+      <li>Vision-language-safe action models for embodied artificial intelligence</li>
+    </ul>
+  </div>
 
-<h4 style="margin: 0px 10px 0;">Real-time Safety Assessment of Dynamic Systems in Non-stationary Environment</h4>
-<ul>
-  <li>Online active learning methods and their optimization</li>
-  <li>Detection and adaptation methods of concept drift</li>
-  <li>Incremental learning</li>
-</ul>
-<h4 style="margin: 0px 10px 0;">Multi-mode Fault Diagnosis of Dynamic Systems under Variable Operating Modes</h4>
-<ul>
-  <li>Online semi-supervised learning methods and their optimization</li>
-  <li>Imbalance problem in the framework of online learning</li>
-  <li>Explainable artificial intelligence</li>
-</ul>
+  <div style="margin-bottom: 25px;">
+    <h4 style="color: #2c3e50; margin: 15px 0 10px 0; font-size: 20px;">
+      Real-time Safety Assessment of Dynamic Systems in Non-stationary Environment
+    </h4>
+    <ul style="line-height: 1.8; color: #555; font-size: 20px;">
+      <li>Online active learning methods and their optimization</li>
+      <li>Detection and adaptation methods of concept drift</li>
+      <li>Incremental learning</li>
+    </ul>
+  </div>
 
-<h4 style="margin: 0px 10px 0;">Research Project</h4>
-<ul>
-  <li><strong>National Natural Science Foundation of China (for Ph.D. Candidate)</strong> under Grant 624B2087 (Hoster)</li>
-  <li><strong>National Natural Science Foundation of China</strong> under Grant 61573290, 61503237, 61733009, 61973332 (Participant)</li>
-  <li><strong>National Key Research and Development Program of China</strong> under Grant 2017YFA0700300 (Participant)</li>
-  <li><strong>Key Project from Natural Science Foundation of Guangdong Province</strong> under Grant 2018B030311054 (Participant)</li>
-  <li><strong>Innovative Entrepreneurial Training Plan Program of College Students</strong> in Chongqing (Hoster)</li>
-</ul>
+  <div style="margin-bottom: 10px;">
+    <h4 style="color: #2c3e50; margin: 15px 0 10px 0; font-size: 20px;">
+      Multi-mode Fault Diagnosis of Dynamic Systems under Variable Operating Modes
+    </h4>
+    <ul style="line-height: 1.8; color: #555; font-size: 20px;">
+      <li>Online semi-supervised learning methods and their optimization</li>
+      <li>Imbalance problem in the framework of online learning</li>
+      <li>Explainable artificial intelligence</li>
+    </ul>
+  </div>
+</div>
 
-<h4 style="margin: 0px 10px 0;">Research Statistics</h4>
+<div style="background: #fff; padding: 20px; border: 1px solid #e0e0e0; border-radius: 10px; margin-bottom: 20px;">
+  <h3 style="color: #667eea; margin-top: 0; border-bottom: 2px solid #667eea; padding-bottom: 10px; font-size: 24px;">
+    💼 Research Projects
+  </h3>
+  <ul style="line-height: 2; color: #555; font-size: 20px;">
+    <li><strong>National Natural Science Foundation of China (for Ph.D. Candidate)</strong> under Grant 624B2087 <em>(Host)</em></li>
+      <li><strong>Innovative Entrepreneurial Training Plan Program of College Students</strong> in Chongqing <em>(Host)</em></li>
+    <li><strong>National Natural Science Foundation of China</strong> under Grant 61573290, 61503237, 61733009, 61973332 <em>(Participant)</em></li>
+    <li><strong>National Key Research and Development Program of China</strong> under Grant 2017YFA0700300 <em>(Participant)</em></li>
+    <li><strong>Key Project from Natural Science Foundation of Guangdong Province</strong> under Grant 2018B030311054 <em>(Participant)</em></li>
+  </ul>
+</div>
 
-<ul>
-  <li><strong>Google Citation</strong>: 
-<strong>
-  <a style="color:#e74d3c; font-weight:600" href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=sRkvMF8AAAAJ&amp;citation_for_view=sRkvMF8AAAAJ:zYLM7Y9cAGgC">
-      <i id="total_citation_mtl">200+</i>
-      <i style="color:#e74d3c; font-weight:600"></i>
-  </a>
-</strong>
+<div style="background: linear-gradient(135deg, #667eea15 0%, #764ba215 100%); padding: 20px; border-radius: 10px;">
+  <h3 style="color: #667eea; margin-top: 0; border-bottom: 2px solid #667eea; padding-bottom: 10px; font-size: 24px;">
+    📈 Research Statistics
+  </h3>
+  <div style="display: flex; gap: 30px; flex-wrap: wrap;">
+    <div style="flex: 1; min-width: 200px;">
+      <p style="font-size: 20px; color: #555; margin: 10px 0 5px 0; font-weight: 600;">
+         Google Citation:
+      </p>
+      <strong>
+        <a style="color:#e74d3c; font-weight:600; font-size: 28px;" href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=sRkvMF8AAAAJ&amp;citation_for_view=sRkvMF8AAAAJ:zYLM7Y9cAGgC">
+          <i id="total_citation_mtl">200+</i>
+        </a>
+      </strong>
+    </div>
+    <div style="flex: 1; min-width: 200px;">
+      <p style="font-size: 20px; color: #555; margin: 10px 0 5px 0; font-weight: 600;">
+         H-index:
+      </p>
+      <strong>
+        <a style="color:#e74d3c; font-weight:600; font-size: 28px;" href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=sRkvMF8AAAAJ&amp;citation_for_view=sRkvMF8AAAAJ:zYLM7Y9cAGgC">
+          <i id="totalHindex_mtl"></i>
+        </a>
+      </strong>
+    </div>
+    <div style="flex: 1; min-width: 200px;">
+      <p style="font-size: 20px; color: #555; margin: 10px 0 5px 0; font-weight: 600;">
+         i10-index:
+      </p>
+      <strong>
+        <a style="color:#e74d3c; font-weight:600; font-size: 28px;" href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=sRkvMF8AAAAJ&amp;citation_for_view=sRkvMF8AAAAJ:zYLM7Y9cAGgC">
+          <i id="i10index_mtl"></i>
+        </a>
+      </strong>
+    </div>
+  </div>
+</div>
+
 <script>
-  $(document).ready(function () {
-      $.getJSON("https://raw.githubusercontent.com/liuzy0708/liuzy0708.github.io/main/google_scholar_crawler/results/gs_data.json", function (data) {
-          var totalCitation = data['citedby'];
-          document.getElementById('total_citation_mtl').textContent = totalCitation;
-      });
-  });
-</script></li>
-  <li><strong>H-index</strong>:
-<strong>
-  <a style="color:#e74d3c; font-weight:600" href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=sRkvMF8AAAAJ&amp;citation_for_view=sRkvMF8AAAAJ:zYLM7Y9cAGgC">
-      <i id="totalHindex_mtl"></i>
-      <i style="color:#e74d3c; font-weight:600"></i>
-  </a>
-</strong>
-<script>
-  $(document).ready(function () {
-      $.getJSON("https://raw.githubusercontent.com/liuzy0708/liuzy0708.github.io/main/google_scholar_crawler/results/gs_data.json", function (data) {
-          var totalHindex = data['hindex'];
-          document.getElementById('totalHindex_mtl').textContent = totalHindex;
-      });
-  });
-</script></li>
-  <li><strong>i10-index</strong>: 
-<strong>
-  <a style="color:#e74d3c; font-weight:600" href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=sRkvMF8AAAAJ&amp;citation_for_view=sRkvMF8AAAAJ:zYLM7Y9cAGgC">
-      <i id="i10index_mtl"></i>
-      <i style="color:#e74d3c; font-weight:600"></i>
-  </a>
-</strong>
-<script>
-  $(document).ready(function () {
-      $.getJSON("https://raw.githubusercontent.com/liuzy0708/liuzy0708.github.io/main/google_scholar_crawler/results/gs_data.json", function (data) {
-          var totali10index = data['i10index'];
-          document.getElementById('i10index_mtl').textContent = totali10index;
-      });
-  });
-</script></li>
-</ul>
+    $(document).ready(function () {
+        $.getJSON("https://raw.githubusercontent.com/liuzy0708/liuzy0708.github.io/main/google_scholar_crawler/results/gs_data.json", function (data) {
+            document.getElementById('total_citation_mtl').textContent = data['citedby'];
+            document.getElementById('totalHindex_mtl').textContent = data['hindex'];
+            document.getElementById('i10index_mtl').textContent = data['i10index'];
+        });
+    });
+</script>
 
 <h1 id="news"></h1>
 
 <h2 style="margin: 60px 0px 10px;">📰 News</h2>
 
-<ul>
-<li><strong>[Oct. 2025]</strong> Fortunate to recieve <strong> National Scholarship of P. R. China for Graduates. </strong></li>
-<li><strong>[Oct. 2025]</strong> I have completed my National Scholarship defense : )</li>
-<li><strong>[Sep. 2024]</strong> Three papers have been accepted by <a href="https://fdd2025.aconf.org"> CAA SAFEPROCESS 2025</a>.</li>
-<li><strong>[Aug. 2025]</strong> The personal Google Scholar citations has reached 600.</li>
-<li><strong>[Jul. 2025]</strong> One paper has been accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036">IEEE TCYB</a>.</li>
-<li><strong>[May. 2025]</strong> One survey paper has been accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8856">IEEE TASE</a>.</li>
-<li><strong>[Apr. 2025]</strong> One paper has been accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385">IEEE TNNLS</a>.</li>
-<li><strong>[Mar. 2025]</strong> The personal Google Scholar citations has reached 500.</li>
-<li><strong>[Mar. 2025]</strong> One paper has been accepted by <a href="https://www.sciencedirect.com/journal/neurocomputing">Neurocomputing</a>.</li>
-<li><strong>[Dec. 2024]</strong> One paper has been accepted by <a href="https://xplorestaging.ieee.org/xpl/RecentIssue.jsp?punumber=9078688"> IEEE TAI</a>.</li>
-<li><strong>[Dec. 2024]</strong> One survey paper has been accepted by <a href="https://www.sciencedirect.com/journal/european-journal-of-operational-research"> EJOR</a>.</li>
-<li><strong>[Dec. 2024]</strong> Fortunate to be funded by National Natural Science Foundation of China (for Ph.D. Candidate).</li>
-<li><strong>[Dec. 2024]</strong> Fortunate to receive the <strong> First-Prize Scholarship of Tsinghua University</strong>.</li>
-<li><strong>[Oct. 2024]</strong> The personal Google Scholar citations has reached 400.</li>
-<li><strong>[Oct. 2024]</strong> One paper has been accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69"> IEEE TKDE</a>.</li>
-<li><strong>[Jul. 2024]</strong> One survey paper has been accepted by <a href="http://www.aas.net.cn"> Acta Automatica Sinica</a>.</li>
-<li><strong>[Jul. 2024]</strong> One paper has been accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9984155"> IEEE TICPS</a>.</li>
-<li><strong>[May 2024]</strong> One paper has been accepted by <a href="http://2024.cn-tcpc.org/home/"> CPCC 2024</a>.</li>
-<li><strong>[May 2024]</strong> One paper has been accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?reload=true&amp;punumber=19">IEEE TIM</a>.</li>
-<li><strong>[May 2024]</strong> One paper has been accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8856">IEEE TASE</a>.</li>
-<li><strong>[Apr. 2024]</strong> The personal Google Scholar citations has reached 300.</li>
-<li><strong>[Feb. 2024]</strong> One paper has been accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385">IEEE TNNLS</a>.</li>
-<li><strong>[Jan. 2024]</strong> One paper has been accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7433297">IEEE TETCI</a>.</li>
-<li><strong>[Dec. 2023]</strong> Fortunate to receive the <strong> Outstanding Doctoral Candidate of BAA</strong>.</li>
-<li><strong>[Nov. 2023]</strong> One paper has been accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036">IEEE TCYB</a>.</li>
-<li><strong>[Nov. 2023]</strong> One paper has been accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9424">IEEE TII</a>.</li>
-<li><strong>[Oct. 2023]</strong> One paper has been accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8856">IEEE TASE</a>.</li>
-<li><strong>[Oct. 2023]</strong> Fortunate to receive the <strong> National Scholarship of P. R. China for Graduates. </strong></li>
-<li><strong>[Oct. 2023]</strong> I have completed my National Scholarship defense : )</li>
-<li><strong>[Oct. 2023]</strong> One paper has been accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=24"> IEEE TR</a>. </li>
-<li><strong>[Sep. 2023]</strong> One paper has been accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221021"> IEEE TSMCA</a>. </li>
-<li> <a href="javascript:toggle_vis('newsmore')">Show more</a> </li>
- <div id="newsmore" style="display:none"> 
- <li><strong>[Sep. 2023]</strong> Fortunate to receive the <strong> Social Practice Scholarship of Tsinghua University</strong>.</li>
-<li><strong>[Sep. 2023]</strong> I have completed my Social Practice Scholarship defense.</li>
-<li><strong>[Aug. 2023]</strong> I have completed my Social Practice. <a href="https://www.sohu.com/a/710990497_120972834"> Nice experience : )</a> </li>
-<li><strong>[Jul. 2023]</strong> The personal Google Scholar citations has reached 200.</li>
-<li><strong>[Jul. 2023]</strong> One paper has been accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385">IEEE TNNLS</a>.</li>
-<li><strong>[Jun. 2023]</strong> One paper has been accepted by <a href="https://fdd2023.aconf.org"> CAA SAFEPROCESS 2023 </a>.</li>
-<li><strong>[May 2023]</strong> One paper has been accepted by <a href="http://2023.cn-tcpc.org/home/"> CPCC 2023</a>.</li>
-<li><strong>[Apr. 2023]</strong> One paper has been accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?reload=true&amp;punumber=19">IEEE TIM</a>.</li>
-<li><strong>[Apr. 2023]</strong> One paper has been accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979">IEEE TITS</a>.</li>
-<li><strong>[Dec. 2022]</strong> One paper has been accepted by <a href="https://s-cubeconference.eai-conferences.org/2022/">S-CUBE 2022</a>.</li>
-<li><strong>[Nov. 2022]</strong> One paper has been accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385">IEEE TNNLS</a>.</li>
-<li><strong>[Oct. 2022]</strong> Fortunate to recieve <strong> National Scholarship of P. R. China for Graduates. </strong></li>
-<li><strong>[Oct. 2022]</strong> I have completed my National Scholarship defense : )</li>
-<li><strong>[Aug. 2022]</strong> One paper has been accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=87">IEEE TCST</a>.</li>
-<li><strong>[Jun. 2022]</strong> One paper has been accepted by <a href="http://2022.cn-tcpc.org/home/"> CPCC 2022</a>.</li>
-  <li><strong>[Aug. 2021]</strong> One paper has been accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?reload=true&amp;punumber=19">IEEE TIM</a>.</li>
+<div style="background: #fff; border: 1px solid #e0e0e0; border-radius: 10px; padding: 20px; max-height: 500px; overflow-y: auto;">
+<ul style="line-height: 2; color: #555;">
+<li><strong style="color: #667eea;">[Dec. 2025]</strong> The personal Google Scholar citations has reached <strong>700</strong>.</li>
+<li><strong style="color: #667eea;">[Dec. 2025]</strong> Fortunate to receive <strong>Jiang Nanxiang Scholarship</strong> of Tsinghua University.</li>
+<li><strong style="color: #667eea;">[Oct. 2025]</strong> Fortunate to receive <strong>National Scholarship</strong> of P. R. China for Graduates.</li>
+<li><strong style="color: #667eea;">[Oct. 2025]</strong> I have completed my National Scholarship defense :)</li>
+<li><strong style="color: #667eea;">[Sep. 2024]</strong> Three papers have been accepted by <a href="https://fdd2025.aconf.org" style="color: #667eea; text-decoration: none;">CAA SAFEPROCESS 2025</a>.</li>
+<li><strong style="color: #667eea;">[Aug. 2025]</strong> The personal Google Scholar citations has reached <strong>600</strong>.</li>
+<li><strong style="color: #667eea;">[Jul. 2025]</strong> One paper has been accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036" style="color: #667eea; text-decoration: none;">IEEE TCYB</a>.</li>
+<li><strong style="color: #667eea;">[May. 2025]</strong> One survey paper has been accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8856" style="color: #667eea; text-decoration: none;">IEEE TASE</a>.</li>
+<li><strong style="color: #667eea;">[Apr. 2025]</strong> One paper has been accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385" style="color: #667eea; text-decoration: none;">IEEE TNNLS</a>.</li>
+<li><strong style="color: #667eea;">[Mar. 2025]</strong> The personal Google Scholar citations has reached <strong>500</strong>.</li>
+<li><strong style="color: #667eea;">[Mar. 2025]</strong> One paper has been accepted by <a href="https://www.sciencedirect.com/journal/neurocomputing" style="color: #667eea; text-decoration: none;">Neurocomputing</a>.</li>
+<li><strong style="color: #667eea;">[Dec. 2024]</strong> One paper has been accepted by <a href="https://xplorestaging.ieee.org/xpl/RecentIssue.jsp?punumber=9078688" style="color: #667eea; text-decoration: none;">IEEE TAI</a>.</li>
+<li><strong style="color: #667eea;">[Dec. 2024]</strong> One survey paper has been accepted by <a href="https://www.sciencedirect.com/journal/european-journal-of-operational-research" style="color: #667eea; text-decoration: none;">EJOR</a>.</li>
+<li><strong style="color: #667eea;">[Dec. 2024]</strong> Fortunate to be funded by National Natural Science Foundation of China (for Ph.D. Candidate).</li>
+<li><strong style="color: #667eea;">[Dec. 2024]</strong> Fortunate to receive the <strong>First-Prize Scholarship</strong> of Tsinghua University.</li>
+<li><strong style="color: #667eea;">[Oct. 2024]</strong> The personal Google Scholar citations has reached <strong>400</strong>.</li>
+<li><strong style="color: #667eea;">[Oct. 2024]</strong> One paper has been accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69" style="color: #667eea; text-decoration: none;">IEEE TKDE</a>.</li>
+<li><strong style="color: #667eea;">[Jul. 2024]</strong> One survey paper has been accepted by <a href="http://www.aas.net.cn" style="color: #667eea; text-decoration: none;">Acta Automatica Sinica</a>.</li>
+<li><strong style="color: #667eea;">[Jul. 2024]</strong> One paper has been accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9984155" style="color: #667eea; text-decoration: none;">IEEE TICPS</a>.</li>
+<li><strong style="color: #667eea;">[May 2024]</strong> One paper has been accepted by <a href="http://2024.cn-tcpc.org/home/" style="color: #667eea; text-decoration: none;">CPCC 2024</a>.</li>
+<li><strong style="color: #667eea;">[May 2024]</strong> One paper has been accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?reload=true&amp;punumber=19" style="color: #667eea; text-decoration: none;">IEEE TIM</a>.</li>
+<li><strong style="color: #667eea;">[May 2024]</strong> One paper has been accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8856" style="color: #667eea; text-decoration: none;">IEEE TASE</a>.</li>
+<li><strong style="color: #667eea;">[Apr. 2024]</strong> The personal Google Scholar citations has reached <strong>300</strong>.</li>
+<li><strong style="color: #667eea;">[Feb. 2024]</strong> One paper has been accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385" style="color: #667eea; text-decoration: none;">IEEE TNNLS</a>.</li>
+<li><strong style="color: #667eea;">[Jan. 2024]</strong> One paper has been accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7433297" style="color: #667eea; text-decoration: none;">IEEE TETCI</a>.</li>
+<li><strong style="color: #667eea;">[Dec. 2023]</strong> Fortunate to receive the <strong>Outstanding Doctoral Candidate of BAA</strong>.</li>
+<li><strong style="color: #667eea;">[Nov. 2023]</strong> One paper has been accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036" style="color: #667eea; text-decoration: none;">IEEE TCYB</a>.</li>
+<li><strong style="color: #667eea;">[Nov. 2023]</strong> One paper has been accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9424" style="color: #667eea; text-decoration: none;">IEEE TII</a>.</li>
+<li><strong style="color: #667eea;">[Oct. 2023]</strong> One paper has been accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8856" style="color: #667eea; text-decoration: none;">IEEE TASE</a>.</li>
+<li><strong style="color: #667eea;">[Oct. 2023]</strong> Fortunate to receive the <strong>National Scholarship</strong> of P. R. China for Graduates.</li>
+<li><strong style="color: #667eea;">[Oct. 2023]</strong> I have completed my National Scholarship defense :)</li>
+<li><strong style="color: #667eea;">[Oct. 2023]</strong> One paper has been accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=24" style="color: #667eea; text-decoration: none;">IEEE TR</a>.</li>
+<li><strong style="color: #667eea;">[Sep. 2023]</strong> One paper has been accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221021" style="color: #667eea; text-decoration: none;">IEEE TSMCA</a>.</li>
+<li><a href="javascript:toggle_vis('newsmore')" style="color: #667eea; font-weight: 600; text-decoration: none; border-bottom: 2px solid #667eea;">▼ Show more</a></li>
+<div id="newsmore" style="display:none"> 
+<li><strong style="color: #667eea;">[Sep. 2023]</strong> Fortunate to receive the <strong>Social Practice Scholarship</strong> of Tsinghua University.</li>
+<li><strong style="color: #667eea;">[Sep. 2023]</strong> I have completed my Social Practice Scholarship defense.</li>
+<li><strong style="color: #667eea;">[Aug. 2023]</strong> I have completed my Social Practice. <a href="https://www.sohu.com/a/710990497_120972834" style="color: #667eea; text-decoration: none;">Nice experience :)</a></li>
+<li><strong style="color: #667eea;">[Jul. 2023]</strong> The personal Google Scholar citations has reached <strong>200</strong>.</li>
+<li><strong style="color: #667eea;">[Jul. 2023]</strong> One paper has been accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385" style="color: #667eea; text-decoration: none;">IEEE TNNLS</a>.</li>
+<li><strong style="color: #667eea;">[Jun. 2023]</strong> One paper has been accepted by <a href="https://fdd2023.aconf.org" style="color: #667eea; text-decoration: none;">CAA SAFEPROCESS 2023</a>.</li>
+<li><strong style="color: #667eea;">[May 2023]</strong> One paper has been accepted by <a href="http://2023.cn-tcpc.org/home/" style="color: #667eea; text-decoration: none;">CPCC 2023</a>.</li>
+<li><strong style="color: #667eea;">[Apr. 2023]</strong> One paper has been accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?reload=true&amp;punumber=19" style="color: #667eea; text-decoration: none;">IEEE TIM</a>.</li>
+<li><strong style="color: #667eea;">[Apr. 2023]</strong> One paper has been accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979" style="color: #667eea; text-decoration: none;">IEEE TITS</a>.</li>
+<li><strong style="color: #667eea;">[Dec. 2022]</strong> One paper has been accepted by <a href="https://s-cubeconference.eai-conferences.org/2022/" style="color: #667eea; text-decoration: none;">S-CUBE 2022</a>.</li>
+<li><strong style="color: #667eea;">[Nov. 2022]</strong> One paper has been accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385" style="color: #667eea; text-decoration: none;">IEEE TNNLS</a>.</li>
+<li><strong style="color: #667eea;">[Oct. 2022]</strong> Fortunate to receive <strong>National Scholarship</strong> of P. R. China for Graduates.</li>
+<li><strong style="color: #667eea;">[Oct. 2022]</strong> I have completed my National Scholarship defense :)</li>
+<li><strong style="color: #667eea;">[Aug. 2022]</strong> One paper has been accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=87" style="color: #667eea; text-decoration: none;">IEEE TCST</a>.</li>
+<li><strong style="color: #667eea;">[Jun. 2022]</strong> One paper has been accepted by <a href="http://2022.cn-tcpc.org/home/" style="color: #667eea; text-decoration: none;">CPCC 2022</a>.</li>
+<li><strong style="color: #667eea;">[Aug. 2021]</strong> One paper has been accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?reload=true&amp;punumber=19" style="color: #667eea; text-decoration: none;">IEEE TIM</a>.</li>
 </div>
 </ul>
+</div>
 
 <h1 id="honors"></h1>
 
 <h2 style="margin: 60px 0px 10px;">🎖 Honors</h2>
 
-<h4 style="margin:0 10px 0;">Selected Scholarships</h4>
-<ul>
-  <li><strong>National Scholarship</strong> of P. R. China for Graduates (2025)</li>
-  <li><strong>First-Prize Scholarship</strong> of Tsinghua University (2024)</li>
-  <li><strong>National Scholarship</strong> of P. R. China for Graduates (2023)</li>
-  <li><strong>Social Practice Scholarship</strong> of Tsinghua University (2023)</li>
-  <li><strong>National Scholarship</strong> of P. R. China for Graduates (2022)</li>
-  <li><strong>National Scholarship</strong> of P. R. China for Undergraduate Students (2020)</li>
-  <li><strong>Special Prize</strong> Scholarship of Southwest Univeristy (2020)</li>
-  <li><strong>First Prize</strong> Scholarship of Southwest Univeristy (2019)</li>
-  <li><strong>TangLiXin Scholarship</strong> (2019)</li>
-  <li><strong>Pisen Scholarship</strong> (2019, 2020)</li>
-</ul>
+<style>
+.timeline {
+  position: relative;
+  padding: 10px 0;
+  margin-left: 18px;
+}
+.timeline::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  width: 3px;
+  background: linear-gradient(180deg, #667eea 0%, #764ba2 100%);
+}
+.timeline-item {
+  position: relative;
+  padding-left: 34px;
+  padding-bottom: 18px;
+}
+.timeline-item::before {
+  content: '';
+  position: absolute;
+  left: -7px;
+  top: 6px;
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  background: #667eea;
+  border: 3px solid #fff;
+  box-shadow: 0 0 0 3px #667eea40;
+}
+.timeline-content {
+  background: #fff;
+  border: 1px solid #e0e0e0;
+  border-radius: 10px;
+  padding: 14px 18px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+}
+.timeline-row {
+  display: flex;
+  gap: 12px;
+  align-items: baseline;
+  flex-wrap: wrap;
+}
+.timeline-date {
+  font-size: 14px;
+  color: #667eea;
+  background: #f5f7fa;
+  border: 1px solid #e9edf3;
+  padding: 3px 10px;
+  border-radius: 999px;
+  display: inline-block;
+  white-space: nowrap;
+}
+.timeline-text {
+  font-size: 20px;
+  line-height: 1.65;
+  color: #2c3e50;
+}
+.timeline-subtitle {
+  margin: 18px 0 10px;
+  font-size: 20px;
+  color: #2c3e50;
+}
+</style>
 
-<h4 style="margin:0 10px 0;">Main Awards</h4>
-<ul>
-  <li><strong>Outstanding Doctoral Candidate</strong> of Beijing Association of Automation (2023)</li>
-  <li><strong>Outstanding Graduates</strong> of Colleges and Universities in Chongqing (2021)</li>
-  <li><strong>Outstanding Graduates</strong> of Southwest University (2021)</li>
-  <li>2019-2020 Academic Year <strong>Outstanding Student Model</strong> of Southwest University (2020)</li>
-  <li><strong>Merit Student Award</strong> of Southwest University (2020)</li>
-  <li><strong>Academic Technology Award</strong> of Southwest University (2020)</li>
-  <li><strong>Innovation and Entrepreneurship Award</strong> of Southwest University (2020)</li>
-  <li>The 5th China College Students Internet + Innovation and Entrepreneurship Competition: <strong>National Silver Award</strong></li>
-  <li>The 28th National Mathematical Contest in Modeling: <strong>National Second Prize</strong></li>
-  <li>MCM/ICM in 2020: <strong>Meritorious Winner</strong></li>
-</ul>
+<h3 class="timeline-subtitle">Selected Scholarships</h3>
+<div class="timeline">
+  <div class="timeline-item"><div class="timeline-content"><div class="timeline-row"><span class="timeline-date">2025</span><div class="timeline-text"><strong>Jiang Nanxiang Scholarship</strong> of Tsinghua University</div></div></div></div>
+  <div class="timeline-item"><div class="timeline-content"><div class="timeline-row"><span class="timeline-date">2025</span><div class="timeline-text"><strong>National Scholarship</strong> of P. R. China for Graduates</div></div></div></div>
+  <div class="timeline-item"><div class="timeline-content"><div class="timeline-row"><span class="timeline-date">2024</span><div class="timeline-text"><strong>First-Prize Scholarship</strong> of Tsinghua University</div></div></div></div>
+  <div class="timeline-item"><div class="timeline-content"><div class="timeline-row"><span class="timeline-date">2023</span><div class="timeline-text"><strong>National Scholarship</strong> of P. R. China for Graduates</div></div></div></div>
+  <div class="timeline-item"><div class="timeline-content"><div class="timeline-row"><span class="timeline-date">2023</span><div class="timeline-text"><strong>Social Practice Scholarship</strong> of Tsinghua University</div></div></div></div>
+  <div class="timeline-item"><div class="timeline-content"><div class="timeline-row"><span class="timeline-date">2022</span><div class="timeline-text"><strong>National Scholarship</strong> of P. R. China for Graduates</div></div></div></div>
+  <div class="timeline-item"><div class="timeline-content"><div class="timeline-row"><span class="timeline-date">2020</span><div class="timeline-text"><strong>National Scholarship</strong> of P. R. China for Undergraduate Students</div></div></div></div>
+  <div class="timeline-item"><div class="timeline-content"><div class="timeline-row"><span class="timeline-date">2020</span><div class="timeline-text"><strong>Special Prize Scholarship</strong> of Southwest University</div></div></div></div>
+  <div class="timeline-item"><div class="timeline-content"><div class="timeline-row"><span class="timeline-date">2020</span><div class="timeline-text"><strong>Pisen Scholarship</strong></div></div></div></div>
+  <div class="timeline-item"><div class="timeline-content"><div class="timeline-row"><span class="timeline-date">2019</span><div class="timeline-text"><strong>First Prize Scholarship</strong> of Southwest University</div></div></div></div>
+  <div class="timeline-item"><div class="timeline-content"><div class="timeline-row"><span class="timeline-date">2019</span><div class="timeline-text"><strong>TangLiXin Scholarship</strong></div></div></div></div>
+  <div class="timeline-item"><div class="timeline-content"><div class="timeline-row"><span class="timeline-date">2019</span><div class="timeline-text"><strong>Pisen Scholarship</strong></div></div></div></div>
+</div>
+
+<h3 class="timeline-subtitle">Main Awards</h3>
+<div class="timeline">
+  <div class="timeline-item"><div class="timeline-content"><div class="timeline-row"><span class="timeline-date">2025</span><div class="timeline-text">Finalist of <strong>Fang Chong-Zhi Best Paper Award</strong> (CAA SAFEPROCESS 2025)</div></div></div></div>
+  <div class="timeline-item"><div class="timeline-content"><div class="timeline-row"><span class="timeline-date">2023</span><div class="timeline-text"><strong>Outstanding Doctoral Candidate</strong> of Beijing Association of Automation</div></div></div></div>
+  <div class="timeline-item"><div class="timeline-content"><div class="timeline-row"><span class="timeline-date">2021</span><div class="timeline-text"><strong>Outstanding Graduates</strong> of Colleges and Universities in Chongqing</div></div></div></div>
+  <div class="timeline-item"><div class="timeline-content"><div class="timeline-row"><span class="timeline-date">2021</span><div class="timeline-text"><strong>Outstanding Graduates</strong> of Southwest University</div></div></div></div>
+  <div class="timeline-item"><div class="timeline-content"><div class="timeline-row"><span class="timeline-date">2020</span><div class="timeline-text">2019-2020 Academic Year <strong>Outstanding Student Model</strong> of Southwest University</div></div></div></div>
+  <div class="timeline-item"><div class="timeline-content"><div class="timeline-row"><span class="timeline-date">2020</span><div class="timeline-text"><strong>Merit Student Award</strong> of Southwest University</div></div></div></div>
+  <div class="timeline-item"><div class="timeline-content"><div class="timeline-row"><span class="timeline-date">2020</span><div class="timeline-text"><strong>Academic Technology Award</strong> of Southwest University</div></div></div></div>
+  <div class="timeline-item"><div class="timeline-content"><div class="timeline-row"><span class="timeline-date">2020</span><div class="timeline-text"><strong>Innovation and Entrepreneurship Award</strong> of Southwest University</div></div></div></div>
+  <!-- <div class="timeline-item"><div class="timeline-content"><div class="timeline-row"><span class="timeline-date">—</span><div class="timeline-text">The 5th China College Students Internet + Innovation and Entrepreneurship Competition: <strong>National Silver Award</strong></div></div></div></div> -->
+  <div class="timeline-item"><div class="timeline-content"><div class="timeline-row"><span class="timeline-date">2020</span><div class="timeline-text">MCM/ICM in 2020: <strong>Meritorious Winner</strong></div></div></div></div>
+  <div class="timeline-item"><div class="timeline-content"><div class="timeline-row"><span class="timeline-date">2019</span><div class="timeline-text">The 28th National Mathematical Contest in Modeling: <strong>National Second Prize</strong></div></div></div></div>
+</div>
 
 <h1 id="services"></h1>
 
 <h2 style="margin: 60px 0px 10px;">📜 Services</h2>
 
-<h4 style="margin:0 10px 0;">Social Membership</h4>
+<style>
+.service-card {
+  background: #fff;
+  border: 1px solid #e0e0e0;
+  border-radius: 10px;
+  padding: 20px;
+  margin-bottom: 20px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+  transition: all 0.3s ease;
+}
 
-<ul style="margin:0 0 5px;">
-  <li><autocolor><strong>Member</strong> of Chinese Association of Automation (CAA)</autocolor></li>
-  <li><autocolor><strong>Member</strong> of Chinese Association for Artificial Intelligence (CAAI)</autocolor></li> 
-    <li><autocolor><strong>Member</strong> of China Computer Federation (CCF)</autocolor></li>  
-</ul>
+.service-card:hover {
+  box-shadow: 0 4px 15px rgba(102, 126, 234, 0.15);
+}
 
-<h4 style="margin:0 10px 0;">Student Mentoring Assistance</h4>
-<ul>
-  <li><strong>Jiaming Liu</strong>, Beihang University (Undergraduate Student, 2025.7-Present)</li>
-  <li><strong>Jixin Xiao</strong>,  Tsinghua University (Undergraduate Student, 2025.5-Present)</li>
-  <li><strong>Songqiao Hu</strong>,  Tsinghua University (Undergraduate Student &amp; Ph.D Candidate, 2022.7-Present)</li>
-  <li><strong>Pengyu Han</strong>, Tsinghua University  (Undergraduate Student &amp; Ph.D Candidate, 2022.9-Present)</li>
-  <li><strong>Chen Li</strong>, Tsinghua University (Graduate Student, 2022.5-2023.7)</li>
-  <li><strong>Guokai Yan</strong>, Tsinghua University (Undergraduate Student, 2022.5-2022.7)</li>
-  <li><strong>Mengfei Mao</strong>, Chongqing University (Undergraduate Student, 2022.4-2022.6)</li>
-</ul>
+.service-title {
+  color: #667eea;
+  margin-top: 0;
+  border-bottom: 2px solid #667eea;
+  padding-bottom: 10px;
+  font-size: 22px;
+  margin-bottom: 15px;
+}
 
-<h4 style="margin:0 10px 0;">Journal Reviewers</h4>
-<ul style="list-style-type:disc; margin-left:20px;">
-    <li>IEEE Transactions on Pattern Analysis and Machine Intelligence</li>
-    <li>IEEE Transactions on Knowledge and Data Engineering</li>
-    <li>IEEE Transactions on Neural Networks and Learning Systems</li>
-    <li>IEEE Transactions on Automation Science and Engineering</li>
-    <li>IEEE Transactions on Instrumentation &amp; Measurement</li>
-    <li>IEEE Transactions on Industrial Informatics</li>
-    <li>IEEE Transactions on Reliability</li>
-    <li>IEEE Transactions on Cybernetics</li>
-    <li>ACM Transactions on Knowledge Discovery from Data</li>
-    <li>Engineering Applications of Artificial Intelligence</li>
-    <li>International Journal of Disaster Risk Science</li>
-    <li>Information Processing and Management</li>
-    <li>Expert Systems With Applications</li>
-    <li>Journal of the Franklin Institute</li>
-    <li>Aerospace Science and Technology</li>
-    <li>Knowledge-Based Systems</li>
-    <li>ISA Transactions</li>
-    <li>Renewable Energy</li>
-    <li>Neural Networks</li>
-    <li>Neurocomputing</li>
-    <li>Measurement</li>
-    <li>Energy</li>
-    <li>Journal of Computational and Cognitive Engineering </li>
-    <li>Journal of Harbin Engineering University</li>
-    <li>Biomedical Signal Processing and Control</li>
-    <li>Systems Science and Control Engineering</li>
-    <li>Digital Chemical Engineering</li>
-    <li>Journal of Engineering</li>
-    <li>Scientific Reports</li>
-    <li>Data in Brief</li>
-    <li>Heliyon</li>
-</ul>
+.membership-badge {
+  display: inline-block;
+  background: linear-gradient(135deg, #667eea15 0%, #764ba215 100%);
+  border: 1px solid #667eea40;
+  border-radius: 8px;
+  padding: 10px 15px;
+  margin: 5px 5px 5px 0;
+  font-size: 20px;
+  color: #2c3e50;
+}
 
-<h4 style="margin:0 10px 0;">Conference Reviewers/PC Member</h4>
-<ul style="list-style-type:disc; margin-left:20px;">
-    <li>IROS 2025</li>
-    <li>ACM SIGKDD 2024</li>
-    <li>MIND 2025</li>
-    <li>ICCA 2024</li>
-    <li>IEEE CAI 2024</li>
-    <li>IEEE CEC 2022, 2023</li>
-    <li>FUZZ-IEEE 2022, 2023</li>
-    <li>IJCNN 2022</li>
-    <li>CCC 2022, 2023</li>
-    <li>CAC 2022, 2023</li>
-    <li>CPCC 2023</li>
-    <li>CAA SAFEPROCESS 2023</li>
-    <li>FASTA 2024</li>
-    <li>ICAIS &amp; ISAS 2024</li>
-    <li>ASCC 2024</li>
-</ul>
+.student-card {
+  background: #f8f9fa;
+  border-left: 3px solid #667eea;
+  border-radius: 6px;
+  padding: 12px 15px;
+  margin-bottom: 10px;
+  font-size: 20px;
+}
 
-<h4 style="margin:0 10px 0;">Social Services</h4>
+.student-name {
+  font-weight: 600;
+  color: #667eea;
+}
 
-<ul>
-  <li>Invited Session Organizer for ICAIS &amp; ISAS  2024</li>
-  <li>Co-Chair of <em>Learning-based Real-time Fault Diagnosis and Safety Control</em> Session in ICAIS &amp; ISAS  2024</li>
-</ul>
+.student-info {
+  color: #666;
+  font-size: 20px;
+  margin-top: 3px;
+}
 
-<h4 style="margin:0 10px 0;">Talks and Presentations</h4>
+.journal-badge, .conference-badge {
+  display: inline-block;
+  background: #f0f0f0;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  padding: 6px 12px;
+  margin: 4px 4px 4px 0;
+  font-size: 20px;
+  color: #555;
+  transition: all 0.2s ease;
+}
 
-<ul>
-  <li><em>Real-time Safety Assessment of Dynamic Systems in Non-stationary Environments: A Review of Methods and Techniques</em>,  CAA SAFEPROCESS 2023, in Sept., Yibin, Sichuan, China</li>
-  <li><em>Real-time Safety Assessment of Dynamic Systems: Research Paradigms, Analysis, and Challenges</em>, ICAIS &amp; ISAS 2024, in May, Chongqing, China</li>
-  <li><em>Online Dynamic Semi-supervised Broad Learning System for Real-time Fault Diagnosis with Variable Working Conditions</em>, CPCC 2024, in Jul., Sanya, Hainan, China</li>
-  <li><em>Real-time Safety Assessment of Dynamic Systems in Non-stationary Environments</em>, CAC 2025, in Oct., Harbin, Heilongjiang, China</li>
-</ul>
+.journal-badge:hover, .conference-badge:hover {
+  background: #667eea;
+  color: #fff;
+  border-color: #667eea;
+  transform: translateY(-2px);
+}
+
+.talk-item {
+  background: #f8f9fa;
+  border-left: 3px solid #667eea;
+  border-radius: 6px;
+  padding: 15px;
+  margin-bottom: 12px;
+  font-size: 20px;
+  line-height: 1.6;
+}
+
+.talk-title {
+  font-style: italic;
+  color: #2c3e50;
+  font-weight: 500;
+  margin-bottom: 5px;
+}
+
+.talk-venue {
+  color: #666;
+  font-size: 20px;
+}
+</style>
+
+<div class="service-card">
+  <h3 class="service-title">🏛️ Social Membership</h3>
+  <div>
+    <span class="membership-badge"><strong>Member</strong> of Chinese Association of Automation (CAA)</span>
+    <span class="membership-badge"><strong>Member</strong> of Chinese Association for Artificial Intelligence (CAAI)</span>
+    <span class="membership-badge"><strong>Member</strong> of China Computer Federation (CCF)</span>
+  </div>
+</div>
+
+<div class="service-card">
+  <h3 class="service-title">👥 Student Mentoring Assistance</h3>
+  <div class="student-card">
+    <div class="student-name">Jiaming Liu</div>
+    <div class="student-info">Beihang University | Undergraduate Student | 2025.7-Present</div>
+  </div>
+  <div class="student-card">
+    <div class="student-name">Jixin Xiao</div>
+    <div class="student-info">Tsinghua University | Undergraduate Student | 2025.5-Present</div>
+  </div>
+  <div class="student-card">
+    <div class="student-name">Songqiao Hu</div>
+    <div class="student-info">Tsinghua University | Undergraduate Student &amp; Ph.D Candidate | 2022.7-Present</div>
+  </div>
+  <div class="student-card">
+    <div class="student-name">Pengyu Han</div>
+    <div class="student-info">Tsinghua University | Undergraduate Student &amp; Ph.D Candidate | 2022.9-Present</div>
+  </div>
+  <div class="student-card">
+    <div class="student-name">Chen Li</div>
+    <div class="student-info">Tsinghua University | Graduate Student | 2022.5-2023.7</div>
+  </div>
+  <div class="student-card">
+    <div class="student-name">Guokai Yan</div>
+    <div class="student-info">Tsinghua University | Undergraduate Student | 2022.5-2022.7</div>
+  </div>
+  <div class="student-card">
+    <div class="student-name">Mengfei Mao</div>
+    <div class="student-info">Chongqing University | Undergraduate Student | 2022.4-2022.6</div>
+  </div>
+</div>
+
+<div class="service-card">
+  <h3 class="service-title">📚 Journal Reviewers</h3>
+  <div style="line-height: 2;">
+    <span class="journal-badge">IEEE Transactions on Pattern Analysis and Machine Intelligence</span>
+    <span class="journal-badge">IEEE Transactions on Knowledge and Data Engineering</span>
+    <span class="journal-badge">IEEE Transactions on Neural Networks and Learning Systems</span>
+    <span class="journal-badge">IEEE Transactions on Automation Science and Engineering</span>
+    <span class="journal-badge">IEEE/ASME Transactions on Mechatronics</span>
+    <span class="journal-badge">IEEE Transactions on Instrumentation &amp; Measurement</span>
+    <span class="journal-badge">IEEE Transactions on Industrial Informatics</span>
+    <span class="journal-badge">IEEE Transactions on Reliability</span>
+    <span class="journal-badge">IEEE Transactions on Cybernetics</span>
+    <span class="journal-badge">ACM Transactions on Knowledge Discovery from Data</span>
+    <span class="journal-badge">Engineering Applications of Artificial Intelligence</span>
+    <span class="journal-badge">Journal of Computational and Cognitive Engineering</span>
+    <span class="journal-badge">International Journal of Disaster Risk Science</span>
+    <span class="journal-badge">Journal of Harbin Engineering University</span>
+    <span class="journal-badge">Biomedical Signal Processing and Control</span>
+    <span class="journal-badge">Systems Science and Control Engineering</span>
+    <span class="journal-badge">Information Processing and Management</span>
+    <span class="journal-badge">Journal of Central South University</span>
+    <span class="journal-badge">Expert Systems With Applications</span>
+    <span class="journal-badge">Journal of the Franklin Institute</span>
+    <span class="journal-badge">Aerospace Science and Technology</span>
+    <span class="journal-badge">Control Engineering Practice</span>
+    <span class="journal-badge">Digital Chemical Engineering</span>
+    <span class="journal-badge">Knowledge-Based Systems</span>
+    <span class="journal-badge">Journal of Engineering</span>
+    <span class="journal-badge">IEEE Sensors Journal</span>
+    <span class="journal-badge">Information Sciences</span>
+    <span class="journal-badge">Scientific Reports</span>
+    <span class="journal-badge">ISA Transactions</span>
+    <span class="journal-badge">Renewable Energy</span>
+    <span class="journal-badge">Neural Networks</span>
+    <span class="journal-badge">Data in Brief</span>
+    <span class="journal-badge">Neurocomputing</span>
+    <span class="journal-badge">Measurement</span>
+    <span class="journal-badge">Energy</span>
+    <span class="journal-badge">Heliyon</span>
+  </div>
+</div>
+
+<div class="service-card">
+  <h3 class="service-title">🎯 Conference Reviewers/PC Member</h3>
+  <div style="line-height: 2;">
+    <span class="conference-badge">IROS 2025</span>
+    <span class="conference-badge">ACM SIGKDD 2024</span>
+    <span class="conference-badge">MIND 2025</span>
+    <span class="conference-badge">ICCA 2024</span>
+    <span class="conference-badge">IEEE CAI 2024</span>
+    <span class="conference-badge">IEEE CEC 2022, 2023</span>
+    <span class="conference-badge">FUZZ-IEEE 2022, 2023</span>
+    <span class="conference-badge">IJCNN 2022</span>
+    <span class="conference-badge">CCC 2022, 2023</span>
+    <span class="conference-badge">CAC 2022, 2023</span>
+    <span class="conference-badge">CPCC 2023</span>
+    <span class="conference-badge">CAA SAFEPROCESS 2023</span>
+    <span class="conference-badge">FASTA 2024</span>
+    <span class="conference-badge">ICAIS &amp; ISAS 2024</span>
+    <span class="conference-badge">ASCC 2024</span>
+  </div>
+</div>
+
+<div class="service-card">
+  <h3 class="service-title">🌐 Social Services</h3>
+  <ul style="line-height: 2; font-size: 20px; color: #555;">
+    <li>Invited Session Organizer for <strong>ICAIS &amp; ISAS 2024</strong></li>
+    <li>Co-Chair of <em>Learning-based Real-time Fault Diagnosis and Safety Control</em> Session in <strong>ICAIS &amp; ISAS 2024</strong></li>
+  </ul>
+</div>
+
+<div class="service-card">
+  <h3 class="service-title">🎤 Talks and Presentations</h3>
+  <div class="talk-item">
+    <div class="talk-title">Real-time Safety Assessment of Dynamic Systems in Non-stationary Environments: A Review of Methods and Techniques</div>
+    <div class="talk-venue">CAA SAFEPROCESS 2023, Sept., Yibin, Sichuan, China</div>
+  </div>
+  <div class="talk-item">
+    <div class="talk-title">Real-time Safety Assessment of Dynamic Systems: Research Paradigms, Analysis, and Challenges</div>
+    <div class="talk-venue">ICAIS &amp; ISAS 2024, May, Chongqing, China</div>
+  </div>
+  <div class="talk-item">
+    <div class="talk-title">Online Dynamic Semi-supervised Broad Learning System for Real-time Fault Diagnosis with Variable Working Conditions</div>
+    <div class="talk-venue">CPCC 2024, Jul., Sanya, Hainan, China</div>
+  </div>
+  <div class="talk-item">
+    <div class="talk-title">Real-time Safety Assessment of Dynamic Systems in Non-stationary Environments</div>
+    <div class="talk-venue">CAC 2025, Oct., Harbin, Heilongjiang, China</div>
+  </div>
+</div>
 
 <h1 id="publications"></h1>
 
@@ -493,25 +863,79 @@
 <div class="publications">
 <ol class="bibliography">
 
-<p style="color: #6C3082; font-size: 25px; font-weight: bold; marginal-left: 200px">Journals</p>
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 12px 20px; border-radius: 8px; margin: 30px 0 20px 0; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+  <p style="color: white; font-size: 24px; font-weight: bold; margin: 0; letter-spacing: 1px;">
+    📄 Preprint
+  </p>
+</div>
 
 
 
 
 <li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 5px;padding-left: 0px;">
-    <img src="./assets/img/pics/LiuZY13.png" class="teaser img-fluid z-depth-1" style="width: 260px; height: 140px;" />
+<div class="pub-row" style="display: flex; align-items: center;">
+  <div class="col-sm-4 abbr" style="position: relative;padding-right: 15px;padding-left: 0px;">
+    <img src="./assets/img/pics/AEGIS.png" class="teaser img-fluid z-depth-1" style="width: 300px; height: 160px;" />
+            <abbr class="badge">arXiv</abbr>
+  </div>
+  <div class="col-sm-8" style="position: relative;padding-right: 15px;padding-left: 20px;">
+      <div class="title"><a href="https://arxiv.org/abs/2512.11891">VLSA: Vision-Language-Action Models with Plug-and-Play Safety Constraint Layer</a></div>
+      <div class="author">Songqiao Hu<sup>#</sup>, <strong>Zeyi Liu</strong><sup>#</sup>, Shuang Liu, Jun Cen, Zihan Meng, Xiao He</div>
+      <div class="periodical"><em>arXiv</em>
+      </div>
+         <div class="links">
+             
+      <strong>Preprint,2025</strong>
+      
+             
+      <strong style="color:#e74d3c"> &nbsp;Version 1</strong>
+      
+      </div>
+    <div class="links">
+       
+      <a href="https://arxiv.org/abs/2512.11891" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      
+       
+      <a href="https://github.com/THU-RCSCT/vlsa-aegis" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      
+       
+      <a href="https://vlsa-aegis.github.io" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
+      
+       
+      <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:sGR7blSqglMJ:scholar.google.com/&amp;output=citation&amp;scisdr=Cry0XUQbEJft0Yd7KWc:ALhkC2QAAAAAaUd9MWcNYRTXJzTe2gmWVgyJEy4&amp;scisig=ALhkC2QAAAAAaUd9MVH_jL6ix0wIzrc1CqCn9wI&amp;scisf=4&amp;ct=citation&amp;cd=-1&amp;hl=zh-CN" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+      
+    </div>
+  </div>
+</div>
+</li>
+
+<br />
+
+
+
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 12px 20px; border-radius: 8px; margin: 30px 0 20px 0; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+  <p style="color: white; font-size: 24px; font-weight: bold; margin: 0; letter-spacing: 1px;">
+    📚 Journal
+  </p>
+</div>
+
+
+
+
+<li>
+<div class="pub-row" style="display: flex; align-items: center;">
+  <div class="col-sm-4 abbr" style="position: relative;padding-right: 15px;padding-left: 0px;">
+    <img src="./assets/img/pics/LiuZY13.png" class="teaser img-fluid z-depth-1" style="width: 300px; height: 160px;" />
             <abbr class="badge">IEEE TCYB</abbr>
   </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+  <div class="col-sm-8" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=11104131">Incremental Learning-Enabled Fault Diagnosis of Dynamic Systems: A Comprehensive Review</a></div>
       <div class="author"><strong>Zeyi Liu</strong>, Xiao He, Biao Huang, Donghua Zhou</div>
       <div class="periodical"><em> IEEE Transactions on Cybernetics</em>
       </div>
          <div class="links">
              
-      <strong>In Press, 2025</strong>
+      <strong>vol. 55, no. 12, pp. 5633-5649, 2025.</strong>
       
              
       <strong style="color:#e74d3c"> &nbsp;Survey, CAA-A, CCF-B</strong>
@@ -525,6 +949,8 @@
       <a href="https://github.com/liuzy0708/ILFD_Survey" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       
       
+       
+      <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:1CaYjHGLCwMJ:scholar.google.com/&amp;output=citation&amp;scisdr=Cry0XUQbEJft0Yd_5XA:ALhkC2QAAAAAaUd5_XDY7FAPhVzfBki85c0fw7c&amp;scisig=ALhkC2QAAAAAaUd5_T-nLa5Kk7dCWP2fFnXzlh8&amp;scisf=4&amp;ct=citation&amp;cd=-1&amp;hl=zh-CN" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
       
     </div>
   </div>
@@ -536,12 +962,12 @@
 
 
 <li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 5px;padding-left: 0px;">
-    <img src="./assets/img/pics/HanPY02.png" class="teaser img-fluid z-depth-1" style="width: 260px; height: 140px;" />
+<div class="pub-row" style="display: flex; align-items: center;">
+  <div class="col-sm-4 abbr" style="position: relative;padding-right: 15px;padding-left: 0px;">
+    <img src="./assets/img/pics/HanPY02.png" class="teaser img-fluid z-depth-1" style="width: 300px; height: 160px;" />
             <abbr class="badge">IEEE TASE</abbr>
   </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+  <div class="col-sm-8" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://ieeexplore.ieee.org/abstract/document/11007216">Multi-Condition Fault Diagnosis of Dynamic Systems: A Survey, Insights, and Prospects</a></div>
       <div class="author">Pengyu Han, <strong>Zeyi Liu</strong>, Xiao He, Steven X Ding, Donghua Zhou</div>
       <div class="periodical"><em>IEEE Transactions on Automation Science and Engineering</em>
@@ -575,12 +1001,12 @@
 
 
 <li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 5px;padding-left: 0px;">
-    <img src="./assets/img/pics/LiC03.png" class="teaser img-fluid z-depth-1" style="width: 260px; height: 140px;" />
+<div class="pub-row" style="display: flex; align-items: center;">
+  <div class="col-sm-4 abbr" style="position: relative;padding-right: 15px;padding-left: 0px;">
+    <img src="./assets/img/pics/LiC03.png" class="teaser img-fluid z-depth-1" style="width: 300px; height: 160px;" />
             <abbr class="badge">IEEE TNNLS</abbr>
   </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+  <div class="col-sm-8" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=11008714">Factorization-Based Broad Learning System With Time-Dependent Structure</a></div>
       <div class="author">Chen Li, <strong>Zeyi Liu</strong>, Xiao He, Pengyu Han</div>
       <div class="periodical"><em>IEEE Transactions on Neural Networks and Learning Systems</em>
@@ -598,7 +1024,7 @@
       <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=11008714" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       
        
-      <a href="https://github.com/Lichen0102/QRBLS" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://github.com/liuzy0708/Awesome_OL" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       
       
        
@@ -614,12 +1040,12 @@
 
 
 <li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 5px;padding-left: 0px;">
-    <img src="./assets/img/pics/XuM02.png" class="teaser img-fluid z-depth-1" style="width: 260px; height: 140px;" />
+<div class="pub-row" style="display: flex; align-items: center;">
+  <div class="col-sm-4 abbr" style="position: relative;padding-right: 15px;padding-left: 0px;">
+    <img src="./assets/img/pics/XuM02.png" class="teaser img-fluid z-depth-1" style="width: 300px; height: 160px;" />
             <abbr class="badge">IEEE TAI</abbr>
   </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+  <div class="col-sm-8" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=10820048">A Hierarchical Cross-modal Spatial Fusion Network for Multimodal Emotion Recognition</a></div>
       <div class="author">Ming Xu, Tuo Shi, Hao Zhang, <strong>Zeyi Liu</strong>, Xiao He</div>
       <div class="periodical"><em>IEEE Transactions on Artificial Intelligence</em>
@@ -649,12 +1075,12 @@
 
 
 <li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 5px;padding-left: 0px;">
-    <img src="./assets/img/pics/LiuZY10.png" class="teaser img-fluid z-depth-1" style="width: 260px; height: 140px;" />
+<div class="pub-row" style="display: flex; align-items: center;">
+  <div class="col-sm-4 abbr" style="position: relative;padding-right: 15px;padding-left: 0px;">
+    <img src="./assets/img/pics/LiuZY10.png" class="teaser img-fluid z-depth-1" style="width: 300px; height: 160px;" />
             <abbr class="badge">IEEE TKDE</abbr>
   </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+  <div class="col-sm-8" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=10750900">Online Dynamic Hybrid Broad Learning System for Real-time Safety Assessment of Dynamic Systems</a></div>
       <div class="author"><strong>Zeyi Liu</strong>, Xiao He</div>
       <div class="periodical"><em>IEEE Transactions on Knowledge and Data Engineering</em>
@@ -671,6 +1097,8 @@
        
       <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=10750900" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       
+       
+      <a href="https://github.com/liuzy0708/Awesome_OL" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       
       
        
@@ -686,12 +1114,12 @@
 
 
 <li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 5px;padding-left: 0px;">
-    <img src="./assets/img/pics/LiuZY11.png" class="teaser img-fluid z-depth-1" style="width: 260px; height: 140px;" />
+<div class="pub-row" style="display: flex; align-items: center;">
+  <div class="col-sm-4 abbr" style="position: relative;padding-right: 15px;padding-left: 0px;">
+    <img src="./assets/img/pics/LiuZY11.png" class="teaser img-fluid z-depth-1" style="width: 300px; height: 160px;" />
             <abbr class="badge">AAS</abbr>
   </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+  <div class="col-sm-8" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="http://www.aas.net.cn/cn/article/doi/10.16383/j.aas.c240096">Real-time Safety Assessment Techniques of Dynamic Systems (in Chinese)</a></div>
       <div class="author">Xiao He, <strong>Zeyi Liu</strong>, Songqiao Hu, Chang Liu, Donghua Zhou</div>
       <div class="periodical"><em>Acta Automatica Sinica</em>
@@ -723,12 +1151,12 @@
 
 
 <li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 5px;padding-left: 0px;">
-    <img src="./assets/img/pics/HanPY01.png" class="teaser img-fluid z-depth-1" style="width: 260px; height: 140px;" />
+<div class="pub-row" style="display: flex; align-items: center;">
+  <div class="col-sm-4 abbr" style="position: relative;padding-right: 15px;padding-left: 0px;">
+    <img src="./assets/img/pics/HanPY01.png" class="teaser img-fluid z-depth-1" style="width: 300px; height: 160px;" />
             <abbr class="badge">IEEE TIM</abbr>
   </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+  <div class="col-sm-8" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=10530529">Imbalanced Real-Time Fault Diagnosis Based on Minority-Prioritized Online Semi-Supervised RVFL Network</a></div>
       <div class="author">Pengyu Han, Shijin Chen, <strong>Zeyi Liu</strong>, Xiao He</div>
       <div class="periodical"><em>IEEE Transactions on Instrumentation and Measurement</em>
@@ -762,12 +1190,49 @@
 
 
 <li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 5px;padding-left: 0px;">
-    <img src="./assets/img/pics/HuSQ01.png" class="teaser img-fluid z-depth-1" style="width: 260px; height: 140px;" />
+<div class="pub-row" style="display: flex; align-items: center;">
+  <div class="col-sm-4 abbr" style="position: relative;padding-right: 15px;padding-left: 0px;">
+    <img src="./assets/img/pics/LiuZY02_1.png" class="teaser img-fluid z-depth-1" style="width: 300px; height: 160px;" />
+            <abbr class="badge">IEEE TASE</abbr>
+  </div>
+  <div class="col-sm-8" style="position: relative;padding-right: 15px;padding-left: 20px;">
+      <div class="title"><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=10538239">Contrastive Preference-Guided Active Learning Approach Based on Ranking Correlation for Chunk-Level RTSA</a></div>
+      <div class="author"><strong>Zeyi Liu</strong>, Xiao He</div>
+      <div class="periodical"><em>IEEE Transactions on Automation Science and Engineering</em>
+      </div>
+         <div class="links">
+             
+      <strong>In Press, 2024</strong>
+      
+             
+      <strong style="color:#e74d3c"> &nbsp;CAA-A+, CCF-B</strong>
+      
+      </div>
+    <div class="links">
+       
+      <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=10538239" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      
+      
+      
+       
+      <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:P-kFMG9eV0EJ:scholar.google.com/&amp;output=citation&amp;scisdr=ClHstp_fEMLgncEH2U8:AFWwaeYAAAAAZmIBwU8ifHxmA404yFEFjz2AnYc&amp;scisig=AFWwaeYAAAAAZmIBwSe-0hZM_1qiBjqYSZcnYYs&amp;scisf=4&amp;ct=citation&amp;cd=-1&amp;hl=zh-CN" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+      
+    </div>
+  </div>
+</div>
+</li>
+
+<br />
+
+
+
+<li>
+<div class="pub-row" style="display: flex; align-items: center;">
+  <div class="col-sm-4 abbr" style="position: relative;padding-right: 15px;padding-left: 0px;">
+    <img src="./assets/img/pics/HuSQ01.png" class="teaser img-fluid z-depth-1" style="width: 300px; height: 160px;" />
             <abbr class="badge">IEEE TNNLS</abbr>
   </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+  <div class="col-sm-8" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=10458267">CADM+: Confusion-Based Learning Framework with Drift Detection and Adaptation for Chunk-Level RTSA</a></div>
       <div class="author">Songqiao Hu, <strong>Zeyi Liu</strong>, Minyue Li, Xiao He</div>
       <div class="periodical"><em>IEEE Transactions on Neural Networks and Learning Systems</em>
@@ -801,12 +1266,12 @@
 
 
 <li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 5px;padding-left: 0px;">
-    <img src="./assets/img/pics/LiW02.png" class="teaser img-fluid z-depth-1" style="width: 260px; height: 140px;" />
+<div class="pub-row" style="display: flex; align-items: center;">
+  <div class="col-sm-4 abbr" style="position: relative;padding-right: 15px;padding-left: 0px;">
+    <img src="./assets/img/pics/LiW02.png" class="teaser img-fluid z-depth-1" style="width: 300px; height: 160px;" />
             <abbr class="badge">NeuroC</abbr>
   </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+  <div class="col-sm-8" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://www.sciencedirect.com/science/article/abs/pii/S0925231225008094">A Dynamic Anchor-Based Oline Semi-Supervised Learning Approach for Fault Diagnosis Under Variable Operating Condition</a></div>
       <div class="author">Wei Li, <strong>Zeyi Liu</strong>, Pengyu Han, Xiao He, Limin Wang, Tao Zhang</div>
       <div class="periodical"><em>Neurocomputing</em>
@@ -838,12 +1303,12 @@
 
 
 <li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 5px;padding-left: 0px;">
-    <img src="./assets/img/pics/WenT01.png" class="teaser img-fluid z-depth-1" style="width: 260px; height: 140px;" />
+<div class="pub-row" style="display: flex; align-items: center;">
+  <div class="col-sm-4 abbr" style="position: relative;padding-right: 15px;padding-left: 0px;">
+    <img src="./assets/img/pics/WenT01.png" class="teaser img-fluid z-depth-1" style="width: 300px; height: 160px;" />
             <abbr class="badge">EJOR</abbr>
   </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+  <div class="col-sm-8" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://pdf.sciencedirectassets.com/271700/AIP/1-s2.0-S0377221724009573/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGIaCXVzLWVhc3QtMSJGMEQCIEoNJTSsEITQegwCFzBa%2BsCTbgf4YJxGMy867cCNLfPxAiBXS8%2B3GIcqjJGl37j0%2BU9PB%2Bnlz1yFn5Zy12oqfd%2BwvSq8BQib%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAUaDDA1OTAwMzU0Njg2NSIMp%2FhrKaABezjFP777KpAF95Rj2OBGV7a7qyxcWzGtHqVW2jm8PuF3PDH%2FTWBewgensnGn9DQHmSkhDxYgZmGQPe%2FWl%2FtlULuY2zCg5upPb2%2FOJ12puUFWCj7nKaYo8nhGu7eQ7lQv2kwF6ckBBOVxBkH%2B7mdZRSrIQZhWmQLbmhGzBy3ShZ8Vb7xpdnK0AUmk0DiaogiJaCyFavDkMpP%2FaQMrO%2FFqoBIiual1bRYZyNcjc8X8icqupW1Aw%2BGugDXS1LvA1rpL0smjbv0OYdg%2FX044RqE0JaJofe99i22anQJwHthw9ppMMYfLkbqus7DOGG0xb8iBCuL27KZA1P42hAqBNAFhgnkdlm%2BSiSmTO4to0rRmNyReCM1%2B8itC29iquRayM%2BLP9TxKdPiYCaYNXKQFQUjuFjMyDKXnECkzIClNRIBHA%2BBWIlJ3lkGh2s61ayxruHYG6UkSdpOokGzjZkdn9TgLBCHMZCDyMqi%2FBLzlJ6yNmC7bl4clthj%2FrC5tvU39DDoHIOEijPVuXAUQD82qqOlqiPcc1QoQ951mhwxYXG%2BTdiIwHo1DLY78r1P%2F0y8PC7cGSFvShog36Ouz%2BOnxMCJzZehpseSyAGjLalctxeKSPTRuj27AYK2xngVAs5ha5Zkp%2F9t0gr%2BkvDSUgMwi%2FC4aWY6Sq8wImRsH1e6pZa9mXd7CRgFkM0Ax21ZeVaAcf2KsHrV%2FWHXXdDyAmZiQWiwvZ0CcJUeVup5nVlknOtpOfwOPFwT2Z9I1U1gZDPgHiKS8B%2BewggvIg8Ejjubgd8PfvjL9XF4ZhZPJwssovbJo%2Bwfydl0xEPi%2FbydyS%2BZ%2FbTOu%2FX0Ga7nk00vwjrWGpL2CvgVzJ5ZhPrJ7r8EwLCx5UfsJiczWfcYqD0ow%2BMuJvgY6sgFZQiIj4%2F22oItf6P%2F%2Fj1UmXyjT3Z%2BRS3u3ou5XuP1b9qUhxpf7zyxtBwFra1YjO5FRKLZStOStDFDaWhb4%2BoztW3mOfSHVpdYAVcwTI2CgFVJJ8IBXUv3GdVDegY953luM0FLY94tl5SI7GUsNL8EODzstCZBEWardoc2WLZ4WQ195uMm%2FU119vDVyqAXkQl3LGbUrobTvYpejY%2F1%2B2d4Y4LKLxF7KHfKKMjMkXwFKJ6hW&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Date=20250301T021831Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=300&amp;X-Amz-Credential=ASIAQ3PHCVTYRROCO2RB%2F20250301%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Signature=4b07161e373f3ed34cf77efbf3d83e6154fa74064a6b49d4834d92de19060791&amp;hash=057b3abe1796ce1e684be70283725317476985ba3310e931f5110012ee3cebe4&amp;host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&amp;pii=S0377221724009573&amp;tid=spdf-ea161012-f22f-4d62-987f-2884f8696761&amp;sid=22076f5147e41949973be1d-65b2cfbbb212gxrqa&amp;type=client&amp;tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&amp;rh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&amp;ua=190856535e51550f520f06&amp;rr=91952a0add8addc6&amp;cc=cn&amp;kca=eyJrZXkiOiJqc252WERMQlRWT053akJLTlNQQ3dRWk5Uby93a2VlV0lSMkp4WTVSUlZialdpQUVqMzYzMzNWM1FRRVM4MVZuUWhxQ0xBUWpOZUc1enlRUndoaVNjOHd4U1MvYk1IQVpPV3lMQ3h0THFmemc4cFoyUnRidTZVenFDbGhVN01xQTh5Q2FUU3cvOEErTVNKUWZxSjRpTFVKVnlIZmtHdE8veUgrMTNNRWxYMVhlOHB6RTV3PT0iLCJpdiI6ImRlMWM5MTNiMDgwMWNmYmEzYWE2NGM5NTViMzcwZDMzIn0=_1740795774763">Formulating Opinion Dynamics From Belief Formation, Diffusion and Updating in Social Network Group Decision-making: Towards Developing a Holistic Framework</a></div>
       <div class="author">Tao Wen, Rui Zheng, Ting Wu, <strong>Zeyi Liu</strong>, Mi Zhou, Tahir Abbas Syed, Darminder Ghataoura, Yu-wang Chen</div>
       <div class="periodical"><em>European Journal of Operational Research</em>
@@ -875,12 +1340,12 @@
 
 
 <li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 5px;padding-left: 0px;">
-    <img src="./assets/img/pics/LiuD03.png" class="teaser img-fluid z-depth-1" style="width: 260px; height: 140px;" />
+<div class="pub-row" style="display: flex; align-items: center;">
+  <div class="col-sm-4 abbr" style="position: relative;padding-right: 15px;padding-left: 0px;">
+    <img src="./assets/img/pics/LiuD03.png" class="teaser img-fluid z-depth-1" style="width: 300px; height: 160px;" />
             <abbr class="badge">IEEE TETCI</abbr>
   </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+  <div class="col-sm-8" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=10473174">Game-Theoretic Expert Importance Evaluation Model Guided by Cooperation Effects for SNGDM</a></div>
       <div class="author"><strong>Zeyi Liu</strong>#, Tao Wen#, Yong Deng, and Hamido Fujita</div>
       <div class="periodical"><em>IEEE Transactions on Emerging Topics in Computational Intelligence</em>
@@ -910,12 +1375,12 @@
 
 
 <li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 5px;padding-left: 0px;">
-    <img src="./assets/img/pics/LiuZY08.png" class="teaser img-fluid z-depth-1" style="width: 260px; height: 140px;" />
+<div class="pub-row" style="display: flex; align-items: center;">
+  <div class="col-sm-4 abbr" style="position: relative;padding-right: 15px;padding-left: 0px;">
+    <img src="./assets/img/pics/LiuZY08.png" class="teaser img-fluid z-depth-1" style="width: 300px; height: 160px;" />
             <abbr class="badge">IEEE TCYB</abbr>
   </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+  <div class="col-sm-8" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=10375819">Dynamic Model Interpretation-Guided Online Active Learning Scheme for Real-Time Safety Assessment</a></div>
       <div class="author">Xiao He, <strong>Zeyi Liu</strong></div>
       <div class="periodical"><em>IEEE Transactions on Cybernetics</em>
@@ -949,12 +1414,12 @@
 
 
 <li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 5px;padding-left: 0px;">
-    <img src="./assets/img/pics/LiuZY09.png" class="teaser img-fluid z-depth-1" style="width: 260px; height: 140px;" />
+<div class="pub-row" style="display: flex; align-items: center;">
+  <div class="col-sm-4 abbr" style="position: relative;padding-right: 15px;padding-left: 0px;">
+    <img src="./assets/img/pics/LiuZY09.png" class="teaser img-fluid z-depth-1" style="width: 300px; height: 160px;" />
             <abbr class="badge">IEEE TII</abbr>
   </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+  <div class="col-sm-8" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=10342662">Evidential Ensemble Preference-guided Learning Approach for Real-time Multi-mode Fault Diagnosis</a></div>
       <div class="author"><strong>Zeyi Liu</strong>, Chen Li, Xiao He</div>
       <div class="periodical"><em>IEEE Transactions on Industrial Informatics</em>
@@ -986,12 +1451,12 @@
 
 
 <li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 5px;padding-left: 0px;">
-    <img src="./assets/img/pics/LiuZY06.png" class="teaser img-fluid z-depth-1" style="width: 260px; height: 140px;" />
+<div class="pub-row" style="display: flex; align-items: center;">
+  <div class="col-sm-4 abbr" style="position: relative;padding-right: 15px;padding-left: 0px;">
+    <img src="./assets/img/pics/LiuZY06.png" class="teaser img-fluid z-depth-1" style="width: 300px; height: 160px;" />
             <abbr class="badge">IEEE TASE</abbr>
   </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+  <div class="col-sm-8" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=10292791">A Discrimination-Guided Active Learning Method Based on Marginal Representations for Industrial CFD</a></div>
       <div class="author"><strong>Zeyi Liu</strong>, Jingfei Zhang, Xiao He</div>
       <div class="periodical"><em>IEEE Transactions on Automation Science and Engineering</em>
@@ -1023,12 +1488,12 @@
 
 
 <li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 5px;padding-left: 0px;">
-    <img src="./assets/img/pics/LiC02.png" class="teaser img-fluid z-depth-1" style="width: 260px; height: 140px;" />
+<div class="pub-row" style="display: flex; align-items: center;">
+  <div class="col-sm-4 abbr" style="position: relative;padding-right: 15px;padding-left: 0px;">
+    <img src="./assets/img/pics/LiC02.png" class="teaser img-fluid z-depth-1" style="width: 300px; height: 160px;" />
             <abbr class="badge">IEEE TR</abbr>
   </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+  <div class="col-sm-8" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=10297982">A Real-time Adaptive Fault Diagnosis Scheme for Dynamic System with Performance Degradation</a></div>
       <div class="author">Xiao He, Chen Li, <strong>Zeyi Liu</strong></div>
       <div class="periodical"><em>IEEE Transactions on Reliability</em>
@@ -1060,12 +1525,12 @@
 
 
 <li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 5px;padding-left: 0px;">
-    <img src="./assets/img/pics/Liu-Xiao02.png" class="teaser img-fluid z-depth-1" style="width: 260px; height: 140px;" />
+<div class="pub-row" style="display: flex; align-items: center;">
+  <div class="col-sm-4 abbr" style="position: relative;padding-right: 15px;padding-left: 0px;">
+    <img src="./assets/img/pics/Liu-Xiao02.png" class="teaser img-fluid z-depth-1" style="width: 300px; height: 160px;" />
             <abbr class="badge">IEEE TSMCA</abbr>
   </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+  <div class="col-sm-8" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://ieeexplore.ieee.org/document/10281376">A Robust Evidential Multi-source Data Fusion Approach Based on CGT and Its Application in EEG</a></div>
       <div class="author"><strong>Zeyi Liu</strong>, Fuyuan Xiao, Chin-Teng Lin, Zehong Cao</div>
       <div class="periodical"><em>IEEE Transactions on Systems, Man, and Cybernetics: Systems</em>
@@ -1097,12 +1562,12 @@
 
 
 <li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 5px;padding-left: 0px;">
-    <img src="./assets/img/pics/LiuZY07.png" class="teaser img-fluid z-depth-1" style="width: 260px; height: 140px;" />
+<div class="pub-row" style="display: flex; align-items: center;">
+  <div class="col-sm-4 abbr" style="position: relative;padding-right: 15px;padding-left: 0px;">
+    <img src="./assets/img/pics/LiuZY07.png" class="teaser img-fluid z-depth-1" style="width: 300px; height: 160px;" />
             <abbr class="badge">IEEE TNNLS</abbr>
   </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+  <div class="col-sm-8" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=10195233">Dynamic Submodular-Based Learning Strategy in Imbalanced Drifting Streams for RTSA in Nonstationary Environments</a></div>
       <div class="author"><strong>Zeyi Liu</strong>, Xiao He</div>
       <div class="periodical"><em>IEEE Transactions on Neural Networks and Learning Systems</em>
@@ -1136,12 +1601,12 @@
 
 
 <li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 5px;padding-left: 0px;">
-    <img src="./assets/img/pics/MCC5-Tsinghua-Gearbox.png" class="teaser img-fluid z-depth-1" style="width: 260px; height: 140px;" />
+<div class="pub-row" style="display: flex; align-items: center;">
+  <div class="col-sm-4 abbr" style="position: relative;padding-right: 15px;padding-left: 0px;">
+    <img src="./assets/img/pics/MCC5-Tsinghua-Gearbox.png" class="teaser img-fluid z-depth-1" style="width: 300px; height: 160px;" />
             <abbr class="badge">DIB</abbr>
   </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+  <div class="col-sm-8" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://pdf.sciencedirectassets.com/311593/AIP/1-s2.0-S2352340924004220/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjELj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQDD6RrbxyCKH0lP9DpaTU5dUvH9lhwbWZjlPl5dbvFXnwIge0qZQyYAxv11SIoL%2FldsFOKKw5XVhCTpko6S9aERlnsqvAUI8f%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAFGgwwNTkwMDM1NDY4NjUiDM7A3UawsMAIDcOJ0iqQBR3GroUIbHY83fA0FA2BrCVt6rZYtomiFFuRWGBgTmS%2Bs739rOE%2FgAuWzvoK8tc7KcweZaFCnhX%2F6BM0qLxser8xxvwvabzco31Iwh6r%2FZyy5cJBfQelDymvUmAOURWXqzIMvZi%2Fk80HY5xg%2FgK40E9Ov9A7mdnDORMOgZt6WSqV5XrPV6pV85xFfEttLrS70HLpl1QQVLHbA1A2ENNO8%2BTgzRY6DvX2XGOHKG8yEnwYMJHzcrNmAXDGYBoFVvjh1w2kbKzmVm1%2F8wXRMETAYJL8L3LdRZiaFY5jfXmT%2B8EfODZ3iWmtL9ldoKeZkDzxqw2IDy7eZW%2FpfHX0uXH4BAL1vY2%2Bp2wOlFtEaCw6itkIpDxbEs2YniobryMTs6IxxVjYDPIQAyU4HqEldhXAR8BESXEf18xNG3HpDMb3Ei1y8UqUD%2FQSz5CASbGXJSG7TqX9WhPBzYeaGTODBWrDBkO6E0HoHd3CJbem1n3Jd0VpAzIUEh%2FUvHGlNe7wTlX5zsQcr0XzqeZ%2Bx589yg7qkoQ3GMkZ4Xv34dMGLclCmYC6kqDoKWyp0x%2B4oBePuAj27yaYLcV2p1%2FpKCQ4nDj%2Fd5MygzKqcKeGLL1ouB6j9moEDgIEnKwnvIE52JAoeaLaS345FrPyzzBM2bP6r6KyxuGkR0%2FlGK3WJpQTiJgnRqDfhTi4fM1iyOQyHGsf8lzpVCGsRmadhpRVxvTE1yAmaCAYJGkqi4vV3pHkceLXPqxA41wfuDfenyKIj4DOKqnKeAxVW2knUyXis3tsEKUgAkNjNHiXwrMSrPh7zwszIlFrihSKB%2B4BNEtkBJnBr0jsWVav2VSvXYl7o%2BPL099XaX4u6gOA3otH0d0YRam92RvHMLCDhbEGOrEBpTsA5ff7Frh9pku83CJT%2FSfh6A%2FvYOD4CZW8mKJxcowKIV9Z1JwBe79nKfLQW70vBNuu3KsUd0OxFGeHtoHed%2BJdA6hR0soVjrX%2FKmY%2FiRYMEyTz77ae8AGsrPZFqop2VifNbYz4%2BdK3%2BdbdGIaBZaRk%2BfPEoQGFtgGxWVHfYKoI8iQAOwecQl%2FV2jjHR0F4%2Fme7guj2XzYegJOmBpuUbPTtl5OkctmWLCDTtvXOyFsg&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Date=20240418T163407Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=300&amp;X-Amz-Credential=ASIAQ3PHCVTY6KTNKTPM%2F20240418%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Signature=36669165805ba16195b02f955aacb6ae00a06bc1691b585052524ebdad0a159d&amp;hash=3c62d9ceddb628834975a02f7566bbf0b21640a287357afd801ccf1d2efd4d00&amp;host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&amp;pii=S2352340924004220&amp;tid=spdf-9ea9b1ae-06ea-4341-a6c4-12137d91b141&amp;sid=e0c4f566539e4740c479a6048ba193548312gxrqa&amp;type=client&amp;tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&amp;ua=190e585056585e04510f&amp;rr=87660f7a9fc90982&amp;cc=cn&amp;kca=eyJrZXkiOiJUSXl6QllYNFNFeElUSXhkaWFWWWc5MXlIUmJrWllTRzNxNENBLzYwdFpEWjIvbkVQajE2Y2JjWkgyaWduNExWT3ZnVlNzOGdJTjhYU0Z4RW9JWHY2Tm1oTFp5UWZCMHBhcVpOYTR1cE1ndm90bVphTUpObDVDTEdrOGdiQUN4aGF3MjN1RnBzRjB6UFpvY1ljUXdsVDZSaFBzSjIrOHl5blR5eVVsUUpPbEZjN0hrdSIsIml2IjoiYTRmZTkwMTc5OTIwYzFiY2Y0ZTViNTk3OGNmNGFmYmUifQ==_1713458058160">Multi-Mode Fault Diagnosis Datasets of Gearbox Under Variable Working Conditions</a></div>
       <div class="author">Shijin Chen#, <strong>Zeyi Liu</strong>#, Xiao He, Dongliang Zou, Donghua Zhou</div>
       <div class="periodical"><em>Data in Brief</em>
@@ -1175,12 +1640,12 @@
 
 
 <li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 5px;padding-left: 0px;">
-    <img src="./assets/img/pics/XuM01-2.png" class="teaser img-fluid z-depth-1" style="width: 260px; height: 140px;" />
+<div class="pub-row" style="display: flex; align-items: center;">
+  <div class="col-sm-4 abbr" style="position: relative;padding-right: 15px;padding-left: 0px;">
+    <img src="./assets/img/pics/XuM01-2.png" class="teaser img-fluid z-depth-1" style="width: 300px; height: 160px;" />
             <abbr class="badge">IEEE TIM</abbr>
   </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+  <div class="col-sm-8" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=10113355">Ivrr-PPG: An Illumination Variation Robust Remote-PPG Algorithm for Monitoring Heart Rate of Drivers</a></div>
       <div class="author">Ming Xu, Guang Zeng, Yongjun Song, Yue Cao, <strong>Zeyi Liu</strong>, Xiao He</div>
       <div class="periodical"><em>IEEE Transactions on Instrumentation and Measurement</em>
@@ -1212,12 +1677,12 @@
 
 
 <li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 5px;padding-left: 0px;">
-    <img src="./assets/img/pics/LiuZY05.png" class="teaser img-fluid z-depth-1" style="width: 260px; height: 140px;" />
+<div class="pub-row" style="display: flex; align-items: center;">
+  <div class="col-sm-4 abbr" style="position: relative;padding-right: 15px;padding-left: 0px;">
+    <img src="./assets/img/pics/LiuZY05.png" class="teaser img-fluid z-depth-1" style="width: 300px; height: 160px;" />
             <abbr class="badge">IEEE TITS</abbr>
   </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+  <div class="col-sm-8" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=10105849">Real-Time Safety Assessment for Dynamic Systems with Limited Memory and Annotations</a></div>
       <div class="author"><strong>Zeyi Liu</strong>, Xiao He</div>
       <div class="periodical"><em>IEEE Transactions on Intelligent Transportation Systems</em>
@@ -1251,12 +1716,12 @@
 
 
 <li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 5px;padding-left: 0px;">
-    <img src="./assets/img/pics/LiuZY03.png" class="teaser img-fluid z-depth-1" style="width: 260px; height: 140px;" />
+<div class="pub-row" style="display: flex; align-items: center;">
+  <div class="col-sm-4 abbr" style="position: relative;padding-right: 15px;padding-left: 0px;">
+    <img src="./assets/img/pics/LiuZY03.png" class="teaser img-fluid z-depth-1" style="width: 300px; height: 160px;" />
             <abbr class="badge">IEEE TNNLS</abbr>
   </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+  <div class="col-sm-8" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=9960812">An Online Active Broad Learning Approach for RTSA of Dynamic Systems in Nonstationary Environments</a></div>
       <div class="author"><strong>Zeyi Liu</strong>, Yi Zhang, Zhongjun Ding, Xiao He</div>
       <div class="periodical"><em>IEEE Transactions on Neural Networks and Learning Systems</em>
@@ -1288,12 +1753,12 @@
 
 
 <li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 5px;padding-left: 0px;">
-    <img src="./assets/img/pics/LiuZY04.png" class="teaser img-fluid z-depth-1" style="width: 260px; height: 140px;" />
+<div class="pub-row" style="display: flex; align-items: center;">
+  <div class="col-sm-4 abbr" style="position: relative;padding-right: 15px;padding-left: 0px;">
+    <img src="./assets/img/pics/LiuZY04.png" class="teaser img-fluid z-depth-1" style="width: 300px; height: 160px;" />
             <abbr class="badge">IEEE TCST</abbr>
   </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+  <div class="col-sm-8" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=9869794">RMFD with Limited Expert Interaction: A Multicriteria Active Learning Approach Based on BLS</a></div>
       <div class="author"><strong>Zeyi Liu</strong>, Jingfei Zhang, Xiao He, Qinghua Zhang, Guoxi Sun, Donghua Zhou</div>
       <div class="periodical"><em>IEEE Transactions on Control Systems Technology</em>
@@ -1325,12 +1790,12 @@
 
 
 <li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 5px;padding-left: 0px;">
-    <img src="./assets/img/pics/LiuD02-2.png" class="teaser img-fluid z-depth-1" style="width: 260px; height: 140px;" />
+<div class="pub-row" style="display: flex; align-items: center;">
+  <div class="col-sm-4 abbr" style="position: relative;padding-right: 15px;padding-left: 0px;">
+    <img src="./assets/img/pics/LiuD02-2.png" class="teaser img-fluid z-depth-1" style="width: 300px; height: 160px;" />
             <abbr class="badge">IEEE TFS</abbr>
   </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+  <div class="col-sm-8" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=9330576">Measure-Based GDM with Principle-Guided Social Interaction Influence for Incomplete Information: A Game Theoretic Perspective</a></div>
       <div class="author"><strong>Zeyi Liu</strong>, Yong Deng, Ronald R. Yager</div>
       <div class="periodical"><em>IEEE Transactions on Fuzzy Systems</em>
@@ -1362,12 +1827,12 @@
 
 
 <li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 5px;padding-left: 0px;">
-    <img src="./assets/img/pics/LiuZY01.png" class="teaser img-fluid z-depth-1" style="width: 260px; height: 140px;" />
+<div class="pub-row" style="display: flex; align-items: center;">
+  <div class="col-sm-4 abbr" style="position: relative;padding-right: 15px;padding-left: 0px;">
+    <img src="./assets/img/pics/LiuZY01.png" class="teaser img-fluid z-depth-1" style="width: 300px; height: 160px;" />
             <abbr class="badge">IEEE TIM</abbr>
   </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+  <div class="col-sm-8" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=9330576">Safety Assessment of Dynamic Systems: An Evidential Group Interaction-Based Fusion Design</a></div>
       <div class="author"><strong>Zeyi Liu</strong>, Yong Deng, Yi Zhang, Zhongjun Ding, Xiao He</div>
       <div class="periodical"><em>IEEE Transactions on Instrumentation and Measurement</em>
@@ -1399,12 +1864,12 @@
 
 
 <li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 5px;padding-left: 0px;">
-    <img src="./assets/img/pics/LiuXiao05.png" class="teaser img-fluid z-depth-1" style="width: 260px; height: 140px;" />
+<div class="pub-row" style="display: flex; align-items: center;">
+  <div class="col-sm-4 abbr" style="position: relative;padding-right: 15px;padding-left: 0px;">
+    <img src="./assets/img/pics/LiuXiao05.png" class="teaser img-fluid z-depth-1" style="width: 300px; height: 160px;" />
             <abbr class="badge">IEEE TSMCA</abbr>
   </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+  <div class="col-sm-8" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=8734878">A Generalized Golden Rule Representative Value for Multiple-Criteria Decision Analysis</a></div>
       <div class="author"><strong>Zeyi Liu</strong>, Fuyuan Xiao, Chin-Teng Lin, Byeong Ho Kang, Zehong Cao</div>
       <div class="periodical"><em>IEEE Transactions on Systems, Man, and Cybernetics: Systems</em>
@@ -1436,12 +1901,12 @@
 
 
 <li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 5px;padding-left: 0px;">
-    <img src="./assets/img/pics/LiuD01.png" class="teaser img-fluid z-depth-1" style="width: 260px; height: 140px;" />
+<div class="pub-row" style="display: flex; align-items: center;">
+  <div class="col-sm-4 abbr" style="position: relative;padding-right: 15px;padding-left: 0px;">
+    <img src="./assets/img/pics/LiuD01.png" class="teaser img-fluid z-depth-1" style="width: 300px; height: 160px;" />
             <abbr class="badge">INS</abbr>
   </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+  <div class="col-sm-8" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="">Network-Based Evidential Three-Way Theoretic Model for Large-Scale Group Decision Analysis</a></div>
       <div class="author"><strong>Zeyi Liu</strong>, Xiao He, Yong Deng</div>
       <div class="periodical"><em>Information Sciences</em>
@@ -1471,12 +1936,12 @@
 
 
 <li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 5px;padding-left: 0px;">
-    <img src="./assets/img/pics/TaoR01.png" class="teaser img-fluid z-depth-1" style="width: 260px; height: 140px;" />
+<div class="pub-row" style="display: flex; align-items: center;">
+  <div class="col-sm-4 abbr" style="position: relative;padding-right: 15px;padding-left: 0px;">
+    <img src="./assets/img/pics/TaoR01.png" class="teaser img-fluid z-depth-1" style="width: 300px; height: 160px;" />
             <abbr class="badge">INS</abbr>
   </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+  <div class="col-sm-8" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="">A Dynamic Group MCDM Model with Intuitionistic Fuzzy Set: Perspective of Alternative Queuing Method</a></div>
       <div class="author">Ran Tao, <strong>Zeyi Liu</strong>, Rui Cai, Kanghao Cheong</div>
       <div class="periodical"><em>Information Sciences</em>
@@ -1505,54 +1970,23 @@
 
 
 
-<li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 5px;padding-left: 0px;">
-    <img src="./assets/img/pics/LiuXiao03.png" class="teaser img-fluid z-depth-1" style="width: 260px; height: 140px;" />
-            <abbr class="badge">IJIS</abbr>
-  </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="">An Interval-Valued Exceedance Method in MCDM with Uncertain Satisfactions</a></div>
-      <div class="author"><strong>Zeyi Liu</strong>, Fuyuan Xiao</div>
-      <div class="periodical"><em>International Journal of Intelligent Systems</em>
-      </div>
-         <div class="links">
-             
-      <strong>vol. 34, no. 10, pp. 2676-2691, 2019</strong>
-      
-             
-      <strong style="color:#e74d3c"> &nbsp;CAA-A, CCF-C</strong>
-      
-      </div>
-    <div class="links">
-      
-      
-      
-       
-      <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:maxi94TcnpAJ:scholar.google.com/&amp;output=citation&amp;scisdr=ClGd7gItEMLgnqQEibU:AFWwaeYAAAAAZQcCkbVLYfp9KeEwONFZ14bUWYE&amp;scisig=AFWwaeYAAAAAZQcCkejd8-z0bf8ua9ds1UPMVk8&amp;scisf=4&amp;ct=citation&amp;cd=-1&amp;hl=zh-CN" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
-      
-    </div>
-  </div>
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 12px 20px; border-radius: 8px; margin: 30px 0 20px 0; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+  <p style="color: white; font-size: 24px; font-weight: bold; margin: 0; letter-spacing: 1px;">
+    🎓 Conference
+  </p>
 </div>
-</li>
-
-<br />
-
-
-
-<p style="color: #6C3082; font-size: 25px; font-weight: bold; marginal-left: 200px">Conferences</p>
 
 
 
 
 <li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 5px;padding-left: 0px;">
-    <img src="./assets/img/pics/YuanXYC01.png" class="teaser img-fluid z-depth-1" style="width: 260px; height: 140px;" />
+<div class="pub-row" style="display: flex; align-items: center;">
+  <div class="col-sm-4 abbr" style="position: relative;padding-right: 15px;padding-left: 0px;">
+    <img src="./assets/img/pics/YuanXYC01.png" class="teaser img-fluid z-depth-1" style="width: 300px; height: 160px;" />
             <abbr class="badge">CAA SAFEPROCESS 2025</abbr>
   </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="https://arxiv.org/pdf/2506.05854">Towards Next-Generation Intelligent Maintenance: Collaborative Fusion of Large and Small Models</a></div>
+  <div class="col-sm-8" style="position: relative;padding-right: 15px;padding-left: 20px;">
+      <div class="title"><a href="https://ieeexplore.ieee.org/document/11268134">Towards Next-Generation Intelligent Maintenance: Collaborative Fusion of Large and Small Models</a></div>
       <div class="author">Xiaoyi Yuan, Qiming Huang, Mingqing Guo, Huiming Ma, Ming Xu, <strong>Zeyi Liu</strong>, Xiao He</div>
       <div class="periodical"><em>2025 CAA Symposium on Fault Detection, Supervision, and Safety for Technical Processes</em>
       </div>
@@ -1564,7 +1998,7 @@
       </div>
     <div class="links">
        
-      <a href="https://arxiv.org/pdf/2506.05854" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://ieeexplore.ieee.org/document/11268134" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       
       
       
@@ -1581,25 +2015,25 @@
 
 
 <li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 5px;padding-left: 0px;">
-    <img src="./assets/img/pics/HuSQC02.png" class="teaser img-fluid z-depth-1" style="width: 260px; height: 140px;" />
+<div class="pub-row" style="display: flex; align-items: center;">
+  <div class="col-sm-4 abbr" style="position: relative;padding-right: 15px;padding-left: 0px;">
+    <img src="./assets/img/pics/HuSQC02.png" class="teaser img-fluid z-depth-1" style="width: 300px; height: 160px;" />
             <abbr class="badge">CAA SAFEPROCESS 2025</abbr>
   </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="https://arxiv.org/pdf/2506.08063">Lite-RVFL: A Lightweight Random Vector Functional-Link Neural Network for Learning Under Concept Drift</a></div>
+  <div class="col-sm-8" style="position: relative;padding-right: 15px;padding-left: 20px;">
+      <div class="title"><a href="https://ieeexplore.ieee.org/document/11268084">Lite-RVFL: A Lightweight Random Vector Functional-Link Neural Network for Learning Under Concept Drift</a></div>
       <div class="author">Songqiao Hu, <strong>Zeyi Liu</strong>, Xiao He</div>
       <div class="periodical"><em>2025 CAA Symposium on Fault Detection, Supervision, and Safety for Technical Processes</em>
       </div>
          <div class="links">
             
              
-      <strong style="color:#e74d3c"> &nbsp;CAA-A</strong>
+      <strong style="color:#e74d3c"> &nbsp;CAA-A, Finalist of Fang Chong-Zhi Best Paper Award</strong>
       
       </div>
     <div class="links">
        
-      <a href="https://arxiv.org/pdf/2506.08063" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://ieeexplore.ieee.org/document/11268084" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       
        
       <a href="https://github.com/songqiaohu/Lite-RVFL" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
@@ -1618,25 +2052,25 @@
 
 
 <li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 5px;padding-left: 0px;">
-    <img src="./assets/img/pics/HanPYC02.png" class="teaser img-fluid z-depth-1" style="width: 260px; height: 140px;" />
+<div class="pub-row" style="display: flex; align-items: center;">
+  <div class="col-sm-4 abbr" style="position: relative;padding-right: 15px;padding-left: 0px;">
+    <img src="./assets/img/pics/HanPYC02.png" class="teaser img-fluid z-depth-1" style="width: 300px; height: 160px;" />
             <abbr class="badge">CAA SAFEPROCESS 2025</abbr>
   </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="https://arxiv.org/pdf/2506.17740">Rethinking the Role of Operating Conditions for Learning-based Multi-condition Fault Diagnosis</a></div>
+  <div class="col-sm-8" style="position: relative;padding-right: 15px;padding-left: 20px;">
+      <div class="title"><a href="https://ieeexplore.ieee.org/document/11268179">Rethinking the Role of Operating Conditions for Learning-based Multi-condition Fault Diagnosis</a></div>
       <div class="author">Pengyu Han, <strong>Zeyi Liu</strong>, Shijin Chen, Dongliang Zou, Xiao He</div>
       <div class="periodical"><em>2025 CAA Symposium on Fault Detection, Supervision, and Safety for Technical Processes</em>
       </div>
          <div class="links">
             
              
-      <strong style="color:#e74d3c"> &nbsp;CAA-A</strong>
+      <strong style="color:#e74d3c"> &nbsp;CAA-A, Finalist of Fang Chong-Zhi Best Paper Award</strong>
       
       </div>
     <div class="links">
        
-      <a href="https://arxiv.org/pdf/2506.17740" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://ieeexplore.ieee.org/document/11268179" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       
       
       
@@ -1653,12 +2087,12 @@
 
 
 <li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 5px;padding-left: 0px;">
-    <img src="./assets/img/pics/CPCC2024.png" class="teaser img-fluid z-depth-1" style="width: 260px; height: 140px;" />
+<div class="pub-row" style="display: flex; align-items: center;">
+  <div class="col-sm-4 abbr" style="position: relative;padding-right: 15px;padding-left: 0px;">
+    <img src="./assets/img/pics/CPCC2024.png" class="teaser img-fluid z-depth-1" style="width: 300px; height: 160px;" />
             <abbr class="badge">CPCC 2024</abbr>
   </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+  <div class="col-sm-8" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="">Online Dynamic Semi-supervised Broad Learning System for RTFD with Variable Working Conditions</a></div>
       <div class="author"><strong>Zeyi Liu</strong>, Pengyu Han, Wei Li, Shijin Chen, Xiao He</div>
       <div class="periodical"><em>The 34th Chinese Process Control Conference</em>
@@ -1666,7 +2100,7 @@
          <div class="links">
             
              
-      <strong style="color:#e74d3c"> &nbsp;CAA-A</strong>
+      <strong style="color:#e74d3c"> &nbsp;CAA-A, Nomination of Zhang Zhongjun Best Paper Award</strong>
       
       </div>
     <div class="links">
@@ -1684,12 +2118,12 @@
 
 
 <li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 5px;padding-left: 0px;">
-    <img src="./assets/img/pics/LiuZY-C-01.png" class="teaser img-fluid z-depth-1" style="width: 260px; height: 140px;" />
+<div class="pub-row" style="display: flex; align-items: center;">
+  <div class="col-sm-4 abbr" style="position: relative;padding-right: 15px;padding-left: 0px;">
+    <img src="./assets/img/pics/LiuZY-C-01.png" class="teaser img-fluid z-depth-1" style="width: 300px; height: 160px;" />
             <abbr class="badge">CAA SAFEPROCESS 2023</abbr>
   </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+  <div class="col-sm-8" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://ieeexplore.ieee.org/abstract/document/10295743">RTSA of Dynamic Systems in Non-Stationary Environments: A Review of Methods and Techniques</a></div>
       <div class="author"><strong>Zeyi Liu</strong>, Songqiao Hu, Xiao He</div>
       <div class="periodical"><em>2023 CAA Symposium on Fault Detection, Supervision, and Safety for Technical Processes</em>
@@ -1719,12 +2153,12 @@
 
 
 <li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 5px;padding-left: 0px;">
-    <img src="./assets/img/pics/LiC-C-01.png" class="teaser img-fluid z-depth-1" style="width: 260px; height: 140px;" />
+<div class="pub-row" style="display: flex; align-items: center;">
+  <div class="col-sm-4 abbr" style="position: relative;padding-right: 15px;padding-left: 0px;">
+    <img src="./assets/img/pics/LiC-C-01.png" class="teaser img-fluid z-depth-1" style="width: 300px; height: 160px;" />
             <abbr class="badge">CPCC 2023</abbr>
   </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+  <div class="col-sm-8" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://arxiv.org/abs/2305.00169">An Evidential Real-Time Multi-Mode Fault Diagnosis Approach Based on Broad Learning System</a></div>
       <div class="author">Chen Li, <strong>Zeyi Liu</strong>, Xiao He</div>
       <div class="periodical"><em>The 34th Chinese Process Control Conference</em>
@@ -1754,12 +2188,12 @@
 
 
 <li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 5px;padding-left: 0px;">
-    <img src="./assets/img/pics/MaoMF01.png" class="teaser img-fluid z-depth-1" style="width: 260px; height: 140px;" />
+<div class="pub-row" style="display: flex; align-items: center;">
+  <div class="col-sm-4 abbr" style="position: relative;padding-right: 15px;padding-left: 0px;">
+    <img src="./assets/img/pics/MaoMF01.png" class="teaser img-fluid z-depth-1" style="width: 300px; height: 160px;" />
             <abbr class="badge">CPCC 2022</abbr>
   </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+  <div class="col-sm-8" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="">A Bearing Fault Diagnosis Method Based on Active Learning by Feature Interpolation</a></div>
       <div class="author">Mengfei Mao, <strong>Zeyi Liu</strong>, Xiao He</div>
       <div class="periodical"><em>The 33th Chinese Process Control Conference</em>
@@ -1785,12 +2219,12 @@
 
 
 <li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 5px;padding-left: 0px;">
-    <img src="./assets/img/pics/HuS01.png" class="teaser img-fluid z-depth-1" style="width: 260px; height: 140px;" />
+<div class="pub-row" style="display: flex; align-items: center;">
+  <div class="col-sm-4 abbr" style="position: relative;padding-right: 15px;padding-left: 0px;">
+    <img src="./assets/img/pics/HuS01.png" class="teaser img-fluid z-depth-1" style="width: 300px; height: 160px;" />
             <abbr class="badge">S-CUBE 2023</abbr>
   </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+  <div class="col-sm-8" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://link.springer.com/chapter/10.1007/978-3-031-34899-0_13">Confusion Model for Real-Drift Detection in Chunk Data Streams</a></div>
       <div class="author">Songqiao Hu, <strong>Zeyi Liu</strong>, Xiao He</div>
       <div class="periodical"><em>Proceedings of 13th EAI International Conference on Sensor Systems and Software</em>
@@ -1820,7 +2254,7 @@
 
 <h1 id="resources"></h1>
 
-<h2 style="margin: 60px 0px -15px;"> Resources </h2>
+<h2 style="margin: 60px 0px -15px;">🔧 Resources</h2>
 
 <div class="publications">
 <ol class="bibliography">
@@ -1828,12 +2262,53 @@
 
 
 <li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 5px;padding-left: 0px;">
-    <img src="./assets/img/pics/Awesome_OL.png" class="teaser img-fluid z-depth-1" style="width: 260px; height: 140px;" />
+<div class="pub-row" style="display: flex; align-items: center;">
+  <div class="col-sm-4 abbr" style="position: relative;padding-right: 15px;padding-left: 0px;">
+    <img src="./assets/img/pics/SafeLIBERO.png" class="teaser img-fluid z-depth-1" style="width: 300px; height: 160px;" />
+            <abbr class="badge">DATASETS</abbr>
+  </div>
+  <div class="col-sm-8" style="position: relative;padding-right: 15px;padding-left: 20px;">
+      <div class="title"><a href="https://arxiv.org/pdf/2512.11891">SafeLIBERO: A Safety-Critical Benchmark with Vision-Language-Action Models</a></div>
+      <div class="author">THU-RCSCT Research Group</div>
+      <div class="periodical"><em>Open-source Benchmark Dataset</em>
+      </div>
+         <div class="links">
+             
+      <strong>HuggingFace, GitHub, 2025</strong>
+      
+             
+      <strong style="color:#e74d3c"> &nbsp;First VLSA Benchmark</strong>
+      
+      </div>
+    <div class="links">
+       
+      <a href="https://arxiv.org/pdf/2512.11891" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      
+       
+      <a href="https://github.com/THU-RCSCT/vlsa-aegis" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      
+       
+      <a href="https://vlsa-aegis.github.io" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
+      
+       
+      <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:sGR7blSqglMJ:scholar.google.com/&amp;output=citation&amp;scisdr=Cry0XUQbEJft0YeFUN0:ALhkC2QAAAAAaUeDSN0M_wUAosblS5pVOnZ-KjA&amp;scisig=ALhkC2QAAAAAaUeDSPpvpEvft-UDg4U4UuuPVLY&amp;scisf=4&amp;ct=citation&amp;cd=-1&amp;hl=zh-CN" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+      
+    </div>
+  </div>
+</div>
+</li>
+
+<br />
+
+
+
+<li>
+<div class="pub-row" style="display: flex; align-items: center;">
+  <div class="col-sm-4 abbr" style="position: relative;padding-right: 15px;padding-left: 0px;">
+    <img src="./assets/img/pics/Awesome_OL.png" class="teaser img-fluid z-depth-1" style="width: 300px; height: 160px;" />
             <abbr class="badge">Toolkit</abbr>
   </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+  <div class="col-sm-8" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://arxiv.org/pdf/2507.20144">Awesome-OL: An Extensible Toolkit for Online Learning</a></div>
       <div class="author">THU-FDD Research Group</div>
       <div class="periodical"><em>Open-source Codes</em>
@@ -1853,7 +2328,11 @@
        
       <a href="https://github.com/liuzy0708/Awesome-OL" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       
+       
+      <a href="https://thufdd.github.io" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
       
+       
+      <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:0iDWkL5gHVEJ:scholar.google.com/&amp;output=citation&amp;scisdr=Cry0XUQbEJft0YeHwFk:ALhkC2QAAAAAaUeB2Fn-dnIqeJbWc9e-CGzZg4I&amp;scisig=ALhkC2QAAAAAaUeB2OTNjqztIFCmFVs1GYpkgwM&amp;scisf=4&amp;ct=citation&amp;cd=-1&amp;hl=zh-CN" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
       
     </div>
   </div>
@@ -1865,15 +2344,15 @@
 
 
 <li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 5px;padding-left: 0px;">
-    <img src="./assets/img/pics/MCC5-Tsinghua-Gearbox.png" class="teaser img-fluid z-depth-1" style="width: 260px; height: 140px;" />
+<div class="pub-row" style="display: flex; align-items: center;">
+  <div class="col-sm-4 abbr" style="position: relative;padding-right: 15px;padding-left: 0px;">
+    <img src="./assets/img/pics/MCC5-Tsinghua-Gearbox.png" class="teaser img-fluid z-depth-1" style="width: 300px; height: 160px;" />
             <abbr class="badge">DATASETS</abbr>
   </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+  <div class="col-sm-8" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="">Multi-mode Fault Diagnosis Datasets of Gearbox Under Variable Working Conditions</a></div>
       <div class="author">THU-FDD Research Group, MCC5 Group Shanghai Co. LTD</div>
-      <div class="periodical"><em>Open-source Dataset</em>
+      <div class="periodical"><em>Open-source Benchmark Dataset</em>
       </div>
          <div class="links">
              
@@ -1886,8 +2365,10 @@
     <div class="links">
       
        
-      <a href="https://dx.doi.org/10.21227/p8da-cr78" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://github.com/liuzy0708/MCC5-THU-Gearbox-Benchmark-Datasets" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       
+       
+      <a href="https://dx.doi.org/10.21227/p8da-cr78" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
       
       
     </div>
@@ -1900,15 +2381,15 @@
 
 
 <li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 5px;padding-left: 0px;">
-    <img src="./assets/img/pics/jiaolong.png" class="teaser img-fluid z-depth-1" style="width: 260px; height: 140px;" />
+<div class="pub-row" style="display: flex; align-items: center;">
+  <div class="col-sm-4 abbr" style="position: relative;padding-right: 15px;padding-left: 0px;">
+    <img src="./assets/img/pics/jiaolong.png" class="teaser img-fluid z-depth-1" style="width: 300px; height: 160px;" />
             <abbr class="badge">DATASETS</abbr>
   </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+  <div class="col-sm-8" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="">Deep-Sea Manned Submersible Datasets</a></div>
       <div class="author">THU-FDD Research Group</div>
-      <div class="periodical"><em>Open-source Dataset</em>
+      <div class="periodical"><em>Open-source Benchmark Dataset</em>
       </div>
          <div class="links">
              
@@ -1933,15 +2414,15 @@
 
 
 <li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 5px;padding-left: 0px;">
-    <img src="./assets/img/pics/figure_nonlinear_gradual_rollingtorus_noise_and_redunce.gif" class="teaser img-fluid z-depth-1" style="width: 260px; height: 140px;" />
+<div class="pub-row" style="display: flex; align-items: center;">
+  <div class="col-sm-4 abbr" style="position: relative;padding-right: 15px;padding-left: 0px;">
+    <img src="./assets/img/pics/figure_nonlinear_gradual_rollingtorus_noise_and_redunce.gif" class="teaser img-fluid z-depth-1" style="width: 300px; height: 160px;" />
             <abbr class="badge">DATASETS</abbr>
   </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+  <div class="col-sm-8" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="">Concept Drift Benckmark Datasets</a></div>
       <div class="author">THU-FDD Research Group</div>
-      <div class="periodical"><em>Open-source Dataset</em>
+      <div class="periodical"><em>Open-source Benchmark Dataset</em>
       </div>
          <div class="links">
              
@@ -1966,15 +2447,15 @@
 
 
 <li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 5px;padding-left: 0px;">
-    <img src="./assets/img/pics/image-20230112105115641.jpeg" class="teaser img-fluid z-depth-1" style="width: 260px; height: 140px;" />
+<div class="pub-row" style="display: flex; align-items: center;">
+  <div class="col-sm-4 abbr" style="position: relative;padding-right: 15px;padding-left: 0px;">
+    <img src="./assets/img/pics/image-20230112105115641.jpeg" class="teaser img-fluid z-depth-1" style="width: 300px; height: 160px;" />
             <abbr class="badge">DATASETS</abbr>
   </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+  <div class="col-sm-8" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="">Multi-mode Fault Diagnosis Datasets with Tennessee Eastman Process</a></div>
       <div class="author">THU-FDD Research Group</div>
-      <div class="periodical"><em>Open-source Dataset</em>
+      <div class="periodical"><em>Open-source Benchmark Dataset</em>
       </div>
          <div class="links">
              
@@ -1999,15 +2480,15 @@
 
 
 <li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 5px;padding-left: 0px;">
-    <img src="./assets/img/pics/CFD_2.png" class="teaser img-fluid z-depth-1" style="width: 260px; height: 140px;" />
+<div class="pub-row" style="display: flex; align-items: center;">
+  <div class="col-sm-4 abbr" style="position: relative;padding-right: 15px;padding-left: 0px;">
+    <img src="./assets/img/pics/CFD_2.png" class="teaser img-fluid z-depth-1" style="width: 300px; height: 160px;" />
             <abbr class="badge">DATASETS</abbr>
   </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+  <div class="col-sm-8" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="">Compound Fault Diagnosis Datasets of Rotating Machinery</a></div>
       <div class="author">THU-FDD Research Group</div>
-      <div class="periodical"><em>Open-source Dataset</em>
+      <div class="periodical"><em>Open-source Benchmark Dataset</em>
       </div>
          <div class="links">
              
@@ -2096,14 +2577,116 @@
 
 <h2 style="margin: 60px 0px 10px;">💬 Contact</h2>
 
-<p><strong>Address:</strong> <a href="https://www.earthol.com/fun-1-school-tsinghua.html">Haidian District, Tsinghuayuan Neighborhood, Beijing, China </a>
-<br />
-<strong>Office Location:</strong> Central Main Building #415
-<br />
-<strong>Email:</strong> <email>liuzy21@mails.tsinghua.edu.cn</email>
-<br />
-<strong>Phone:</strong> (+86) 153-2163-8693</p>
-<br />
+<style>
+.contact-card {
+  background: #fff;
+  border: 1px solid #e0e0e0;
+  border-radius: 10px;
+  padding: 25px;
+  margin-bottom: 20px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+  transition: all 0.3s ease;
+}
+
+.contact-card:hover {
+  box-shadow: 0 4px 15px rgba(102, 126, 234, 0.15);
+}
+
+.contact-item {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 20px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid #f0f0f0;
+}
+
+.contact-item:last-child {
+  margin-bottom: 0;
+  padding-bottom: 0;
+  border-bottom: none;
+}
+
+.contact-icon {
+  font-size: 24px;
+  margin-right: 15px;
+  color: #667eea;
+  min-width: 30px;
+  text-align: center;
+}
+
+.contact-content {
+  flex: 1;
+}
+
+.contact-label {
+  font-size: 20px;
+  color: #999;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  margin-bottom: 5px;
+  font-weight: 600;
+}
+
+.contact-value {
+  font-size: 20px;
+  color: #2c3e50;
+  line-height: 1.6;
+}
+
+.contact-value a {
+  color: #667eea;
+  text-decoration: none;
+  border-bottom: 2px solid transparent;
+  transition: all 0.2s ease;
+}
+
+.contact-value a:hover {
+  border-bottom-color: #667eea;
+}
+
+.contact-value email {
+  color: #667eea;
+  font-weight: 500;
+}
+</style>
+
+<div class="contact-card">
+  <div class="contact-item">
+    <div class="contact-icon">📍</div>
+    <div class="contact-content">
+      <div class="contact-label">Address</div>
+      <div class="contact-value">
+        <a href="https://www.earthol.com/fun-1-school-tsinghua.html">Haidian District, Tsinghuayuan Neighborhood, Beijing, China</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="contact-item">
+    <div class="contact-icon">🏢</div>
+    <div class="contact-content">
+      <div class="contact-label">Office Location</div>
+      <div class="contact-value">Central Main Building #415</div>
+    </div>
+  </div>
+
+  <div class="contact-item">
+    <div class="contact-icon">✉️</div>
+    <div class="contact-content">
+      <div class="contact-label">Email</div>
+      <div class="contact-value">
+        <email>liuzy21@mails.tsinghua.edu.cn</email>
+      </div>
+    </div>
+  </div>
+
+  <div class="contact-item">
+    <div class="contact-icon">📞</div>
+    <div class="contact-content">
+      <div class="contact-label">Phone</div>
+      <div class="contact-value">(+86) 153-2163-8693</div>
+    </div>
+  </div>
+</div>
 
 <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&amp;w=227&amp;t=tt&amp;d=LGj6RE6LhpFSSVGleEqnCwQSYhx0OfZ_k_oaTnm3L_g&amp;cmn=cc3a5d&amp;cmo=8a53ff"></script>
 

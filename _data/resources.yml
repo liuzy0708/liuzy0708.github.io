@@ -1,12 +1,25 @@
 main:
 
+  - title: "SafeLIBERO: A Safety-Critical Benchmark with Vision-Language-Action Models"
+    authors: THU-RCSCT Research Group
+    conference_short: DATASETS
+    conference: Open-source Benchmark Dataset
+    notes: First VLSA Benchmark
+    pdf: https://arxiv.org/pdf/2512.11891
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:sGR7blSqglMJ:scholar.google.com/&output=citation&scisdr=Cry0XUQbEJft0YeFUN0:ALhkC2QAAAAAaUeDSN0M_wUAosblS5pVOnZ-KjA&scisig=ALhkC2QAAAAAaUeDSPpvpEvft-UDg4U4UuuPVLY&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    page: https://vlsa-aegis.github.io
+    code: https://github.com/THU-RCSCT/vlsa-aegis
+    image: ./assets/img/pics/SafeLIBERO.png
+    others: HuggingFace, GitHub, 2025
+
   - title: "Awesome-OL: An Extensible Toolkit for Online Learning"
     authors: THU-FDD Research Group
     conference_short: Toolkit
     conference: Open-source Codes
     notes: Ongoing updates
     pdf: https://arxiv.org/pdf/2507.20144
-    bibtex: 
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:0iDWkL5gHVEJ:scholar.google.com/&output=citation&scisdr=Cry0XUQbEJft0YeHwFk:ALhkC2QAAAAAaUeB2Fn-dnIqeJbWc9e-CGzZg4I&scisig=ALhkC2QAAAAAaUeB2OTNjqztIFCmFVs1GYpkgwM&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    page: https://thufdd.github.io
     code: https://github.com/liuzy0708/Awesome-OL
     image: ./assets/img/pics/Awesome_OL.png
     others: GitHub, 2025
@@ -15,16 +28,17 @@ main:
   - title: Multi-mode Fault Diagnosis Datasets of Gearbox Under Variable Working Conditions
     authors: THU-FDD Research Group, MCC5 Group Shanghai Co. LTD 
     conference_short: DATASETS
-    conference: Open-source Dataset
+    conference: Open-source Benchmark Dataset
     notes: Part I of our collaboration
-    code: https://dx.doi.org/10.21227/p8da-cr78
+    code: https://github.com/liuzy0708/MCC5-THU-Gearbox-Benchmark-Datasets
+    page: https://dx.doi.org/10.21227/p8da-cr78
     image: ./assets/img/pics/MCC5-Tsinghua-Gearbox.png
     others: IEEE Dataport, 2024
 
   - title: Deep-Sea Manned Submersible Datasets
     authors: THU-FDD Research Group
     conference_short: DATASETS
-    conference: Open-source Dataset
+    conference: Open-source Benchmark Dataset
     notes:
     code: https://github.com/THUFDD/JiaolongDSMS_datasets
     image: ./assets/img/pics/jiaolong.png
@@ -33,7 +47,7 @@ main:
   - title: Concept Drift Benckmark Datasets
     authors: THU-FDD Research Group
     conference_short: DATASETS
-    conference: Open-source Dataset
+    conference: Open-source Benchmark Dataset
     notes:
     code: https://github.com/songqiaohu/THU-Concept-Drift-Datasets-v1.0
     image: ./assets/img/pics/figure_nonlinear_gradual_rollingtorus_noise_and_redunce.gif
@@ -42,7 +56,7 @@ main:
   - title: Multi-mode Fault Diagnosis Datasets with Tennessee Eastman Process
     authors: THU-FDD Research Group
     conference_short: DATASETS
-    conference: Open-source Dataset
+    conference: Open-source Benchmark Dataset
     notes:
     code: https://github.com/Lichen0102/Multi-mode-Fault-Diagnosis-Datasets-with-TE-process
     image: ./assets/img/pics/image-20230112105115641.jpeg
@@ -51,7 +65,7 @@ main:
   - title: Compound Fault Diagnosis Datasets of Rotating Machinery
     authors: THU-FDD Research Group
     conference_short: DATASETS
-    conference: Open-source Dataset
+    conference: Open-source Benchmark Dataset
     notes:
     code: https://github.com/liuzy0708/Compound-Fault-Diagnosis-Datasets
     image: ./assets/img/pics/CFD_2.png
