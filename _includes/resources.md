@@ -1,6 +1,6 @@
 <h1 id="resources"></h1>
 
-<h2 style="margin: 60px 0px -15px;">🔧 Resources</h2>
+<h2 style="margin: 60px 0px -15px;" data-lang-en="🔧 Resources" data-lang-zh="🔧 资源分享">🔧 Resources</h2>
 
 <div class="publications">
 <ol class="bibliography">

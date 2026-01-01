@@ -1,6 +1,6 @@
 <h1 id="education"></h1>
 
-<h2 style="margin: 60px 0px 10px;">📖 Experience</h2>
+<h2 style="margin: 60px 0px 10px;" data-lang-en="📖 Experience" data-lang-zh="📖 教育经历">📖 Experience</h2>
 
 <style>
 .timeline {
@@ -79,6 +79,12 @@
   margin: 0 0 8px 0;
 }
 
+.timeline-advisor {
+  font-size: 20px;
+  color: #555;
+  margin: 0 0 8px 0;
+}
+
 .timeline-date {
   font-size: 20px;
   color: #999;
@@ -95,6 +101,7 @@
       <p class="timeline-degree">🎓 Ph.D. Candiate</p>
       <p class="timeline-institution">Department of Automation, Tsinghua University</p>
       <p class="timeline-location">📍 Beijing, China</p>
+      <p class="timeline-advisor">Advisor: Prof. Xiao He</p>
       <span class="timeline-date">⏰ 2021.9 ~ 2027.1 (expected)</span>
     </div>
   </div>
@@ -113,6 +120,7 @@
       <p class="timeline-degree">🔬 Research Assistant</p>
       <p class="timeline-institution">Institute of Fundamental and Frontier Sciences, University of Electronic Science and Technology of China</p>
       <p class="timeline-location">📍 Chengdu, Sichuan, China</p>
+      <p class="timeline-advisor">Advisor: Prof. Yong Deng</p>
       <span class="timeline-date">⏰ 2019.7 ~ 2019.9</span>
     </div>
   </div>
@@ -122,16 +130,17 @@
       <p class="timeline-degree">🔬 Research Assistant</p>
       <p class="timeline-institution">Department of Automation, Tsinghua University</p>
       <p class="timeline-location">📍 Beijing, China</p>
+      <p class="timeline-advisor">Advisor: Prof. Xiao He</p>
       <span class="timeline-date">⏰ 2020.1 ~ 2021.8</span>
     </div>
   </div>
 
-  <div class="timeline-item">
+  <!-- <div class="timeline-item">
     <div class="timeline-content">
       <p class="timeline-degree">🔬 Research Assistant</p>
       <p class="timeline-institution">School of Big Data and Software Engineering, Chongqing University</p>
       <p class="timeline-location">📍 Chongqing, China</p>
       <span class="timeline-date">⏰ 2021.6 ~ 2021.8</span>
     </div>
-  </div>
+  </div> -->
 </div>

@@ -1,0 +1,200 @@
+/* Chinese Language Font and Size Adjustments */
+/* 中文版本字体和大小调整 */
+
+/* 引入思源黑体（学术网站常用中文字体） */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300;400;500;600;700&display=swap');
+
+/* 中文版本字体设置 - 与英文版本大小匹配 */
+html[lang="zh-CN"] {
+  font-size: 98%; /* 整体缩放98%，接近英文版本 */
+  font-family: 'Noto Sans SC', 'PingFang SC', 'Microsoft YaHei', '微软雅黑', 'STHeiti', 'SimHei', 'Helvetica Neue', Arial, sans-serif !important;
+}
+
+/* 调整正文内容字体大小 - 与英文版本匹配 */
+/* 默认保持英文字体，只对明确的中文内容应用中文字体 */
+html[lang="zh-CN"] p,
+html[lang="zh-CN"] li,
+html[lang="zh-CN"] div:not(.lang-switcher):not(.topnav):not(.social-icons),
+html[lang="zh-CN"] span:not(.lang-separator) {
+  font-size: 1em !important; /* 保持原始大小 */
+  /* 默认不强制应用中文字体，让英文内容保持默认字体 */
+}
+
+/* 调整标题字体大小和字体 - 中文标题使用中文字体 */
+/* 所有标题默认使用中文字体，除非是纯英文内容 */
+html[lang="zh-CN"] h1,
+html[lang="zh-CN"] h2,
+html[lang="zh-CN"] h3,
+html[lang="zh-CN"] h4,
+html[lang="zh-CN"] h5,
+html[lang="zh-CN"] h6 {
+  font-size: 1em !important; /* 保持原始大小 */
+  font-family: 'Noto Sans SC', 'PingFang SC', 'Microsoft YaHei', '微软雅黑', 'STHeiti', 'SimHei', 'Helvetica Neue', Arial, sans-serif !important;
+}
+
+/* 确保带有data-lang-zh属性的标题使用中文字体（更高优先级） */
+html[lang="zh-CN"] h1[data-lang-zh],
+html[lang="zh-CN"] h2[data-lang-zh],
+html[lang="zh-CN"] h3[data-lang-zh],
+html[lang="zh-CN"] h4[data-lang-zh],
+html[lang="zh-CN"] h5[data-lang-zh],
+html[lang="zh-CN"] h6[data-lang-zh] {
+  font-family: 'Noto Sans SC', 'PingFang SC', 'Microsoft YaHei', '微软雅黑', 'STHeiti', 'SimHei', 'Helvetica Neue', Arial, sans-serif !important;
+}
+
+/* 调整内联样式中的字体大小（针对中文）- 保持接近原始大小 */
+html[lang="zh-CN"] [style*="font-size: 28px"] {
+  font-size: 26px !important; /* 从24px调整为26px */
+}
+
+html[lang="zh-CN"] [style*="font-size: 24px"] {
+  font-size: 23px !important; /* 从21px调整为23px */
+}
+
+html[lang="zh-CN"] [style*="font-size: 22px"] {
+  font-size: 21px !important; /* 从19px调整为21px */
+}
+
+html[lang="zh-CN"] [style*="font-size: 20px"] {
+  font-size: 19px !important; /* 从17px调整为19px */
+}
+
+/* 只对明确包含中文的元素应用中文字体 */
+/* 通过data-lang-zh属性切换的中文内容使用中文字体 */
+html[lang="zh-CN"] [data-lang-zh],
+html[lang="zh-CN"] [data-lang-zh] * {
+  font-family: 'Noto Sans SC', 'PingFang SC', 'Microsoft YaHei', '微软雅黑', 'STHeiti', 'SimHei', 'Helvetica Neue', Arial, sans-serif !important;
+}
+
+/* 保持所有英文内容的原始字体 - 确保所有板块的英文内容都使用英文字体 */
+/* 教育经历板块 */
+html[lang="zh-CN"] .timeline-institution,
+html[lang="zh-CN"] .timeline-location,
+html[lang="zh-CN"] .timeline-date,
+html[lang="zh-CN"] .timeline-degree,
+html[lang="zh-CN"] .timeline-content,
+html[lang="zh-CN"] .timeline-text {
+  font-family: 'Crimson Pro', Times, Arial, serif !important;
+}
+
+/* 研究板块 - 英文内容（但不包括标题） */
+html[lang="zh-CN"] #research ul li,
+html[lang="zh-CN"] #research p:not([data-lang-en]):not([data-lang-zh]),
+html[lang="zh-CN"] #research strong:not(h4 strong):not(h3 strong):not(h2 strong),
+html[lang="zh-CN"] #research em:not(h4 em):not(h3 em):not(h2 em) {
+  font-family: 'Crimson Pro', Times, Arial, serif !important;
+}
+
+/* 研究板块中的h4标题内的英文内容保持英文字体，但标题本身使用中文字体 */
+html[lang="zh-CN"] #research h4 strong,
+html[lang="zh-CN"] #research h4 em {
+  font-family: 'Crimson Pro', Times, Arial, serif !important;
+}
+
+/* 新闻板块 - 英文内容（但不包括标题） */
+html[lang="zh-CN"] #news ul li,
+html[lang="zh-CN"] #news strong:not(h2 strong):not(h3 strong):not(h1 strong),
+html[lang="zh-CN"] #news a:not(h2 a):not(h3 a):not(h1 a) {
+  font-family: 'Crimson Pro', Times, Arial, serif !important;
+}
+
+/* 确保新闻板块的标题使用中文字体 */
+html[lang="zh-CN"] #news h1,
+html[lang="zh-CN"] #news h2,
+html[lang="zh-CN"] #news h3 {
+  font-family: 'Noto Sans SC', 'PingFang SC', 'Microsoft YaHei', '微软雅黑', 'STHeiti', 'SimHei', 'Helvetica Neue', Arial, sans-serif !important;
+}
+
+/* 服务板块 - 英文内容（但不包括标题） */
+html[lang="zh-CN"] #services ul li,
+html[lang="zh-CN"] #services .service-card ul li,
+html[lang="zh-CN"] #services .student-info,
+html[lang="zh-CN"] #services .student-name,
+html[lang="zh-CN"] #services .talk-venue,
+html[lang="zh-CN"] #services .talk-title,
+html[lang="zh-CN"] #services .journal-badge,
+html[lang="zh-CN"] #services .conference-badge,
+html[lang="zh-CN"] #services .membership-badge,
+html[lang="zh-CN"] #services strong:not(.service-title strong):not(h3 strong):not(h2 strong):not(h1 strong),
+html[lang="zh-CN"] #services em:not(.service-title em):not(h3 em):not(h2 em):not(h1 em) {
+  font-family: 'Crimson Pro', Times, Arial, serif !important;
+}
+
+/* 联系方式板块 */
+html[lang="zh-CN"] #contact .contact-label,
+html[lang="zh-CN"] #contact .contact-value,
+html[lang="zh-CN"] #contact a {
+  font-family: 'Crimson Pro', Times, Arial, serif !important;
+}
+
+/* 论文板块 */
+html[lang="zh-CN"] #publications .title,
+html[lang="zh-CN"] #publications .author,
+html[lang="zh-CN"] #publications .periodical,
+html[lang="zh-CN"] .bibliography .title,
+html[lang="zh-CN"] .bibliography .author,
+html[lang="zh-CN"] .bibliography .periodical {
+  font-family: 'Crimson Pro', Times, Arial, serif !important;
+}
+
+/* 首页中的英文实体（机构名称、链接等） */
+html[lang="zh-CN"] #about-me strong:not([data-lang-zh]),
+html[lang="zh-CN"] #about-me a:not([data-lang-zh]),
+html[lang="zh-CN"] #about-me em:not([data-lang-zh]) {
+  font-family: 'Crimson Pro', Times, Arial, serif !important;
+}
+
+/* 荣誉板块 - 英文内容（但不包括标题） */
+html[lang="zh-CN"] #honors .timeline-text,
+html[lang="zh-CN"] #honors strong:not(h2 strong):not(h3 strong):not(h1 strong):not(.timeline-subtitle strong) {
+  font-family: 'Crimson Pro', Times, Arial, serif !important;
+}
+
+/* 确保荣誉板块的标题使用中文字体 */
+html[lang="zh-CN"] #honors h1,
+html[lang="zh-CN"] #honors h2,
+html[lang="zh-CN"] #honors h3,
+html[lang="zh-CN"] #honors .timeline-subtitle {
+  font-family: 'Noto Sans SC', 'PingFang SC', 'Microsoft YaHei', '微软雅黑', 'STHeiti', 'SimHei', 'Helvetica Neue', Arial, sans-serif !important;
+}
+
+/* 资源板块 - 英文内容（但不包括标题） */
+html[lang="zh-CN"] #resources .title,
+html[lang="zh-CN"] #resources .author,
+html[lang="zh-CN"] #resources .periodical {
+  font-family: 'Crimson Pro', Times, Arial, serif !important;
+}
+
+/* 确保所有板块的标题使用中文字体 */
+html[lang="zh-CN"] #publications h1,
+html[lang="zh-CN"] #publications h2,
+html[lang="zh-CN"] #publications h3,
+html[lang="zh-CN"] #publications p[data-lang-zh] {
+  font-family: 'Noto Sans SC', 'PingFang SC', 'Microsoft YaHei', '微软雅黑', 'STHeiti', 'SimHei', 'Helvetica Neue', Arial, sans-serif !important;
+}
+
+html[lang="zh-CN"] #resources h1,
+html[lang="zh-CN"] #resources h2,
+html[lang="zh-CN"] #resources h3 {
+  font-family: 'Noto Sans SC', 'PingFang SC', 'Microsoft YaHei', '微软雅黑', 'STHeiti', 'SimHei', 'Helvetica Neue', Arial, sans-serif !important;
+}
+
+html[lang="zh-CN"] #services h1,
+html[lang="zh-CN"] #services h2,
+html[lang="zh-CN"] #services h3,
+html[lang="zh-CN"] #services .service-title {
+  font-family: 'Noto Sans SC', 'PingFang SC', 'Microsoft YaHei', '微软雅黑', 'STHeiti', 'SimHei', 'Helvetica Neue', Arial, sans-serif !important;
+}
+
+html[lang="zh-CN"] #education h1,
+html[lang="zh-CN"] #education h2,
+html[lang="zh-CN"] #education h3 {
+  font-family: 'Noto Sans SC', 'PingFang SC', 'Microsoft YaHei', '微软雅黑', 'STHeiti', 'SimHei', 'Helvetica Neue', Arial, sans-serif !important;
+}
+
+html[lang="zh-CN"] #teaching h1,
+html[lang="zh-CN"] #teaching h2,
+html[lang="zh-CN"] #teaching h3 {
+  font-family: 'Noto Sans SC', 'PingFang SC', 'Microsoft YaHei', '微软雅黑', 'STHeiti', 'SimHei', 'Helvetica Neue', Arial, sans-serif !important;
+}
+

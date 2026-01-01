@@ -1,10 +1,10 @@
 
 <h1 id="research"></h1>
 
-<h2 style="margin: 60px 0px 10px;">📚 Research</h2>
+<h2 style="margin: 60px 0px 10px;" data-lang-en="📚 Research" data-lang-zh="📚 研究内容">📚 Research</h2>
 
 <div style="background: #f8f9fa; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
-  <h3 style="color: #667eea; margin-top: 0; border-bottom: 2px solid #667eea; padding-bottom: 10px; font-size: 24px;">
+  <h3 style="color: #667eea; margin-top: 0; border-bottom: 2px solid #667eea; padding-bottom: 10px; font-size: 20px;" data-lang-en="🔬 Research Fields" data-lang-zh="🔬 研究领域">
     🔬 Research Fields
   </h3>
   
@@ -42,7 +42,7 @@
 </div>
 
 <div style="background: #fff; padding: 20px; border: 1px solid #e0e0e0; border-radius: 10px; margin-bottom: 20px;">
-  <h3 style="color: #667eea; margin-top: 0; border-bottom: 2px solid #667eea; padding-bottom: 10px; font-size: 24px;">
+  <h3 style="color: #667eea; margin-top: 0; border-bottom: 2px solid #667eea; padding-bottom: 10px; font-size: 20px;" data-lang-en="💼 Research Projects" data-lang-zh="💼 研究项目">
     💼 Research Projects
   </h3>
   <ul style="line-height: 2; color: #555; font-size: 20px;">
@@ -55,7 +55,7 @@
 </div>
 
 <div style="background: linear-gradient(135deg, #667eea15 0%, #764ba215 100%); padding: 20px; border-radius: 10px;">
-  <h3 style="color: #667eea; margin-top: 0; border-bottom: 2px solid #667eea; padding-bottom: 10px; font-size: 24px;">
+  <h3 style="color: #667eea; margin-top: 0; border-bottom: 2px solid #667eea; padding-bottom: 10px; font-size: 20px;" data-lang-en="📈 Research Statistics" data-lang-zh="📈 研究统计">
     📈 Research Statistics
   </h3>
   <div style="display: flex; gap: 30px; flex-wrap: wrap;">

@@ -1,6 +1,6 @@
 <h1 id="news"></h1>
 
-<h2 style="margin: 60px 0px 10px;">📰 News</h2>
+<h2 style="margin: 60px 0px 10px;" data-lang-en="📰 News" data-lang-zh="📰 消息更新">📰 News</h2>
 
 <div style="background: #fff; border: 1px solid #e0e0e0; border-radius: 10px; padding: 20px; max-height: 500px; overflow-y: auto;">
 <ul style="line-height: 2; color: #555;">

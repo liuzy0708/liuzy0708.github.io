@@ -1,6 +1,6 @@
 <h1 id="services"></h1>
 
-<h2 style="margin: 60px 0px 10px;">📜 Services</h2>
+<h2 style="margin: 60px 0px 10px;" data-lang-en="📜 Services" data-lang-zh="📜 学术服务">📜 Services</h2>
 
 <style>
 .service-card {
@@ -150,6 +150,7 @@
     <span class="journal-badge">IEEE/ASME Transactions on Mechatronics</span>
     <span class="journal-badge">IEEE Transactions on Instrumentation & Measurement</span>
     <span class="journal-badge">IEEE Transactions on Industrial Informatics</span>
+    <span class="journal-badge">IEEE Transactions on Mobile Computing</span>
     <span class="journal-badge">IEEE Transactions on Reliability</span>
     <span class="journal-badge">IEEE Transactions on Cybernetics</span>
     <span class="journal-badge">ACM Transactions on Knowledge Discovery from Data</span>

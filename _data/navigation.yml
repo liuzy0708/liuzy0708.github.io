@@ -1,32 +1,42 @@
 main:
 
   - title: "Contact"
+    title_zh: "联系方式"
     url: ./#contact 
     right: true 
 
   - title: "Life"
+    title_zh: "生活"
     url: ./#life
 
   - title: "Resources"
+    title_zh: "资源"
     url: ./#resources
 
   - title: "Publications"
+    title_zh: "论文"
     url: ./#publications
 
   - title: "Services"
+    title_zh: "服务"
     url: ./#services
 
   - title: "Honors"
+    title_zh: "荣誉"
     url: ./#honors
 
   - title: "News"
+    title_zh: "新闻"
     url: ./#news
 
   - title: "Research"
+    title_zh: "研究"
     url: ./#research
 
   - title: "Experience"
+    title_zh: "经历"
     url: ./#education
 
   - title: "About Me"
+    title_zh: "关于我"
     url: ./#about-me

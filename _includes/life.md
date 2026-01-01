@@ -1,54 +1,53 @@
 
 <h1 id="life"></h1>
 
-<h2 style="margin: 60px 0px 10px;">🖼️ Photo Wall</h2>
+<h2 style="margin: 60px 0px 10px;" data-lang-en="🖼️ Photo Wall" data-lang-zh="🖼️ 照片墙">🎖 Honors</h2>
 
-<p style="color: #6C3082; font-size: 22px; font-weight: bold; padding: 5px; text-align: center;">Graduate in Chongqing</p>
+<p class="wall-title">Graduate in Chongqing</p>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
-    <img src="./assets/img/pics/photo_wall_4.jpeg" alt="Graduate in Chongqing" style="width: 50%;">
-    <!-- 在这里继续添加更多图片 -->
- </div>
+<div class="photo-wall">
+  <img class="photo photo--wide" src="./assets/img/pics/photo_wall_4.jpeg" alt="">
+</div>
 
-<!-- <p style="color: #6C3082; font-size: 22px; font-weight: bold; padding: 5px">Aranya & Yulin & Disney</p>
+<p class="wall-title">Happy New Year</p>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-    <img src="./assets/img/pics/photo_wall_2.jpeg" alt="Aranya" style="width: 30%;">
-    <img src="./assets/img/pics/Yulin03.jpeg" alt="Yulin" style="width: 30%;">
-    <img src="./assets/img/pics/Disney.jpeg" alt="Disney" style="width: 30%;">
-    <!-- 在这里继续添加更多图片 -->
-<!-- </div> -->
- <!-- --> 
+<div class="photo-wall">
+  <img class="photo" src="./assets/img/pics/photo_wall_2.jpg" alt="">
+</div>
 
 
-<!-- 这是一个注释，不会在最终渲染中显示
-*<font size=5><center> Aranya </center></font>*
+<style>
+  .wall-title{
+    color:#6C3082;
+    font-size:22px;
+    font-weight:bold;
+    padding:5px;
+    text-align:center;
+  }
 
-<center>
-    <img src="./assets/img/pics/photo_wall_2.jpeg" alt="Aranya" width="50%">
-</center>
+  .photo-wall{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:center;
+    gap:12px;              /* 图片之间的间距 */
+  }
 
-*<font size=5><center> Graduate </center></font>*
+  /* 默认：两列布局（桌面端） */
+  .photo{
+    width:30%;
+    height:auto;           /* 关键：保持原始比例 */
+    display:block;
+    object-fit:contain;    /* 不裁剪、不拉伸 */
+  }
 
-<center>
-    <img src="./assets/img/pics/photo_wall_4.jpeg" alt="Graduate" width="50%">
-</center>
+  /* 宽图（比如第一张占更大宽度） */
+  .photo--wide{
+    width:50%;
+  }
 
-*<font size=5><center> Yulin </center></font>*
-
-<center>
-    <img src="./assets/img/pics/Yulin03.jpeg" alt="Yulin" width="50%">
-</center>
-
-*<font size=5><center> Disney </center></font>*
-
-<center>
-    <img src="./assets/img/pics/Disney.jpeg" alt="Disney" width="50%">
-</center>
-
- *<font size=5><center> Defense </center></font>*
-
-<center>
-    <img src="./assets/img/pics/Defense.jpg" alt="Defense" width="50%">
-</center>*/
- --> 
+  /* 移动端：自动改成单列/双列更合理 */
+  @media (max-width: 768px){
+    .photo{ width: 92%; }
+    .photo--wide{ width: 92%; }
+  }
+</style>

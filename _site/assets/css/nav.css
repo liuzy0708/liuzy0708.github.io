@@ -167,5 +167,62 @@ html, body {
 
    }
 
+/* Language Switcher Styles */
+.lang-switcher {
+  float: right;
+  margin-right: 10px;
+  margin-top: 10px;
+  display: inline-block;
+}
+
+.lang-switcher-btn {
+  color: #50225F;
+  text-decoration: none;
+  font-size: 16px;
+  padding: 5px 8px;
+  border-radius: 4px;
+  transition: all 0.3s ease;
+  display: inline-block;
+}
+
+.lang-switcher-btn:hover {
+  background-color: #f0f0f0;
+  color: #333;
+}
+
+.lang-switcher-btn.active {
+  background-color: #50225F;
+  color: #fff;
+  font-weight: 600;
+}
+
+.lang-separator {
+  color: #ccc;
+  margin: 0 5px;
+  font-size: 16px;
+}
+
+@media print, screen and (max-width: 960px) {
+  .lang-switcher {
+    float: none;
+    display: block;
+    margin: 10px 0;
+    text-align: center;
+  }
+  
+  .lang-switcher-btn {
+    color: white;
+  }
+  
+  .lang-switcher-btn.active {
+    background-color: rgba(255, 255, 255, 0.2);
+    color: white;
+  }
+  
+  .lang-separator {
+    color: rgba(255, 255, 255, 0.5);
+  }
+}
+
    
 
