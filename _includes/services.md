@@ -167,6 +167,7 @@
     <span class="journal-badge">Aerospace Science and Technology</span>
     <span class="journal-badge">Control Engineering Practice</span>
     <span class="journal-badge">Digital Chemical Engineering</span>
+    <span class="journal-badge">Measurement: Digitalization</span>
     <span class="journal-badge">Knowledge-Based Systems</span>
     <span class="journal-badge">Journal of Engineering</span>
     <span class="journal-badge">IEEE Sensors Journal</span>

@@ -1,5 +1,18 @@
 main:
 
+
+  - title: "Awesome-OL: An Extensible Toolkit for Online Learning"
+    authors: THU-FDD Research Group
+    conference_short: Toolkit
+    conference: Open-source Codes
+    notes: Continuously updated
+    pdf: https://arxiv.org/pdf/2507.20144
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:0iDWkL5gHVEJ:scholar.google.com/&output=citation&scisdr=Cry0XUQbEJft0YeHwFk:ALhkC2QAAAAAaUeB2Fn-dnIqeJbWc9e-CGzZg4I&scisig=ALhkC2QAAAAAaUeB2OTNjqztIFCmFVs1GYpkgwM&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    page: https://thufdd.github.io
+    code: https://github.com/liuzy0708/Awesome-OL
+    image: ./assets/img/pics/Awesome_OL.png
+    others: GitHub, 2025
+
   - title: "SafeLIBERO: A Safety-Critical Benchmark with Vision-Language-Action Models"
     authors: THU-RCSCT Research Group
     conference_short: DATASETS
@@ -11,29 +24,28 @@ main:
     code: https://github.com/THU-RCSCT/vlsa-aegis
     image: ./assets/img/pics/SafeLIBERO.png
     others: HuggingFace, GitHub, 2025
+    
 
-  - title: "Awesome-OL: An Extensible Toolkit for Online Learning"
-    authors: THU-FDD Research Group
-    conference_short: Toolkit
-    conference: Open-source Codes
-    notes: Ongoing updates
-    pdf: https://arxiv.org/pdf/2507.20144
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:0iDWkL5gHVEJ:scholar.google.com/&output=citation&scisdr=Cry0XUQbEJft0YeHwFk:ALhkC2QAAAAAaUeB2Fn-dnIqeJbWc9e-CGzZg4I&scisig=ALhkC2QAAAAAaUeB2OTNjqztIFCmFVs1GYpkgwM&scisf=4&ct=citation&cd=-1&hl=zh-CN
-    page: https://thufdd.github.io
-    code: https://github.com/liuzy0708/Awesome-OL
-    image: ./assets/img/pics/Awesome_OL.png
-    others: GitHub, 2025
+  - title: Multi-mode Fault Diagnosis Datasets of Three-phase Asynchronous Motor Under Variable Working Conditions
+    authors: THU-FDD Research Group, MCC5 Group Shanghai Co. LTD, Zhengzhou University
+    conference_short: DATASETS
+    conference: Open-source Benchmark Dataset
+    notes: Part II of our collaboration
+    code: https://github.com/liuzy0708/MCC5-THU-Motor-Benchmark-Datasets
+    page: https://data.mendeley.com/datasets/6s3dggj9mw/1
+    image: ./assets/img/pics/MCC5-Tsinghua-Motor.png
+    others: Mendeley Data, IEEE Dataport, Hugging Face, 2026
 
 
   - title: Multi-mode Fault Diagnosis Datasets of Gearbox Under Variable Working Conditions
-    authors: THU-FDD Research Group, MCC5 Group Shanghai Co. LTD 
+    authors: THU-FDD Research Group, MCC5 Group Shanghai Co. LTD
     conference_short: DATASETS
     conference: Open-source Benchmark Dataset
     notes: Part I of our collaboration
     code: https://github.com/liuzy0708/MCC5-THU-Gearbox-Benchmark-Datasets
-    page: https://dx.doi.org/10.21227/p8da-cr78
+    page: https://data.mendeley.com/datasets/p92gj2732w/2
     image: ./assets/img/pics/MCC5-Tsinghua-Gearbox.png
-    others: IEEE Dataport, 2024
+    others: Mendeley Data, IEEE Dataport, 2024
 
   - title: Deep-Sea Manned Submersible Datasets
     authors: THU-FDD Research Group

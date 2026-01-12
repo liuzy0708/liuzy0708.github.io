@@ -1,6 +1,6 @@
 <h1 id="contact"></h1>
 
-<h2 style="margin: 60px 0px 10px;" data-lang-en="💬 Contact" data-lang-zh="💬 联系方式"></h2>
+<h2 style="margin: 40px 0px 10px;" data-lang-en="💬 Contact" data-lang-zh="💬 联系方式"></h2>
 
 <style>
 .contact-card {
@@ -104,11 +104,11 @@
     </div>
   </div>
 
-  <div class="contact-item">
+  <!-- <div class="contact-item">
     <div class="contact-icon">📞</div>
     <div class="contact-content">
       <div class="contact-label">Phone</div>
       <div class="contact-value">(+86) 153-2163-8693</div>
     </div>
-  </div>
+  </div> -->
 </div>
