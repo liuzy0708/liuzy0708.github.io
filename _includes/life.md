@@ -1,7 +1,7 @@
 
 <h1 id="life"></h1>
 
-<h2 style="margin: 60px 0px 10px;" data-lang-en="🖼️ Photo Wall" data-lang-zh="🖼️ 照片墙">🎖 Honors</h2>
+<h2 style="margin: 60px 0px 10px;">🖼️ Photo Wall</h2>
 
 <p class="wall-title">Graduate in Chongqing</p>
 

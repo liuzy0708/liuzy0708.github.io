@@ -1,6 +1,6 @@
 <h1 id="education"></h1>
 
-<h2 style="margin: 60px 0px 10px;" data-lang-en="📖 Experience" data-lang-zh="📖 教育经历">📖 Experience</h2>
+<h2 style="margin: 60px 0px 10px;">📖 Experience</h2>
 
 <style>
 .timeline {

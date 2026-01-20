@@ -1,6 +1,6 @@
 <h1 id="honors"></h1>
 
-<h2 style="margin: 60px 0px 10px;" data-lang-en="🎖 Honors" data-lang-zh="🎖 荣誉奖项">🎖 Honors</h2>
+<h2 style="margin: 60px 0px 10px;">🎖 Honors</h2>
 
 <style>
 .timeline {

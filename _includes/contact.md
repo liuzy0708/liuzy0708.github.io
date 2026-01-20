@@ -1,6 +1,6 @@
 <h1 id="contact"></h1>
 
-<h2 style="margin: 40px 0px 10px;" data-lang-en="💬 Contact" data-lang-zh="💬 联系方式"></h2>
+<h2 style="margin: 40px 0px 10px;">💬 Contact</h2>
 
 <style>
 .contact-card {

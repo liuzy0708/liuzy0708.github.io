@@ -1,6 +1,6 @@
 <h1 id="services"></h1>
 
-<h2 style="margin: 60px 0px 10px;" data-lang-en="📜 Services" data-lang-zh="📜 学术服务">📜 Services</h2>
+<h2 style="margin: 60px 0px 10px;">📜 Services</h2>
 
 <style>
 .service-card {
