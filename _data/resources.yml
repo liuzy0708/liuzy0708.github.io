@@ -3,7 +3,7 @@ main:
 
   - title: "Awesome-OL: An Extensible Toolkit for Online Learning"
     authors: THU-FDD Research Group
-    conference_short: Toolkit
+    conference_short: TOOLKITS
     conference: Open-source Codes
     notes: Continuously updated
     pdf: https://arxiv.org/pdf/2507.20144
@@ -12,6 +12,18 @@ main:
     code: https://github.com/liuzy0708/Awesome-OL
     image: ./assets/img/pics/Awesome_OL.png
     others: GitHub, 2025
+
+  - title: "InspecSafe-V1: A Multimodal Benchmark for Safety Assessment in Industrial Inspection Scenarios"
+    authors: THU-RCSCT Research Group
+    conference_short: DATASETS
+    conference: Open-source Benchmark Dataset
+    notes: Multi-modal Benchmark for Industrial Safety Assessment (Version 1)
+    pdf: https://arxiv.org/abs/2601.21173
+    bibtex: 
+    page: 
+    code: https://huggingface.co/datasets/Tetrabot2026/InspecSafe-V1
+    image: ./assets/img/pics/InspecSafe.png
+    others: Hugging Face, 2026
 
   - title: "SafeLIBERO: A Safety-Critical Benchmark with Vision-Language-Action Models"
     authors: THU-RCSCT Research Group
@@ -23,9 +35,8 @@ main:
     page: https://vlsa-aegis.github.io
     code: https://github.com/THU-RCSCT/vlsa-aegis
     image: ./assets/img/pics/SafeLIBERO.png
-    others: HuggingFace, GitHub, 2025
+    others: Hugging Face, GitHub, 2025
     
-
   - title: Multi-mode Fault Diagnosis Datasets of Three-phase Asynchronous Motor Under Variable Working Conditions
     authors: THU-FDD Research Group, MCC5 Group Shanghai Co. LTD, Zhengzhou University
     conference_short: DATASETS
@@ -56,7 +67,7 @@ main:
     image: ./assets/img/pics/jiaolong.png
     others: Github, 2023
 
-  - title: Concept Drift Benckmark Datasets
+  - title: Concept Drift Simulation Benckmark Datasets
     authors: THU-FDD Research Group
     conference_short: DATASETS
     conference: Open-source Benchmark Dataset

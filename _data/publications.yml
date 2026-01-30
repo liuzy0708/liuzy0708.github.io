@@ -2,6 +2,18 @@ main:
 
 Preprint:
 
+  - title: "InspecSafe-V1: A Multimodal Benchmark for Safety Assessment in Industrial Inspection Scenarios"
+    authors: <strong>Zeyi Liu</strong>, Shuang Liu, Jihai Min, Zhaoheng Zhang, Jun Cen, Pengyu Han, Songqiao Hu, Zihan Meng, Xiao He, Donghua Zhou
+    conference_short: arXiv 
+    conference: "arXiv"
+    notes: Version 1
+    pdf: https://arxiv.org/abs/2601.21173
+    page: 
+    bibtex: 
+    code: https://huggingface.co/datasets/Tetrabot2026/InspecSafe-V1
+    image: ./assets/img/pics/InspecSafe-work.mp4
+    others: Preprint, 2026
+
   - title: "VLSA: Vision-Language-Action Models with Plug-and-Play Safety Constraint Layer"
     authors: Songqiao Hu<sup>#</sup>, <strong>Zeyi Liu</strong><sup>#</sup>, Shuang Liu, Jun Cen, Zihan Meng, Xiao He 
     conference_short: arXiv 

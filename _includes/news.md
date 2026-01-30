@@ -4,12 +4,14 @@
 
 <div style="background: #fff; border: 1px solid #e0e0e0; border-radius: 10px; padding: 20px; max-height: 500px; overflow-y: auto;">
 <ul style="line-height: 2; color: #555;">
+
+<li><strong style="color: #667eea;">[Jan. 2026]</strong> We have officially open-sourced the <strong>InspecSafe-V1</strong> benchmark dataset.</li>
 <li><strong style="color: #667eea;">[Jan. 2026]</strong> We have officially open-sourced the <strong>MCC5-THU Motor</strong> benchmark dataset.</li>
 <li><strong style="color: #667eea;">[Dec. 2025]</strong> The personal Google Scholar citations has reached <strong>700</strong>.</li>
-<li><strong style="color: #667eea;">[Jan. 2026]</strong> We have officially open-sourced the <strong>SafeLIBERO</strong> benchmark dataset.</li>
+<li><strong style="color: #667eea;">[Dec. 2025]</strong> We have officially open-sourced the <strong>SafeLIBERO</strong> benchmark dataset.</li>
 <li><strong style="color: #667eea;">[Dec. 2025]</strong> Fortunate to receive <strong>Jiang Nanxiang Scholarship</strong> of Tsinghua University.</li>
 <li><strong style="color: #667eea;">[Oct. 2025]</strong> Fortunate to receive <strong>National Scholarship</strong> of P. R. China for Graduates.</li>
-<li><strong style="color: #667eea;">[Sep. 2024]</strong> Three papers have been accepted by <a href="https://fdd2025.aconf.org" style="color: #667eea; text-decoration: none;">CAA SAFEPROCESS 2025</a>.</li>
+<li><strong style="color: #667eea;">[Sep. 2025]</strong> Three papers have been accepted by <a href="https://fdd2025.aconf.org" style="color: #667eea; text-decoration: none;">CAA SAFEPROCESS 2025</a>.</li>
 <li><strong style="color: #667eea;">[Aug. 2025]</strong> The personal Google Scholar citations has reached <strong>600</strong>.</li>
 <li><strong style="color: #667eea;">[Jul. 2025]</strong> One paper has been accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036" style="color: #667eea; text-decoration: none;">IEEE TCYB</a>.</li>
 <li><strong style="color: #667eea;">[May. 2025]</strong> One survey paper has been accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8856" style="color: #667eea; text-decoration: none;">IEEE TASE</a>.</li>
