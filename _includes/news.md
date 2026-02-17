@@ -5,6 +5,7 @@
 <div style="background: #fff; border: 1px solid #e0e0e0; border-radius: 10px; padding: 20px; max-height: 500px; overflow-y: auto;">
 <ul style="line-height: 2; color: #555;">
 
+<li><strong style="color: #667eea;">[Feb. 2026]</strong> The personal Google Scholar citations has reached <strong>800</strong>.</li>
 <li><strong style="color: #667eea;">[Jan. 2026]</strong> We have officially open-sourced the <strong>InspecSafe-V1</strong> benchmark dataset.</li>
 <li><strong style="color: #667eea;">[Jan. 2026]</strong> We have officially open-sourced the <strong>MCC5-THU Motor</strong> benchmark dataset.</li>
 <li><strong style="color: #667eea;">[Dec. 2025]</strong> The personal Google Scholar citations has reached <strong>700</strong>.</li>
