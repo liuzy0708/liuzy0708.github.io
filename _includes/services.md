@@ -150,6 +150,7 @@
     <span class="journal-badge">IEEE/ASME Transactions on Mechatronics</span>
     <span class="journal-badge">IEEE Transactions on Instrumentation & Measurement</span>
     <span class="journal-badge">IEEE Transactions on Industrial Informatics</span>
+    <span class="journal-badge">IEEE Transactions on Industrial Electronics</span>
     <span class="journal-badge">IEEE Transactions on Mobile Computing</span>
     <span class="journal-badge">IEEE Transactions on Reliability</span>
     <span class="journal-badge">IEEE Transactions on Cybernetics</span>
