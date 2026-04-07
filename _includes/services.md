@@ -154,6 +154,7 @@
     <span class="journal-badge">IEEE Transactions on Mobile Computing</span>
     <span class="journal-badge">IEEE Transactions on Reliability</span>
     <span class="journal-badge">IEEE Transactions on Cybernetics</span>
+    <span class="journal-badge">IEEE Robotics and Automation Letters</span>
     <span class="journal-badge">ACM Transactions on Knowledge Discovery from Data</span>
     <span class="journal-badge">Engineering Applications of Artificial Intelligence</span>
     <span class="journal-badge">Journal of Computational and Cognitive Engineering</span>
@@ -188,7 +189,7 @@
 <div class="service-card">
   <h3 class="service-title">🎯 Conference Reviewers/PC Member</h3>
   <div style="line-height: 2;">
-    <span class="conference-badge">IROS 2025</span>
+    <span class="conference-badge">IROS 2025, 2026</span>
     <span class="conference-badge">ACM SIGKDD 2024</span>
     <span class="conference-badge">MIND 2025</span>
     <span class="conference-badge">ICCA 2024</span>
