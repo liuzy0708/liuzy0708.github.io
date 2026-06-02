@@ -116,7 +116,7 @@
   </div>
   <div class="student-card">
     <div class="student-name">Jixin Xiao</div>
-    <div class="student-info">Tsinghua University | Undergraduate Student | 2025.5-Present</div>
+    <div class="student-info">Tsinghua University | Undergraduate Student | 2025.5-2026.2</div>
   </div>
   <div class="student-card">
     <div class="student-name">Songqiao Hu</div>
@@ -147,6 +147,7 @@
     <span class="journal-badge">IEEE Transactions on Knowledge and Data Engineering</span>
     <span class="journal-badge">IEEE Transactions on Neural Networks and Learning Systems</span>
     <span class="journal-badge">IEEE Transactions on Automation Science and Engineering</span>
+    <span class="journal-badge">IEEE Transactions on Systems, Man and Cybernetics: Systems</span>
     <span class="journal-badge">IEEE/ASME Transactions on Mechatronics</span>
     <span class="journal-badge">IEEE Transactions on Instrumentation & Measurement</span>
     <span class="journal-badge">IEEE Transactions on Industrial Informatics</span>
@@ -232,6 +233,10 @@
   <div class="talk-item">
     <div class="talk-title">Real-time Safety Assessment of Dynamic Systems in Non-stationary Environments</div>
     <div class="talk-venue">CAC 2025, Oct., Harbin, Heilongjiang, China</div>
+  </div>
+  <div class="talk-item">
+    <div class="talk-title">Real-time Safety Assessment of Deep-sea Manned Submersibles in Non-stationary Environments</div>
+    <div class="talk-venue">CAA SAFEPROCESS 2026, May, Taiyuan, Shanxi, China</div>
   </div>
 </div>
 
