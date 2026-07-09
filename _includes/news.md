@@ -5,6 +5,11 @@
 <div style="background: #fff; border: 1px solid #e0e0e0; border-radius: 10px; padding: 20px; max-height: 500px; overflow-y: auto;">
 <ul style="line-height: 2; color: #555;">
 
+<li><strong style="color: #667eea;">[Jul. 2026]</strong> <strong>InspecSafe-V1</strong> has been accepted by <a href="https://www.nature.com/sdata/" style="color: #667eea; text-decoration: none;">Scientific Data</a>.</li> 
+<li><strong style="color: #667eea;">[Jun. 2026]</strong> <strong>AEGIS</strong> has been accepted by <a href="https://2026.ieee-iros.org" style="color: #667eea; text-decoration: none;">IROS 2026</a>.</li>
+<li><strong style="color: #667eea;">[Jun. 2026]</strong> One paper has been accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=3516" style="color: #667eea; text-decoration: none;">IEEE TMECH</a>.</li>
+<li><strong style="color: #667eea;">[May. 2026]</strong> The personal Google Scholar citations has reached <strong>900</strong>.</li>
+<li><strong style="color: #667eea;">[Mar. 2026]</strong> <strong>MCC5-THU Motor</strong> has been accepted by <a href="https://www.sciencedirect.com/journal/data-in-brief" style="color: #667eea; text-decoration: none;">DIB</a>.</li>
 <li><strong style="color: #667eea;">[Feb. 2026]</strong> The personal Google Scholar citations has reached <strong>800</strong>.</li>
 <li><strong style="color: #667eea;">[Jan. 2026]</strong> We have officially open-sourced the <strong>InspecSafe-V1</strong> benchmark dataset.</li>
 <li><strong style="color: #667eea;">[Jan. 2026]</strong> We have officially open-sourced the <strong>MCC5-THU Motor</strong> benchmark dataset.</li>
