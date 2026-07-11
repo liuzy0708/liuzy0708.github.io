@@ -52,6 +52,3 @@ layout: homepage
 {% include_relative _includes/life.md %}
 
 {% include_relative _includes/contact.md %}
-
-<script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=---virancPkVJUhRjm_Lhy2hm7fRJwcLAv1PbEcLMpc"></script>
-
