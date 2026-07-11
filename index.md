@@ -53,6 +53,5 @@ layout: homepage
 
 {% include_relative _includes/contact.md %}
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=227&t=tt&d=LGj6RE6LhpFSSVGleEqnCwQSYhx0OfZ_k_oaTnm3L_g&cmn=cc3a5d&cmo=8a53ff'></script>
-
+<script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=---virancPkVJUhRjm_Lhy2hm7fRJwcLAv1PbEcLMpc"></script>
 
