@@ -3,12 +3,12 @@
 
 <h2 style="margin: 60px 0px 10px;">🖼️ Photo Wall</h2>
 
-<p class="wall-title">Graduate in Chongqing</p>
+<!-- <p class="wall-title">Graduate in Chongqing</p>
 
 <div class="photo-wall">
   <img class="photo photo--wide" src="./assets/img/pics/photo_wall_4.jpeg" alt="">
 </div>
-
+ -->
 <p class="wall-title">Happy New Year</p>
 
 <div class="photo-wall">
