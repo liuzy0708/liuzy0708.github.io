@@ -102,7 +102,7 @@
       <p class="timeline-institution">Department of Automation, Tsinghua University</p>
       <p class="timeline-location">📍 Beijing, China</p>
       <p class="timeline-advisor">Advisor: Prof. Xiao He</p>
-      <span class="timeline-date">⏰ 2021.9 ~ 2027.1 (expected)</span>
+      <span class="timeline-date">⏰ 2021.9 ~ 2026.12 (expected)</span>
     </div>
   </div>
 
