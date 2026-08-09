@@ -2,31 +2,42 @@ main:
 
 Preprint:
 
-  - title: "InspecSafe-V1: A Multimodal Benchmark for Safety Assessment in Industrial Inspection Scenarios"
-    authors: <strong>Zeyi Liu</strong>, Shuang Liu, Jihai Min, Zhaoheng Zhang, Jun Cen, Pengyu Han, Songqiao Hu, Zihan Meng, Xiao He, Donghua Zhou
+  - title: "SafeLink: safety-critical control under dynamic and irregular unsafe regions"
+    authors: Songqiao Hu, Zidong Wang, <strong>Zeyi Liu</strong>, Zhen Shen, Xiao He
     conference_short: arXiv 
     conference: "arXiv"
-    notes: Version 1
+    notes: 
     pdf: https://arxiv.org/abs/2601.21173
-    page: 
+    page: https://arxiv.org/pdf/2503.16551
     bibtex: 
-    code: https://huggingface.co/datasets/Tetrabot2026/InspecSafe-V1
-    image: ./assets/img/pics/InspecSafe-work.mp4
+    code: 
+    image: ./assets/img/pics/HuSQ03.png
     others: Preprint, 2026
 
-  - title: "VLSA: Vision-Language-Action Models with Plug-and-Play Safety Constraint Layer"
-    authors: Songqiao Hu<sup>#</sup>, <strong>Zeyi Liu</strong><sup>#</sup>, Shuang Liu, Jun Cen, Zihan Meng, Xiao He 
-    conference_short: arXiv 
-    conference: "arXiv"
-    notes: Version 1
-    pdf: https://arxiv.org/abs/2512.11891
-    page: https://vlsa-aegis.github.io
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:sGR7blSqglMJ:scholar.google.com/&output=citation&scisdr=Cry0XUQbEJft0Yd7KWc:ALhkC2QAAAAAaUd9MWcNYRTXJzTe2gmWVgyJEy4&scisig=ALhkC2QAAAAAaUd9MVH_jL6ix0wIzrc1CqCn9wI&scisf=4&ct=citation&cd=-1&hl=zh-CN
-    code: https://github.com/THU-RCSCT/vlsa-aegis
-    image: ./assets/img/pics/AEGIS.mp4
-    others: Preprint, 2025
-
 Journal:
+
+  - title: "Multimodal Benchmark for Safety Assessment in Industrial Inspection Scenarios"
+    authors: <strong>Zeyi Liu</strong>, Shuang Liu, Jihai Min, Zhaoheng Zhang, Jun Cen, Pengyu Han, Songqiao Hu, Zihan Meng, Xiao He, Donghua Zhou
+    conference_short: SciData 
+    conference: "Scientific Data"
+    notes: Data Article
+    pdf: https://arxiv.org/abs/2601.21173
+    page: 
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:YRM15nqKDCcJ:scholar.google.com/&output=citation&scisdr=CslAm-1fEIX_lLQEWUg:AM1tuoMAAAAAangCQUi6baP5a1_grd-kPJ_EEe4&scisig=AM1tuoMAAAAAangCQYZoEkoc9sJ92oh1noeDPUo&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    code: https://github.com/liuzy0708/InspecSafe
+    image: ./assets/img/pics/InspecSafe-work.mp4
+    others: In Press, 2026
+
+  - title: "Dual-stage Dynamic Adaptation for Fault Diagnosis With Time-varying Operating Conditions"
+    authors: Shijin Chen#, <strong>Zeyi Liu</strong>#, Chenyang Li#, Dongliang Zou, Xiao He, Donghua Zhou 
+    conference_short: TMECH
+    conference: "IEEE/ASME Transactions on Mechatronics"
+    notes: CAA-A
+    pdf: https://ieeexplore.ieee.org/abstract/document/11574909
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:NKMRaQEYRgQJ:scholar.google.com/&output=citation&scisdr=CslAm-1fEIX_lLQHMsQ:AM1tuoMAAAAAangBKsQkZ5l8bWXofa6geynNEgI&scisig=AM1tuoMAAAAAangBKmMWs91TO3XiQTRsphDXnwA&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    code: https://github.com/Jay0804/DSDA
+    image: ./assets/img/pics/HanPY03.png
+    others: vol. 65, pp. 112583, 2026.
 
   - title: "Multi-mode Fault Diagnosis Datasets of Three-phase Asynchronous Motor Under Variable Working Conditions"
     authors: Shijin Chen#, <strong>Zeyi Liu</strong>#, Chenyang Li#, Dongliang Zou, Xiao He, Donghua Zhou 
@@ -346,6 +357,18 @@ Journal:
   #   others: vol. 34, no. 10, pp. 2676-2691, 2019
 
 Conference:
+
+  - title: "VLSA: Vision-Language-Action Models with Plug-and-Play Safety Constraint Layer"
+    authors: Songqiao Hu<sup>#</sup>, <strong>Zeyi Liu</strong><sup>#</sup>, Shuang Liu, Jun Cen, Zihan Meng, Shihefeng Wang, Xiang Li, Xiao He 
+    conference_short: IROS 2026 
+    conference: "IEEE/RSJ International Conference on Intelligent Robots and Systems"
+    notes: 
+    pdf: https://arxiv.org/abs/2512.11891
+    page: https://vlsa-aegis.github.io
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:sGR7blSqglMJ:scholar.google.com/&output=citation&scisdr=Cry0XUQbEJft0Yd7KWc:ALhkC2QAAAAAaUd9MWcNYRTXJzTe2gmWVgyJEy4&scisig=ALhkC2QAAAAAaUd9MVH_jL6ix0wIzrc1CqCn9wI&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    code: https://github.com/THU-RCSCT/vlsa-aegis
+    image: ./assets/img/pics/AEGIS.mp4
+    others: In Press, 2026
 
   - title: "Towards Next-Generation Intelligent Maintenance: Collaborative Fusion of Large and Small Models"
     authors: Xiaoyi Yuan, Qiming Huang, Mingqing Guo, Huiming Ma, Ming Xu, <strong>Zeyi Liu</strong>, Xiao He

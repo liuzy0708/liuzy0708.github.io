@@ -87,6 +87,9 @@
 
 <h3 class="timeline-subtitle">Main Awards</h3>
 <div class="timeline">
+
+  <div class="timeline-item"><div class="timeline-content"><div class="timeline-row"><span class="timeline-date">2025</span><div class="timeline-text"> The 51st International Exhibition of Inventions Geneva: <strong>Silver Medal</strong></div></div></div></div>
+  <div class="timeline-item"><div class="timeline-content"><div class="timeline-row"><span class="timeline-date">2026</span><div class="timeline-text"><strong>Beijing Kirin Science and Technology Award</strong></div></div></div></div>
   <div class="timeline-item"><div class="timeline-content"><div class="timeline-row"><span class="timeline-date">2025</span><div class="timeline-text">Finalist of <strong>Fang Chong-Zhi Best Paper Award</strong> (CAA SAFEPROCESS 2025)</div></div></div></div>
   <div class="timeline-item"><div class="timeline-content"><div class="timeline-row"><span class="timeline-date">2023</span><div class="timeline-text"><strong>Outstanding Doctoral Candidate</strong> of Beijing Association of Automation</div></div></div></div>
   <div class="timeline-item"><div class="timeline-content"><div class="timeline-row"><span class="timeline-date">2021</span><div class="timeline-text"><strong>Outstanding Graduates</strong> of Colleges and Universities in Chongqing</div></div></div></div>
