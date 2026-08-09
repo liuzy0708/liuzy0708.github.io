@@ -236,7 +236,7 @@
   </div>
   <div class="talk-item">
     <div class="talk-title">Real-time Safety Assessment of Deep-sea Manned Submersibles in Non-stationary Environments</div>
-    <div class="talk-venue">CAA SAFEPROCESS 2026, May, Taiyuan, Shanxi, China</div>
+    <div class="talk-venue">CAA SAFEPROCESS 2026, May, Taiyuan, Shanxi, China (Keynote)</div>
   </div>
 </div>
 
