@@ -111,6 +111,10 @@
 <div class="service-card">
   <h3 class="service-title">👥 Student Mentoring Assistance</h3>
   <div class="student-card">
+  <div class="student-name">Changhao Hu</div>
+    <div class="student-info">Zhejiang University | Undergraduate Student | 2026.1-Present</div>
+</div>
+  <div class="student-card">
     <div class="student-name">Jiaming Liu</div>
     <div class="student-info">Beihang University | Undergraduate Student | 2025.7-Present</div>
   </div>

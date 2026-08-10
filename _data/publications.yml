@@ -7,8 +7,8 @@ Preprint:
     conference_short: arXiv 
     conference: "arXiv"
     notes: 
-    pdf: https://arxiv.org/abs/2601.21173
-    page: https://arxiv.org/pdf/2503.16551
+    pdf: https://arxiv.org/pdf/2503.16551
+    page: 
     bibtex: 
     code: 
     image: ./assets/img/pics/HuSQ03.png
