@@ -10,11 +10,12 @@
   
   <div style="margin-bottom: 25px;">
     <h4 style="color: #2c3e50; margin: 15px 0 10px 0; font-size: 20px;">
-      Safety-guaranteed Control of Dynamic Systems in Non-stationary Environment
+      Safety-guaranteed Control for Embodied Intelligent Systems in Dynamic Environments
     </h4>
     <ul style="line-height: 1.8; color: #555; font-size: 20px;">
       <li>Learning for UAV attitude control</li>
       <li>Vision-language-safe action models for embodied artificial intelligence</li>
+      <li>Safe robotic manipulator teleoperation in dynamic environments</li>
     </ul>
   </div>
 
@@ -25,7 +26,7 @@
     <ul style="line-height: 1.8; color: #555; font-size: 20px;">
       <li>Online active learning methods and their optimization</li>
       <li>Detection and adaptation methods of concept drift</li>
-      <li>Incremental learning</li>
+      <li>Vision-language model-based safety assessment for industrial inspection</li>
     </ul>
   </div>
 

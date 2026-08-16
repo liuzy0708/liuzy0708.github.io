@@ -18,7 +18,7 @@ main:
     conference_short: DATASETS
     conference: Open-source Benchmark Dataset
     notes: Multi-modal Benchmark for Industrial Safety Assessment (Version 1)
-    pdf: https://arxiv.org/abs/2601.21173
+    pdf: https://arxiv.org/pdf/2601.21173
     bibtex: 
     page: 
     code: https://huggingface.co/datasets/Tetrabot2026/InspecSafe-V1

@@ -16,12 +16,16 @@
 {% for link in site.data.publications.Preprint %}
 
 <li>
-<div class="pub-row" style="display: flex; align-items: center;">
-  <div class="col-sm-4 abbr" style="position: relative;padding-right: 15px;padding-left: 0px;">
-    <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width: 300px; height: 160px;">
-            <abbr class="badge">{{ link.conference_short }}</abbr>
+<div class="pub-row">
+  <div class="pub-thumb">
+    {% if link.image contains '.mp4' %}
+    <video class="teaser img-fluid z-depth-1" src="{{ link.image }}" preload="auto" autoplay muted loop playsinline></video>
+    {% else %}
+    <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" alt="{{ link.title }}">
+    {% endif %}
+    <abbr class="badge">{{ link.conference_short }}</abbr>
   </div>
-  <div class="col-sm-8" style="position: relative;padding-right: 15px;padding-left: 20px;">
+  <div class="pub-info">
       <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
       <div class="author">{{ link.authors }}</div>
       <div class="periodical"><em>{{ link.conference }}</em>
@@ -66,12 +70,16 @@
 {% for link in site.data.publications.Journal %}
 
 <li>
-<div class="pub-row" style="display: flex; align-items: center;">
-  <div class="col-sm-4 abbr" style="position: relative;padding-right: 15px;padding-left: 0px;">
-    <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width: 300px; height: 160px;">
-            <abbr class="badge">{{ link.conference_short }}</abbr>
+<div class="pub-row">
+  <div class="pub-thumb">
+    {% if link.image contains '.mp4' %}
+    <video class="teaser img-fluid z-depth-1" src="{{ link.image }}" preload="auto" autoplay muted loop playsinline></video>
+    {% else %}
+    <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" alt="{{ link.title }}">
+    {% endif %}
+    <abbr class="badge">{{ link.conference_short }}</abbr>
   </div>
-  <div class="col-sm-8" style="position: relative;padding-right: 15px;padding-left: 20px;">
+  <div class="pub-info">
       <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
       <div class="author">{{ link.authors }}</div>
       <div class="periodical"><em>{{ link.conference }}</em>
@@ -109,12 +117,16 @@
 {% for link in site.data.publications.Conference %}
 
 <li>
-<div class="pub-row" style="display: flex; align-items: center;">
-  <div class="col-sm-4 abbr" style="position: relative;padding-right: 15px;padding-left: 0px;">
-    <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width: 300px; height: 160px;">
-            <abbr class="badge">{{ link.conference_short }}</abbr>
+<div class="pub-row">
+  <div class="pub-thumb">
+    {% if link.image contains '.mp4' %}
+    <video class="teaser img-fluid z-depth-1" src="{{ link.image }}" preload="auto" autoplay muted loop playsinline></video>
+    {% else %}
+    <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" alt="{{ link.title }}">
+    {% endif %}
+    <abbr class="badge">{{ link.conference_short }}</abbr>
   </div>
-  <div class="col-sm-8" style="position: relative;padding-right: 15px;padding-left: 20px;">
+  <div class="pub-info">
       <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
       <div class="author">{{ link.authors }}</div>
       <div class="periodical"><em>{{ link.conference }}</em>

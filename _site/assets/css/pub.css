@@ -38,15 +38,90 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 
 .publications ol.bibliography li { min-height: 110px; margin-bottom: 0.5rem; }
 
-.publications ol.bibliography li .abbr { height: 8rem; margin-bottom: 0.5rem; }
+.publications .pub-row {
+    display: flex;
+    gap: 1.35rem;
+    align-items: center;
+}
 
-.publications ol.bibliography li .abbr abbr { display: inline-block; background-color: var(--global-theme-color); padding-left: 1rem; padding-right: 1rem; position: absolute; top: 8px; left: 16px; }
+.publications .pub-row .pub-thumb {
+    flex: 0 0 clamp(210px, 29%, 300px);
+    position: relative;
+    height: auto;
+    margin: 0;
+}
 
-.publications ol.bibliography li .abbr abbr a { color: white; }
+.publications .pub-row .pub-thumb .teaser {
+    display: block;
+    width: 100%;
+    height: auto;
+    max-width: none;
+    margin: 0;
+    aspect-ratio: 16 / 10;
+    object-fit: cover;
+    border-radius: 10px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
+}
 
-.publications ol.bibliography li .abbr abbr a:hover { text-decoration: none; }
+.publications .pub-row .pub-thumb abbr.badge {
+    position: absolute;
+    top: 8px;
+    left: 12px;
+    margin: 0;
+    background-color: var(--global-theme-color);
+    padding-left: 0.6rem;
+    padding-right: 0.6rem;
+}
 
-.publications ol.bibliography li .abbr .award { color: var(--global-theme-color) !important; border: 1px solid var(--global-theme-color); }
+.publications .pub-row .pub-info {
+    flex: 1 1 auto;
+    min-width: 0;
+}
+
+.publications .pub-row .pub-info .title {
+    font-size: 1.18rem;
+    line-height: 1.35;
+    font-weight: 700;
+    margin-bottom: 0.15rem;
+}
+
+.publications .pub-row .pub-info .author {
+    font-size: 1.2rem;
+    line-height: 1.5;
+    margin-bottom: 0.05rem;
+}
+
+.publications .pub-row .pub-info .periodical {
+    font-size: 1.2rem;
+    color: #777;
+    margin-bottom: 0.2rem;
+}
+
+.publications .pub-row .pub-info .links {
+    margin: 0.1rem 0;
+}
+
+.publications .pub-row .pub-info .links strong {
+    font-size: 1.05rem;
+}
+
+@media (max-width: 680px) {
+    .publications .pub-row {
+        flex-direction: column;
+        align-items: stretch;
+        gap: 0.8rem;
+    }
+
+    .publications .pub-row .pub-thumb {
+        flex: 0 0 auto;
+        width: 100%;
+        max-width: 100%;
+    }
+
+    .publications .pub-row .pub-thumb .teaser {
+        aspect-ratio: 16 / 9;
+    }
+}
 
 .publications ol.bibliography li .title { font-weight: bolder; }
 
