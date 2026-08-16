@@ -58,7 +58,7 @@
 
 <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 12px 20px; border-radius: 8px; margin: 30px 0 20px 0; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
   <p style="color: white; font-size: 24px; font-weight: bold; margin: 0; letter-spacing: 1px;">
-    📚 Journal
+    📚 Journal/Conference
   </p>
 </div>
 
@@ -105,13 +105,6 @@
 <br>
 
 {% endfor %}
-
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 12px 20px; border-radius: 8px; margin: 30px 0 20px 0; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-  <p style="color: white; font-size: 24px; font-weight: bold; margin: 0; letter-spacing: 1px;">
-    🎓 Conference
-  </p>
-</div>
-
 
 {% for link in site.data.publications.Conference %}
 

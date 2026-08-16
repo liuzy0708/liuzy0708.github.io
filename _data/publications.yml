@@ -2,7 +2,19 @@ main:
 
 Preprint:
 
-  - title: "SafeLink: safety-critical control under dynamic and irregular unsafe regions"
+  - title: "Predictive Relative-Velocity Steering for Safe Robotic Manipulator Teleoperation in Dynamic Environments"
+    authors: Changhao Hu#, <strong>Zeyi Liu</strong># , Songqiao Hu# , Shuang Liu, Zihan Meng, Xiao He
+    conference_short: arXiv 
+    conference: "arXiv"
+    notes: 
+    pdf: https://arxiv.org/abs/2608.13284
+    page: 
+    bibtex: 
+    code: 
+    image: ./assets/img/pics/HuCH01.mp4
+    others: Preprint, 2026
+    
+  - title: "SafeLink: Safety-critical control under dynamic and irregular unsafe regions"
     authors: Songqiao Hu, Zidong Wang, <strong>Zeyi Liu</strong>, Zhen Shen, Xiao He
     conference_short: arXiv 
     conference: "arXiv"
@@ -11,7 +23,7 @@ Preprint:
     page: 
     bibtex: 
     code: 
-    image: ./assets/img/pics/HuSQ03.png
+    image: ./assets/img/pics/HuSQ03.mp4
     others: Preprint, 2026
 
 Journal:
@@ -26,7 +38,19 @@ Journal:
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:YRM15nqKDCcJ:scholar.google.com/&output=citation&scisdr=CslAm-1fEIX_lLQEWUg:AM1tuoMAAAAAangCQUi6baP5a1_grd-kPJ_EEe4&scisig=AM1tuoMAAAAAangCQYZoEkoc9sJ92oh1noeDPUo&scisf=4&ct=citation&cd=-1&hl=zh-CN
     code: https://github.com/liuzy0708/InspecSafe
     image: ./assets/img/pics/InspecSafe-work.mp4
-    others: In Press, 2026
+    others: Article In Press, 2026
+
+  - title: "VLSA: Vision-Language-Action Models with Plug-and-Play Safety Constraint Layer"
+    authors: Songqiao Hu#, <strong>Zeyi Liu</strong># , Shuang Liu, Jun Cen, Zihan Meng, Shihefeng Wang, Xiang Li, Xiao He 
+    conference_short: IROS 2026 
+    conference: "IEEE/RSJ International Conference on Intelligent Robots and Systems"
+    notes: 
+    pdf: https://arxiv.org/abs/2512.11891
+    page: https://vlsa-aegis.github.io
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:sGR7blSqglMJ:scholar.google.com/&output=citation&scisdr=Cry0XUQbEJft0Yd7KWc:ALhkC2QAAAAAaUd9MWcNYRTXJzTe2gmWVgyJEy4&scisig=ALhkC2QAAAAAaUd9MVH_jL6ix0wIzrc1CqCn9wI&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    code: https://github.com/THU-RCSCT/vlsa-aegis
+    image: ./assets/img/pics/AEGIS.mp4
+    others: Article In Press, 2026
 
   - title: "Dual-stage Dynamic Adaptation for Fault Diagnosis With Time-varying Operating Conditions"
     authors: Shijin Chen#, <strong>Zeyi Liu</strong>#, Chenyang Li#, Dongliang Zou, Xiao He, Donghua Zhou 
@@ -358,18 +382,6 @@ Journal:
 
 Conference:
 
-  - title: "VLSA: Vision-Language-Action Models with Plug-and-Play Safety Constraint Layer"
-    authors: Songqiao Hu<sup>#</sup>, <strong>Zeyi Liu</strong><sup>#</sup>, Shuang Liu, Jun Cen, Zihan Meng, Shihefeng Wang, Xiang Li, Xiao He 
-    conference_short: IROS 2026 
-    conference: "IEEE/RSJ International Conference on Intelligent Robots and Systems"
-    notes: 
-    pdf: https://arxiv.org/abs/2512.11891
-    page: https://vlsa-aegis.github.io
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:sGR7blSqglMJ:scholar.google.com/&output=citation&scisdr=Cry0XUQbEJft0Yd7KWc:ALhkC2QAAAAAaUd9MWcNYRTXJzTe2gmWVgyJEy4&scisig=ALhkC2QAAAAAaUd9MVH_jL6ix0wIzrc1CqCn9wI&scisf=4&ct=citation&cd=-1&hl=zh-CN
-    code: https://github.com/THU-RCSCT/vlsa-aegis
-    image: ./assets/img/pics/AEGIS.mp4
-    others: In Press, 2026
-
   - title: "Towards Next-Generation Intelligent Maintenance: Collaborative Fusion of Large and Small Models"
     authors: Xiaoyi Yuan, Qiming Huang, Mingqing Guo, Huiming Ma, Ming Xu, <strong>Zeyi Liu</strong>, Xiao He
     conference_short: CAA SAFEPROCESS 2025
@@ -422,33 +434,32 @@ Conference:
     image: ./assets/img/pics/LiuZY-C-01.png
     others:
 
-  - title: "An Evidential Real-Time Multi-Mode Fault Diagnosis Approach Based on Broad Learning System"
-    authors: Chen Li, <strong>Zeyi Liu</strong>, Xiao He 
-    conference_short: CPCC 2023
-    conference: The 34th Chinese Process Control Conference
-    notes: CAA-A
-    pdf: https://arxiv.org/abs/2305.00169
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:W_Z8ektBnBIJ:scholar.google.com/&output=citation&scisdr=ClGd7gItEMLgnqQF0rI:AFWwaeYAAAAAZQcDyrIwUH3Zb1k5idjPwXbXh-Y&scisig=AFWwaeYAAAAAZQcDyuFqRYcwdSWa25t2gDGrwJo&scisf=4&ct=citation&cd=-1&hl=zh-CN
-    image: ./assets/img/pics/LiC-C-01.png
-    others:
+  # - title: "An Evidential Real-Time Multi-Mode Fault Diagnosis Approach Based on Broad Learning System"
+  #   authors: Chen Li, <strong>Zeyi Liu</strong>, Xiao He 
+  #   conference_short: CPCC 2023
+  #   conference: The 34th Chinese Process Control Conference
+  #   notes: CAA-A
+  #   pdf: https://arxiv.org/abs/2305.00169
+  #   bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:W_Z8ektBnBIJ:scholar.google.com/&output=citation&scisdr=ClGd7gItEMLgnqQF0rI:AFWwaeYAAAAAZQcDyrIwUH3Zb1k5idjPwXbXh-Y&scisig=AFWwaeYAAAAAZQcDyuFqRYcwdSWa25t2gDGrwJo&scisf=4&ct=citation&cd=-1&hl=zh-CN
+  #   image: ./assets/img/pics/LiC-C-01.png
+  #   others:
 
-  - title: "A Bearing Fault Diagnosis Method Based on Active Learning by Feature Interpolation"
-    authors: Mengfei Mao, <strong>Zeyi Liu</strong>, Xiao He 
-    conference_short: CPCC 2022
-    conference: The 33th Chinese Process Control Conference
-    notes: CAA-A
-    image: ./assets/img/pics/MaoMF01.png
+  # - title: "A Bearing Fault Diagnosis Method Based on Active Learning by Feature Interpolation"
+  #   authors: Mengfei Mao, <strong>Zeyi Liu</strong>, Xiao He 
+  #   conference_short: CPCC 2022
+  #   conference: The 33th Chinese Process Control Conference
+  #   notes: CAA-A
+  #   image: ./assets/img/pics/MaoMF01.png
     
-  - title: "Confusion Model for Real-Drift Detection in Chunk Data Streams"
-    authors: Songqiao Hu, <strong>Zeyi Liu</strong>, Xiao He 
-    conference_short: S-CUBE 2023
-    conference: Proceedings of 13th EAI International Conference on Sensor Systems and Software
-    notes:
-    pdf: https://link.springer.com/chapter/10.1007/978-3-031-34899-0_13
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:rrktKAj3TSoJ:scholar.google.com/&output=citation&scisdr=ClGd7gItEMLgnqQCldU:AFWwaeYAAAAAZQcEjdVwEY6SFNrI-RJwDMttjCU&scisig=AFWwaeYAAAAAZQcEjSXW2WT57J-GMnh8i8KFVGw&scisf=4&ct=citation&cd=-1&hl=zh-CN
-    image: ./assets/img/pics/HuS01.png
+  # - title: "Confusion Model for Real-Drift Detection in Chunk Data Streams"
+  #   authors: Songqiao Hu, <strong>Zeyi Liu</strong>, Xiao He 
+  #   conference_short: S-CUBE 2023
+  #   conference: Proceedings of 13th EAI International Conference on Sensor Systems and Software
+  #   notes:
+  #   pdf: https://link.springer.com/chapter/10.1007/978-3-031-34899-0_13
+  #   bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:rrktKAj3TSoJ:scholar.google.com/&output=citation&scisdr=ClGd7gItEMLgnqQCldU:AFWwaeYAAAAAZQcEjdVwEY6SFNrI-RJwDMttjCU&scisig=AFWwaeYAAAAAZQcEjSXW2WT57J-GMnh8i8KFVGw&scisf=4&ct=citation&cd=-1&hl=zh-CN
+  #   image: ./assets/img/pics/HuS01.png
 
  #   bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:h8CyKaadpJMJ:scholar.google.com/&output=citation&scisdr=ClGd7gItEMLgnqQPcZ0:AFWwaeYAAAAAZQcJaZ3QijgvzOXOFWmHlr5SvvY&scisig=AFWwaeYAAAAAZQcJaRBRcdtVxjS1j-nTwHt6Dz8&scisf=4&ct=citation&cd=-1&hl=zh-CN
  #   image: ./assets/img/pics/LiuXiao02.png
  #   others: vol. 21, no. 211, pp. 1-16, 2019
-

@@ -25,6 +25,8 @@
 <li><strong style="color: #667eea;">[Apr. 2025]</strong> One paper has been accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385" style="color: #667eea; text-decoration: none;">IEEE TNNLS</a>.</li>
 <li><strong style="color: #667eea;">[Mar. 2025]</strong> The personal Google Scholar citations has reached <strong>500</strong>.</li>
 <li><strong style="color: #667eea;">[Mar. 2025]</strong> One paper has been accepted by <a href="https://www.sciencedirect.com/journal/neurocomputing" style="color: #667eea; text-decoration: none;">Neurocomputing</a>.</li>
+<li><a href="javascript:toggle_vis('newsmore')" style="color: #667eea; font-weight: 600; text-decoration: none; border-bottom: 2px solid #667eea;">▼ Show more</a></li>
+<div id="newsmore" style="display:none"> 
 <li><strong style="color: #667eea;">[Dec. 2024]</strong> One paper has been accepted by <a href="https://xplorestaging.ieee.org/xpl/RecentIssue.jsp?punumber=9078688" style="color: #667eea; text-decoration: none;">IEEE TAI</a>.</li>
 <li><strong style="color: #667eea;">[Dec. 2024]</strong> One survey paper has been accepted by <a href="https://www.sciencedirect.com/journal/european-journal-of-operational-research" style="color: #667eea; text-decoration: none;">EJOR</a>.</li>
 <li><strong style="color: #667eea;">[Dec. 2024]</strong> Fortunate to be funded by <strong>National Natural Science Foundation of China (for Ph.D. Candidate)</strong>.</li>
@@ -46,8 +48,6 @@
 <li><strong style="color: #667eea;">[Oct. 2023]</strong> Fortunate to receive the <strong>National Scholarship</strong> of P. R. China for Graduates.</li>
 <li><strong style="color: #667eea;">[Oct. 2023]</strong> One paper has been accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=24" style="color: #667eea; text-decoration: none;">IEEE TR</a>.</li>
 <li><strong style="color: #667eea;">[Sep. 2023]</strong> One paper has been accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221021" style="color: #667eea; text-decoration: none;">IEEE TSMCA</a>.</li>
-<li><a href="javascript:toggle_vis('newsmore')" style="color: #667eea; font-weight: 600; text-decoration: none; border-bottom: 2px solid #667eea;">▼ Show more</a></li>
-<div id="newsmore" style="display:none"> 
 <li><strong style="color: #667eea;">[Sep. 2023]</strong> Fortunate to receive the <strong>Social Practice Scholarship</strong> of Tsinghua University.</li>
 <li><strong style="color: #667eea;">[Aug. 2023]</strong> I have completed my Social Practice. <a href="https://www.sohu.com/a/710990497_120972834" style="color: #667eea; text-decoration: none;">Nice experience :)</a></li>
 <li><strong style="color: #667eea;">[Jul. 2023]</strong> The personal Google Scholar citations has reached <strong>200</strong>.</li>
