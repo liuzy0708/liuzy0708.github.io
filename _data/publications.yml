@@ -9,7 +9,7 @@ Preprint:
     notes: 
     pdf: https://arxiv.org/pdf/2608.13284
     page: 
-    bibtex: 
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:G4dOf4Vnr7EJ:scholar.google.com/&output=citation&scisdr=CoFlnGHpEI6t4EYvA9I:AIVdB-wAAAAAaoMpG9LB0uvRFY5pahwSgvVmjTo&scisig=AIVdB-wAAAAAaoMpG_MQN7r-oSUuUauY9Skr42Y&scisf=4&ct=citation&cd=-1&hl=zh-CN
     code: 
     image: ./assets/img/pics/HuCH01.mp4
     others: Preprint, 2026
@@ -21,7 +21,7 @@ Preprint:
     notes: 
     pdf: https://arxiv.org/pdf/2503.16551
     page: 
-    bibtex: 
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:YqOAjDF56AYJ:scholar.google.com/&output=citation&scisdr=CoFlnGHpEI6t4EYvLlU:AIVdB-wAAAAAaoMpNlVVP0TvnRswwV367szUCs4&scisig=AIVdB-wAAAAAaoMpNsKHhu_50r_tXHHG35d6U4s&scisf=4&ct=citation&cd=-1&hl=zh-CN 
     code: 
     image: ./assets/img/pics/HuSQ03.mp4
     others: Preprint, 2026
@@ -33,12 +33,12 @@ Journal:
     conference_short: SciData 
     conference: "Scientific Data"
     notes: Data Article
-    pdf: https://arxiv.org/pdf/2601.21173
-    page: 
+    pdf: https://www.nature.com/articles/s41597-026-07796-x
+    page: https://github.com/liuzy0708/InspecSafe
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:YRM15nqKDCcJ:scholar.google.com/&output=citation&scisdr=CslAm-1fEIX_lLQEWUg:AM1tuoMAAAAAangCQUi6baP5a1_grd-kPJ_EEe4&scisig=AM1tuoMAAAAAangCQYZoEkoc9sJ92oh1noeDPUo&scisf=4&ct=citation&cd=-1&hl=zh-CN
-    code: https://github.com/liuzy0708/InspecSafe
+    code: https://huggingface.co/datasets/Tetrabot2026/InspecSafe-V1
     image: ./assets/img/pics/InspecSafe-work.mp4
-    others: Article In Press, 2026
+    others: No. 1198, 2026
 
   - title: "VLSA: Vision-Language-Action Models with Plug-and-Play Safety Constraint Layer"
     authors: Songqiao Hu#, <strong>Zeyi Liu</strong># , Shuang Liu, Jun Cen, Zihan Meng, Shihefeng Wang, Xiang Li, Xiao He 
