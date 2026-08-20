@@ -38,7 +38,7 @@ Journal:
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:YRM15nqKDCcJ:scholar.google.com/&output=citation&scisdr=CslAm-1fEIX_lLQEWUg:AM1tuoMAAAAAangCQUi6baP5a1_grd-kPJ_EEe4&scisig=AM1tuoMAAAAAangCQYZoEkoc9sJ92oh1noeDPUo&scisf=4&ct=citation&cd=-1&hl=zh-CN
     code: https://huggingface.co/datasets/Tetrabot2026/InspecSafe-V1
     image: ./assets/img/pics/InspecSafe-work.mp4
-    others: No. 1198, 2026
+    others: vol. 13, no. 1198, 2026
 
   - title: "VLSA: Vision-Language-Action Models with Plug-and-Play Safety Constraint Layer"
     authors: Songqiao Hu#, <strong>Zeyi Liu</strong># , Shuang Liu, Jun Cen, Zihan Meng, Shihefeng Wang, Xiang Li, Xiao He 
