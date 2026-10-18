@@ -28,6 +28,17 @@ Preprint:
 
 Journal:
 
+  - title: "Latency-Aware Adaptive Learning for Nonstationary Data Streams: Coordinating Concept Drift and Delayed Supervision"
+    authors: <strong>Zeyi Liu</strong>, Zidong Wang, Songqiao Hu, Xiao He, Xuelong Li
+    conference_short: IEEE TPAMI
+    conference: "IEEE Transactions on Pattern Analysis and Machine Intelligence"
+    notes: CCF-A
+    pdf: https://ieeexplore.ieee.org/abstract/document/11733563/
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:eOG9mBhnA6IJ:scholar.google.com/&output=citation&scisdr=CiBLXgsCEI6t4BHqkc4:ACTRDVEAAAAAatTsic4ozTGROZKCU7Re0PJFquk&scisig=ACTRDVEAAAAAatTsiR_yc0oqnhtnVgRIJGNk2nw&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    image: ./assets/img/pics/LiuZY14.png
+    code: https://github.com/liuzy0708/ATCM
+    others: Early Access, 2026
+
   - title: "Multimodal Benchmark for Safety Assessment in Industrial Inspection Scenarios"
     authors: <strong>Zeyi Liu</strong>, Shuang Liu, Jihai Min, Zhaoheng Zhang, Jun Cen, Pengyu Han, Songqiao Hu, Zihan Meng, Xiao He, Donghua Zhou
     conference_short: SciData 
