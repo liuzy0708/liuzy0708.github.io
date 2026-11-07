@@ -5,6 +5,8 @@
 <div style="background: #fff; border: 1px solid #e0e0e0; border-radius: 10px; padding: 20px; max-height: 500px; overflow-y: auto;">
 <ul style="line-height: 2; color: #555;">
 
+<li><strong style="color: #667eea;">[Nov. 2026]</strong> The personal Google Scholar citations has reached <strong>1200</strong>.</li>
+<li><strong style="color: #667eea;">[Oct. 2026]</strong> Fortunate to receive the <strong>First-Prize Scholarship</strong> of Tsinghua University.</li>
 <li><strong style="color: #667eea;">[Oct. 2026]</strong> One paper has been accepted by <a href="https://ieeexplore.ieee.org/abstract/document/11733563/" style="color: #667eea; text-decoration: none;">IEEE TPAMI</a>.</li>
 <li><strong style="color: #667eea;">[Sep. 2026]</strong> The personal Google Scholar citations has reached <strong>1100</strong>.</li>
 <li><strong style="color: #667eea;">[Jul. 2026]</strong> The personal Google Scholar citations has reached <strong>1000</strong>.</li>

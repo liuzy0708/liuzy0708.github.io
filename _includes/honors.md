@@ -71,6 +71,7 @@
 
 <h3 class="timeline-subtitle">Selected Scholarships</h3>
 <div class="timeline">
+  <div class="timeline-item"><div class="timeline-content"><div class="timeline-row"><span class="timeline-date">2026</span><div class="timeline-text"><strong>First-Prize Scholarship</strong> of Tsinghua University</div></div></div></div>
   <div class="timeline-item"><div class="timeline-content"><div class="timeline-row"><span class="timeline-date">2025</span><div class="timeline-text"><strong>Jiang Nanxiang Scholarship</strong> of Tsinghua University</div></div></div></div>
   <div class="timeline-item"><div class="timeline-content"><div class="timeline-row"><span class="timeline-date">2025</span><div class="timeline-text"><strong>National Scholarship</strong> of P. R. China for Graduates</div></div></div></div>
   <div class="timeline-item"><div class="timeline-content"><div class="timeline-row"><span class="timeline-date">2024</span><div class="timeline-text"><strong>First-Prize Scholarship</strong> of Tsinghua University</div></div></div></div>
